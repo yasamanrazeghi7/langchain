@@ -206,6 +206,8 @@ class FewShotPromptTemplate2(BasePromptTemplate, BaseModel):
 
             prompt.format(variable1="foo")
         """
+        print(kwargs.keys())
+        print(self.input_variables)
         assert set(kwargs.keys()).issuperset(self.input_variables)
         # Get the examples to use.
         examples = self._get_examples(**kwargs)

@@ -6,13 +6,14 @@ import pause
 import openai
 
 from typing import Any, Dict, Generator, List, Mapping, Optional, Tuple, Union
+from rich import print
+
 
 from pydantic import BaseModel, Extra, Field, root_validator
 
 from langchain.llms.base import BaseLLM
 from langchain.schema import Generation, LLMResult
 from langchain.utils import get_from_dict_or_env
-from rich import print
 
 logger = logging.getLogger(__name__)
 

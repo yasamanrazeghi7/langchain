@@ -5,11 +5,21 @@ from pydantic import BaseModel, Extra
 
 from langchain.llms.base import LLM
 from langchain.llms.utils import enforce_stop_tokens
+from langchain.schema import Generation, LLMResult
+# from torch.utils.data import Dataset
 
 DEFAULT_MODEL_ID = "gpt2"
 DEFAULT_TASK = "text-generation"
 VALID_TASKS = ("text2text-generation", "text-generation")
 
+
+# class HuggingFaceDataset(Dataset):
+#     def __init__(self, dataset_text: List[str]):
+#         self.dataset_text = dataset_text
+#     def __len__(self):
+#         return len(self.dataset_text)
+#     def __getitem__(self, idx):
+#         return self.dataset_text[idx]
 
 class HuggingFacePipeline(LLM, BaseModel):
     """Wrapper around HuggingFace Pipeline API.
@@ -128,3 +138,33 @@ class HuggingFacePipeline(LLM, BaseModel):
             # stop tokens when making calls to huggingface_hub.
             text = enforce_stop_tokens(text, stop)
         return text
+    
+
+    def _generate(self, prompts: List[str], stop: Optional[List[str]] = None) -> LLMResult:
+        generations = []
+        cleaned_generations = []
+        batch_size = len(prompts)
+        # dataset = HuggingFaceDataset(prompts) #this is hacky but the gpu of the pipeline only works with datasets
+        
+        #also check this, this might be only true for gptj models
+
+        self.pipeline.tokenizer.pad_token_id = self.pipeline.model.config.eos_token_id
+        self.pipeline.tokenizer.padding_side = 'left'
+        for out in self.pipeline(prompts, batch_size=batch_size):
+            for generated_output in out:
+                generations.append(generated_output["generated_text"])
+
+        for i, generation in enumerate(generations):
+            if self.pipeline.task == "text-generation":
+                cleaned_generations.append([Generation(text=generation[len(prompts[i]):])])
+            elif self.pipeline.task == "text2text-generation":
+                cleaned_generations.append([Generation(text=generations[i])])
+            else:
+                raise ValueError(
+                    f"Got invalid task {self.pipeline.task}, "
+                    f"currently only {VALID_TASKS} are supported"
+                )
+        if stop is not None:
+            raise ValueError(f"currently not supporting stop here")
+
+        return LLMResult(generations=cleaned_generations)
