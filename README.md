@@ -1,3 +1,8 @@
+This is a forked and modified version of the library LangChain for our icl-small project.
+Sample command for runing the code can 
+```
+python main_few_shot.py --model-name="EleutherAI/gpt-neo-1.3B" --dataset="first_letter" --shots=4 --device=0 --seed=1 --learning_mode="standard"
+```
 # 🦜️🔗 LangChain
 
 ⚡ Building applications with LLMs through composability ⚡
