@@ -6,12 +6,11 @@
 #SBATCH --gpus=1
 #SBATCH --mem=100000MB
 
-model_name=EleutherAI/pythia-6.9b
+model_name=EleutherAI/pythia-1.4b
 dataset=asdiv
 shots=8
 seed=1
 learning_mode="cot"
 bs=2
 
-
-srun /home/yrazeghi/anaconda3/envs/dl/bin/python /home/yrazeghi/CoTRoot/main_few_shot.py --model-name=$model_name --dataset=$dataset --shots=$shots --device=0 --seed=$seed --learning_mode=$learning_mode --bs=$bs > /home/yrazeghi/CoTRoot/results/$model_name-$bs-$dataset-$shots-$seed-$learning_mode.txt
+srun /home/yrazeghi/anaconda3/envs/dl/bin/python /home/yrazeghi/icl_small/main_few_shot.py --model-name=$model_name --dataset=$dataset --shots=$shots --device=0 --seed=$seed --learning_mode=$learning_mode --bs=$bs > /home/yrazeghi/icl_small/results/$model_name-$bs-$dataset-$shots-$seed-$learning_mode.alaki

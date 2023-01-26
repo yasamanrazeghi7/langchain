@@ -40,8 +40,8 @@ def reform_gsm8k_list(data_list):
 
 def set_up_letter_concat_data_set(data_set_name: str, shots: int, learning_mode: str) -> FewShotPromptTemplate2:
     # reads the data from and returns a FewShotPromptTemplate2 it should have exmpla_templat and ouput_parser
-    train_data = read_jsonl(f"/home/yrazeghi/CoTRoot/{data_set_name}_1000.0_2_train.jsonl")
-    test_data = read_jsonl(f"/home/yrazeghi/CoTRoot/{data_set_name}_1000.0_2_test.jsonl")
+    train_data = read_jsonl(f"./datasets/{data_set_name}_1000.0_2_train.jsonl")
+    test_data = read_jsonl(f"./datasets/{data_set_name}_1000.0_2_test.jsonl")
     train_shots = random.choices(train_data, k=shots)
     if learning_mode == 'standard':
         example_template = LastLetterConcat()
@@ -67,7 +67,7 @@ def set_up_gsm8k(data_set_name: str, shots: int, learning_mode: str):
         input_variables=['question', 'answer']
         output_parser = LastLetterOutputParser()
     else:
-        train_shots = read_jsonl(f"/home/yrazeghi/CoTRoot/cot_prompt_math_8shot.jsonl")
+        train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
         example_template = LastLetterConcatCoT()
         input_variables=['question', 'explanation']
         output_parser = LastLetterOutputParserCoT()
@@ -75,7 +75,7 @@ def set_up_gsm8k(data_set_name: str, shots: int, learning_mode: str):
 
 
 def set_up_svamp(data_set_name: str, shots: int, learning_mode: str):
-    with open('/home/yrazeghi/CoTRoot/datasets/svamp.json', 'r') as f:
+    with open('./datasets/datasets/svamp.json', 'r') as f:
         test_data = json.loads(f.read())
             
     for i, question in enumerate(test_data):
@@ -88,7 +88,7 @@ def set_up_svamp(data_set_name: str, shots: int, learning_mode: str):
     if learning_mode == 'standard':
         raise ValueError('SVAMP does not have a train set for standard learning as of now')
     else:
-        train_shots = read_jsonl(f"/home/yrazeghi/CoTRoot/cot_prompt_math_8shot.jsonl")
+        train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
         example_template = LastLetterConcatCoT()
         input_variables=['question', 'explanation']
         output_parser = LastLetterOutputParserCoT()
@@ -96,7 +96,7 @@ def set_up_svamp(data_set_name: str, shots: int, learning_mode: str):
     return test_data, FewShotPromptTemplate2(examples = train_shots, example_template=example_template, input_variables=input_variables, output_parser=output_parser)
 
 def set_up_asdiv(data_set_name: str, shots: int, learning_mode: str):
-    with open('/home/yrazeghi/CoTRoot/datasets/asdiv.xml', 'r') as f:
+    with open('./datasets/asdiv.xml', 'r') as f:
         dict = xmltodict.parse(f.read())
     test_data = dict['Machine-Reading-Corpus-File']['ProblemSet']['Problem']
     
@@ -109,7 +109,7 @@ def set_up_asdiv(data_set_name: str, shots: int, learning_mode: str):
     if learning_mode == 'standard':
         raise ValueError('asdiv does not have a train set for standard learning as of now')
     else:
-        train_shots = read_jsonl(f"/home/yrazeghi/CoTRoot/cot_prompt_math_8shot.jsonl")
+        train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
         example_template = LastLetterConcatCoT()
         input_variables=['question', 'explanation']
         output_parser = LastLetterOutputParserCoT()
