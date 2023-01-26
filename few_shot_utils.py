@@ -75,7 +75,7 @@ def set_up_gsm8k(data_set_name: str, shots: int, learning_mode: str):
 
 
 def set_up_svamp(data_set_name: str, shots: int, learning_mode: str):
-    with open('./datasets/datasets/svamp.json', 'r') as f:
+    with open('./datasets/svamp.json', 'r') as f:
         test_data = json.loads(f.read())
             
     for i, question in enumerate(test_data):

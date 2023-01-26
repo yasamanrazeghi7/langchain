@@ -26,9 +26,10 @@ def run_experiment(args):
     
     # example on the huggingface models
     # model_id = "EleutherAI/gpt-neo-1.3B"
+    cache_file_path = "/extra/ucinlp0/yrazeghi/huggingfacecache/"
     model_id = args.model_name
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
-    model = AutoModelForCausalLM.from_pretrained(model_id)
+    tokenizer = AutoTokenizer.from_pretrained(model_id, cache_dir=cache_file_path)
+    model = AutoModelForCausalLM.from_pretrained(model_id, cache_dir=cache_file_path)
     pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=250, device=args.device, do_sample=False)
     hf = HuggingFacePipeline(pipeline=pipe)
 
@@ -41,7 +42,7 @@ def run_experiment(args):
 
     total_count = 0
     correct_count = 0
-    for batch in few_shot_utils.make_batch(test_data[:30], bs):
+    for batch in few_shot_utils.make_batch(test_data, bs):
         model_outputs = chain.apply_and_parse(batch)
 
         for i, model_output in enumerate(model_outputs):
