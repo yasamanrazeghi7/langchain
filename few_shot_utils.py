@@ -60,10 +60,14 @@ def set_up_gsm8k(data_set_name: str, shots: int, learning_mode: str):
     test_data = list(dataset['test'])
     test_data = reform_gsm8k_list(test_data)
     if learning_mode == 'standard':
-        train_data = list(dataset['train'])
-        train_data = reform_gsm8k_list(train_data)
-        train_shots = random.choices(train_data, k=shots)
-        example_template = LastLetterConcat() # should change the name
+        # train_data = list(dataset['train'])
+        # train_data = reform_gsm8k_list(train_data)
+        # train_shots = random.choices(train_data, k=shots)
+        # example_template = LastLetterConcat() # should change the name
+        # input_variables=['question', 'answer']
+        # output_parser = LastLetterOutputParser()
+        train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        example_template = LastLetterConcat()
         input_variables=['question', 'answer']
         output_parser = LastLetterOutputParser()
     else:
@@ -86,7 +90,11 @@ def set_up_svamp(data_set_name: str, shots: int, learning_mode: str):
         question['explanation'] = None
     
     if learning_mode == 'standard':
-        raise ValueError('SVAMP does not have a train set for standard learning as of now')
+        # raise ValueError('SVAMP does not have a train set for standard learning as of now')
+        train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        example_template = LastLetterConcat()
+        input_variables=['question', 'answer']
+        output_parser = LastLetterOutputParser()
     else:
         train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
         example_template = LastLetterConcatCoT()
@@ -107,7 +115,11 @@ def set_up_asdiv(data_set_name: str, shots: int, learning_mode: str):
         question['explanation'] = None
     
     if learning_mode == 'standard':
-        raise ValueError('asdiv does not have a train set for standard learning as of now')
+        # raise ValueError('asdiv does not have a train set for standard learning as of now')
+        train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        example_template = LastLetterConcat()
+        input_variables=['question', 'answer']
+        output_parser = LastLetterOutputParser()
     else:
         train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
         example_template = LastLetterConcatCoT()

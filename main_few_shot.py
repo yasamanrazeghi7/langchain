@@ -13,23 +13,23 @@ from langchain.prompts import BasePromptTemplate, FewShotPromptTemplate2, Prompt
 
 import few_shot_utils as few_shot_utils
 
-
 def run_experiment(args):
     #read the dataset:
     bs = args.bs
     print(f'the batch size is {bs}')
 
     few_shot_utils.set_seed(args.seed)
+    
 
 
     # this is setting up the model
     
     # example on the huggingface models
     # model_id = "EleutherAI/gpt-neo-1.3B"
-    cache_file_path = "/extra/ucinlp0/yrazeghi/huggingfacecache/"
+    # cache_file_path = "/extra/ucinlp0/yrazeghi/huggingfacecache/"
     model_id = args.model_name
-    tokenizer = AutoTokenizer.from_pretrained(model_id, cache_dir=cache_file_path)
-    model = AutoModelForCausalLM.from_pretrained(model_id, cache_dir=cache_file_path)
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    model = AutoModelForCausalLM.from_pretrained(model_id)
     pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=250, device=args.device, do_sample=False)
     hf = HuggingFacePipeline(pipeline=pipe)
 
@@ -42,7 +42,7 @@ def run_experiment(args):
 
     total_count = 0
     correct_count = 0
-    for batch in few_shot_utils.make_batch(test_data, bs):
+    for batch in few_shot_utils.make_batch(test_data[:30], bs):
         model_outputs = chain.apply_and_parse(batch)
 
         for i, model_output in enumerate(model_outputs):
