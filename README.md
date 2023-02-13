@@ -1,3 +1,20 @@
+This is a forked and modified version of the library LangChain for our icl-small project.
+
+## Inference
+
+Sample command for runing the code can 
+```
+python main_few_shot.py --model-name="EleutherAI/gpt-neo-1.3B" --dataset="first_letter" --shots=4 --device=0 --seed=1 --learning_mode="standard"
+```
+
+## Training
+
+To train the model, we have an adapted huggingface script. Install `pytorch`, `accelerate`, `datasets`, and `transformers` via your python package manager of choice. Then, run e.g.:
+```bash
+python training/run_clm_no_trainer.py --dataset_name training/load_pile_splits.py --dataset_file_name deepmindmath.jsonl.gz --model_name_or_path EleutherAI/pythia-70m
+```
+`dataset_file_name` should be a `.jsonl.gz` file where every line has a json object of shape `{text: <string>, meta: {pile_set_name: <string>}}`. There are other commandline options, please check the script or run ``python training/run_clm_no_trainer.py --help`` to see them!
+
 # 🦜️🔗 LangChain
 
 ⚡ Building applications with LLMs through composability ⚡
