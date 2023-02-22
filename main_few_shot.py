@@ -29,6 +29,7 @@ def run_experiment(args):
     # cache_file_path = "/extra/ucinlp0/yrazeghi/huggingfacecache/"
     model_id = args.model_name
     tokenizer = AutoTokenizer.from_pretrained(model_id)
+
     model = AutoModelForCausalLM.from_pretrained(model_id)
     pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=250, device=args.device, do_sample=False)
     hf = HuggingFacePipeline(pipeline=pipe)
@@ -42,7 +43,7 @@ def run_experiment(args):
 
     total_count = 0
     correct_count = 0
-    for batch in few_shot_utils.make_batch(test_data[:30], bs):
+    for batch in few_shot_utils.make_batch(test_data, bs):
         model_outputs = chain.apply_and_parse(batch)
 
         for i, model_output in enumerate(model_outputs):
@@ -50,7 +51,6 @@ def run_experiment(args):
                 correct_count += 1
             total_count += 1
     print(f'{correct_count}, {total_count}, {correct_count/total_count}')
-    print("haha this is right")
 
 #the hugginface_pipeline has a generate function that is now only good for gpt model because of the way we set the tokenizer parameters
 #The way we define a dataset is also hacky but I couldn't find a better way to do it

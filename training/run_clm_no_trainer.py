@@ -28,8 +28,10 @@ import logging
 import math
 import os
 import random
+import datetime
 from itertools import chain
 from pathlib import Path
+
 
 import datasets
 import torch
@@ -38,7 +40,7 @@ from torch.utils.data import DataLoader
 from tqdm.auto import tqdm
 
 import transformers
-from accelerate import Accelerator, DistributedType
+from accelerate import Accelerator, DistributedType, InitProcessGroupKwargs
 from accelerate.logging import get_logger
 from accelerate.utils import set_seed
 from huggingface_hub import Repository, create_repo
@@ -151,7 +153,7 @@ def parse_args():
     parser.add_argument(
         "--num_warmup_steps", type=int, default=0, help="Number of steps for the warmup in the lr scheduler."
     )
-    parser.add_argument("--output_dir", type=str, default=None, help="Where to store the final model.")
+    parser.add_argument("--output_dir", type=str, default="./output_results", help="Where to store the final model.")
     parser.add_argument("--seed", type=int, default=None, help="A seed for reproducible training.")
     parser.add_argument(
         "--model_type",
@@ -233,6 +235,11 @@ def parse_args():
     return args
 
 
+def evaluate():
+    pass
+
+
+
 def main():
     args = parse_args()
 
@@ -240,12 +247,21 @@ def main():
     # If we're using tracking, we also need to initialize it here and it will by default pick up all supported trackers
     # in the environment
     accelerator_log_kwargs = {}
+    model_name_for_file = args.model_name_or_path.replace('/','-')
+    data_name_for_file = args.dataset_file_name.split('/')[-1].split('.')[0]
+    args.output_dir = f'{args.output_dir}/{model_name_for_file}_{data_name_for_file}/'
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
 
     if args.with_tracking:
         accelerator_log_kwargs["log_with"] = args.report_to
         accelerator_log_kwargs["logging_dir"] = args.output_dir
+    
+    #tokenizer takes more than 30 mins to load, so we need to increase the timeout I think
+    accelerator_kwargs_handlers = [InitProcessGroupKwargs(timeout=datetime.timedelta(seconds=10800))]
 
-    accelerator = Accelerator(gradient_accumulation_steps=args.gradient_accumulation_steps, **accelerator_log_kwargs)
+
+    accelerator = Accelerator(gradient_accumulation_steps=args.gradient_accumulation_steps, kwargs_handlers=accelerator_kwargs_handlers, **accelerator_log_kwargs )
 
     # Make one log on every process with the configuration for debugging.
     logging.basicConfig(
@@ -491,6 +507,10 @@ def main():
     checkpointing_steps = args.checkpointing_steps
     if checkpointing_steps is not None and checkpointing_steps.isdigit():
         checkpointing_steps = int(checkpointing_steps)
+    elif checkpointing_steps is None:
+        checkpointing_steps = int(args.max_train_steps * 0.25)
+    if checkpointing_steps < 1:
+        checkpointing_steps = 2
 
     # We need to initialize the trackers we use, and also store our configuration.
     # The trackers initializes automatically on the main process.
@@ -498,10 +518,13 @@ def main():
         experiment_config = vars(args)
         # TensorBoard cannot log Enums, need the raw value
         experiment_config["lr_scheduler_type"] = experiment_config["lr_scheduler_type"].value
-        accelerator.init_trackers("clm_no_trainer", experiment_config)
+        accelerator.init_trackers("clm_no_trainer", experiment_config )
 
     # Train!
     total_batch_size = args.per_device_train_batch_size * accelerator.num_processes * args.gradient_accumulation_steps
+    #Yasaman added this for loss plotting but I am sure there is a better way to do it #TODO make this cleaner
+    epoch_loss = []
+    step_loss = []
 
     logger.info("***** Running training *****")
     logger.info(f"  Num examples = {len(train_dataset)}")
@@ -510,6 +533,7 @@ def main():
     logger.info(f"  Total train batch size (w. parallel, distributed & accumulation) = {total_batch_size}")
     logger.info(f"  Gradient Accumulation steps = {args.gradient_accumulation_steps}")
     logger.info(f"  Total optimization steps = {args.max_train_steps}")
+    logger.info(f"  Checkpointing steps = {checkpointing_steps}")
     # Only show the progress bar once on each machine.
     progress_bar = tqdm(range(args.max_train_steps), disable=not accelerator.is_local_main_process)
     completed_steps = 0
@@ -542,6 +566,8 @@ def main():
     progress_bar.update(starting_epoch * num_update_steps_per_epoch)
     completed_steps = starting_epoch * num_update_steps_per_epoch
 
+    #track the loss at each epoch
+
     for epoch in range(starting_epoch, args.num_train_epochs):
         model.train()
         if args.with_tracking:
@@ -558,9 +584,12 @@ def main():
             with accelerator.accumulate(model):
                 outputs = model(**batch)
                 loss = outputs.loss
+                #keeping track of the loss at each step, this is for plotting the loss
+                step_loss.append(loss.item())
                 # We keep track of the loss at each epoch
                 if args.with_tracking:
                     total_loss += loss.detach().float()
+                
                 accelerator.backward(loss)
                 optimizer.step()
                 lr_scheduler.step()
@@ -572,13 +601,18 @@ def main():
                 completed_steps += 1
 
             if isinstance(checkpointing_steps, int):
-                if completed_steps % checkpointing_steps == 0:
+                if completed_steps % checkpointing_steps == 0 and completed_steps > 0:
                     output_dir = f"step_{completed_steps }"
                     if args.output_dir is not None:
                         output_dir = os.path.join(args.output_dir, output_dir)
                     accelerator.save_state(output_dir)
+                    #also saving the path # this is a bug and needs to be handled by accelerator!!
+                    with open(os.path.join(output_dir, "all_results.json"), "w") as f:
+                        json.dump({"epoch_loss": epoch_loss, "step_loss":step_loss}, f)
+
             if completed_steps >= args.max_train_steps:
                 break
+        epoch_loss.append(total_loss.item())
 
         if args.push_to_hub and epoch < args.num_train_epochs - 1:
             accelerator.wait_for_everyone()
@@ -613,8 +647,14 @@ def main():
                 repo.push_to_hub(commit_message="End of training", auto_lfs_prune=True)
 
             with open(os.path.join(args.output_dir, "all_results.json"), "w") as f:
-                json.dump({"perplexity": perplexity}, f)
+                json.dump({"epoch_loss": epoch_loss, "step_loss":step_loss}, f)
 
 
 if __name__ == "__main__":
     main()
+
+
+# python training/run_clm_no_trainer.py --dataset_name training/load_pile_splits.py --dataset_file_name deepmindmath.jsonl.gz --model_name_or_path EleutherAI/pythia-70m
+# or for using accelerate :: accelerate launch training/run_clm_no_trainer.py --dataset_name training/load_pile_splits.py --dataset_file_name deepmindmath.jsonl.gz --model_name_or_path EleutherAI/pythia-70m
+
+### needs the data: pile is 

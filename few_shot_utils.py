@@ -57,7 +57,7 @@ def set_up_letter_concat_data_set(data_set_name: str, shots: int, learning_mode:
 
 def set_up_gsm8k(data_set_name: str, shots: int, learning_mode: str):
     dataset = load_dataset("gsm8k", "main")
-    test_data = list(dataset['test'])
+    test_data = list(dataset['train']) #here we use the train data as the dev set
     test_data = reform_gsm8k_list(test_data)
     if learning_mode == 'standard':
         # train_data = list(dataset['train'])
