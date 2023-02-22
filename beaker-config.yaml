@@ -2,19 +2,23 @@ version: v2
 description: My Experiment with training
 tasks:
   # We only have one step in our experiment, so there's only one entry in this list
-  - name: training
+  - name: training_gpt_neo1.3B_with_hackernews
     image:
-      # You will want to replace `username` below with your Beaker username and put your docker image
-      beaker: yasamanr/icl-small
-    command: [python, -u, training/run_clm_no_trainer.py]
-    arguments: ['--dataset_name training/load_pile_splits.py --dataset_file_name ./pile/sample.jsonl.gz --model_name_or_path EleutherAI/pythia-70m --per_device_train_batch_size=30 --gradient_accumulation_steps=40 --with_tracking --num_train_epochs=1 --block_size=3000']
+      # You will want to replace `username` below with your Beaker username and put your docker imagel
+      beaker: yasamanr/icl_small_training_v2
+    command: [accelerate-launch, --multi_gpu, training/run_clm_no_trainer.py]
+    arguments: [--dataset_name, training/load_pile_splits.py, --dataset_file_name, ./pile/hackernews.jsonl.gz, --model_name_or_path, EleutherAI/gpt-neo-1.3B, --per_device_train_batch_size, 3, --gradient_accumulation_steps, 40, --with_tracking,--num_train_epochs, 1, --output_dir, /net/nfs.cirrascale/allennlp/yasamanr/icl_small/output_results/, --num_warmup_steps=500, --block_size=2048, --checkpointing_steps, 500]
+    datasets:
+      - mountPath: /net/nfs.cirrascale/allennlp/yasamanr/icl_small/
+        source:
+          hostPath: /net/nfs.cirrascale/allennlp/yasamanr/icl_small/
     result:
       # Beaker will capture anything that's written to this location and store it in the results
       # dataset. This location is required to be a directory, not a file.
-      path: /net/nfs.cirrascale/allennlp/yasamanr/icl_small/output_results
+      path: /output
 
     resources:
-      gpuCount: 1
+      gpuCount: 4
     context:
       priority: high
     constraints:
