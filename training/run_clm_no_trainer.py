@@ -394,7 +394,6 @@ def main():
     def tokenize_function(examples):
         return tokenizer(examples[text_column_name])
 
-    raw_datasets['train'] = raw_datasets['train'].select(range(1000))
 
     with accelerator.main_process_first():
         tokenized_datasets = raw_datasets.map(

@@ -72,41 +72,6 @@ def get_optim_files(checkpoint_dir):
     return optim_files
 
 
-def parse_model_state(file):
-    state_dict = torch.load(file, map_location=device)
-
-    # if BUFFER_NAMES not in state_dict:
-    #     raise ValueError(f"{file} is not a model state checkpoint")
-    buffer_names = state_dict#[BUFFER_NAMES]
-    if debug:
-        print("Found buffers:", buffer_names)
-
-    # recover just the buffers while restoring them to fp32 if they were saved in fp16
-    buffers = {k: v.float() for k, v in state_dict["module"].items() if k in buffer_names}
-    param_shapes = state_dict[PARAM_SHAPES]
-
-    # collect parameters that are included in param_shapes
-    param_names = []
-    for s in param_shapes:
-        for name in s.keys():
-            param_names.append(name)
-
-    # record shared parameters so that they can be recovered based on partners
-    # this is because such parameters holding reference only are not saved by optimizer
-    shared_params = []
-    for param in state_dict["module"]:
-        if param not in [*param_names, *buffer_names]:
-            for share_param in state_dict["module"]:
-                if (state_dict["module"][share_param].data_ptr() == state_dict["module"][param].data_ptr()
-                        and share_param != param):
-                    shared_params.append([param, share_param])
-                    break
-
-    ds_version = state_dict.get(DS_VERSION, None)
-
-    return buffers, param_shapes, shared_params, ds_version
-
-
 def parse_optim_states(files, ds_checkpoint_dir):
 
     total_files = len(files)
