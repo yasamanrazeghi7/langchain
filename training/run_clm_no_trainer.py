@@ -216,6 +216,12 @@ def parse_args():
             "Only applicable when `--with_tracking` is passed."
         ),
     )
+    parser.add_argument(
+        "--optimizer_state",
+        type=str,
+        default=None,
+        help="Path to a saved optimizer state to load (can be used to resume training).",
+    )
     args = parser.parse_args()
 
     # Sanity checks
@@ -471,7 +477,9 @@ def main():
             "weight_decay": 0.0,
         },
     ]
-    optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=args.learning_rate)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=args.learning_rate)
+
+
 
     # Scheduler and math around the number of training steps.
     overrode_max_train_steps = False
@@ -487,9 +495,18 @@ def main():
         num_training_steps=args.max_train_steps * args.gradient_accumulation_steps,
     )
 
+    # loading the optimize state e.g. from pythia checkpoints
+    if args.optimizer_state:
+        from load_deepspeed_checkpoints import get_optimizer_state_from_checkpoint
+        state_dict, step = get_optimizer_state_from_checkpoint(args.optimizer_state, model, optimizer)
+        optimizer.load_state_dict(state_dict)
+
     # Prepare everything with our `accelerator`.
-    model, optimizer, train_dataloader, lr_scheduler = accelerator.prepare(
-        model, optimizer, train_dataloader, lr_scheduler
+    # When using FSDP, it is efficient and recommended to call prepare for the model before creating the optimizer
+    model = accelerator.prepare(model)
+
+    optimizer, train_dataloader, lr_scheduler = accelerator.prepare(
+        optimizer, train_dataloader, lr_scheduler
     )
 
     # On TPU, the tie weights in our model have been disconnected, so we need to restore the ties.
@@ -574,6 +591,7 @@ def main():
             total_loss = 0
         for step, batch in enumerate(train_dataloader):
             # We need to skip steps until we reach the resumed step
+            step_loss_val = 0
             if args.resume_from_checkpoint and epoch == starting_epoch:
                 if resume_step is not None and step < resume_step:
                     if step % args.gradient_accumulation_steps == 0:
@@ -585,7 +603,7 @@ def main():
                 outputs = model(**batch)
                 loss = outputs.loss
                 #keeping track of the loss at each step, this is for plotting the loss
-                step_loss.append(loss.item())
+                step_loss_val += loss.detach().float()
                 # We keep track of the loss at each epoch
                 if args.with_tracking:
                     total_loss += loss.detach().float()
@@ -599,6 +617,8 @@ def main():
             if accelerator.sync_gradients:
                 progress_bar.update(1)
                 completed_steps += 1
+                step_loss.append(step_loss_val.item())
+                progress_bar.write(f"Loss at step {completed_steps}: {step_loss_val.item()}")
 
             if isinstance(checkpointing_steps, int):
                 if completed_steps % checkpointing_steps == 0 and completed_steps > 0:
@@ -612,7 +632,9 @@ def main():
 
             if completed_steps >= args.max_train_steps:
                 break
-        epoch_loss.append(total_loss.item())
+        if args.with_tracking:
+            print(f"********Loss at epoch {epoch}: {total_loss.item()}")
+            epoch_loss.append(total_loss.item())
 
         if args.push_to_hub and epoch < args.num_train_epochs - 1:
             accelerator.wait_for_everyone()
