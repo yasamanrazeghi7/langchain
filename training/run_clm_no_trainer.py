@@ -477,7 +477,7 @@ def main():
             "weight_decay": 0.0,
         },
     ]
-    optimizer = torch.optim.Adam(model.parameters(), lr=args.learning_rate)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=args.learning_rate)
 
 
 
