@@ -112,12 +112,12 @@ def parse_optim_states(files, ds_checkpoint_dir):
         fp32_flat_groups = [state_dicts[i][OPTIMIZER_STATE_DICT][fp32_groups_key] for i in range(len(state_dicts))]
         base_opt_state = [state_dicts[i][OPTIMIZER_STATE_DICT]['base_optimizer_state'] for i in range(len(state_dicts))]
         # unpack base opt state
-        exp_avg = []
-        exp_avg_sq = []
-        for state in base_opt_state:
-            for substate in state:
-                exp_avg.append(substate[0]['exp_avg'])
-                exp_avg_sq.append(substate[0]['exp_avg_sq'])
+        optimizer_vars = [state_dicts[i][OPTIMIZER_STATE_DICT]['base_optimizer_state'] for i in range(len(state_dicts))]
+        # exp_avg_sq = []
+        # for state in base_opt_state:
+        #     for substate in state:
+        #         exp_avg.append(substate[0]['exp_avg'])
+        #         exp_avg_sq.append(substate[0]['exp_avg_sq'])
     elif zero_stage == 3:
         # if there is more than one param group, there will be multiple flattened tensors - one
         # flattened tensor per group - for simplicity merge them into a single tensor
@@ -129,11 +129,11 @@ def parse_optim_states(files, ds_checkpoint_dir):
             torch.cat(state_dicts[i][OPTIMIZER_STATE_DICT][fp32_groups_key], 0) for i in range(len(state_dicts))
         ]
 
-    return zero_stage, world_size, fp32_flat_groups, state_dicts[0]['param_shapes'], exp_avg, exp_avg_sq
+    return zero_stage, world_size, fp32_flat_groups, state_dicts[0]['param_shapes'], optimizer_vars #exp_avg, exp_avg_sq
 
 
 
-def _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, fp32_flat_groups, buffers, shared_params):
+def _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, fp32_flat_groups, key, buffers, shared_params):
 
     # Reconstruction protocol:
     #
@@ -148,9 +148,9 @@ def _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, fp32_fl
     # XXX: memory usage doubles here (zero2)
     num_param_groups = len(fp32_flat_groups[0])
     merged_single_partition_of_fp32_groups = []
-    for i in range(1):
-        #merged_partitions = [sd[i] for sd in fp32_flat_groups]
-        full_single_fp32_vector = torch.cat(fp32_flat_groups, 0)
+    for i in range(num_param_groups):
+        merged_partitions = [sd[i][0][key] for sd in fp32_flat_groups]        
+        full_single_fp32_vector = torch.cat(merged_partitions, 0)
         merged_single_partition_of_fp32_groups.append(full_single_fp32_vector)
         
     print('merged')
@@ -174,26 +174,27 @@ def _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, fp32_fl
     # params
     # XXX: for huge models that can't fit into the host's RAM we will have to recode this to support
     # out-of-core computing solution
-    total_numel = 0
-    total_params = 0
-    #import pdb; pdb.set_trace()
-    list_of_shapes = [shapes for shapes in param_shapes.values()]
-    print(param_shapes)
-    full_single_fp32_vector = torch.cat(merged_single_partition_of_fp32_groups)
-    #import pdb; pdb.set_trace()
-    offset = 0
-    for shapes in param_shapes.items():
+    # partition the shapes into two groups: the layernorm/biases and everything else.
+    param_shapes = [
+        {name: shape for name, shape in param_shapes.items() if 'norm' not in name and 'bias' not in name},
+        {name: shape for name, shape in param_shapes.items() if 'norm' in name or 'bias' in name}
+    ]
+    for shapes, full_single_fp32_vector in zip(param_shapes, merged_single_partition_of_fp32_groups):
+        
         avail_numel = full_single_fp32_vector.numel()
-        name, shape = shapes
+        total_numel = 0
+        total_params = 0
+        offset = 0
+        for name, shape in shapes.items():
 
-        unpartitioned_numel = shape.numel()
-        total_numel += unpartitioned_numel
-        total_params += 1
+            unpartitioned_numel = shape.numel()
+            total_numel += unpartitioned_numel
+            total_params += 1
 
-        if debug:
-            print(f"{name} full shape: {shape} unpartitioned numel {unpartitioned_numel} offset {offset}")
-        state_dict[name] = full_single_fp32_vector.narrow(0, offset, unpartitioned_numel).view(shape)
-        offset += unpartitioned_numel
+            if True:
+                print(f"{name} full shape: {shape} unpartitioned numel {unpartitioned_numel} offset {offset}")
+            state_dict[name] = full_single_fp32_vector.narrow(0, offset, unpartitioned_numel).view(shape)
+            offset += unpartitioned_numel
 
         # Z2 started to align to 2*world_size to improve nccl performance. Therefore both offset and
         # avail_numel can differ by anywhere between 0..2*world_size. Due to two unrelated complex
@@ -214,8 +215,8 @@ def _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, fp32_fl
             print(f"aligned  offset={offset}, avail_numel={avail_numel}")
 
         # Sanity check
-    if offset != avail_numel:
-        raise ValueError(f"consumed {offset} numels out of {avail_numel} - something is wrong")
+        if offset != avail_numel:
+            raise ValueError(f"consumed {offset} numels out of {avail_numel} - something is wrong")
 
     # recover shared parameters
     # for pair in shared_params:
@@ -236,7 +237,7 @@ def get_optimizer_state_from_checkpoint(ds_checkpoint_dir, model, optimizer):
     """
     print(f"Processing zero checkpoint '{ds_checkpoint_dir}'")
     optim_files = get_optim_files(ds_checkpoint_dir)
-    zero_stage, world_size, fp32_flat_groups, param_shapes, exp_avg, exp_avg_sq = parse_optim_states(optim_files, ds_checkpoint_dir)
+    zero_stage, world_size, fp32_flat_groups, param_shapes, optimizer_vars = parse_optim_states(optim_files, ds_checkpoint_dir)
     param_shapes = {k: v for k, v in param_shapes.items()}
     print(f"Detected checkpoint of type zero stage {zero_stage}, world_size: {world_size}")
     # grab train step
@@ -246,9 +247,9 @@ def get_optimizer_state_from_checkpoint(ds_checkpoint_dir, model, optimizer):
     # buffers, param_shapes, shared_params, ds_version = parse_model_state(model_file)
     # print(f'Parsing checkpoint created by deepspeed=={ds_version}')
     print('exp avg...')
-    exp_avg = _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, exp_avg, None, None)
+    exp_avg = _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, optimizer_vars, 'exp_avg', None, None)
     print('exp avg square...')
-    exp_avg_sq = _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, exp_avg_sq, None, None)
+    exp_avg_sq = _get_fp32_state_dict_from_zero2_checkpoint(world_size, param_shapes, optimizer_vars, 'exp_avg_sq', None, None)
     print('plumbing into optimizer...')
     # to make life easier, load in a model.
     input_dummy = torch.tensor([[1, 2, 3]])

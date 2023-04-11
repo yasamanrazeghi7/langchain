@@ -394,7 +394,6 @@ def main():
     def tokenize_function(examples):
         return tokenizer(examples[text_column_name])
 
-
     with accelerator.main_process_first():
         tokenized_datasets = raw_datasets.map(
             tokenize_function,
@@ -468,16 +467,16 @@ def main():
     # Optimizer
     # Split weights in two groups, one with weight decay and the other not.
     no_decay = ["bias", "layer_norm.weight"]
-    # optimizer_grouped_parameters = [
-    #     {
-    #         "params": [p for n, p in model.named_parameters() if not any(nd in n for nd in no_decay)],
-    #         "weight_decay": args.weight_decay,
-    #     },
-    #     {
-    #         "params": [p for n, p in model.named_parameters() if any(nd in n for nd in no_decay)],
-    #         "weight_decay": 0.0,
-    #     },
-    # ]
+    optimizer_grouped_parameters = [
+        {
+            "params": [p for n, p in model.named_parameters() if not any(nd in n for nd in no_decay)],
+            "weight_decay": args.weight_decay,
+        },
+        {
+            "params": [p for n, p in model.named_parameters() if any(nd in n for nd in no_decay)],
+            "weight_decay": 0.0,
+        },
+    ]
     optimizer = torch.optim.Adam(model.parameters(), lr=args.learning_rate)
 
 
