@@ -1,0 +1,100 @@
+{"question": "Let m be 2 - (387/36)/((-1)/8). Calculate the greatest common factor of 22 and m.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "22"}
+{"question": "Let d be (1/(-1))/(2/40). Let w be 4/d + (-332)/(-10). What is the greatest common divisor of 297 and w?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "33"}
+{"question": "Let b(c) = -c**3 + 11*c**2 - 14*c + 6. Let d be b(9). Let z = 2 + d. Suppose a + 2*a - 12 = 0. What is the highest common factor of z and a?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Let y = 28 + -15. Calculate the greatest common factor of y and 26.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "13"}
+{"question": "Let b be ((-9)/2 - -2)*-34. What is the greatest common factor of 34 and b?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "17"}
+{"question": "Let b = -128 - 16. Let o = b - -57. Let w be o/(-15) + 1/5. What is the highest common factor of w and 48?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "6"}
+{"question": "Let r = 4 - 1. Suppose r*b + 9 = -0*b, -3*b = -2*x + 149. Calculate the greatest common divisor of x and 10.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Let l = 9 - 4. Let v = l + 17. Let w = v - 10. Calculate the highest common factor of 24 and w.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "12"}
+{"question": "Let x(k) = -2*k - 2. Let p be x(-9). What is the highest common divisor of p and 24?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}
+{"question": "Let s(l) = l**2 - 10*l + 27. Let r be s(8). Calculate the greatest common factor of 143 and r.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "11"}
+{"question": "Let a(c) = -c**3 - 3*c**2 - c + 1. Let x be a(-3). Suppose 130 = 4*q - 2*n, 3*n + 140 = x*q - n. Calculate the highest common factor of q and 20.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Suppose 4*s - s + j = -33, 4*s + 5*j = -55. Let l be (-4)/(-3)*(-165)/s. Suppose -48 + 4 = -4*w. Calculate the highest common divisor of l and w.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "11"}
+{"question": "Suppose 3*y - 2*f = 74, 76 - 3 = 3*y - f. Let i = 487 - 295. What is the highest common factor of y and i?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "24"}
+{"question": "Let p(b) = -b + 8. Let h be p(5). Suppose -h*l + 5*l - 304 = 0. Let t(m) = -2*m - 1. Let s be t(-10). Calculate the highest common divisor of l and s.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "19"}
+{"question": "Suppose 0 = -6*k + k + 520. Calculate the greatest common divisor of k and 13.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "13"}
+{"question": "Let v(y) = 5*y**2 + 3*y - y - 4*y - 5 - 3*y**2. Let r be v(6). Suppose -5*b + o + 2*o = -28, -o + 19 = 4*b. What is the greatest common divisor of r and b?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "5"}
+{"question": "Suppose -75 = -4*a - o, -a - 35 = -3*a - o. Calculate the highest common divisor of a and 70.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Let l(m) = 2*m**3 - 4*m**2 + 3*m - 4. Let p be l(3). What is the greatest common divisor of p and 92?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "23"}
+{"question": "Let o be (0 + 7)*(-8)/(-14). Suppose -4*g - j + 35 = 0, 0 = g - o*g - 5*j + 5. What is the greatest common factor of g and 110?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Suppose 348 - 60 = 4*t. What is the highest common factor of t and 9?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "9"}
+{"question": "Suppose -h + 3 + 13 = -3*k, -2*h + 16 = 2*k. Calculate the greatest common divisor of h and 80.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Let u(h) = -5*h**2 + 0*h**3 + 5 + 3 + h**3 - 5*h. Let r be u(6). What is the highest common factor of r and 56?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "14"}
+{"question": "Let b(z) = -z**3 + 2*z**2 + 5*z - 3. Let a be b(3). Suppose 3*v - 3*u - 102 = 0, v + 2*u - 30 = -u. What is the greatest common divisor of a and v?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "3"}
+{"question": "Let a be 1/((-1)/(-8)) + -4. Suppose -5*d = -18 - 2. What is the greatest common divisor of a and d?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Let h(k) = -k**3 - 4*k**2 + 3*k - 6. Let o be h(-5). Suppose -30 = -o*s + 618. What is the greatest common factor of s and 18?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "18"}
+{"question": "Suppose 0 = 33*o - 40*o + 1666. What is the highest common divisor of 14 and o?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "14"}
+{"question": "Suppose 3*f + f + 10 = v, -v + 5*f + 6 = 0. What is the greatest common divisor of v and 182?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "26"}
+{"question": "Suppose 224 = 5*v - v. Suppose 5 = -m + 13. What is the greatest common divisor of m and v?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}
+{"question": "Let r(f) = f**3 - 2. Let d be r(2). Calculate the greatest common factor of d and 48.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "6"}
+{"question": "Let v(z) = -z**3 - 12*z**2 - 2*z + 3. Let p be v(-14). Let b be 6/10 + p/45. Calculate the greatest common factor of 5 and b.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "5"}
+{"question": "Let g = 47 - 34. Suppose -2*h = 3*k - 105 - 115, 3*h - 4*k - 296 = 0. Calculate the greatest common divisor of g and h.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "13"}
+{"question": "Suppose -3*d + 1208 = 5*r, -4*d - d + 1996 = 4*r. Suppose 3*z - x + d = 5*z, 5*x = -5*z + 990. Calculate the greatest common divisor of 18 and z.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "18"}
+{"question": "Let m = -101 + 105. Calculate the greatest common divisor of 36 and m.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Let h be (-3 + 2)*(-6 + 1). Suppose h*w - 3*n = 292, 0*n = -4*n - 16. What is the greatest common factor of 14 and w?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "14"}
+{"question": "Let v = 5 + -5. Let q be 6/(-3)*(-9 + v). What is the greatest common factor of 2 and q?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "2"}
+{"question": "Suppose -5*a + 585 = 3*s, 6*s - 3*s = -3*a + 351. Calculate the greatest common divisor of 9 and a.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "9"}
+{"question": "Suppose 0*f - 4 = -2*f. Let j(c) = -c**2 + c - 2. Let a be j(f). Let o be 3/(-12) + (-141)/a. Calculate the greatest common divisor of 14 and o.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "7"}
+{"question": "Let a be (-145)/(-25) - 4/5. Suppose 3*s = -a*c - s + 655, -3*s - 555 = -4*c. What is the greatest common divisor of c and 54?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "27"}
+{"question": "Suppose 2*l + z - 5 = 0, -3 = l + 4*z + 12. Let g be 6/10 + ((-428)/(-20) - 2). What is the highest common divisor of g and l?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "5"}
+{"question": "Suppose 2*r - 3*h - 17 = 0, -2*r = -2*h + 4*h - 32. Calculate the highest common divisor of 13 and r.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "13"}
+{"question": "Let r be 2*-1*6/(-4). Let t be (-11)/(-3) + (-4)/6. Suppose r*w - 42 = -3*l, 4*w + 28 = 2*l + t*w. What is the highest common factor of l and 84?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "14"}
+{"question": "Let l be 10/(-4)*(-8)/5. Let p be 33/l - (-1)/(-4). What is the highest common factor of p and 64?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}
+{"question": "Suppose 2*c = -2*q + 50, -4*c - 5*q = 20 - 117. What is the greatest common divisor of 84 and c?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "28"}
+{"question": "Let q(d) = -2*d**2 + d - 3. Let c be q(-2). Let t = c - -21. What is the greatest common divisor of 12 and t?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Let f = 233 - 100. What is the greatest common divisor of 7 and f?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "7"}
+{"question": "Let m(t) = -3*t**3 + t**2 - 2*t + 2. Let q be m(-3). What is the highest common divisor of 14 and q?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "14"}
+{"question": "Suppose -5*u = 5*o - 125, 2*u = -1 - 1. What is the highest common divisor of 78 and o?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "26"}
+{"question": "Let q = 47 - 27. Calculate the greatest common divisor of 8 and q.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Let f(q) = -q**2 + 4*q - 2. Let w be f(3). Suppose m + 1 = -5*n - 8, -3*m = 2*n + w. Suppose 2*c + m = 31. What is the greatest common divisor of 45 and c?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "15"}
+{"question": "Let j(d) = -5*d + 4*d - 33 + 37. Let b be 3*(-2)/(-3) - 2. Let i be j(b). Calculate the highest common factor of 44 and i.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Suppose -3*p = 3*s + 2 - 8, -7 = -4*s - 3*p. Let i be 62/8 - s/(-4). Let j(q) = q - 3. Let u be j(i). Calculate the highest common divisor of 5 and u.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "5"}
+{"question": "Let f(s) = 6 - 3*s**2 + 6*s**2 - 5*s - 4*s**2 - 2. Let y be f(-5). Calculate the highest common divisor of y and 2.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "2"}
+{"question": "Let a(f) = f**2 + 10*f. Let h(t) = -t**2 - 11*t. Let c(x) = 3*a(x) + 2*h(x). Let g be c(-10). What is the greatest common divisor of g and 8?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Suppose 2*t + 2*k - 12 = 0, -6 = 3*t - 0*k - 3*k. Let c = -3 + 0. Let x be 68/6 - t/c. Calculate the highest common divisor of x and 12.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "12"}
+{"question": "Let u(s) = 20*s. Let r = 5 - 3. Let m be u(r). Calculate the highest common factor of 16 and m.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}
+{"question": "Let o(v) = -v**3 + v**2 - v + 13. Let z be o(0). Suppose 3*u = 5*q + 44, u - 3 + 7 = -3*q. Let r = 34 - u. What is the highest common divisor of z and r?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "13"}
+{"question": "Let v = 14 - 6. Calculate the highest common divisor of 8 and v.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}
+{"question": "Suppose 2*v - 30 = 7*v. Let k(n) = -2*n + 6. Let z be k(v). Calculate the greatest common factor of z and 45.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "9"}
+{"question": "Let o(q) = -q**2 + 12*q + 9. Let u be o(11). What is the greatest common divisor of 10 and u?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Suppose 5*s - 3*o - 374 = 0, 7*s + 5*o - 390 = 2*s. What is the highest common factor of 57 and s?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "19"}
+{"question": "Let x = -1 + 1. Let a(i) = i**3 - i + 75. Let k be a(x). Calculate the greatest common divisor of k and 15.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "15"}
+{"question": "Suppose -4 = -3*c + 4*i, -6 = 3*i - 6*i. Suppose -24 = c*p - 216. Let w(q) = 15*q**2 - 2*q - 1. Let v be w(-1). What is the highest common factor of v and p?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "16"}
+{"question": "Let y = -97 + 67. Let w be (-2)/5 - 552/y. What is the greatest common factor of 72 and w?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "18"}
+{"question": "Let r(o) = -2*o**2 - 21*o - 7. Let n be r(-10). Calculate the highest common factor of 33 and n.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "3"}
+{"question": "Let r be (-50)/3*12/(-10). Let i(a) = -a + 11. Let c be i(7). Suppose -r = -c*l + 12. What is the greatest common divisor of l and 20?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "4"}
+{"question": "Suppose -m - 3*k + 1 - 7 = 0, 5*k = -4*m - 17. Let b = m - -18. Suppose 0 = n - 6*n + b. Calculate the greatest common factor of n and 15.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "3"}
+{"question": "Suppose -2*b - 12 = -6*b. Suppose b*s + 76 = 5*s. What is the highest common divisor of s and 19?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "19"}
+{"question": "Suppose -27 = 2*a - 83. What is the highest common factor of 28 and a?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "28"}
+{"question": "Suppose 3*n + 2*y + 590 = 7*n, -3*n - 3*y + 420 = 0. What is the greatest common divisor of n and 29?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "29"}
+{"question": "Let q(u) = -u**3 + 7*u**2 + 8*u + 2. Suppose 4*z - 4 = 0, -2*z = -4*d + 3*z + 27. Let y be q(d). What is the highest common divisor of 6 and y?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "2"}
+{"question": "Let r(a) = 3*a**2 + 6*a + 12. Let p be r(-5). Let f(s) = 2*s**2 - 12. Let i be f(5). Calculate the greatest common divisor of i and p.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "19"}
+{"question": "Let l be 70/9 - ((-152)/36 - -4). Calculate the highest common divisor of l and 1.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "1"}
+{"question": "Let m(f) = f**2 + 6*f + 8. Let q = -19 + 11. Let x be m(q). Let y be -1 - 2/(-2)*37. What is the greatest common factor of x and y?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "12"}
+{"question": "Suppose l - 10 = 6*l. Let z be (-1)/l + (-6)/(-12). Let f be z*-2 + (80 - -2). What is the highest common factor of f and 10?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Let l be (-2)/(-3) + 7/3. Let a be ((-30)/8)/(l/(-36)). Let w(j) = 2*j - 12. Let o be w(15). What is the greatest common divisor of a and o?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "9"}
+{"question": "Let y(p) = 84*p**2 + p - 1. Let t = 5 - 0. Suppose 4*f = 4*i - f - 19, 4*i + t = -3*f. Let q be y(i). Calculate the greatest common divisor of q and 12.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "12"}
+{"question": "Let v = -3 - 1. Let z be (-3 + (-14)/v)*-2. Let o = z + 14. What is the greatest common factor of o and 117?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "13"}
+{"question": "Let v(l) = -l**3 + 14*l**2 + 17*l - 12. Let y be v(15). Calculate the greatest common divisor of y and 6.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "6"}
+{"question": "Let v(i) = -i + 15. Let l be v(0). Suppose -5 - l = -5*m, -f + 5*m = 15. Calculate the highest common factor of f and 1.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "1"}
+{"question": "Let k = 11 + 32. Suppose 4*b - k - 177 = 0. Calculate the greatest common factor of 22 and b.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "11"}
+{"question": "Let h(a) = 3*a - 2. Let s be h(2). Let x be (7 + 4 + 3)*s. What is the highest common divisor of x and 7?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "7"}
+{"question": "Let k = -4 + 6. Suppose 0 = k*s - 11 - 11. What is the highest common divisor of 11 and s?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "11"}
+{"question": "Let q be 1/((-2)/(-5)*(-30)/(-156)). What is the greatest common factor of q and 13?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "13"}
+{"question": "Suppose d - 29 = -5*z, -2*d - 3*z = 2*z - 33. Suppose -d*o + 31 = -t, -o + t + t = -13. Calculate the greatest common divisor of 35 and o.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "7"}
+{"question": "Let a be (-2)/(-5) - (-16)/10. Let k(y) = -y**2 + 6*y - 3. Let h be k(2). Let b = -1 + h. What is the highest common divisor of a and b?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "2"}
+{"question": "Suppose -4*z = -7 - 5. Let v be (3/2)/(z/40). Calculate the greatest common divisor of 50 and v.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Suppose 6 - 14 = -4*z. Let l be -1 + 18/(-4)*4/(-6). Calculate the greatest common divisor of z and l.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "2"}
+{"question": "Suppose -4 - 2 = 3*i. Let n be 43 - ((-2)/1)/i. Calculate the highest common factor of n and 105.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "21"}
+{"question": "Let f = -2 - -5. Suppose f*x = -2*x + 150. Suppose -2*k + q + x = 1, 4*k = -5*q + 65. Calculate the greatest common divisor of k and 5.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "5"}
+{"question": "Let f be 2/(-4) + (-65)/(-2). Suppose 4*j - 1 = 15, -o - 13 = -4*j. Suppose -11 = -p - o. Calculate the greatest common factor of p and f.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}
+{"question": "Let y be (-3)/(-1)*39/(-9). Let l = -7 - y. Suppose 0 = 3*v - 7*h + 3*h - 8, h - 9 = -2*v. Calculate the highest common factor of l and v.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "2"}
+{"question": "Let s = -7 + -63. Let q = s + 98. What is the highest common divisor of 7 and q?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "7"}
+{"question": "Suppose -x + 4 = -3*w + 14, -w - 3*x + 20 = 0. Suppose w*y = 20, 88 = 5*l - 0*y + 2*y. What is the highest common divisor of 40 and l?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}
+{"question": "Suppose 3*q + 12 = 2*p, 5*p - 2*q - 4 = 26. What is the highest common factor of p and 9?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "3"}
+{"question": "Let u(s) = -10*s**3 + s**2 - 1. Let b be u(-1). Let q(a) = 2*a**2 + 6*a + 2. Let x be q(-9). Calculate the highest common factor of b and x.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "10"}
+{"question": "Let d be (4 - 2 - 0) + 1. Suppose 3*u + d*g - 183 = 0, -2*g = 4*u - 6*g - 236. What is the greatest common divisor of u and 40?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "20"}
+{"question": "Let a = 14 + 31. Calculate the greatest common factor of a and 5.", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "5"}
+{"question": "Let l = 118 - 106. What is the highest common divisor of l and 36?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "12"}
+{"question": "Let u(b) = 4*b**2 + 6*b + 10. Let z be u(-2). What is the greatest common divisor of z and 112?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "14"}
+{"question": "Let o = 18 - 10. Suppose 3 - 6 = q, 4*c + 2*q = 414. Let a = -41 + c. What is the highest common divisor of o and a?", "split": "easy_train_dmmath_numbers__gcd_composed.txt", "answer": "8"}

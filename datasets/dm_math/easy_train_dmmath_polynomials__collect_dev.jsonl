@@ -1,0 +1,100 @@
+{"question": "Collect the terms in 5*b**2 - 8*b**2 + 2*b**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-b**2"}
+{"question": "Collect the terms in s**2 - 4*s**2 - 3*s**2 + 7*s**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "s**2"}
+{"question": "Collect the terms in 153*q + 152*q - 452*q + 158*q.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "11*q"}
+{"question": "Collect the terms in -13*b + 13*b - 13*b**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-13*b**2"}
+{"question": "Collect the terms in -71*y + 220*y - 74*y - 74*y.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "y"}
+{"question": "Collect the terms in 24*u**3 - 42*u**3 + 24*u**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "6*u**3"}
+{"question": "Collect the terms in -19 + 19 + 53*r.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "53*r"}
+{"question": "Collect the terms in -194*x + 57*x + 89*x.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-48*x"}
+{"question": "Collect the terms in -4*n - 381 + 199 + 182.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-4*n"}
+{"question": "Collect the terms in -25*b - 2*b**2 + 47*b - 22*b.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-2*b**2"}
+{"question": "Collect the terms in -l + 4*l + 8*l - 20*l + 12*l.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3*l"}
+{"question": "Collect the terms in -10*i**3 + 23*i**3 + 18*i**3 - 4*i**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "27*i**3"}
+{"question": "Collect the terms in -1 - 15 + m + 16.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "m"}
+{"question": "Collect the terms in -2549*q + 91*q**2 + 2549*q.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "91*q**2"}
+{"question": "Collect the terms in 39 - 39 - p**3 + 0*p**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-p**3"}
+{"question": "Collect the terms in -3 + 3 + 3294*m.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3294*m"}
+{"question": "Collect the terms in 3*w**2 + 0*w**2 - w**2 + w**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3*w**2"}
+{"question": "Collect the terms in -63*l**3 - 49*l**3 + 111*l**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-l**3"}
+{"question": "Collect the terms in -60*t + 31*t + 31*t.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*t"}
+{"question": "Collect the terms in 2*a**2 - 3*a**2 + 2*a**3 + a**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*a**3"}
+{"question": "Collect the terms in -24*y**3 - 31*y**3 - 10*y**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-65*y**3"}
+{"question": "Collect the terms in -6*g - 36974 + 36974.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-6*g"}
+{"question": "Collect the terms in -94*r**2 + 168*r**2 - 73*r**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "r**2"}
+{"question": "Collect the terms in 0*y**3 - 27 - 8*y**3 + 8 + 19.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-8*y**3"}
+{"question": "Collect the terms in -23*x**2 - 1 + 35*x**2 - 25*x**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-13*x**2 - 1"}
+{"question": "Collect the terms in 138*g**3 - 159*g**3 - 269*g**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-290*g**3"}
+{"question": "Collect the terms in -1 + 73*k + 47*k + 1.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "120*k"}
+{"question": "Collect the terms in -14 - 35*l**2 - 17*l**2 + 15.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-52*l**2 + 1"}
+{"question": "Collect the terms in -m + 0*m + 4*m.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3*m"}
+{"question": "Collect the terms in -h - 24 + 2*h - 11.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "h - 35"}
+{"question": "Collect the terms in 741*m**3 - 369*m**3 - 374*m**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-2*m**3"}
+{"question": "Collect the terms in -54*i - 83*i + 138*i.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "i"}
+{"question": "Collect the terms in -8*s**2 + 15*s**2 + 24*s**3 - 7*s**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "24*s**3"}
+{"question": "Collect the terms in -484*l**2 + 3215*l**2 + 295*l**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3026*l**2"}
+{"question": "Collect the terms in -2*g**3 - 4*g**3 + 4*g**3 + 9*g**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "7*g**3"}
+{"question": "Collect the terms in -l**3 - 3*l**3 - 5*l**3 + 3*l**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-6*l**3"}
+{"question": "Collect the terms in -8 + 0*g + 4*g**2 + 0*g + 6.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "4*g**2 - 2"}
+{"question": "Collect the terms in 37 + 35 - 7*a - 72.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-7*a"}
+{"question": "Collect the terms in 25*g**2 + 20*g**2 - 43*g**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*g**2"}
+{"question": "Collect the terms in -6 + 3*i**3 - 10*i**3 - 8.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-7*i**3 - 14"}
+{"question": "Collect the terms in -70*m - 64*m + 134*m - 2*m**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-2*m**3"}
+{"question": "Collect the terms in 2*l**2 + 0*l - l**2 + 0*l.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "l**2"}
+{"question": "Collect the terms in 0 - 3371*w + 3368*w - 9.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-3*w - 9"}
+{"question": "Collect the terms in -3*m + 5*m - 7*m.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-5*m"}
+{"question": "Collect the terms in 3*y**3 - 2*y**3 - 2*y**3 + 7*y**3 - 4*y**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*y**3"}
+{"question": "Collect the terms in 16 - 4*x + 2 + 5*x.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "x + 18"}
+{"question": "Collect the terms in 23*t - 1024 + 1024.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "23*t"}
+{"question": "Collect the terms in -13*f + 9*f + 6*f.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*f"}
+{"question": "Collect the terms in -7*u**2 - 6*u**2 + u**2 - 2*u**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-14*u**2"}
+{"question": "Collect the terms in -659*k**2 + 308*k**2 + 349*k**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-2*k**2"}
+{"question": "Collect the terms in 18 - 29 + 11 + 18*s.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "18*s"}
+{"question": "Collect the terms in -804065 + 804065 + h.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "h"}
+{"question": "Collect the terms in 3 + 26 - 3*z - 29.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-3*z"}
+{"question": "Collect the terms in 49*z**2 - 14*z**2 + 10*z**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "45*z**2"}
+{"question": "Collect the terms in -1090 + 4*s**2 + 1090.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "4*s**2"}
+{"question": "Collect the terms in -26*a - 28*a - 26*a + 77*a.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-3*a"}
+{"question": "Collect the terms in -94 + 94 - 259*l**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-259*l**2"}
+{"question": "Collect the terms in -3*q**2 - 23*q - 138*q + 0*q**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-3*q**2 - 161*q"}
+{"question": "Collect the terms in -27 - 2*y**3 + 27.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-2*y**3"}
+{"question": "Collect the terms in -14 + 22*b**3 + 14.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "22*b**3"}
+{"question": "Collect the terms in 5*z - 3726 + 3726.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "5*z"}
+{"question": "Collect the terms in -510 + 2*k**2 + 510.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*k**2"}
+{"question": "Collect the terms in -v**3 - 9*v**2 + 22*v**2 - 13*v**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-v**3"}
+{"question": "Collect the terms in 0*h + 0*h + 265*h**2 + 260*h**2 - 523*h**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*h**2"}
+{"question": "Collect the terms in 25*n**2 + 22*n**2 + 14*n**3 - 47*n**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "14*n**3"}
+{"question": "Collect the terms in -3*j - 20*j - 7*j - 9*j.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-39*j"}
+{"question": "Collect the terms in -13*w**2 - 11*w**3 - 8*w**2 + 15*w**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-11*w**3 - 6*w**2"}
+{"question": "Collect the terms in 83*l - 19*l - 21*l - 41*l.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*l"}
+{"question": "Collect the terms in -789*i**2 + 2 + 0 - 2 + 790*i**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "i**2"}
+{"question": "Collect the terms in 44*u**2 - 7713 + 7713.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "44*u**2"}
+{"question": "Collect the terms in -113*b - 42*b + 26*b + 13*b.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-116*b"}
+{"question": "Collect the terms in -4*z**3 - 2*z**3 + 5*z + 43*z + 5*z**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-z**3 + 48*z"}
+{"question": "Collect the terms in 214*z**3 - 102*z**3 - 110*z**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*z**3"}
+{"question": "Collect the terms in -31*x + 156*x + 83*x.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "208*x"}
+{"question": "Collect the terms in -132*k**3 - 426*k**3 - 216 + 216.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-558*k**3"}
+{"question": "Collect the terms in -13*x + 30*x + 3*x.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "20*x"}
+{"question": "Collect the terms in 2*s**2 + 5*s**3 - 3*s**3 + 5*s**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "7*s**3 + 2*s**2"}
+{"question": "Collect the terms in -3 - 1 + 4 - 56*o.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-56*o"}
+{"question": "Collect the terms in 1988*z**3 - 1 + 1 - 2002*z**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-14*z**3"}
+{"question": "Collect the terms in 9*q**2 + 3*q**2 + 149 - 299 + 150.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "12*q**2"}
+{"question": "Collect the terms in -4*t**3 - 10*t + 9*t + t.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-4*t**3"}
+{"question": "Collect the terms in -2*h**2 - 5*h**2 + 7*h**2 - 4*h**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-4*h**2"}
+{"question": "Collect the terms in 5*o - 31*o**2 - 8*o + 3*o - 4.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-31*o**2 - 4"}
+{"question": "Collect the terms in -101*y - 24 + 11 + 13.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-101*y"}
+{"question": "Collect the terms in -34*v - 49*v + 2*v**3 + 33*v.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*v**3 - 50*v"}
+{"question": "Collect the terms in 5*p**2 - 2*p**2 - 4*p**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-p**2"}
+{"question": "Collect the terms in -1 - 8 - 19 - x + 28.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-x"}
+{"question": "Collect the terms in 88*x + 6*x**3 - 47*x - 41*x.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "6*x**3"}
+{"question": "Collect the terms in -34*q + 20*q + 21*q + 6.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "7*q + 6"}
+{"question": "Collect the terms in -72*p**3 + 39*p**3 + 28*p**3 + 26*p**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "21*p**3"}
+{"question": "Collect the terms in 24*u**3 + 4 - 4 - 39*u**3 + 16*u**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "u**3"}
+{"question": "Collect the terms in 10*z**3 + 5*z**3 - 7*z**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "8*z**3"}
+{"question": "Collect the terms in 5*p**3 - p**3 - 57*p**2 + 31*p**2 + 26*p**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "4*p**3"}
+{"question": "Collect the terms in -406*m + 406*m + 21*m**3.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "21*m**3"}
+{"question": "Collect the terms in -27*h**3 - 8*h - 57*h**3 + 8*h.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "-84*h**3"}
+{"question": "Collect the terms in 3*u - 4*u + 9*u - 5*u.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3*u"}
+{"question": "Collect the terms in 332279*w - 1 + 1 + 2*w**2 - 332279*w.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "2*w**2"}
+{"question": "Collect the terms in -293*m + 146*m + 1 + 150*m.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3*m + 1"}
+{"question": "Collect the terms in 5*u - 4*u + 0*u.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "u"}
+{"question": "Collect the terms in -4*o**2 + o**2 + 6*o**2.", "split": "easy_train_dmmath_polynomials__collect.txt", "answer": "3*o**2"}

@@ -1,0 +1,100 @@
+{"question": "Let o(k) = 3*k**2. Let m(z) = -2*z - 15. Determine m(o(t)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-6*t**2 - 15"}
+{"question": "Let z(n) = 31*n**2. Let b(p) = 8*p**2. What is z(b(a))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "1984*a**4"}
+{"question": "Let c(s) = s. Let d(o) = 1086*o - 3 + 3 - 1079*o. Determine c(d(h)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "7*h"}
+{"question": "Let q(n) = -91*n**2 + 1. Let j(i) = 26*i. What is q(j(f))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-61516*f**2 + 1"}
+{"question": "Let k(n) = 2*n. Let g(r) = -102*r**2 - 9*r + 9. Let o(y) = -51*y**2 - 5*y + 5. Let x(v) = 5*g(v) - 9*o(v). What is k(x(z))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-102*z**2"}
+{"question": "Let p(f) = f. Let w(z) be the first derivative of z**4/12 + 2*z + 7. Let g(b) be the first derivative of w(b). Calculate g(p(d)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "d**2"}
+{"question": "Suppose -2*z = 3*z - 5. Let p(q) = -1 - q**2 + z. Let o(u) = -56*u + 110*u - 60*u. What is o(p(t))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "6*t**2"}
+{"question": "Let s(a) = 6*a**2. Let p(y) be the second derivative of -17*y**4/12 - y. Let g(r) = 3*p(r) + 8*s(r). Let x(d) = -d**2. Give x(g(h)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-9*h**4"}
+{"question": "Let i be (-2 - -1)*0 - -2. Let x(b) = i*b - 5*b + b. Let f(q) = -3*q**2 + q**2 + 0*q**2. What is f(x(z))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-8*z**2"}
+{"question": "Suppose 6*m - 6 = 3*m. Let h(r) = -2*r**2 - 3*r**m + 4*r**2. Let p(n) be the second derivative of -n**4/4 + n. What is p(h(c))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-3*c**4"}
+{"question": "Let u(k) = -3*k**2 + 25*k. Let v(m) = m**2 + 6*m + 6. Let c(f) = f**2 + 7*f + 7. Let t(s) = -6*c(s) + 7*v(s). Determine t(u(p)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "9*p**4 - 150*p**3 + 625*p**2"}
+{"question": "Let d(g) = 5*g. Let f(b) = 523*b. Determine f(d(q)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "2615*q"}
+{"question": "Let p(f) = 6*f + 4. Let x(w) = -12*w**2. Give x(p(g)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-432*g**2 - 576*g - 192"}
+{"question": "Suppose -2*s = 4*t - 0 - 4, -17 = t + 5*s. Let f(h) = -6*h + h + t*h. Let d(i) = -3*i + 6*i - i - 3*i. Give f(d(n)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "2*n"}
+{"question": "Let u(j) = j. Let l(n) = 11*n**2 - 119*n. What is l(u(x))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "11*x**2 - 119*x"}
+{"question": "Let p(f) = -f + f + f**2. Let m(k) = -k**2 - 16*k + 2. Let v be m(-16). Let r(n) = n**2 + 0*n**2 - 2*n**v. Determine p(r(a)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "a**4"}
+{"question": "Let w(v) = -2*v**3 + v**2 + 4*v + 3. Let j be w(-2). Let m(p) = 15 - 2*p**2 - j. Let i(t) = -7*t**2. Determine m(i(x)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-98*x**4"}
+{"question": "Let n(i) = -3*i**2. Let f(h) be the third derivative of -h**4/8 - 19*h**2. Calculate n(f(l)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-27*l**2"}
+{"question": "Let n(u) = u**2. Let v(r) = -49*r - 1. Give n(v(c)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "2401*c**2 + 98*c + 1"}
+{"question": "Let k(a) = 512*a. Let q(w) = 2*w**2. What is k(q(t))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "1024*t**2"}
+{"question": "Let i(y) = 3*y**2 + 4. Let m(s) = -s**2 - 1. Let t(p) = -i(p) - 4*m(p). Let r(g) = 41*g. Give r(t(v)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "41*v**2"}
+{"question": "Let w(f) = -3*f**2. Let o(s) = 2*s - 3*s - s. Let p be o(-1). Let l(u) = -2*u**2 + 2*u**p - u**2. Give w(l(a)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-3*a**4"}
+{"question": "Let b(n) = n**2. Let l(z) be the first derivative of -7*z**3/3 - 3. What is b(l(j))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "49*j**4"}
+{"question": "Let t(s) = 2*s + 8. Let d(z) = 7*z. Calculate d(t(l)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "14*l + 56"}
+{"question": "Let v(d) = d**2. Let m(l) = 5*l**2 - 3. Suppose 22 = 4*q + 6. Let w(s) = -4*s**2 + 2. Let u(r) = q*m(r) + 6*w(r). Give u(v(o)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-4*o**4"}
+{"question": "Let p(i) = 2*i. Let l(n) = -154*n. What is p(l(r))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-308*r"}
+{"question": "Let b(c) = -2*c**2. Let n(t) = t**2 + 1. Suppose 0 = -2*p + p + 2. Let v(y) = -p + 2 + 3*y**2 + 0*y**2 + 6. Let o(h) = 6*n(h) - v(h). Give b(o(q)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-18*q**4"}
+{"question": "Let z(g) = -2*g. Suppose 2*l = 5 + 3. Let j be (6/l)/((-9)/(-30)). Let h(i) = 0*i - 3*i + 2*i + j*i. Determine z(h(n)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-8*n"}
+{"question": "Let p(z) be the first derivative of 3*z**2 - 2*z**2 + 1 + 0. Let u(w) = -w**2 - w. Let m(k) = 8*k**2 + 6*k. Let b(q) = m(q) + 6*u(q). Determine b(p(r)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "8*r**2"}
+{"question": "Let y(b) = -3*b**2. Let n(r) = 1123*r. What is y(n(t))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-3783387*t**2"}
+{"question": "Let s(g) be the first derivative of 3*g**2/2 + 12. Let h(v) = -12*v**2. Determine h(s(a)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-108*a**2"}
+{"question": "Let h(t) = -2*t. Suppose 5*o = 3 + 7. Let q(g) = g**3 + 9*g**2 + 8*g + 2. Let r be q(-8). Let j(y) = o*y - 2*y**r - 2*y. Calculate j(h(f)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-8*f**2"}
+{"question": "Let z(s) = -6*s**2 + 4*s. Let l(v) = 5*v**2 - 3*v. Let j(f) = 4*l(f) + 3*z(f). Let o(a) = -14*a. Calculate o(j(k)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-28*k**2"}
+{"question": "Let i(d) = -d**2 + 3*d + 3. Let q(l) = l**2 - 2*l - 2. Let s(y) = -2*i(y) - 3*q(y). Let t(n) = -n. Determine s(t(z)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-z**2"}
+{"question": "Let g(n) be the second derivative of -n**3/3 + 4*n. Let p(v) = 2*v - 4. Let c(j) = -3*j + 5. Let f(m) = -4*c(m) - 5*p(m). Determine f(g(s)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-4*s"}
+{"question": "Let o(w) = w**2. Let x(d) = 63*d. Calculate x(o(l)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "63*l**2"}
+{"question": "Let v(r) = 5*r**2 - 3*r + 3. Let h(j) = 4*j**2 - 2*j + 2. Suppose 6 = -4*w + w. Let t(u) = w*v(u) + 3*h(u). Let b(l) = -3*l. Determine t(b(x)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "18*x**2"}
+{"question": "Let k(a) = 48*a + 26. Let u(o) = o**2. Determine k(u(i)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "48*i**2 + 26"}
+{"question": "Let z(u) = u**2 + u + 1. Let n(s) = 10*s**2 + 12*s + 12. Let q(r) = -n(r) + 12*z(r). Let x(a) = -23*a**2. What is q(x(d))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "1058*d**4"}
+{"question": "Let i be (0 + 1)*(6 - 6). Let q(f) = i*f + 0*f - f**2 + 3*f**2. Let u(w) = w**2. What is q(u(g))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "2*g**4"}
+{"question": "Let s(n) = -n**2. Let k(w) = -455*w**2 + 5. Give k(s(d)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-455*d**4 + 5"}
+{"question": "Let h(t) = -14*t**2. Let r(c) = -c**2. Let y(b) = -h(b) + 12*r(b). Let a(p) = -2*p. Determine a(y(k)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-4*k**2"}
+{"question": "Let b(j) = -9*j. Let u(l) be the second derivative of -l**3/2 + 10*l. Calculate u(b(a)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "27*a"}
+{"question": "Let m(g) = 2*g. Suppose d + 0 = 4. Let y be 1 + d/2 + -2. Let p(x) = -4*x**2 - 3*x - 3. Let o(v) = v**2 + v + 1. Let c(q) = y*p(q) + 3*o(q). Calculate c(m(h)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-4*h**2"}
+{"question": "Let d(i) = 5*i + 47. Let j(v) = -11*v**2. Give j(d(m)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-275*m**2 - 5170*m - 24299"}
+{"question": "Let j(r) = r**2. Let g(d) = -d + 7. Let q be g(4). Let p(m) = m**2 + 1. Let i(a) = -9*a**2 - 3. Let k(x) = q*p(x) + i(x). Determine j(k(f)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "36*f**4"}
+{"question": "Let q(a) = 5*a. Let y(f) = -228*f**2. Determine y(q(p)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-5700*p**2"}
+{"question": "Let s(q) = -3*q. Let g(a) = 2210*a. What is g(s(b))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-6630*b"}
+{"question": "Let t(h) = h**3 - 4*h**2 + 4. Let o be t(4). Let n(y) = -o*y + y + 5*y - 4*y. Let p(f) = 2*f**2. Determine n(p(u)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-4*u**2"}
+{"question": "Let n = -9 + 13. Let b(z) = -6*z + 3*z + n - 4. Let r(t) = -t - 2 + 4 - 2. Determine r(b(u)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "3*u"}
+{"question": "Let m(v) = -v. Let r(x) = 2*x**2 + 3*x - 3. Let p(d) = -d**2 - d + 1. Let b(w) = 12*p(w) + 4*r(w). Give m(b(u)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "4*u**2"}
+{"question": "Let j(c) = -8*c**2. Let k(w) = 5*w - 2*w - 2 + 7 + 6. Let n(t) = t + 4. Let r(v) = 4*k(v) - 11*n(v). Determine j(r(q)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-8*q**2"}
+{"question": "Let l(a) be the first derivative of a**2 + 5. Let n(s) = 29*s**2. What is n(l(y))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "116*y**2"}
+{"question": "Suppose 12 = -3*b - 6. Let l(v) = -v. Let h(y) = -2*y. Let x(j) = b*h(j) + 13*l(j). Let f(q) = -q**2. Give f(x(c)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-c**2"}
+{"question": "Suppose -2*u - 2*u + 16 = 0. Let l(t) = -6*t + 4 - 4 + u*t. Let j(a) = -2*a. Determine j(l(n)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "4*n"}
+{"question": "Let a(t) = 2*t**2. Let k(c) = 1045*c. Determine a(k(z)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "2184050*z**2"}
+{"question": "Let r(t) be the third derivative of 17*t**5/60 + 18*t**2. Let q(v) = -v**2. Give r(q(w)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "17*w**4"}
+{"question": "Let k(b) = -6*b. Let t(q) = -2*q + 14. Calculate k(t(x)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "12*x - 84"}
+{"question": "Let d(v) = 130*v + 1. Let m(b) = 21*b. Determine m(d(g)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "2730*g + 21"}
+{"question": "Let d(j) = 36*j. Let q(k) be the second derivative of k**3/3 - 32*k. Determine d(q(s)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "72*s"}
+{"question": "Let f(i) = -3*i**2. Let a(x) = -10*x. Determine f(a(q)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-300*q**2"}
+{"question": "Let w(z) = -5*z - 4. Let y = -29 - -40. Let u(d) = -14*d - 11. Let b(i) = y*w(i) - 4*u(i). Let a(h) = -3*h**2 - 3*h**2 + 3*h**2. Determine b(a(v)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-3*v**2"}
+{"question": "Let v(m) = m**2. Let b(u) = -29*u**2 - 10. Calculate v(b(o)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "841*o**4 + 580*o**2 + 100"}
+{"question": "Let t(c) = 1244 + 5*c**2 - 1244. Let a(p) = -2 + p**2 + 2. Determine t(a(q)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "5*q**4"}
+{"question": "Let b(z) = 4*z**2. Let g(n) = 414*n**2. Calculate g(b(v)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "6624*v**4"}
+{"question": "Let z(o) = o. Let p(y) be the second derivative of 0*y**2 + 2/3*y**3 + 3*y + 0. Calculate z(p(x)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "4*x"}
+{"question": "Let x(l) = l - 2*l - l. Let d(g) = 5*g**2. Give d(x(b)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "20*b**2"}
+{"question": "Let i(x) = 80*x**2. Let v(k) = -2*k. What is i(v(f))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "320*f**2"}
+{"question": "Let m(c) = -4*c - 5*c + 10*c. Let y(g) = 7*g. Calculate y(m(t)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "7*t"}
+{"question": "Let m(w) = -w**2. Let r(p) = 2*p + 20. Give m(r(z)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-4*z**2 - 80*z - 400"}
+{"question": "Let y(i) be the first derivative of 5*i**3 - 30. Let b(j) = 2*j. Give b(y(h)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "30*h**2"}
+{"question": "Let f(i) be the second derivative of -i**4/6 + i. Let y(x) = x**2 + 9*x + 6. Let v be y(-12). Let g(b) = 2*b - 42 + v. What is f(g(j))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-8*j**2"}
+{"question": "Let z(p) = -20*p**2. Let s(b) = -153*b. Give z(s(k)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-468180*k**2"}
+{"question": "Let j(m) = 23*m**2. Let z(x) = -15*x**2 + 39*x**2 - 11*x**2 - 11*x**2. Calculate j(z(l)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "92*l**4"}
+{"question": "Let o(j) = -11*j**2 - 5*j - 5. Let m(c) = 6*c + 8*c + 2*c + 10 + 6 + 34*c**2. Let p(x) = -5*m(x) - 16*o(x). Let v(z) = 2*z. Give v(p(g)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "12*g**2"}
+{"question": "Let u(y) be the third derivative of -3*y**2 + 0*y + 0 - 1/12*y**4 + 0*y**3. Let d(s) = -s**2. What is u(d(r))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "2*r**2"}
+{"question": "Let p(k) be the first derivative of -2*k**2 + 38. Let j(o) = -4*o**2. Determine j(p(d)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-64*d**2"}
+{"question": "Let g(i) = 7*i**2. Let f(c) = c + 1. Let a(o) = o + 1. Let p(k) = -4*a(k) + 3*f(k). Let u(w) = -4*w - 3. Let t(j) = -6*p(j) + 2*u(j). Calculate t(g(x)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-14*x**2"}
+{"question": "Suppose -5*q + 2*q = 0. Suppose q = -0*t + t - 3. Let c(l) = -t*l**2 + 4 - 4. Let d(s) = s**2. Calculate c(d(m)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-3*m**4"}
+{"question": "Let t(g) be the third derivative of -g**4/24 + g**2 + 17. Let s(a) be the third derivative of 7*a**4/24 + a**2. What is t(s(c))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-7*c"}
+{"question": "Suppose -5*s = 3*x - x + 33, -3*x - 4*s - 32 = 0. Let j(o) = 4*o - 3. Let a(n) = 5*n - 4. Let p(b) = x*j(b) + 3*a(b). Let w(f) = 5*f - 2*f + 0*f. Give w(p(i)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-3*i"}
+{"question": "Let r(g) = -4*g**2 + 0*g**2 + 4*g**2 - 2*g**2. Let n(c) = -13*c. Determine n(r(j)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "26*j**2"}
+{"question": "Let a(w) = -111*w**2 + 2. Let x(d) = -3*d + 2. Let q(i) = 4*i - 3. Let r(y) = -2*q(y) - 3*x(y). What is r(a(j))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-111*j**2 + 2"}
+{"question": "Let q(k) = -k. Let b(h) = -76*h + 5. Let m(v) = -115*v + 7. Let j(u) = 7*b(u) - 5*m(u). Determine j(q(z)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-43*z"}
+{"question": "Let j be 12/(-3 - -7) + 1. Let s(h) be the second derivative of 0*h**2 + 2*h - 1/12*h**j + 0 + 0*h**3. Let g(x) = 3*x**2. What is s(g(c))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-9*c**4"}
+{"question": "Let q(t) = 27*t**2 - 3. Let s(i) = -26*i**2 + 4. Let w(y) = -4*q(y) - 3*s(y). Let v(b) = -2*b**2. Calculate v(w(j)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-1800*j**4"}
+{"question": "Let c(p) = -2*p**2. Let n(y) = y**2 + 5*y + 4. Let j be n(-5). Let f(a) = 2*a - 6. Let r be f(4). Let m(q) = -j*q + r*q + q. Give c(m(t)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-2*t**2"}
+{"question": "Let g(r) = 10*r**2. Let d(k) = -k**2 + 52. Determine g(d(j)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "10*j**4 - 1040*j**2 + 27040"}
+{"question": "Let w(v) = -v**2 + v**2 - v**2. Let b(z) = -8*z. What is w(b(s))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-64*s**2"}
+{"question": "Let f = -2 + 3. Let l(i) = -2*i**2 - f + 1. Let q(c) be the first derivative of -5*c**2/2 + 3. Give q(l(k)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "10*k**2"}
+{"question": "Let m(v) = -5*v**2 + 1 - 1 + 0. Let l(p) = 2*p**2. Give m(l(u)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-20*u**4"}
+{"question": "Let u = -1 + 3. Let o(h) = 12*h - 7*h**u - 12*h. Let a(k) = 2*k**2. What is a(o(m))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "98*m**4"}
+{"question": "Let x(l) = -14*l**2. Let y(k) = -2*k + 0*k - 60 + 60. Give y(x(n)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "28*n**2"}
+{"question": "Let z(i) = -4974*i**2. Let h(f) = -2*f**2. Calculate z(h(n)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-19896*n**4"}
+{"question": "Let o(a) = a**2. Let c(z) = -z**2 + 648*z. What is c(o(j))?", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-j**4 + 648*j**2"}
+{"question": "Let u(y) = -4*y**2. Let s(a) = -a**2. Let v(t) = -2*s(t) + u(t). Let k(b) = -12*b**2. Calculate k(v(j)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-48*j**4"}
+{"question": "Let l(x) = -11*x. Let y(h) be the third derivative of -h**6/720 - h**4/12 - h**2. Let a(s) be the second derivative of y(s). Determine a(l(o)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "11*o"}
+{"question": "Let v(t) = 3*t**2. Let x(b) = 5*b**2 + 4*b - 4. Let j = 39 + -23. Let r = -9 + j. Let o(k) = 9*k**2 + 7*k - 7. Let m(w) = r*x(w) - 4*o(w). Give m(v(c)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-9*c**4"}
+{"question": "Let a(n) = -3 - 7*n**2 + 3. Let p(s) = 15 - 22 + 7 + 2*s. Give p(a(i)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-14*i**2"}
+{"question": "Let o(h) = -4*h**2 + 3. Let a(z) = 95*z. Determine a(o(t)).", "split": "easy_train_dmmath_polynomials__compose.txt", "answer": "-380*t**2 + 285"}

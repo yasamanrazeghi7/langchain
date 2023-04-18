@@ -1,0 +1,100 @@
+{"question": "Calculate prob of sequence je when two letters picked without replacement from {e: 15, s: 2, j: 3}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "9/76"}
+{"question": "Two letters picked without replacement from {m: 2, a: 1, i: 1, f: 1, e: 1, l: 1}. Give prob of sequence ea.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/42"}
+{"question": "Four letters picked without replacement from pggqdgjzpdpqppdgqjqp. Give prob of sequence gqzj.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "4/14535"}
+{"question": "What is prob of sequence kkkk when four letters picked without replacement from kkccckicckkkcc?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "15/1001"}
+{"question": "What is prob of sequence cccp when four letters picked without replacement from {p: 1, c: 14, f: 1}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/20"}
+{"question": "Calculate prob of sequence ru when two letters picked without replacement from lrlalullauuaulurru.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/17"}
+{"question": "What is prob of sequence ii when two letters picked without replacement from iiihiihiiihiihiiiiih?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "21/38"}
+{"question": "Calculate prob of sequence iw when two letters picked without replacement from eioewkioeeoeoeek.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/120"}
+{"question": "Two letters picked without replacement from esxeeexexssex. What is prob of sequence ex?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "2/13"}
+{"question": "What is prob of sequence eheb when four letters picked without replacement from {e: 1, f: 1, h: 1, w: 2, b: 2}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "0"}
+{"question": "Two letters picked without replacement from {f: 2, d: 5, h: 6}. What is prob of sequence ff?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/78"}
+{"question": "Calculate prob of sequence lss when three letters picked without replacement from {s: 10, l: 2, o: 3}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "6/91"}
+{"question": "Calculate prob of sequence nx when two letters picked without replacement from {n: 3, c: 5, x: 3}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "9/110"}
+{"question": "Four letters picked without replacement from ssssuggussssgggug. What is prob of sequence sggg?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "2/119"}
+{"question": "What is prob of sequence qd when two letters picked without replacement from ttttrdrttqrgtgttt?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/272"}
+{"question": "Three letters picked without replacement from yyyyyyyyy. What is prob of sequence yyy?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1"}
+{"question": "What is prob of sequence aac when three letters picked without replacement from {l: 1, a: 5, s: 1, c: 3, w: 3, t: 2}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "2/91"}
+{"question": "Calculate prob of sequence wcc when three letters picked without replacement from {w: 15, c: 5}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "5/114"}
+{"question": "Three letters picked without replacement from czacmcz. Give prob of sequence maz.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/105"}
+{"question": "Calculate prob of sequence lso when three letters picked without replacement from sololoolol.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/36"}
+{"question": "Two letters picked without replacement from {p: 1, e: 3}. Give prob of sequence pe.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/4"}
+{"question": "What is prob of sequence pip when three letters picked without replacement from fzziipizpp?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/40"}
+{"question": "Four letters picked without replacement from epeelmeuemeueueueeue. Give prob of sequence lmep.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "11/58140"}
+{"question": "Four letters picked without replacement from bbbbbb. What is prob of sequence bbbb?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1"}
+{"question": "What is prob of sequence kkkw when four letters picked without replacement from {b: 1, g: 1, w: 2, z: 7, k: 3}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/2002"}
+{"question": "Two letters picked without replacement from {i: 1, w: 1, m: 1, s: 1, c: 2, o: 1}. What is prob of sequence iw?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/42"}
+{"question": "Calculate prob of sequence yx when two letters picked without replacement from cykxxjxcijii.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/44"}
+{"question": "Three letters picked without replacement from oyyyr. Give prob of sequence yoy.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/10"}
+{"question": "What is prob of sequence nn when two letters picked without replacement from nnwwnwn?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "2/7"}
+{"question": "Three letters picked without replacement from {b: 4, f: 4, d: 1, m: 1}. What is prob of sequence bmd?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/180"}
+{"question": "Calculate prob of sequence uuu when three letters picked without replacement from uuuuuuuuuuuuuug.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "4/5"}
+{"question": "Three letters picked without replacement from ooclss. What is prob of sequence col?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/60"}
+{"question": "Three letters picked without replacement from {d: 2, p: 1, y: 1, c: 4, s: 1}. Give prob of sequence yps.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/504"}
+{"question": "Three letters picked without replacement from {w: 6, d: 6}. What is prob of sequence dwd?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "3/22"}
+{"question": "What is prob of sequence ar when two letters picked without replacement from {p: 2, o: 4, y: 1, a: 1, r: 2}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/45"}
+{"question": "Two letters picked without replacement from {y: 2, n: 5, c: 3}. Give prob of sequence nc.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/6"}
+{"question": "Two letters picked without replacement from tgbtbjotgoeb. Give prob of sequence te.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/44"}
+{"question": "Calculate prob of sequence uzq when three letters picked without replacement from {q: 2, z: 1, u: 2}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/15"}
+{"question": "Three letters picked without replacement from mimiiiiiimmmmimimm. What is prob of sequence imi?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "9/68"}
+{"question": "Three letters picked without replacement from ooujmujmoummmjuj. Give prob of sequence umj.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/42"}
+{"question": "Two letters picked without replacement from aax. What is prob of sequence ax?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/3"}
+{"question": "Two letters picked without replacement from {h: 3, w: 7, g: 1, m: 5}. Give prob of sequence gm.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/48"}
+{"question": "Four letters picked without replacement from xxxxzxxxzmxxzbzz. Give prob of sequence xxbm.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "3/1820"}
+{"question": "Two letters picked without replacement from xrxxxr. Give prob of sequence xr.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "4/15"}
+{"question": "What is prob of sequence dtpd when four letters picked without replacement from ptdaddapdddddddd?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "11/2184"}
+{"question": "Calculate prob of sequence ty when two letters picked without replacement from {t: 10, y: 9}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "5/19"}
+{"question": "Two letters picked without replacement from kckkkkkfkqkqkq. Give prob of sequence cf.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/182"}
+{"question": "What is prob of sequence ju when two letters picked without replacement from juuu?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/4"}
+{"question": "Two letters picked without replacement from dyyzxzyzxznyzxyyzyz. Give prob of sequence yd.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "7/342"}
+{"question": "Two letters picked without replacement from {b: 1, s: 3, v: 3, p: 6, x: 2, q: 5}. Give prob of sequence xv.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "3/190"}
+{"question": "What is prob of sequence itt when three letters picked without replacement from {i: 1, t: 17}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/18"}
+{"question": "Two letters picked without replacement from {d: 1, j: 1, l: 2, z: 2}. What is prob of sequence dl?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/15"}
+{"question": "Four letters picked without replacement from {l: 6, a: 2}. What is prob of sequence alal?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/28"}
+{"question": "What is prob of sequence frff when four letters picked without replacement from ffgfprpfpffrrpp?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/91"}
+{"question": "What is prob of sequence pn when two letters picked without replacement from {u: 1, s: 3, p: 2, n: 3, z: 1}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/15"}
+{"question": "Two letters picked without replacement from upg. Give prob of sequence up.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/6"}
+{"question": "Two letters picked without replacement from {m: 1, j: 2, h: 1}. What is prob of sequence jj?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/6"}
+{"question": "Two letters picked without replacement from ttimttyttyixytymii. Give prob of sequence yi.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "8/153"}
+{"question": "What is prob of sequence cnwq when four letters picked without replacement from {y: 1, c: 1, q: 1, w: 1, n: 1}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/120"}
+{"question": "Calculate prob of sequence sbc when three letters picked without replacement from sbbscbzbc.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "2/63"}
+{"question": "Two letters picked without replacement from kkwolkklookwk. Give prob of sequence wo.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/26"}
+{"question": "Calculate prob of sequence ch when two letters picked without replacement from chhhcccchchhhchhccc.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "5/19"}
+{"question": "What is prob of sequence aa when two letters picked without replacement from {s: 3, i: 4, c: 2, d: 1, u: 3, a: 2}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/105"}
+{"question": "What is prob of sequence eg when two letters picked without replacement from {e: 5, b: 1, c: 7, g: 3}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/16"}
+{"question": "Four letters picked without replacement from dqqdmvq. Give prob of sequence mddq.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/140"}
+{"question": "Four letters picked without replacement from {g: 4, h: 3, w: 4, e: 6}. What is prob of sequence egee?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/119"}
+{"question": "Calculate prob of sequence lm when two letters picked without replacement from lbjeeqqjjbmj.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/132"}
+{"question": "What is prob of sequence jj when two letters picked without replacement from {j: 2, x: 6}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/28"}
+{"question": "Two letters picked without replacement from {g: 2, a: 1, l: 1, t: 4}. Give prob of sequence tg.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/7"}
+{"question": "Three letters picked without replacement from {w: 3, u: 1, n: 1, x: 1, t: 1}. Give prob of sequence nxw.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/70"}
+{"question": "Calculate prob of sequence lq when two letters picked without replacement from {w: 1, r: 2, c: 1, f: 1, l: 1, q: 1}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/42"}
+{"question": "Two letters picked without replacement from sssm. Give prob of sequence ms.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/4"}
+{"question": "What is prob of sequence ee when two letters picked without replacement from eeeffefeeeeeeeefee?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "91/153"}
+{"question": "Two letters picked without replacement from xlnnxbbzk. What is prob of sequence lz?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/72"}
+{"question": "Three letters picked without replacement from {l: 4, p: 10}. Give prob of sequence lpp.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "15/91"}
+{"question": "Three letters picked without replacement from {q: 2, n: 3, u: 12}. Give prob of sequence nqu.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "3/170"}
+{"question": "Three letters picked without replacement from {s: 4, v: 2, e: 3, k: 2, c: 2}. What is prob of sequence ecv?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/143"}
+{"question": "Four letters picked without replacement from {c: 1, o: 3, p: 1, e: 4, u: 7}. What is prob of sequence oupe?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/520"}
+{"question": "Calculate prob of sequence zdz when three letters picked without replacement from dddzddzddddzdz.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "5/91"}
+{"question": "What is prob of sequence pm when two letters picked without replacement from {m: 4, x: 1, p: 2, y: 1, e: 3}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "4/55"}
+{"question": "Three letters picked without replacement from {g: 15, s: 4}. What is prob of sequence ssg?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "10/323"}
+{"question": "Three letters picked without replacement from {s: 5, n: 1, c: 3}. Give prob of sequence scc.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "5/84"}
+{"question": "Two letters picked without replacement from {b: 1, q: 1, a: 11}. What is prob of sequence aa?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "55/78"}
+{"question": "Four letters picked without replacement from bbbbbbbbbkbbbbbkkbbw. What is prob of sequence bkkk?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "4/4845"}
+{"question": "Four letters picked without replacement from {d: 2, e: 4, q: 2, h: 1, z: 1}. Give prob of sequence dzeh.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/630"}
+{"question": "What is prob of sequence xq when two letters picked without replacement from {c: 1, q: 6, x: 2, s: 2}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "6/55"}
+{"question": "Calculate prob of sequence zd when two letters picked without replacement from zzxxzxzzddxxz.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/13"}
+{"question": "Four letters picked without replacement from zjjpwjzoznpj. What is prob of sequence zozp?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/990"}
+{"question": "What is prob of sequence arp when three letters picked without replacement from {j: 2, f: 4, z: 3, a: 1, p: 3, r: 3}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "3/1120"}
+{"question": "What is prob of sequence hhh when three letters picked without replacement from {h: 3}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1"}
+{"question": "What is prob of sequence tyyt when four letters picked without replacement from yytytyyy?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/28"}
+{"question": "Calculate prob of sequence www when three letters picked without replacement from kkwwk.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "0"}
+{"question": "Calculate prob of sequence hyy when three letters picked without replacement from yyhhhyyyyyhhyyyxy.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "55/408"}
+{"question": "What is prob of sequence xkk when three letters picked without replacement from kkgkkkkugkkukxkkkkxx?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "13/190"}
+{"question": "Calculate prob of sequence kvz when three letters picked without replacement from {v: 2, z: 2, t: 1, y: 1, k: 1, c: 1}.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/84"}
+{"question": "Two letters picked without replacement from {a: 18, j: 2}. Give prob of sequence aj.", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "9/95"}
+{"question": "Four letters picked without replacement from {g: 5, z: 5}. What is prob of sequence zzgz?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "5/84"}
+{"question": "What is prob of sequence gnue when four letters picked without replacement from {k: 4, u: 2, g: 1, e: 4, n: 2, s: 2}?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "2/4095"}
+{"question": "Four letters picked without replacement from essesses. What is prob of sequence esee?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "1/56"}
+{"question": "Three letters picked without replacement from {t: 4, i: 4, m: 5, z: 6}. What is prob of sequence mzi?", "split": "easy_train_dmmath_probability__swr_p_sequence.txt", "answer": "20/969"}

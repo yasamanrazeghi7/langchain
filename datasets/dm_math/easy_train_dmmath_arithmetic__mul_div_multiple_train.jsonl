@@ -1,0 +1,100 @@
+{"question": "What is the value of (-126)/(-63)*(-18)/(-4)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "9"}
+{"question": "What is (-10)/8*1272/(-265)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "6"}
+{"question": "What is (-6)/24*0*2/(-4)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "0"}
+{"question": "((-8)/(-3))/(6*(-10)/(-15))", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/3"}
+{"question": "What is 2*(-9)/(-324)*(-8)/(-2)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/9"}
+{"question": "Evaluate (-1)/((4/(-10))/((-132)/55)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-6"}
+{"question": "What is (-2)/16*(2*12)/4?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3/4"}
+{"question": "What is the value of ((-7)/(-210))/((-8)/72)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3/10"}
+{"question": "Evaluate (20/5)/120*-4.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/15"}
+{"question": "Evaluate 56/(-56)*1*8/(-6).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4/3"}
+{"question": "What is the value of (-20)/(-8)*(-2)/(-20)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/4"}
+{"question": "What is (6/4)/(-9*9/12)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/9"}
+{"question": "1*4*(-9)/9", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-4"}
+{"question": "What is (-72)/(-30)*75/(-30)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-6"}
+{"question": "Evaluate (((-294)/(-6))/7)/1.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "7"}
+{"question": "What is (-5)/2*(-2)/(-2)*-2?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "5"}
+{"question": "What is (84/1512)/((-2)/(-24))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/3"}
+{"question": "Calculate 4/20*15/(-9).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/3"}
+{"question": "Evaluate (-90)/(-510)*2/(-3).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/17"}
+{"question": "6/(-90)*16/(-8)", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/15"}
+{"question": "Calculate (-54)/(-48)*2/(-3)*-4.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "3"}
+{"question": "Calculate ((-7)/(-21))/((-11)/(-3)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/11"}
+{"question": "(8*(-10)/(-240))/((-21)/18)", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/7"}
+{"question": "What is the value of ((-10)/(-160))/((-4)/8)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/8"}
+{"question": "Calculate (-58)/87*(-9)/8.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "3/4"}
+{"question": "What is 12/(-45)*20/(-12)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4/9"}
+{"question": "(-4)/(-8)*8/16", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/4"}
+{"question": "Calculate (3/21)/(18/(-18)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/7"}
+{"question": "What is ((-1)/3)/((-190)/(-1710))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3"}
+{"question": "Evaluate (0/4)/((-10)/10).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "0"}
+{"question": "Calculate 5*(-8)/(-56)*7.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "5"}
+{"question": "What is the value of (-11)/(-7)*(-588)/(-1078)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "6/7"}
+{"question": "Evaluate (10/25)/2*5*4.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4"}
+{"question": "What is (-80)/(-16)*(-2)/55?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/11"}
+{"question": "What is ((-8)/24)/((-2)/(-18))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3"}
+{"question": "(-3)/((-9)/(-4))*(-22)/22", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4/3"}
+{"question": "What is the value of 0/(-1)*23/(-46)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "0"}
+{"question": "Evaluate 0*3/6*(-5)/(-10).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "0"}
+{"question": "What is the value of ((-12)/(-27))/(3*4/108)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4"}
+{"question": "Evaluate (6*(-2)/(-42))/((-1)/1).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/7"}
+{"question": "Calculate 81/108*32/42.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4/7"}
+{"question": "What is (1/(-8))/(11/22)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/4"}
+{"question": "Evaluate (-80)/(-20)*(-5)/(-140).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/7"}
+{"question": "(-57)/(-114)*4/(-2)", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1"}
+{"question": "Calculate 3/((-5)/2*-2).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "3/5"}
+{"question": "Calculate 5/((-15)/36)*(-3)/(-6).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-6"}
+{"question": "Evaluate 12/9*-2*6/(-16).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1"}
+{"question": "What is (-4)/(-16)*0/2?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "0"}
+{"question": "(1/12)/(((-10)/6)/(-5))", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/4"}
+{"question": "What is 10/360*8*1/(-1)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/9"}
+{"question": "What is 12*(7/(-1))/28?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3"}
+{"question": "Calculate ((-12)/42)/(21/(-49)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/3"}
+{"question": "What is the value of ((650/15)/13)/((-14)/21)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-5"}
+{"question": "(-6)/8*(-5)/15*-3", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3/4"}
+{"question": "What is the value of 4*(-7)/(-28)*-3?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3"}
+{"question": "What is the value of (3/(-9))/((-3)/(-18))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2"}
+{"question": "Evaluate (24/20)/(36/(-120)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-4"}
+{"question": "Evaluate ((-16)/20)/4*0.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "0"}
+{"question": "What is ((-16)/(-12))/(8/6)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1"}
+{"question": "What is the value of 4/((56/35)/(2*1))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "5"}
+{"question": "What is the value of (25/15)/(8/24)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "5"}
+{"question": "Evaluate 6/(-648)*-9*2.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/6"}
+{"question": "What is the value of (-3*(-4)/(28/(-7)))/9?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/3"}
+{"question": "What is the value of (-12)/(-6)*4*(-1)/6?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-4/3"}
+{"question": "Calculate ((-4)/(-20)*-5)/(1/3).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3"}
+{"question": "Calculate ((-3)/8)/((207/12)/(-23)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/2"}
+{"question": "Calculate ((-96)/32)/(6/8).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-4"}
+{"question": "((-8)/(-6))/((-64)/(-144))", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "3"}
+{"question": "Evaluate (5/((-70)/4))/((-175)/245).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/5"}
+{"question": "Calculate ((-5)/(150/(-12)))/((-8)/20).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1"}
+{"question": "What is the value of (10/(-4))/(-5)*(-33)/(-22)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "3/4"}
+{"question": "Evaluate (3*(-2)/18)/(25/15).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/5"}
+{"question": "5/((-50)/(-5))*(-252)/18", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-7"}
+{"question": "Calculate (-3)/4*232/(-435).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/5"}
+{"question": "What is the value of ((-32)/80)/(2/(-5))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1"}
+{"question": "(((-3)/1)/3)/((-69)/23)", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/3"}
+{"question": "Calculate (-20)/50*5/(-6).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/3"}
+{"question": "Calculate (-5*(-3)/(-9))/((-1)/3).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "5"}
+{"question": "Calculate 11/((-132)/(-18))*(-20)/6.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-5"}
+{"question": "What is the value of (-2)/6*750/125?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2"}
+{"question": "What is (9/3)/(-9*(-8)/216)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "9"}
+{"question": "Calculate 17/(204/16)*(-6)/4.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2"}
+{"question": "What is ((-75)/50)/((-1)/(-2))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-3"}
+{"question": "What is ((-21)/(-14))/((-3)/(-12)*3)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2"}
+{"question": "What is the value of 8/4*4/(-32)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/4"}
+{"question": "-1*4*10/(-30)*3", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4"}
+{"question": "Evaluate -1*15*(-40)/120.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "5"}
+{"question": "Calculate (0/(54/6))/((-1)/(-1)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "0"}
+{"question": "What is (119/51)/((-21)/(-18))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2"}
+{"question": "Calculate 2/(-2)*1*90/45.", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2"}
+{"question": "((-6)/(-252)*7)/(1/(-4))", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/3"}
+{"question": "What is the value of (8*2/16)/((-22)/4)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-2/11"}
+{"question": "What is ((-3)/(-14))/(24*11/(-176))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/7"}
+{"question": "(-8)/(-6)*(162/(-12))/3", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-6"}
+{"question": "What is the value of (7/(-28)*2)/((-6)/(-4))?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-1/3"}
+{"question": "What is the value of (1/8)/(9/12)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1/6"}
+{"question": "Calculate (32/10)/(104/130).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "4"}
+{"question": "1*(90/27)/5", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "2/3"}
+{"question": "Calculate (-2)/(-6*(-6)/(-18)).", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "1"}
+{"question": "What is ((-2)/2)/(56/280)?", "split": "easy_train_dmmath_arithmetic__mul_div_multiple.txt", "answer": "-5"}

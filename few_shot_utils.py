@@ -5,9 +5,8 @@ import numpy as np
 import xmltodict
 
 from datasets import load_dataset
-
 from langchain.chains import LLMChain
-from langchain.prompts import BasePromptTemplate, FewShotPromptTemplate2, PromptTemplate, LastLetterConcat, LastLetterOutputParser, LastLetterConcatCoT, LastLetterOutputParserCoT
+from langchain.prompts import BasePromptTemplate, FewShotPromptTemplate2, PromptTemplate, LastLetterConcat, LastLetterOutputParser, LastLetterConcatCoT, LastLetterOutputParserCoT, NoPrefix, NoPrefixOutputParser
 
 
 def make_batch(question_list, batch_size):
@@ -42,8 +41,8 @@ def set_up_letter_concat_data_set(data_set_name: str, shots: int, learning_mode:
     # reads the data from and returns a FewShotPromptTemplate2 it should have exmpla_templat and ouput_parser
     train_data = read_jsonl(f"./datasets/{data_set_name}_1000.0_2_train.jsonl")
     test_data = read_jsonl(f"./datasets/{data_set_name}_1000.0_2_test.jsonl")
-    train_shots = random.choices(train_data, k=shots)
-    if learning_mode == 'standard':
+    train_shots = random.sample(train_data, k=shots)
+    if learning_mode == 'icl':
         example_template = LastLetterConcat()
         input_variables=['question', 'answer']
         output_parser = LastLetterOutputParser()
@@ -53,28 +52,45 @@ def set_up_letter_concat_data_set(data_set_name: str, shots: int, learning_mode:
         output_parser = LastLetterOutputParserCoT()
     return test_data, FewShotPromptTemplate2(examples = train_shots, example_template=example_template, input_variables=input_variables, output_parser=output_parser)
 
+def set_up_arithmetics(data_set_name: str, shots: int, learning_mode: str) -> FewShotPromptTemplate2:
+    # reads the data from and returns a FewShotPromptTemplate2 it should have exmpla_templat and ouput_parser
+    train_data = read_jsonl(f"./datasets/simple_arithmetics/arithmetic-train-{data_set_name}.jsonl")
+    test_data = read_jsonl(f"./datasets/simple_arithmetics/arithmetic-dev-{data_set_name}.jsonl")
+    train_shots = random.sample(train_data, k=shots)
+    if learning_mode == 'icl':
+        example_template = LastLetterConcat()
+        input_variables=['question', 'answer']
+        output_parser = LastLetterOutputParser()
+    return test_data, FewShotPromptTemplate2(examples = train_shots, example_template=example_template, input_variables=input_variables, output_parser=output_parser)
+
+
 
 
 def set_up_gsm8k(data_set_name: str, shots: int, learning_mode: str):
-    dataset = load_dataset("gsm8k", "main")
-    test_data = list(dataset['train']) #here we use the train data as the dev set
-    test_data = reform_gsm8k_list(test_data)
-    if learning_mode == 'standard':
-        # train_data = list(dataset['train'])
-        # train_data = reform_gsm8k_list(train_data)
-        # train_shots = random.choices(train_data, k=shots)
-        # example_template = LastLetterConcat() # should change the name
-        # input_variables=['question', 'answer']
-        # output_parser = LastLetterOutputParser()
+    test_data = read_jsonl("./datasets/gsm8k/GSM8k-dev-seperated.jsonl")
+    if learning_mode == 'icl':
         train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
         example_template = LastLetterConcat()
         input_variables=['question', 'answer']
         output_parser = LastLetterOutputParser()
     else:
-        train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        if learning_mode == 'standard_cot':
+            train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        else:
+            train_shots = read_jsonl(f"./datasets/gsm8k/GSM8k-dev-seperated.jsonl")
+            train_shots = random.sample(train_shots, k=shots)
         example_template = LastLetterConcatCoT()
         input_variables=['question', 'explanation']
         output_parser = LastLetterOutputParserCoT()
+    return test_data, FewShotPromptTemplate2(examples = train_shots, example_template=example_template, input_variables=input_variables, output_parser=output_parser)
+
+def set_up_dm_math(data_set_name: str, shots: int, learning_mode: str):
+    train_shots = read_jsonl(f"./datasets/dm_math/{data_set_name}_train.jsonl")
+    train_shots = random.sample(train_shots, k=shots)
+    test_data = read_jsonl(f"./datasets/dm_math/{data_set_name}_dev.jsonl")
+    example_template = NoPrefix()
+    input_variables=['question', 'answer']
+    output_parser = NoPrefixOutputParser()
     return test_data, FewShotPromptTemplate2(examples = train_shots, example_template=example_template, input_variables=input_variables, output_parser=output_parser)
 
 
@@ -89,14 +105,16 @@ def set_up_svamp(data_set_name: str, shots: int, learning_mode: str):
         question['answer'] = golden_answer
         question['explanation'] = None
     
-    if learning_mode == 'standard':
+    if learning_mode == 'icl':
         # raise ValueError('SVAMP does not have a train set for standard learning as of now')
         train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        train_shots = random.sample(train_shots, k=shots)
         example_template = LastLetterConcat()
         input_variables=['question', 'answer']
         output_parser = LastLetterOutputParser()
     else:
         train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        train_shots = random.sample(train_shots, k=shots)
         example_template = LastLetterConcatCoT()
         input_variables=['question', 'explanation']
         output_parser = LastLetterOutputParserCoT()
@@ -114,14 +132,16 @@ def set_up_asdiv(data_set_name: str, shots: int, learning_mode: str):
         question['answer'] = golden_answer.strip()
         question['explanation'] = None
     
-    if learning_mode == 'standard':
+    if learning_mode == 'icl':
         # raise ValueError('asdiv does not have a train set for standard learning as of now')
         train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
-        example_template = LastLetterConcat()
+        train_shots = random.sample(train_shots, k=shots)
+        example_template = NoPrefix()
         input_variables=['question', 'answer']
-        output_parser = LastLetterOutputParser()
+        output_parser = NoPrefixOutputParser()
     else:
         train_shots = read_jsonl(f"./datasets/cot_prompt_math_8shot.jsonl")
+        train_shots = random.sample(train_shots, k=shots)
         example_template = LastLetterConcatCoT()
         input_variables=['question', 'explanation']
         output_parser = LastLetterOutputParserCoT()
@@ -135,17 +155,25 @@ def set_up_data_set(data_set_name: str, shots: int, learning_mode: str) -> FewSh
     if data_set_name == 'last_letter' or data_set_name == 'first_letter':
         return set_up_letter_concat_data_set(data_set_name, shots, learning_mode)
     elif data_set_name == 'gsm8k':
-        if learning_mode == 'cot' and shots != 8:
-            raise ValueError("GSM8K dataset only supports 8 shots in CoT learning mode because we are following the original paper wei 2022")
+        if 'cot' in learning_mode and shots > 8:
+            raise ValueError("GSM8K dataset only supports less than 8 shots in CoT learning mode because we are following the original paper wei 2022")
         return set_up_gsm8k(data_set_name, shots, learning_mode)
     elif data_set_name == 'svamp':
-        if learning_mode == 'cot' and shots != 8:
+        if 'cot' in learning_mode and shots != 8:
             raise ValueError("svamp dataset only supports 8 shots in CoT learning mode because we are following the original paper wei 2022")
         return set_up_svamp(data_set_name, shots, learning_mode)
     elif data_set_name == 'asdiv':
-        if learning_mode == 'cot' and shots != 8:
+        if 'cot' in learning_mode and shots != 8:
             raise ValueError("asdiv dataset only supports 8 shots in CoT learning mode because we are following the original paper wei 2022")
         return set_up_asdiv(data_set_name, shots, learning_mode)
+    elif "dmmath" in data_set_name:
+        if 'cot' in learning_mode:
+            raise ValueError("dm_math do not have explanations")
+        return set_up_dm_math(data_set_name, shots, learning_mode)
+    elif "digits" in data_set_name:
+        if 'cot' in learning_mode:
+            raise ValueError("arithmetics do not have explanations")
+        return set_up_arithmetics(data_set_name, shots, learning_mode)
     else:
         raise ValueError("Dataset not supported")
 

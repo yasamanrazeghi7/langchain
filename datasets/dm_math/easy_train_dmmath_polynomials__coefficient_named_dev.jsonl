@@ -1,0 +1,100 @@
+{"question": "Express 10*m + 10*m - 13*m in the form h*m + v and give h.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "7"}
+{"question": "Express -7*x - x**2 + 2 - 5*x**4 + 2*x**2 + 7*x + x**3 as l + b*x**2 + w*x**4 + s*x + c*x**3 and give w.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-5"}
+{"question": "Rearrange (3 - 3 - p)*(-101 + 205 - 149 + (-2 + 4 - 3)*(1 + 5 - 4) + 1 - 1 + 2) to the form s*p + h and give s.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "45"}
+{"question": "Express (5*h - 4*h + 0*h)*(0*h + 0*h - h**2) - h**3 - 5*h**3 + 3*h**3 - 3*h + 3*h - 2*h**3 as j + p*h**3 + l*h + g*h**2 and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-6"}
+{"question": "Rearrange 2*z + 2*z**3 - 3*z + 4 - 3*z**3 to h + f*z**2 + s*z**3 + b*z and give s.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Rearrange 5*q**2 + 9*q**2 + 19*q**2 to the form j + w*q + u*q**2 and give u.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "33"}
+{"question": "Rearrange ((-2 + 2*s + 2)*(1 + 2 - 2) + s - 8*s + 0*s)*(1 - 2*s**2 - 1) to k*s**3 + y + t*s + m*s**2 and give k.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "10"}
+{"question": "Express r**2 + r**3 - 4*r**2 + 2*r**2 - 2*r**3 in the form a*r**3 + w*r**2 + k*r + y and give a.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Rearrange -15 + 4*v**3 + 2*v**2 + 13 - 3*v**3 to c + k*v**2 + p*v**3 + d*v and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Rearrange 2 + 1 + 104*k - 111*k to i + n*k and give i.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "3"}
+{"question": "Rearrange -7*d - 2 + 0*d + 12*d to k*d + b and give k.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "5"}
+{"question": "Express m + 4*m + 13*m as x + r*m and give r.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "18"}
+{"question": "Rearrange 0*o**2 + 239*o**3 - o**2 - 240*o**3 - o to d*o**3 + u*o**2 + f + y*o and give f.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "0"}
+{"question": "Express -3 + 1 - 2 + j**3 - 228*j + 230*j + 2*j**2 as r*j + a + s*j**2 + u*j**3 and give a.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-4"}
+{"question": "Express 0*k**3 - 7*k**4 + k**2 + 2 + 4*k**3 + k**2 - 3*k**3 in the form i*k + t*k**3 + u*k**2 + g + l*k**4 and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Rearrange -645 - 75*p + 1285 - 642 to the form o*p + r and give r.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Express w**3 + 7*w**4 - 2 + 5 + 3*w**4 + 3*w**4 as y*w + i*w**3 + o*w**4 + j*w**2 + u and give i.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Express 185 - 93 + 69*l**2 - 92 in the form y + x*l + r*l**2 and give r.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "69"}
+{"question": "Express -h + 1 - 1 + (-5 + 2 + 2)*(-h + h + 2*h) + (-3 + 3 - 2)*(-122*h + 157*h - 268*h) + (h + 2*h - h)*(0 + 2 + 0) as s*h + i and give s.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "467"}
+{"question": "Rearrange (-13 + 19 - 16)*(5 - 9 - 2*g + 7) to the form p + q*g and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-30"}
+{"question": "Rearrange (-4*s + 63 + 3*s - 66)*(-3 + 0 + 2)*((-6 + 3 + 1)*(-s - s + 0*s) + 0 + s + 0) to b*s + w*s**2 + n and give b.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "15"}
+{"question": "Rearrange -444*c + 444*c + 41*c**2 - 187*c**2 to the form j*c**2 + x + a*c and give j.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-146"}
+{"question": "Express -299*c**2 + 48 - 295*c**2 + 595*c**2 as t*c**2 + k + f*c and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Rearrange -28*h**2 + 1 + h**2 + 0 - 2 to the form g*h**2 + r + c*h and give g.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-27"}
+{"question": "Rearrange n**3 + 0*n + 0*n - 2*n + 2 - 4*n - 3*n**2 to y*n**3 + d*n**2 + x + c*n and give x.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "2"}
+{"question": "Rearrange 18*h + 5*h**2 - 18*h + 1 to the form q*h**2 + d*h + p and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Rearrange 6 - a + 10 - 3 to p*a + m and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Rearrange 5 + 341*a - 341*a - 3*a**2 to the form k*a**2 + v + u*a and give k.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-3"}
+{"question": "Express -47*c - 37*c - c - 2*c as h*c + k and give h.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-87"}
+{"question": "Express -a**2 - 2*a**3 + 5*a**2 - 3*a**2 + 3*a**3 as x*a + c + d*a**3 + l*a**2 and give l.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Express -168 + 168 - 2*i**2 + (-i**2 + 0 + 0)*(0 - 2 + 4) in the form k*i**2 + q + o*i and give k.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-4"}
+{"question": "Rearrange (n + 3*n - 3*n)*(2 - 2 - 2) + (2 + 4 + 0)*(-5 + 2 + 5)*(4*n - 4*n - 2*n) to a*n + v and give a.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-26"}
+{"question": "Express -16*y**2 + 2689 + 5*y - 2689 as c*y**2 + l + m*y and give c.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-16"}
+{"question": "Express 2*w**3 - 19*w - 32 + 32 - 2*w**2 as h*w**3 + m + p*w + r*w**2 and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-19"}
+{"question": "Rearrange -6*x**2 + 1 - x**4 + 7*x**2 - 4*x**3 + 0*x**4 + 0 to j + i*x**2 + d*x + p*x**4 + w*x**3 and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Express (4 - 691*v**4 + 692*v**4 + 2)*(-6 + 3 + 4) - 2*v**4 - 2*v**4 + 0*v**4 as p*v**3 + j*v**4 + x + r*v**2 + d*v and give j.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-3"}
+{"question": "Express (-r + 14*r - r)*(-3 + 1 + 1) + (-4 + 4 + 3*r)*(-7 + 4 + 2) as l + a*r and give a.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-15"}
+{"question": "Express 3*t - 3*t - 7*t**2 + 0*t as g*t**2 + v*t + m and give g.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-7"}
+{"question": "Rearrange -4 + 4 - m**3 + 4*m**3 - 4 to j*m**3 + c*m + r + p*m**2 and give j.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "3"}
+{"question": "Express 2 - c**3 + c**2 + 18*c**4 - 3*c**2 - 20*c**4 + c**2 in the form a*c**2 + z*c + f*c**4 + k + b*c**3 and give a.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Rearrange -m - 14*m**2 - 4*m**3 + 15*m**2 - 1 + m to y*m**3 + g + w*m**2 + u*m and give y.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-4"}
+{"question": "Rearrange (-1 + 1 - 2*o**2)*(-3*o + 5*o + o) - o + 4*o**3 + o to the form p*o**3 + z*o**2 + v*o + x and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Express 7*f - 18*f - 22*f + 6*f in the form w*f + z and give w.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-27"}
+{"question": "Rearrange (2*q - 2 + 2 + (3 - 1 - 3)*(3 - 3 - q) + 4 - 4 - q)*(2 - 3 + 3*q - 5*q) to d*q**2 + v*q + o and give d.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-4"}
+{"question": "Rearrange (4*p**3 - 4*p**3 - 19*p**3)*(-7*p + 3*p + 3*p) to a*p**3 + k + y*p + u*p**2 + j*p**4 and give j.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "19"}
+{"question": "Rearrange -68 + 31 - 44*w + 37 to o*w + j and give o.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-44"}
+{"question": "Rearrange -4*q + 9*q - 2*q**3 + 0*q**3 + q**2 + 2*q**4 + 0*q**4 to the form z*q + x + n*q**2 + f*q**3 + l*q**4 and give n.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Rearrange 5*j**2 - j**2 + 4*j**3 + 2*j**2 - 2*j**3 to the form f*j + b*j**3 + z*j**2 + n and give z.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "6"}
+{"question": "Express (-2 + 0 + 4)*(2 + 1 - 1)*(-3 + 0 + 2)*(-2*w + 15*w + 242 - 243) in the form n + f*w and give f.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-52"}
+{"question": "Rearrange -3*s + 3*s + s**2 + (-5*s + 4*s - s)*(s + 3*s - 2*s) to the form c + f*s**2 + q*s and give f.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-3"}
+{"question": "Rearrange (8*b + 2*b - b)*(b - b - 3*b + 0*b - b - b + (-5 + 3 + 1)*(0 + 0 + b)) to the form t*b**2 + r*b + z and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-54"}
+{"question": "Rearrange 19*v + 13 - 29*v - 14 to c*v + n and give c.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-10"}
+{"question": "Express 0*j**3 - j + 1 - 1 + 23*j**3 as t*j + y*j**3 + z*j**2 + q and give y.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "23"}
+{"question": "Rearrange (24*f - 18*f + 18*f)*(-4 + 5 + 1)*(f - 4*f + 4*f) to the form z*f + t*f**2 + r and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "48"}
+{"question": "Rearrange 2 - 2 + r**3 + (-63 + 59*r**3 + 63)*(-1 + 5 - 1) to t*r**2 + c*r + a + v*r**3 and give v.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "178"}
+{"question": "Rearrange f + f**3 - 4*f - 1 + 2 to v*f**2 + x*f + k*f**3 + q and give x.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-3"}
+{"question": "Rearrange 367 - 367 - 24*c + 129*c to the form t*c + s and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "105"}
+{"question": "Express -25 - 2*t**2 - 28*t**4 + 24 + 5*t**2 in the form h*t**3 + a*t**2 + z*t**4 + v*t + m and give m.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Rearrange 58*y + 119 - 119 to m*y + l and give m.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "58"}
+{"question": "Express 21*n**2 - 12*n**2 + 10*n**2 + 2*n as v*n**2 + r*n + f and give r.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "2"}
+{"question": "Express (-16*x + 7*x - 2*x)*(3 - 3 + 2*x**2) - 6*x**3 + 2*x**3 + 2*x**3 + (2*x + 2*x**2 - 2*x)*(2 - 2 - x) as j*x + h*x**3 + l*x**2 + q and give h.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-26"}
+{"question": "Express -5 + 2 + d - 2*d**3 + 1 as u + o*d + l*d**3 + v*d**2 and give l.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Express -3 - 6*t**3 - t**4 - t**2 + 5*t**3 - 13 - 10 as d + b*t**3 + n*t + x*t**2 + m*t**4 and give x.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Rearrange (-109*c**2 + 109*c**2 + 51*c**4)*(1 + 1 + 0) to k*c**3 + u*c + f + n*c**4 + z*c**2 and give k.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "0"}
+{"question": "Express 13*s**2 - 27*s**2 - 5*s**2 as j*s + g + l*s**2 and give l.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-19"}
+{"question": "Express (b + 3 - 3)*(9 - 2 + 8) in the form v*b + y and give v.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "15"}
+{"question": "Rearrange 3*i**3 - 43*i - 1 + 80*i - 43*i to the form g + u*i**2 + a*i**3 + t*i and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-6"}
+{"question": "Rearrange -6*g**3 + 2 + g + 3*g**3 - 12 + 5*g**3 to the form p*g + c*g**2 + j + d*g**3 and give p.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Express -2*c**2 + c**3 + 2*c - 5*c**3 + 3*c**3 in the form f + q*c + h*c**3 + o*c**2 and give h.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Rearrange (-7 + 4 + 4 - u - 11*u**2)*(0*u - u - u) to the form h*u**2 + p + k*u**3 + r*u and give h.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "2"}
+{"question": "Express (0*x + 4*x**2 + 0*x)*(3*x + 5 - 5) + (-2*x**2 + 2*x**2 + x**2)*(-1 - x + 1) + 2*x**3 + 1 - 1 in the form r + s*x**3 + a*x + l*x**2 and give s.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "13"}
+{"question": "Express (-2*q - 4 + 4)*(147*q**2 - 25*q**2 + 118*q**2 + 116*q**2) in the form t + b*q**3 + i*q + w*q**2 and give b.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-712"}
+{"question": "Rearrange 3*p**3 + p**4 - 3*p**3 + (-4 + 7 - 4)*(-1 + 2 + 0)*(0*p**3 + 8*p**4 + 0*p**3) to the form q + v*p**3 + t*p + c*p**4 + h*p**2 and give c.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-7"}
+{"question": "Express (0 + 0 + 2*p**2)*((7*p - 3*p - 2*p)*(1 + 2 - 1) - 3 + 3*p + 3) as w*p**3 + m + g*p + k*p**2 and give w.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "14"}
+{"question": "Express -23*w**3 - 2*w**4 - 2 + 4*w - 2*w + 21*w**3 + 4*w**4 - 4*w**2 as t*w**3 + c*w**2 + d*w + g + m*w**4 and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Rearrange 2*s - 2*s**3 + 6*s**2 + 0*s - 4*s**2 to the form t*s**3 + n*s + g*s**2 + y and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Express (1 - 2 - 4)*(-175*o**4 + 93*o**4 + 102*o**4) in the form g*o**3 + s + z*o**2 + r*o**4 + j*o and give r.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-100"}
+{"question": "Rearrange (3 - 1 - 4)*(-5 + 2 + 4 - 20*q**2) to the form v*q**2 + i*q + g and give g.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Rearrange -2*a**4 + 2*a - 243*a**3 - 3*a**2 + 1 - 2 + 240*a**3 to u*a**4 + r*a + t + s*a**3 + y*a**2 and give y.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-3"}
+{"question": "Rearrange -60*l - 61 + 61 to i + o*l and give o.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-60"}
+{"question": "Express -7*q**2 + 103*q**3 - q**4 - 210*q**3 + 1 + 2*q + 105*q**3 as c*q**3 + n*q**4 + u*q**2 + o*q + i and give o.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "2"}
+{"question": "Express -5*o**2 + 2*o**2 - o**2 + (4 - 4 - 2*o)*(-2 + 2 + 2*o) as a*o**2 + l + w*o and give a.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-8"}
+{"question": "Express (-4*i + 0*i + 3*i)*(0*i**3 - 2*i**3 - 4*i**3)*(-3 + 5 - 3) - i + i + i**4 in the form s*i**4 + z*i + m*i**3 + w*i**2 + b and give s.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-5"}
+{"question": "Rearrange -2 - 4 - p**2 + 3*p**2 - p**4 + 1 to the form h*p**2 + r*p**3 + u*p**4 + t*p + k and give k.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-5"}
+{"question": "Rearrange (s + 0*s + 3*s)*(-10*s + s + 0*s) to the form b*s + m*s**2 + d and give m.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-36"}
+{"question": "Express -3*z**3 + 5*z**3 + 5*z - 2*z**4 - 104 - z**2 + 102 as w*z**2 + d*z**4 + j + h*z**3 + q*z and give q.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "5"}
+{"question": "Rearrange 2*d - 3*d + 3*d + (-4*d + 40 - 79 + 43)*(-1 + 2 + 0) to r*d + y and give r.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Rearrange 7*m**4 - 5*m**4 - m**3 + 0*m**4 + 2*m to f + o*m**3 + x*m**2 + u*m**4 + v*m and give o.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1"}
+{"question": "Express n - 50*n**2 + 30*n**2 + 2 + 0 + 29*n**2 as u*n + o + z*n**2 and give u.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "1"}
+{"question": "Rearrange (-3 + 2 + 0)*((4 - 1 - 1)*(4*w - 5*w - w) - 4 - 2*w + 4)*(2 - 1 + 0) to g*w + j and give g.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "6"}
+{"question": "Express 2*y - 2*y - 10*y - 4*y in the form x*y + q and give x.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-14"}
+{"question": "Rearrange (-2*c - 3 + 3 + 2 + (-2 - 1 + 1)*(0*c + 0*c + c))*(-2*c - c + 2*c) to i*c + m + h*c**2 and give i.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Rearrange 35*i**2 + 10*i**2 + 27*i**2 - 11*i**2 to the form j*i**2 + h*i + p and give h.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "0"}
+{"question": "Rearrange -6 + 5*a**2 + 4 + 28*a**2 to the form l*a + g*a**2 + w and give w.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-2"}
+{"question": "Rearrange -4*k**2 - 325*k + 325*k to the form c*k**2 + y*k + u and give c.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-4"}
+{"question": "Express (-3*f + 2*f + 3*f)*(-123 - 81 - 179 - 331) in the form v + t*f and give t.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-1428"}
+{"question": "Rearrange -4*c - c + 5*c + 22*c**2 to z + y*c + w*c**2 and give w.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "22"}
+{"question": "Rearrange (-3*p**2 + 0*p**2 + 2*p**2)*(-p + 4*p + p)*(-1 - p + 3 - 1) to a*p**3 + j + s*p**4 + n*p + g*p**2 and give a.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-4"}
+{"question": "Rearrange (3*y**2 + y**2 - 2*y**2)*(-2*y - 7*y + y) to r + h*y**2 + i*y**3 + p*y and give i.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "-16"}
+{"question": "Rearrange 0*l + 0*l - l**3 + (-6*l + 4*l + 4*l)*(3*l**2 + 3*l**2 - 4*l**2) to p*l**2 + t + s*l**3 + r*l and give r.", "split": "easy_train_dmmath_polynomials__coefficient_named.txt", "answer": "0"}

@@ -1,0 +1,100 @@
+{"question": "What is 20 (base 12) in base 15?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "19"}
+{"question": "Convert -10 (base 2) to base 4.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-2"}
+{"question": "Convert -103 (base 4) to base 6.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-31"}
+{"question": "What is -20 (base 4) in base 7?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-11"}
+{"question": "Convert 20202 (base 3) to base 5.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "1212"}
+{"question": "5 (base 11) to base 4", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "11"}
+{"question": "Convert 0 (base 5) to base 16.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "68 (base 10) to base 8", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "104"}
+{"question": "Convert 1 (base 4) to base 12.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "1"}
+{"question": "What is -1 (base 6) in base 16?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-1"}
+{"question": "What is -1010100 (base 2) in base 11?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-77"}
+{"question": "What is -51 (base 8) in base 14?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-2d"}
+{"question": "4 (base 16) to base 11", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "4"}
+{"question": "What is 37 (base 8) in base 6?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "51"}
+{"question": "2 (base 15) to base 3", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "2"}
+{"question": "What is 2 (base 4) in base 5?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "2"}
+{"question": "What is -23 (base 14) in base 7?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-43"}
+{"question": "What is 11 (base 4) in base 16?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "5"}
+{"question": "Convert 29 (base 14) to base 16.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "25"}
+{"question": "-32 (base 4) to base 6", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-22"}
+{"question": "-10 (base 3) to base 9", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-3"}
+{"question": "What is -3 (base 12) in base 15?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-3"}
+{"question": "Convert -16 (base 14) to base 6.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-32"}
+{"question": "5 (base 9) to base 4", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "11"}
+{"question": "Convert -42 (base 7) to base 11.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-28"}
+{"question": "-5 (base 15) to base 7", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-5"}
+{"question": "Convert 72 (base 14) to base 9.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "121"}
+{"question": "What is 10 (base 4) in base 14?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "4"}
+{"question": "18 (base 10) to base 15", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "13"}
+{"question": "Convert 0 (base 16) to base 14.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "What is -16 (base 9) in base 11?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-14"}
+{"question": "4b (base 16) to base 15", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "50"}
+{"question": "0 (base 12) to base 16", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "Convert -111 (base 5) to base 8.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-37"}
+{"question": "What is 351 (base 7) in base 15?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "c3"}
+{"question": "Convert -21 (base 4) to base 12.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-9"}
+{"question": "What is 216 (base 7) in base 14?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "7d"}
+{"question": "Convert 101 (base 8) to base 7.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "122"}
+{"question": "0 (base 12) to base 11", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "What is 0 (base 2) in base 8?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "Convert -2 (base 4) to base 13.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-2"}
+{"question": "Convert 2 (base 5) to base 8.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "2"}
+{"question": "What is 7 (base 9) in base 13?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "7"}
+{"question": "1 (base 11) to base 5", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "1"}
+{"question": "Convert -2c (base 15) to base 9.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-46"}
+{"question": "What is -110 (base 3) in base 6?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-20"}
+{"question": "22 (base 10) to base 15", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "17"}
+{"question": "4 (base 11) to base 13", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "4"}
+{"question": "What is 0 (base 10) in base 11?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "-32 (base 4) to base 14", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-10"}
+{"question": "What is 1 (base 5) in base 7?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "1"}
+{"question": "What is 44 (base 5) in base 2?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "11000"}
+{"question": "1 (base 7) to base 12", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "1"}
+{"question": "Convert 413 (base 6) to base 11.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "12a"}
+{"question": "What is -4 (base 6) in base 15?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-4"}
+{"question": "-23 (base 8) to base 11", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-18"}
+{"question": "Convert -1022 (base 3) to base 4.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-203"}
+{"question": "Convert -30 (base 5) to base 7.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-21"}
+{"question": "What is 15 (base 6) in base 10?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "11"}
+{"question": "0 (base 4) to base 12", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "-3 (base 7) to base 3", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-10"}
+{"question": "-11212 (base 3) to base 13", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-a1"}
+{"question": "What is 3 (base 4) in base 11?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "3"}
+{"question": "What is 11 (base 13) in base 5?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "24"}
+{"question": "What is 10 (base 2) in base 3?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "2"}
+{"question": "Convert 22 (base 4) to base 12.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "a"}
+{"question": "Convert 100 (base 10) to base 13.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "79"}
+{"question": "Convert 1003 (base 4) to base 14.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "4b"}
+{"question": "Convert 4 (base 9) to base 7.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "4"}
+{"question": "-3 (base 4) to base 12", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-3"}
+{"question": "What is -2 (base 8) in base 16?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-2"}
+{"question": "0 (base 5) to base 16", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "Convert -68 (base 9) to base 2.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-111110"}
+{"question": "Convert -43 (base 5) to base 9.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-25"}
+{"question": "Convert 12 (base 4) to base 8.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "6"}
+{"question": "What is -37 (base 13) in base 15?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-31"}
+{"question": "What is 1 (base 12) in base 16?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "1"}
+{"question": "Convert 0 (base 16) to base 7.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "0"}
+{"question": "10 (base 4) to base 10", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "4"}
+{"question": "Convert 3 (base 15) to base 16.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "3"}
+{"question": "Convert 1 (base 13) to base 14.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "1"}
+{"question": "Convert 12 (base 9) to base 6.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "15"}
+{"question": "3 (base 7) to base 6", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "3"}
+{"question": "What is -47 (base 8) in base 9?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-43"}
+{"question": "Convert -1223 (base 4) to base 9.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-128"}
+{"question": "Convert -10000011 (base 2) to base 6.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-335"}
+{"question": "-1210 (base 3) to base 2", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-110000"}
+{"question": "-22022 (base 3) to base 9", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-268"}
+{"question": "Convert 34 (base 16) to base 4.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "310"}
+{"question": "Convert -5 (base 13) to base 16.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-5"}
+{"question": "58 (base 10) to base 5", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "213"}
+{"question": "What is -6 (base 14) in base 11?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-6"}
+{"question": "Convert 119 (base 11) to base 7.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "261"}
+{"question": "-6 (base 11) to base 8", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-6"}
+{"question": "Convert -10 (base 3) to base 10.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-3"}
+{"question": "-3 (base 12) to base 11", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-3"}
+{"question": "Convert 3 (base 14) to base 9.", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "3"}
+{"question": "What is -1121 (base 4) in base 15?", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-5e"}
+{"question": "8d (base 14) to base 8", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "175"}
+{"question": "-22 (base 8) to base 13", "split": "easy_train_dmmath_numbers__base_conversion.txt", "answer": "-15"}

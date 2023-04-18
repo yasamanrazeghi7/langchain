@@ -1,0 +1,100 @@
+{"question": "Suppose -5*n + 3*n = 3*t - 60, n - 3 = 0. What are the prime factors of 2/(-12) - (-147)/t?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose -o = -4*o + 36. List the prime factors of o.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Let j(i) = -2*i - 9. Let c be j(-6). List the prime factors of ((-17)/2)/(c/(-6)).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "17"}
+{"question": "Let v = 323 + -34. What are the prime factors of v?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "17"}
+{"question": "Let x(o) = 4*o**3 + o - 1. Suppose 3*j + 0 = 3. Let c be x(j). Suppose 2*s + s - 11 = a, 24 = a + c*s. List the prime factors of a.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Let y = 7 + -3. Suppose r = -y*r. Suppose -3*w - 4*s + 4 = r, -4*w + 40 - 14 = -5*s. What are the prime factors of w?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose 0 = -b + 4*b. Suppose b*h + 9 = 3*h. What are the prime factors of (2/(-6) + 1)*h?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Let u be 1 - (-6 - -3 - 34). Let c = u - 19. What are the prime factors of c?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "19"}
+{"question": "Let z(r) be the second derivative of 2*r + 0 - 2*r**2 - 4/3*r**3 - 1/12*r**4. What are the prime factors of z(-3)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Let i(l) = 0 - 5*l + 0 - 4 + 0 + 2*l**2. List the prime factors of i(5).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 7"}
+{"question": "Let j be (-1)/(-2*1/4). Let n be (-66)/(1*(j + -1)). Let d = -47 - n. What are the prime factors of d?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "19"}
+{"question": "Let g be 12/(-14)*7*-1. Let d(y) = -y**3 - 1 - 4*y - 4 + 7*y**2 - 2. List the prime factors of d(g).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "5"}
+{"question": "List the prime factors of (-2 - -216)/(2*(-4)/(-4)).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "107"}
+{"question": "Let i(u) = 10*u + 2. Let o be i(7). Let s = o - 46. What are the prime factors of s?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 13"}
+{"question": "Let d(o) = o - 2. Let m be 1 + 7 + (-4)/2. List the prime factors of d(m).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Let s(v) = v**3 - 11*v**2 + 8*v + 23. List the prime factors of s(10).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3"}
+{"question": "Let l = -5 - -9. Suppose 2*o = -10, 3*f + 3*o = l*f - 25. What are the prime factors of f?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 5"}
+{"question": "Let i be (-7 + 6)*(-6)/(-2). List the prime factors of i - 1/(-1) - -13.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Suppose -5*b + 5 = 4*d, -11 = -d + b + b. Let x(y) be the second derivative of -y**5/20 + y**4/2 - y**3/6 - y**2 + 2*y. List the prime factors of x(d).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Let g(y) = -2*y - 7. Let b = -16 + 8. What are the prime factors of g(b)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3"}
+{"question": "Let d = 2 + 3. Suppose -y + 17 = -d*g, -3*y + 0*y = -g - 23. What are the prime factors of y?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "7"}
+{"question": "Let q(z) be the second derivative of z**5/20 + z**4/3 - z**3 + z**2 - z. What are the prime factors of q(-5)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "7"}
+{"question": "Suppose -3 = s + 1. Let m be (-2)/4 + 2/s. What are the prime factors of (1 - 3)*m/1?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose 183 = 7*m - 1007. What are the prime factors of m?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 5, 17"}
+{"question": "Let x be ((-2)/(-6))/((-1)/15). Let u = x + 11. List the prime factors of u.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "List the prime factors of (-5)/((-3)/(-315)*-3).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "5, 7"}
+{"question": "Let r(h) = -h**3 + 8*h**2 - 13*h + 7. List the prime factors of r(5).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "17"}
+{"question": "Suppose 10 = 5*l - 5. Let b be -14 + 20 - 0/(-1). Suppose 6*p = l*p + b. What are the prime factors of p?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose -32 = -3*a + h, 0*h - h = 2. Suppose -4 = -2*d + o, -5*d - 3*o = -22 - a. Suppose -6 - 18 = -d*w. What are the prime factors of w?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Let f = 99 + -68. Let n = 53 - f. What are the prime factors of n?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 11"}
+{"question": "Let g be 4/((-4)/(-5)) + -2. Suppose -3*i - 70 = -4*b - 4*i, g*i - 66 = -4*b. List the prime factors of b.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Suppose -2*g - 24 = -3*f + g, 2*g = -10. Suppose -f*t = -8*t + 95. List the prime factors of t.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "19"}
+{"question": "Let v(r) = -6*r**3 - r**2. Let o be v(-1). Suppose -4*c - 7 = 3*k, k + 2*k - o*c - 2 = 0. List the prime factors of k/(-3) + (-32)/(-3).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Let w(v) = 3*v + 2. Let i be w(-4). Let a be ((-2)/5)/(1/i). Suppose -4*p - z = -5*z - 32, -p + a*z = -17. List the prime factors of p.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "5"}
+{"question": "Let d(f) = -7 + 0 - 24*f + 6. Let g be d(-1). Suppose -i + 5*z + g = 0, 0 = -5*z - 22 + 7. What are the prime factors of i?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Let q(p) = -5*p - 13. List the prime factors of q(-10).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "37"}
+{"question": "Let j = -51 - -14. Let f = -11 - j. List the prime factors of f.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 13"}
+{"question": "Let o(v) = 2*v**3 - 5*v**2 + 4*v. Suppose g + 1 = 4. List the prime factors of o(g).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 7"}
+{"question": "What are the prime factors of (366/18)/((-2)/(-36))?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3, 61"}
+{"question": "Suppose 5*l - 3*w - 863 = 395, 4*l + 2*w = 1024. What are the prime factors of l/10 + 22/(-55)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "5"}
+{"question": "Let c(v) = -53*v**3 + v**2 - 3*v + 1. List the prime factors of c(-2).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 5, 29"}
+{"question": "Let t(o) = -o - 1. Let y(a) = -a. Let j(n) = -4*t(n) + 5*y(n). List the prime factors of j(-7).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Suppose -9 = -4*y + 7. Suppose 0 = y*r + 3*s - 60, 3*r - 75 = -2*r + 4*s. List the prime factors of r.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 5"}
+{"question": "Let t(k) be the first derivative of -k**2/2 + k + 2. Let i be t(-2). List the prime factors of 3 - (-9 + 6/i).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 5"}
+{"question": "Let t(l) = 72*l + 3. List the prime factors of t(1).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 5"}
+{"question": "Suppose -a = -2*k + 95, k - 4*a = 2*k - 43. Suppose j = v + k, -2*j - 3*v = 3*j - 195. What are the prime factors of j?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3, 7"}
+{"question": "Let m = 2 - 2. Suppose -4*z = -m*z. List the prime factors of z + (6 - (-4)/(-2)).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Let b be 1/(-2) - (-1)/(-2). Let x be 6/(-1)*b/2. List the prime factors of (0 + x - -10) + -2.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Let j(t) = t**3 - 7*t**2 + 6*t + 2. Let s be (-4 - (0 + 2)) + -2. Let q be (s/(-1) + -2)/1. What are the prime factors of j(q)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose 0*i = 2*i - 4. Suppose 13 = -i*v + 3*v. List the prime factors of v.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "13"}
+{"question": "Let g(y) = -2*y - 6. Let u be g(-7). Let v(h) = h**3 - 7*h**2 - 8*h - 3. Let k be v(u). List the prime factors of k + 25 - (0 + 1).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 7"}
+{"question": "List the prime factors of 33*(28/(-12) - -3).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 11"}
+{"question": "Let u be (-14)/(-2)*32/112. Suppose 2*t + i - 99 = 0, -3*t + i = -u*t - 48. List the prime factors of t.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "7"}
+{"question": "What are the prime factors of 88/(4/2) + -2?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3, 7"}
+{"question": "Suppose -5*b - 266 = -12*b. What are the prime factors of b?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 19"}
+{"question": "Let p(c) = -16*c - 6. What are the prime factors of p(-3)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3, 7"}
+{"question": "Suppose 4*i - 285 = -r, i - 99 = 2*r - 21. List the prime factors of i.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "List the prime factors of (55/2)/((-3)/(-6)).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "5, 11"}
+{"question": "What are the prime factors of (9 + 51)*(-6)/(-8)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 5"}
+{"question": "Let b be -20*2/(16/(-6)). Suppose -5*w - 3*p + 83 = -4*p, 0 = -5*p - b. Suppose 6*q = 2*q + w. What are the prime factors of q?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose 3*b = b. List the prime factors of (10 + b)/((-1)/(-2)).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 5"}
+{"question": "Let x = -5 - 2. Let k be (2 - (0 + x))*-1. List the prime factors of (k/6)/((-3)/4).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "What are the prime factors of (91/26)/((-1)/(-14))?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "7"}
+{"question": "Let i(o) = -14*o + 12. What are the prime factors of i(-5)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 41"}
+{"question": "Suppose 4*h + 52 = 3*n, 2*n + 0*n - 3*h - 34 = 0. Suppose 7*g + n = 3*g. Let u = 8 + g. List the prime factors of u.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3"}
+{"question": "Let j(k) = k**3 - 10*k**2 + 10*k - 11. Let b be j(9). What are the prime factors of b*(-4)/((-16)/(-78))?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 13"}
+{"question": "Let l be -2*((-6)/(-4))/(-3). List the prime factors of 20 + 1/l + -1.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 5"}
+{"question": "Let q be ((0 - 1) + -1)*3. Suppose 0 = -2*k - 4, 0 = 5*f + 4*k - 2. List the prime factors of ((-3)/q - -2)*f.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "5"}
+{"question": "What are the prime factors of (2 - 17)*(-99)/5?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 11"}
+{"question": "Suppose -4*p = o - 122, p + 3*p = -3*o + 366. List the prime factors of o.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 61"}
+{"question": "Let k(j) be the third derivative of j**6/120 - j**5/12 + j**4/8 + 4*j**2. Let f be k(3). Let i = -5 - f. List the prime factors of i.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "List the prime factors of (-32*2 + 2)/(-2).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "31"}
+{"question": "What are the prime factors of (-8487)/(-135) - 2/(-15)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 7"}
+{"question": "Let h be (4 + -3)*(19 + -2). Suppose -3*t = -h - 1. What are the prime factors of t?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Let q = 16 + -4. Suppose -2*n = -3*n + q. List the prime factors of n.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Let x be ((-7)/(-2))/7*0. Suppose -4*s + 13 + 55 = x. List the prime factors of s.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "17"}
+{"question": "Suppose 0 = -4*a + 8, -2*a + 158 = 2*p + 2*a. What are the prime factors of p?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 5"}
+{"question": "Let o(s) be the first derivative of -s**2/2 + 16*s - 1. Let g be o(7). What are the prime factors of 38/6 + (-3)/g?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Suppose 0 = 2*u + 5*g + 35, 0 = u + 4*u - 2*g + 15. Let j = 16 + u. List the prime factors of j.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Let j = 34 + -11. What are the prime factors of j?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "23"}
+{"question": "Let f = -40 + 63. What are the prime factors of f?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "23"}
+{"question": "What are the prime factors of 2*327/(-2)*1/(-1)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 109"}
+{"question": "Suppose -6*r = 4*z - 2*r - 44, 0 = 3*z - 3*r - 39. What are the prime factors of z?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 3"}
+{"question": "Let a(t) = 16*t**2 + 7*t - 11. List the prime factors of a(3).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 7, 11"}
+{"question": "Let x be ((-16)/(-10))/(2/5). What are the prime factors of (-70)/(-6) + x/(-6)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Let y(v) = -v. Let x(d) = 12*d - 1. Let r(q) = -x(q) - 4*y(q). List the prime factors of r(-2).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "17"}
+{"question": "Suppose 103 = -9*j + 796. List the prime factors of j.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "7, 11"}
+{"question": "Let j be -1 - (6/3 + -3). Suppose 4*t + 12 = -2*b, j*b + 2*t - 6 = -4*b. Suppose -r - b*r + 50 = 0. List the prime factors of r.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 5"}
+{"question": "Let d = 10 + -7. Suppose d*c - 3 = 2*c. List the prime factors of c.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3"}
+{"question": "Suppose -3*i + 3*b + 9 + 9 = 0, -4*b - 12 = 0. Let j(y) = -4*y + i - 5 + 5*y. What are the prime factors of j(4)?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose -1215 = -14*q + 5*q. List the prime factors of q.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 5"}
+{"question": "Let m = 0 + 0. Suppose m*u - 20 = -u + 4*o, -2*o = 6. What are the prime factors of u?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}
+{"question": "Suppose -4*u - 25 = -3*y, -3*y - 2*u = -2 + 1. What are the prime factors of y?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3"}
+{"question": "Let y = 186 + -106. What are the prime factors of y?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 5"}
+{"question": "Let r be -2 + 0 - 5*-1. Suppose 3*h = h - 4*y + 38, r*y = -2*h + 34. List the prime factors of h.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Let b(t) be the third derivative of -t**4/24 + 2*t**2. Let o be b(4). List the prime factors of (-6)/o*(-50)/(-15).", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "5"}
+{"question": "Suppose 4*f = -5*z + 84, -24 + 4 = 5*z. What are the prime factors of f?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2, 13"}
+{"question": "Suppose -3*c + 5*l = 3*l - 55, 3*l - 15 = -2*c. What are the prime factors of c?", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "3, 5"}
+{"question": "Let p be 88/(-8)*(-1 - 0). Suppose 6*t = 7*t - p. List the prime factors of t.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "11"}
+{"question": "Let w be 4/18 - 305/(-45). Let u = -3 + w. List the prime factors of u.", "split": "easy_train_dmmath_numbers__list_prime_factors_composed.txt", "answer": "2"}

@@ -1,0 +1,100 @@
+{"question": "Expand (-3 - 12 - 7)*(-3*x + 5*x + x).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-66*x"}
+{"question": "Expand (-q + 0*q + 0*q)*(q**3 + 2*q - 2*q + (3 - 3 + 1)*(3*q - 3*q - q**3) + 0*q**2 + 0*q**2 - 2*q**3) - 6 - 10*q**4 + 6.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-8*q**4"}
+{"question": "Expand (-2*i + 4*i - 5*i)*(3 + 8 - 9)*(3 - 3 - 3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "18*i"}
+{"question": "Expand -f - 3*f + 3*f + (3 + 6 + 10)*(-4*f + 4*f - f).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-20*f"}
+{"question": "Expand -2*c**3 - 1 + 1 + 3*c**3 - 5*c**3 + 0*c**3 + (3 + 3 - 4)*(3*c**3 + 0*c**3 - 5*c**3) + 0*c + 0*c + c**3 + 8*c**3 + c**3 - 3*c**3 + 3*c**3 - c**3 + 0*c**3.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "c**3"}
+{"question": "Expand (-5*u + 2*u - 2*u)*(-2 + 5 - 2*u - 4).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "10*u**2 + 5*u"}
+{"question": "Expand (-u**2 + 3 - 4 + 0*u**2)*(7*u**3 - u**3 + 3*u**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-9*u**5 - 9*u**3"}
+{"question": "Expand -t**5 + 0 + 0 - 3*t**5 + 5*t**5 - 3*t**5 - 3*t**3 - 2*t**5 + 3*t**3 + (2*t**3 - 2*t**3 - t**4)*(4*t - t - t).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-6*t**5"}
+{"question": "Expand 2*q**4 - 6*q**4 + q**4 + (-2*q**2 + 6*q**2 - 3*q**2)*(0 + 2 - 4)*(2 - 2 + q**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-5*q**4"}
+{"question": "Expand (-2 + 2 + f)*(2*f**4 - 7*f**4 + 3*f**4) + 4*f - 4*f - f**5 + 0*f**5 - 19*f**5 + 2*f**5.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-20*f**5"}
+{"question": "Expand (-4*s**2 + 3*s**2 + 0*s**2)*(6*s - 4*s - 3*s) + 0*s**3 - 4*s**3 - 7*s**3 + (0 - 2 + 0)*(-5*s**3 + s**3 + 2*s**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-6*s**3"}
+{"question": "Expand (-2 + 1 + 0)*(-1 + 1 + 2*g) - 168*g - 3678 + 3678.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-170*g"}
+{"question": "Expand (2*t**3 - 6*t**2 + 6*t**2)*(3 - 3 + 1) + (-2 + 0 + 4)*(-t**2 - 3*t**3 + t**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-4*t**3"}
+{"question": "Expand (-2*a**2 + 3*a - 3*a)*(a - 2*a + 3*a) + 2*a**3 + 53*a - 53*a + (3 + 1 - 2)*(3 - 3 + 2*a**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "2*a**3"}
+{"question": "Expand (4 + 0 - 5)*(-2*a + 2*a - a) + (-2*a + a - 8*a)*(3 - 1 + 0).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-17*a"}
+{"question": "Expand 0*s**3 - 2*s**3 + 0*s**3 + (3*s**2 - 3*s + 3*s)*(-5 + 4*s + 5) + 0*s**3 + s**3 - 2*s**3.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "9*s**3"}
+{"question": "Expand (2*j**3 - 3*j**3 + 3*j**3 + (0*j**2 + 0*j**2 + 2*j**2)*(3*j - j - 5*j) + j**3 + 2 - 2)*(-6 + 4 + 1)*(3 + 2 - 2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "9*j**3"}
+{"question": "Expand (0 + 1 + 2)*(-q**3 + q**4 + q**3)*(6 - 6 + 2*q).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "6*q**5"}
+{"question": "Expand (1 - 3 - 1)*(x + 2*x - 5*x) - 1 + x + 1 + (2 - 1 + 0)*(-6*x + 0*x + 4*x).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "5*x"}
+{"question": "Expand (0*x + 0*x + 2*x**2)*(-189*x**2 + 189*x**2 - 29*x**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-58*x**5"}
+{"question": "Expand (-4*p + 0*p + 2*p + 3 - 3 - p + (4 - 3 - 3)*(-1 + 1 + 2*p) + 2*p - 3*p + 0*p + p + 3*p - 7*p)*(3 - 3 + 1).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-11*p"}
+{"question": "Expand (2*n - 3*n - 1 - 2*n**2 - 4*n)*(-2*n**2 + 2*n**2 - 3*n**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "6*n**4 + 15*n**3 + 3*n**2"}
+{"question": "Expand 0 + 0 + d**3 + 0 + 0 + d**3 + (4 - d - 4)*(3*d - 3*d + 2*d**2) + d**3 - 3*d**3 + 0*d**3 + (46 - 13 - 15)*(-d**3 - 3 + 3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-20*d**3"}
+{"question": "Expand (4*l + l - 3*l)*(-l**3 + l**3 + l**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "2*l**4"}
+{"question": "Expand (-3 + 4 - 2)*(66 - 66 + 5*l)*(-6 + 1 + 1)*(-l - 4*l + 3*l).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-40*l**2"}
+{"question": "Expand (0*c**2 + 3*c + 0*c**2 - 6*c**2)*(-2 + 1 + 3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-12*c**2 + 6*c"}
+{"question": "Expand (2*i**2 + 13*i + 8*i - 23*i)*(i - i + i).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "2*i**3 - 2*i**2"}
+{"question": "Expand (0 + 2 - 5 + (0 + 4 - 5)*(-1 + 3 - 4))*(-d - 2*d + 0*d).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "3*d"}
+{"question": "Expand (-7*w**2 + 5*w**2 - 2*w**2)*(-3*w + 3 - 3 + (-3 + 2 + 0)*(-2*w + 3 - 3) + 3*w - 2*w - 2*w).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "8*w**3"}
+{"question": "Expand (1 + 3 - 5)*(0*k + k + k - 3*k + 5*k + 0*k + (2*k - 2*k + 2*k)*(0 + 3 - 2) + 0*k - 4*k + 3*k + (5 - 1 - 3)*(-3*k - 2*k + 3*k) - 42*k + 8*k - 12*k).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "43*k"}
+{"question": "Expand -l**3 - 13*l**2 + 2*l**4 - 11*l**4 + 7*l**4 + (l + 2*l - 2*l)*(-l + l + l**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-l**4 - l**3 - 13*l**2"}
+{"question": "Expand ((b**3 + 0*b**2 + 0*b**2)*(-2 - 1 + 0) - 2*b**3 - 3*b**2 + 3*b**2 - b**3 - b**3 + 0*b**3)*(-4*b**2 + 5*b**2 + b**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-14*b**5"}
+{"question": "Expand (-17*n**2 + 145*n - 145*n)*(-n**2 - 3*n**2 + 5*n**2 + (-2*n + 3*n + 0*n)*(-n + 2*n + 0*n)).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-34*n**4"}
+{"question": "Expand (-3 + 0 + 2)*(d + 1 - 1 - 3*d + 4*d - 3*d - 5*d + 5*d - 2*d + (-2 + 2 + 3*d)*(-3 - 1 + 3)).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "6*d"}
+{"question": "Expand 2*a**5 + 0*a**5 - 3*a**5 + (-5*a**4 + 4*a**4 + 4*a**4)*(a + 5*a - 4*a) + a**3 - 4*a**5 - 2*a**3 + 5*a**5.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "6*a**5 - a**3"}
+{"question": "Expand (-29*y**4 - 19*y**4 + y**4)*(-2 + 2 - y).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "47*y**5"}
+{"question": "Expand (-x**2 + 4*x - 4*x)*(0 + 2 - 1)*(-21 + 8 + 78).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-65*x**2"}
+{"question": "Expand (3*l + l - 3*l)*(-2 - 7 + 0).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-9*l"}
+{"question": "Expand 2*o**5 + 2 - 2 - 3*o**5 + 4*o**5 - 2*o**5 + (6*o - o - 3*o)*(0*o + 0*o + 3*o**4).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "7*o**5"}
+{"question": "Expand (0 + 0 + 2)*(0*q + 5*q - 3*q) + (1 + 0 + 0)*(2*q - 2*q + q) - q - 2*q + 4*q - 2*q - q + 4*q.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "7*q"}
+{"question": "Expand (-5 + 5 - z**3)*(-4*z**2 + 0*z**2 + 2*z**2) + (2*z**2 - z**2 + 0*z**2)*(-4*z**3 - 23 + 23).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-2*z**5"}
+{"question": "Expand (-u**2 + u**2 + u**3)*(0 - 6 - 1 + (-3 - 4 - 1)*(-4 + 2 + 1)).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "u**3"}
+{"question": "Expand (-441 + 441 - 25*w)*(-4 - 4*w**2 + 3 + 2*w**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "50*w**3 + 25*w"}
+{"question": "Expand (3 - 3 + 2*i**2)*(2*i**2 + i**2 - i**2)*(3*i + 3*i + 0*i).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "24*i**5"}
+{"question": "Expand (7*g - 2*g - 4*g)*(-6 - 8 - 7)*(-5*g + 0*g + 4*g).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "21*g**2"}
+{"question": "Expand 4*p**2 - p**2 - 2*p**2 + (-4 + 4 - p)*(2*p + p - p) - p**2 + 59*p - 6 - 60*p - 2.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-2*p**2 - p - 8"}
+{"question": "Expand (0*n**4 + 2*n**4 - 3*n**4)*(4 - 11 + 12).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-5*n**4"}
+{"question": "Expand (-3 + 3 + 1)*(2*d + 2 - 2)*(-d + d - 2*d) + 2*d**2 - 2*d**2 + 2*d**2 - 2 - 6*d**2 + 2 + (d + 2 - 2)*(2*d + 4*d - 4*d).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-6*d**2"}
+{"question": "Expand ((2*t - 1 + 1)*(0 + 0 - t) + 4*t**2 - 3*t**2 - 2*t**2)*(82*t - 80*t - 2 + 0).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-6*t**3 + 6*t**2"}
+{"question": "Expand 9*j**5 + 0*j**5 + j**5 + (-2*j**5 + j**5 + 2*j**5)*(2 + 3 - 3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "12*j**5"}
+{"question": "Expand (-2*f**3 - f**3 + f**3)*(-4 + 3 + 10*f - 11*f).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "2*f**4 + 2*f**3"}
+{"question": "Expand ((0 - 2 + 1)*(-v + 2*v - 3*v) + 4*v - v - v - 5*v + v + v)*(-5*v + 0*v + 3*v).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-2*v**2"}
+{"question": "Expand (0*u - u - u)*(-1 - 11*u + 2*u - u).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "20*u**2 + 2*u"}
+{"question": "Expand (-15 + 15 - 7*n**2 + (-3*n - 2*n + 6*n)*(-2*n + 0*n + 4*n) + 0*n + 0*n - n**2)*(n + 3*n - 3*n).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-6*n**3"}
+{"question": "Expand (2*p**3 - 3*p**3 + 0*p**3)*(-5 - 1 + 4) + (6 - 4 - 1)*(0*p**3 + 0*p**3 + 2*p + p**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "3*p**3 + 2*p"}
+{"question": "Expand (-3*a**3 + 0*a**3 - a**3)*(a - 4*a + a) + (4 - 1 - 1)*(4*a - a**4 - 4*a) + 3*a**4 - 3*a**4 + a**4.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "7*a**4"}
+{"question": "Expand (r**3 - r**3 - 3*r**3)*(0*r + 4*r - 3*r) + 3*r**4 - 4*r**4 + 3*r**4 - 5*r**4 + 0*r**4 - r**4.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-7*r**4"}
+{"question": "Expand (-3 + s + 3)*(-1 - 4 + 4) + (-1 - 1 + 5)*((0*s + s + 0*s)*(-3 + 4 + 1) + 0*s - 4*s - 6*s).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-25*s"}
+{"question": "Expand 1 - 1 + p**5 + (2*p - 2*p - 2*p)*(1 - p**4 - 1) + p**5 + 4*p**5 + p**5.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "9*p**5"}
+{"question": "Expand (18 - 6*t - 18)*(-3 + 3 - 1) - 5*t + 3*t + 4*t.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "8*t"}
+{"question": "Expand 278 - 278 + 3*x**3 + (0*x + x**2 + 0*x)*(2*x - 3*x + 0*x).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "2*x**3"}
+{"question": "Expand (16 - 16 + 3*b)*(4 + 0 - 2)*(2*b - b - 2*b).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-6*b**2"}
+{"question": "Expand (-1 - 3 + 3)*(1 - 80*x + 28*x + 33*x).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "19*x - 1"}
+{"question": "Expand -1 - 3*a + 3*a + a + (0 - 3 + 0)*(-40*a + 61*a - 46*a).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "76*a - 1"}
+{"question": "Expand (-o + 1 - 1 + (-4*o + 6*o + 5*o)*(0 + 2 - 3))*(2*o + o - 5*o).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "16*o**2"}
+{"question": "Expand 5*c**4 + c**4 - 2*c**4 - c**2 + 6*c**4 - 3*c**4 - c**4 + (-4*c + 3*c + 3*c)*(0*c**3 - c**3 - c**3) - 2*c**4 + c**4 + 0*c**4.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "c**4 - c**2"}
+{"question": "Expand (3 + 4 - 10 + 3*n)*(0*n + 2*n + 0*n).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "6*n**2 - 6*n"}
+{"question": "Expand (2*f + 4*f - 5*f)*(3*f**2 - 3*f**2 + 2*f**2) + (f**2 + 3*f - 3*f)*(f + 0*f - 2*f).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "f**3"}
+{"question": "Expand (19*v**2 + 28*v**2 - 15*v**2)*(0*v + 0*v + 2*v**3 - 2 + 2 - 2*v**3 + (v - 3*v + 4*v)*(-2*v**2 - 2*v**2 + 2*v**2) - 6*v**2 + 6*v**2 - 3*v**3).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-224*v**5"}
+{"question": "Expand ((-2*f**2 - 4*f**2 + 4*f**2)*(2 + 0 - 5) + f - f + f**2)*(3*f**2 + 2*f**2 - f**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "28*f**4"}
+{"question": "Expand (2*r**2 + 4*r**2 - 5*r**2)*(-6*r + 8 - 8) + 2*r + 3*r + r**3 - 4*r.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-5*r**3 + r"}
+{"question": "Expand (p + 0*p - 3*p)*(2*p - 2*p - 4*p)*(4*p - 3*p + 0*p).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "8*p**3"}
+{"question": "Expand (3*v - v - 3*v)*(1 + 5 + 4*v - 4).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-4*v**2 - 2*v"}
+{"question": "Expand (5 + 1 - 2)*(-3 + 2*z**5 + 3) - z**5 - z**5 + z**5 - z**5 + 0*z**3 + 0*z**3 + (3*z**2 + 3*z**2 - 4*z**2)*(3*z**3 - 3*z**3 - 2*z**3) + 0 + z**5 + 0.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "3*z**5"}
+{"question": "Expand (-4 + 6 + 1)*(5*k + 0*k - 3*k)*(2*k - 2 + 0 + 3*k).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "30*k**2 - 12*k"}
+{"question": "Expand (2*j**2 - j**2 - 3*j**2)*(-1 - 4*j**3 + 2*j**3 + 2 + j**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "4*j**5 - 2*j**4 - 2*j**2"}
+{"question": "Expand (1 + 3 - 5)*((-a + 0*a + 2*a)*(a - 2*a + 3*a) + 37 + 4*a**2 - 37).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-6*a**2"}
+{"question": "Expand -3*s**2 + 4*s**2 + s**2 + (0*s - 5*s + 3*s)*(-3 - 3*s + 3) + (-2*s - 3*s + 3*s)*(-s + 2*s + s) - 3*s**2 + 0*s**2 + 5*s**2.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "6*s**2"}
+{"question": "Expand (1 + 3 - 3)*(-5*j**2 - 4*j + 6*j**2 + 6*j - 2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "j**2 + 2*j - 2"}
+{"question": "Expand k - 2*k + 2*k + 0 + 0 + 2*k + (2*k + 0*k - k)*(6 - 2 - 3) + 2*k + 1 - 1 - k - 3*k + 6*k - k - 9 - 7 - 5.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "7*k - 21"}
+{"question": "Expand (2*q - 3*q + 2*q)*(0 + 1 + 2)*(-6 + 5 + 4).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "9*q"}
+{"question": "Expand (0 - 2 - 9)*((1 + 4 - 4)*(2*f**2 - 3*f**2 + 2*f**2) - 2*f**2 + 0*f**2 + f**2 + (2*f - 2*f + 2*f)*(2 - f - 2)).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "22*f**2"}
+{"question": "Expand 8*r + 3 - 3 + 0 + 0 + 2*r + (-1 + 4 - 4)*(-r - 5*r + 4*r).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "12*r"}
+{"question": "Expand (2*a**2 - 3*a**2 + 3*a**2 + (-2 - 2 + 2)*(-3*a**2 + 4*a**2 - 3*a**2) + 2*a**2 - 3*a**2 + 0*a**2 - 3*a**2 + 4*a - 4*a)*(-10*a + 0*a + 2*a) - a**3 + 4 - 4.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-17*a**3"}
+{"question": "Expand 3 - 3 + 2*p**3 + (-2 - 2 + 5)*(3*p**3 - 3*p**3 + 2*p**3) - p**3 - p**3 + 4*p**3 - 14*p + 9*p + 3*p**3 + 8*p.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "9*p**3 + 3*p"}
+{"question": "Expand (4 + m - 4)*(2 - 2*m - 2) - 87*m + 87*m + 24*m**2.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "22*m**2"}
+{"question": "Expand (2 - 1 - 3)*(d - d + 2*d)*(-3 + 5 - 3)*(1 - d**3 - 1).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-4*d**4"}
+{"question": "Expand 6*d**2 + 0*d**2 - 2*d**2 + (0*d + 5*d + 0*d)*(2*d - d - 2*d).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-d**2"}
+{"question": "Expand -17*y**5 - 11*y**5 - 8*y**5 + (2*y**3 + y**3 - 2*y**3)*(0*y**2 + 0*y**2 + 2*y**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-34*y**5"}
+{"question": "Expand 3*n**4 + 3*n**4 - 5*n**4 + (-4*n**2 - 3*n**2 + 5*n**2)*(-3*n**2 + 5*n**2 - n**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-n**4"}
+{"question": "Expand (-2*d**2 - d**3 + 2*d**2)*(-4 + 2 + 1 + (-1 + 2 - 3)*(-1 - 2 + 2)).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-d**3"}
+{"question": "Expand (-2*h**3 + 9*h**3 - 2*h**3)*(-h + 4*h - 2*h)*(-3 - 2 - 5)*(-1 + 5 - 2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-100*h**4"}
+{"question": "Expand (-3*u**2 - 3 + 3)*(-2 + 12*u + 6*u - 7*u).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-33*u**3 + 6*u**2"}
+{"question": "Expand (3 - 3 - 2*s)*(s**2 - 2*s**2 - 2*s**2) - 2*s**3 + 4*s**3 - s**3.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "7*s**3"}
+{"question": "Expand (-2 + 1 + 2)*(-w**2 - 2*w**2 + 3 - 4*w**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-7*w**2 + 3"}
+{"question": "Expand (-h**2 - h**2 + 3*h**2)*(h**3 + 0*h**3 - 4*h**3) + 0*h**5 - h**5 + 0*h - h.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-4*h**5 - h"}
+{"question": "Expand (0*l - 2*l**2 + 0*l)*((-1 + 3 - 3)*(2*l + 2*l - 3*l) - 2 - l + 2 - 18*l + 6*l - 6*l).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "40*l**3"}
+{"question": "Expand (-5*z - 2*z + 5*z)*(z + z**2 - z) - z**3 + 4*z**3 - 2*z**3 + 3*z**3 - 3*z**3 - 2 + 5*z**3 + z**3 + z**3 - z**3.", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "5*z**3 - 2"}
+{"question": "Expand (-8*p**3 + 8*p**3 - 2*p**4)*(2*p - p + 0*p).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "-2*p**5"}
+{"question": "Expand (-2 + 2 - 2*t**4)*(0 + 0 - 2*t) + (4 - t**2 - 4)*(-t - 3*t + 7*t)*(-2*t**2 + 2*t**2 + t**2).", "split": "easy_train_dmmath_polynomials__expand.txt", "answer": "t**5"}

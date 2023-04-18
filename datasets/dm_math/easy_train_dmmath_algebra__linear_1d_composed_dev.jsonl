@@ -1,0 +1,100 @@
+{"question": "Let y be 3 - -4 - 6/3. Let x = y - 2. Solve 22 = -5*v - x for v.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose -2*k - 7 = -i, -4*i + 0*i = k + 8. Let g be -5*i/((-1)/(-1)). Solve -g = -q - 2 for q.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Let f(s) = 8 + 0*s**2 - 5*s**3 - 7 - s**2. Suppose 1 = -i - 0. Let j be f(i). Solve -j*b - 15 = -2*b for b.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Let y = -1 - -4. Let r = 5 - y. Let k = r + 1. Solve -k*q = -q - 2 for q.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "1"}
+{"question": "Suppose 0 = 3*k - 2*i + i - 66, -5*i = -3*k + 78. Let l = 21 - k. Solve l = f + 4*f + 20 for f.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Let p = -3 - -5. Suppose -y - 3*q = -13, -15 = 4*y - p*q - 81. Suppose -2*s = 2*s - y. Solve -s*o - 2 = -10 for o.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose 0 = -4*r - 4*k + 16, -k - 3 = -4*k. Solve r*d + 5 = -4 for d.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Suppose 0 = -3*d + 4*d - 6. Solve -3*r + d - 15 = 0 for r.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Suppose -2*a = -2*u + 16, a + 11 = 3*u - u. Let q(h) = h**2 - h - 3. Let y be q(u). Solve y*s - 20 = -2*s for s.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Let c = 24 - 4. Suppose x + x + 3*w = -28, 0 = x + 3*w + c. Let l = -6 - x. Solve 0 = l*n + 2*n + 16 for n.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Let a be 638/55 + 2/5. Solve -2*p + a = p for p.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Suppose -4*p + 16 = 2*v, 0*v + 4*v - 3*p + 1 = 0. Suppose 0*y = -y + j, -j - v = -2*y. Let c = 1 + 2. Solve -c*z + 10 = -y for z.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Let v(n) = -6*n - 6 + 6. Suppose -2*k - k - 3 = 0. Let m be v(k). Solve 15 = -m*c + 3*c for c.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose -4*x - 80 - 28 = 0. Let v = -19 - x. Solve v = n - 3*n for n.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Let c(z) = -z + 11. Let n be c(5). Suppose 18 = 3*x + n. Suppose 4 = 4*p - x. Solve -7 = -3*s + p for s.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Suppose 10*d - 5*d - 2*j - 23 = 0, -d = 4*j + 13. Solve 2*y + d*y = 0 for y.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "0"}
+{"question": "Suppose 2*m + 12 = -2*v, m + 4 = -2*v - 7. Let z = 0 - m. Let t be (0 + (1 - 0))/z. Solve -2*p = -1 - t for p.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "1"}
+{"question": "Let v = -2 + 3. Suppose -4*y - 15 - 9 = 2*d, -4*y - 32 = -2*d. Let u(r) = r**3 + 6*r**2 - 8*r - 7. Let x be u(y). Solve k + x + v = 0 for k.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-1"}
+{"question": "Suppose -4*r + 0*t + 2*t - 24 = 0, 3*r + 2*t = -18. Let o = 8 + r. Solve 3*z - o = 13 for z.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "5"}
+{"question": "Let s = 42 - 40. Solve -10 = -3*z - s*z for z.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let p be 1 + (-3 + 2 - -3). Let i = 3 + 9. Solve -w = p*w - i for w.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Suppose 2*z + 8 = 4*z. Solve 5 = -3*y - z for y.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Let j be 0/(-1 - (2 + -4)). Let f be 2/4*(4 + j). Suppose z + g = 3*z - 4, 0 = 3*z - g - 7. Solve f*w - w = -z for w.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Suppose 0 = 3*o - 6*o. Suppose 0 = -o*y - 3*y + 21. Suppose 3*j + 0*j = 0. Solve 4*k - 27 + y = j for k.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "5"}
+{"question": "Suppose 2*d + x = 7, -3*d + x + 5 = 2. Suppose -d*j = 2*t - 0 - 2, t + 19 = 4*j. Solve -p + 0*p - j = 0 for p.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Let p(v) = -10*v**3 - 22*v**2 + 4*v - 21. Let s(f) = 4*f - 7*f**2 - 3*f**3 - 7 - 2*f - f. Let y(w) = 2*p(w) - 7*s(w). Let z be y(-5). Solve u = z*u - 4 for u.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Let y be 10*10/75*(-1 + 4). Suppose -4*x - w + 12 = -0*x, 0 = 4*x + 4*w - 12. Let f(g) = 3*g - 1. Let l be f(x). Solve -y*q - 8 = l for q.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Suppose 0 = 4*l + 3*u - 15, 13 = 5*l - 5*u + 3*u. Let p = -13 + 15. Let w = 5 + p. Solve -5*g - w = l for g.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Suppose 5*v + 4*b - 8*b = 9, -3*v - 5*b = 2. Let j be 2 - 0/1 - v. Solve 3*z = -4 + j for z.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-1"}
+{"question": "Suppose 9*h = 15 + 12. Solve 2*b = h*b - 2 for b.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let z(w) be the third derivative of -w**5/60 - w**4/6 - w**3/2 - 6*w**2. Let c be z(-3). Solve -2*o = -c - 4 for o.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let a be (-1 - (0 + -7))*1. Solve -a*p = -p + 5 for p.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-1"}
+{"question": "Let v = -2 - -12. Solve -a = a - v for a.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "5"}
+{"question": "Suppose -4*d + 4 = 3*r + 5, -5*d - 3*r = -1. Solve u = -d*u - 9 for u.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Let w = -6 + 6. Let q(z) be the second derivative of z**5/20 + 4*z**2 - 5*z. Let c be q(w). Solve 4*f + 0*f = -c for f.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Let y = 8 - 5. Let s = y + -1. Solve -s*z - 2*z = 0 for z.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "0"}
+{"question": "Let r be (-4)/(-10) + 18/5. Suppose r = -n - 3*g, -3*g + g - 26 = -4*n. Solve -15 = -n*a - 0*a for a.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Let b = -1 + 0. Let l = b - -3. Suppose 0 = l*n + 3*n - 20. Solve -n*q = -3*q + 3 for q.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Let h(j) = j**3 - 6*j**2 - 6*j - 10. Let c be h(7). Let a be (c - -13)/((-1)/(-2)). Solve a = -r + 5*r for r.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "5"}
+{"question": "Let p = -26 + 38. Solve -r + p = 2*r for r.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Suppose 4*n - 5*g - 95 = 0, 15*n + 2*g + 86 = 19*n. Solve 3*t = -t - n for t.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Let t(b) = -7*b - b + 0*b. Let g be t(-1). Suppose 5*w - w = 2*h - g, 4*w - 20 = -5*h. Solve w = -5*p - 2 + 17 for p.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Let y be ((-18)/(-21))/(1/(-7)). Let k be -1 + 12 + y/2. Solve -v - k = 3*v for v.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Let p be (1/2)/((-6)/8 - -1). Solve p*d - 6*d = -8 for d.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose f + 15 = 3*k, -5*k + 22 = f + 5. Suppose 176 = 3*g + 3*y - y, 0 = -k*g + 4*y + 248. Let d = g - 40. Solve d = -2*b - 2*b for b.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose 17 = 4*p - 7. Let u = p + -3. Solve -u*g = -4 - 8 for g.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Suppose 0 = -y + 5. Solve -2*r + 3*r = -y for r.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Let c(t) = -t**2 + 4*t - 2. Let u be c(3). Let b be 24 - ((-3)/u)/3. Suppose 5*k - b = -0. Solve k*v - 3 - 2 = 0 for v.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "1"}
+{"question": "Suppose -4*n - 5 = -9*n. Let l be (-104)/(-48) - n/6. Let u be 2 + -7 + l + 11. Solve -u*d = -3*d + 10 for d.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Suppose 2*q = -5*t + 9, 5 = -0*q + 2*q + t. Suppose 0 = q*z + 4*j - 22, 4*z - 5*j = 3*z - 17. Solve -2 = -z*w + 4 for w.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose 0*y = y - 4*y. Solve 0*z + 5*z - 5 = y for z.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "1"}
+{"question": "Suppose -6*l = -2*l + 2*s, 5*l - 18 = 2*s. Solve 3*g + l = 8 for g.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let h be (-18)/12 + (-1)/(-2). Let z = h + 4. Solve -z*p = -6*p + 9 for p.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Let a(d) = -d**3 - 12*d**2 - d - 11. Let m be a(-12). Solve x - m = -3 for x.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Let o(b) = -5*b - 1. Let y be o(-1). Solve -t = y*t for t.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "0"}
+{"question": "Let m be -3*(-5)/(-15) + 9. Solve 6*c = 2*c + m for c.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose 4*h + 4 = 2*r - 0*r, -18 = -3*r + 3*h. Suppose -2*z = -5*j + 10, -5*j + 3*z = 4*z + 5. Suppose 2*u + 0 - 4 = 0. Solve 0 = u*c - j*c + r for c.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose w = 0, -4*m + 3*w + 27 = -21. Solve i - m = -2*i for i.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Suppose 21 + 27 = 4*d. Let z be (-8)/6*(-54)/d. Solve q + z = -q for q.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Let l be 9/15 + (-66)/10. Suppose 2*x - 21 = d, -3*x - 2*d = -d - 24. Let z = l + x. Solve z*q - 11 = 1 for q.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Let z(x) = 3*x + 3*x - 1 + 3 + 2*x**2. Let r be z(-4). Suppose 5*p - 15 - r = 0. Solve -4 - 6 = p*j for j.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Let l = 48 - 42. Solve 5*u = -l + 1 for u.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-1"}
+{"question": "Let q(j) = -5*j - 26. Let p be q(-6). Solve 6*m - p*m + 4 = 0 for m.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Let v(q) = 3*q**2 + 2. Let l(a) be the third derivative of -a**5/6 - 7*a**3/6 + 3*a**2. Let c(w) = 2*l(w) + 7*v(w). Let h be c(-5). Solve k - 6*k = h for k.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose 3*a = -4*k - 6, -5*a - 4*k - k = 5. Let b(x) = x**3 - 9*x**2 - 9*x - 9. Let l be b(10). Solve a*h = -l - 1 for h.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-1"}
+{"question": "Let d(t) = -t**2 + 3. Let c be d(0). Suppose 0 = -7*u + c*u. Solve u*r + 12 = -3*r for r.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Let u = -210 + 222. Solve -3*x - 3*x - u = 0 for x.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Let f be 4*(-3)/(-12) - -3. Suppose 20 = -t + 2*t. Suppose 0 = -a + 12 - 3. Solve t = f*u - a*u for u.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Suppose 89 = -2*y + 99. Solve 1 = 2*j - y for j.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Suppose -1 = -0*v - v. Suppose -v = -a + 3. Solve o - a = -o for o.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose -5*f = -4*c - 31, 0*c + 3*c - 3 = -5*f. Let s be c/(-6)*-3 - -4. Solve s*a = 12 - 2 for a.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "5"}
+{"question": "Suppose 2*t + 4 - 20 = 0. Suppose 3*b - 7 = 3*y + t, 0 = y + 1. Suppose -5*k - 20 = -80. Solve b*h + k = -8 for h.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose k + 3*s = -12, -4*k - 48 = -2*s + 7*s. Let d be ((-4)/k)/((-2)/(-30)). Solve d*u + 9 = 2*u for u.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Let c be (-1)/(-1)*-1*-18. Suppose -39 + 6 = 3*h. Let p = c + h. Solve -2*z = -p + 3 for z.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let t(v) be the second derivative of -v**4/12 - v**3 - 2*v. Let r be t(-6). Solve o = -r + 1 for o.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "1"}
+{"question": "Let w(f) = -12*f - 1. Let z be w(-1). Let j = z + -7. Suppose -j*v = -v. Solve v = -k - 0 - 1 for k.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-1"}
+{"question": "Let y = -137 - -141. Solve y - 2 = -n for n.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-2"}
+{"question": "Suppose -2*z = -3 - 3. Suppose -z*i + 0*i = -36. Solve -i = 5*d - d for d.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Let x(z) = -z**3 - 4*z**2 + 2. Let t be x(-4). Suppose -3*h = -2*a - 5, -5*h - t + 52 = 5*a. Let l be h/(-4)*8/(-2). Solve -12 = o - l*o for o.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Let f be (-4)/6 + 44/12. Let s be -3*(f + 8/(-2)). Solve 0 = 4*d - s - 5 for d.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose 0 = 2*n + n - 27. Solve -4*f = -f + n for f.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Suppose -2*c = -0 - 20. Let v be 2/(-2 + 0) - -3. Suppose -12 = -q - v*q. Solve -c = -i - q*i for i.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let w(r) = r**2 + 8*r + 7. Let l(n) = 8*n + 1. Let d be l(-1). Let i be w(d). Solve i = -9*u + 4*u for u.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "0"}
+{"question": "Let j be 1 - 22/(-6) - (-4)/(-6). Let i = -3 - -3. Suppose -4*g + 7 + 17 = i. Solve j*n - g = n for n.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let w = 16 - 15. Solve h - w = -0*h for h.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "1"}
+{"question": "Suppose 5*g - 2*v = 16 + 4, -4*g - v = -16. Solve r + g = -1 for r.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose 5*z + 6 - 36 = 0. Solve -2*y + z = y for y.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose 0 = -2*i - 2*g + 6, 3*i - 4 = -5*g - 1. Solve -26 + i = 4*n for n.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}
+{"question": "Suppose 5*r - 4*z - 13 = 14, -4*r - 5*z - 3 = 0. Solve r*m - 3 = -0 for m.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "1"}
+{"question": "Suppose -f - 5*b = 11, -f = -6*f - 3*b + 33. Solve -q = 2*q - f for q.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Let a = -11 - -13. Let p be (-1)/(a + (-22)/10). Solve -5*s + 5 = -p for s.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Let w(z) = -3*z - 14. Let m be w(-6). Solve -3*p - m = -2*p for p.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Let t = -99 - -105. Solve -5*b = -t - 4 for b.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "2"}
+{"question": "Suppose -2*o + 4*o = 10. Suppose 0*j - o = -j. Solve j*h = 3*h for h.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "0"}
+{"question": "Let d = 12 + -4. Let s = 10 - 1. Let b be (d - s)/((-2)/40). Solve 2*r - b = -3*r for r.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "4"}
+{"question": "Suppose 3*o + 6*t - 21 = 3*t, o - 3*t - 7 = 0. Let m be (5/(-2) + 2)*0. Suppose m*f + 2*f = 26. Solve -f = 5*n + o for n.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-4"}
+{"question": "Let m be 1/(-2)*2 - -1. Suppose 0 = -2*a + 3*j - 16, -3*j = 5*a - 2*j + 6. Let y be (-27)/3*a/6. Solve m = -y*f - f - 4 for f.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-1"}
+{"question": "Let f = 76 - 46. Suppose 5*s - f = -0*s + 4*o, 5*o = -25. Solve -s*v + 9 = v for v.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "3"}
+{"question": "Suppose p - 6 = -8*g + 4*g, -1 = -p + g. Solve p = 3*h + 11 for h.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-3"}
+{"question": "Let y = -11 - -18. Let w = y - 3. Suppose -w*q + 30 - 4 = 2*j, j + 29 = 5*q. Solve i + q = 1 for i.", "split": "easy_train_dmmath_algebra__linear_1d_composed.txt", "answer": "-5"}

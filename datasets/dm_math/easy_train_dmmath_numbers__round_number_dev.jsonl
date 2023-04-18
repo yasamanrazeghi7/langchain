@@ -1,0 +1,100 @@
+{"question": "What is 617000 rounded to the nearest one hundred thousand?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "600000"}
+{"question": "Round 0.00593 to 4 dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0059"}
+{"question": "What is -0.000003175 rounded to seven decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0000032"}
+{"question": "Round -56581 to the nearest one hundred.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-56600"}
+{"question": "What is -0.0004333 rounded to four dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0004"}
+{"question": "Round -0.0003401 to 4 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0003"}
+{"question": "Round -1.5554 to one dp.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-1.6"}
+{"question": "What is -1980500 rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-1980000"}
+{"question": "What is -0.000416 rounded to 4 decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0004"}
+{"question": "Round 0.0032736 to 5 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.00327"}
+{"question": "What is -0.14777 rounded to two decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.15"}
+{"question": "What is 53931 rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "50000"}
+{"question": "Round -0.00004452 to 6 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.000045"}
+{"question": "Round -2470 to the nearest one thousand.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-2000"}
+{"question": "What is -4.2692 rounded to one dp?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-4.3"}
+{"question": "What is -34012 rounded to the nearest 10000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-30000"}
+{"question": "Round 0.0000000694 to 7 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0000001"}
+{"question": "Round 0.000696 to four dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0007"}
+{"question": "Round -229.503 to zero dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-230"}
+{"question": "What is 4322.3 rounded to the nearest ten?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "4320"}
+{"question": "Round 2109.9 to the nearest one hundred.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "2100"}
+{"question": "What is -52330 rounded to the nearest 10000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-50000"}
+{"question": "Round -1101810 to the nearest one hundred thousand.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-1100000"}
+{"question": "Round -607.57 to the nearest 10.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-610"}
+{"question": "What is -53900000 rounded to the nearest 1000000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-54000000"}
+{"question": "Round 0.0006362 to four decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0006"}
+{"question": "Round -14403100 to the nearest one hundred thousand.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-14400000"}
+{"question": "Round 36.896 to 1 decimal place.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "36.9"}
+{"question": "What is -0.0000984 rounded to five decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0001"}
+{"question": "What is -0.0848 rounded to 1 dp?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.1"}
+{"question": "Round -494.7 to the nearest one hundred.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-500"}
+{"question": "What is -290000 rounded to the nearest one million?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0"}
+{"question": "What is -1633000 rounded to the nearest 100000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-1600000"}
+{"question": "What is -120.1 rounded to the nearest integer?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-120"}
+{"question": "Round -121500 to the nearest one thousand.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-122000"}
+{"question": "Round -0.462 to 2 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.46"}
+{"question": "Round -0.00000008 to 7 dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0000001"}
+{"question": "Round 19020000 to the nearest one million.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "19000000"}
+{"question": "Round 0.0000244656 to 6 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.000024"}
+{"question": "What is 0.0003986 rounded to 5 decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0004"}
+{"question": "Round -0.5018 to 2 dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.5"}
+{"question": "Round -1249.6 to the nearest 100.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-1200"}
+{"question": "What is 0.00010517 rounded to 5 dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.00011"}
+{"question": "Round -1172500 to the nearest 10000.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-1170000"}
+{"question": "Round 0.00005439 to five decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.00005"}
+{"question": "Round 0.00391495 to five dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.00391"}
+{"question": "What is -8348000 rounded to the nearest one hundred thousand?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-8300000"}
+{"question": "What is 1128 rounded to the nearest one hundred?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "1100"}
+{"question": "What is 2634300 rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "2630000"}
+{"question": "What is -5784000 rounded to the nearest one hundred thousand?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-5800000"}
+{"question": "What is 6428 rounded to the nearest one hundred?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "6400"}
+{"question": "Round 6.461 to the nearest 10.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "10"}
+{"question": "What is 0.0025067 rounded to 4 dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0025"}
+{"question": "What is 0.00003564 rounded to six decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.000036"}
+{"question": "What is 0.00000126 rounded to six dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.000001"}
+{"question": "What is -0.004463 rounded to three decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.004"}
+{"question": "What is -0.879 rounded to 2 dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.88"}
+{"question": "What is 0.02247 rounded to 2 decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.02"}
+{"question": "What is 0.0001147 rounded to three dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0"}
+{"question": "What is -0.049609 rounded to 2 decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.05"}
+{"question": "What is -42.078 rounded to the nearest 10?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-40"}
+{"question": "Round -0.00599 to 4 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.006"}
+{"question": "Round -15299 to the nearest 100.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-15300"}
+{"question": "What is -216200 rounded to the nearest 10000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-220000"}
+{"question": "What is 83.744 rounded to one dp?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "83.7"}
+{"question": "What is 13 rounded to the nearest integer?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "13"}
+{"question": "What is -28734000 rounded to the nearest one million?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-29000000"}
+{"question": "Round -2818000 to the nearest 100000.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-2800000"}
+{"question": "What is -0.002599 rounded to four dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0026"}
+{"question": "What is -0.4306 rounded to two dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.43"}
+{"question": "What is -0.0000198 rounded to seven decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0000198"}
+{"question": "What is -71.739 rounded to the nearest ten?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-70"}
+{"question": "Round -0.001271 to five dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.00127"}
+{"question": "What is -7.765 rounded to the nearest integer?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-8"}
+{"question": "What is 18273.6 rounded to the nearest 1000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "18000"}
+{"question": "Round 0.00169 to 2 dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0"}
+{"question": "Round -0.0000225 to five decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.00002"}
+{"question": "What is -866000 rounded to the nearest 100000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-900000"}
+{"question": "What is 1.08936 rounded to 1 dp?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "1.1"}
+{"question": "What is -589120 rounded to the nearest 10000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-590000"}
+{"question": "Round 1804.7 to the nearest 10.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "1800"}
+{"question": "What is 14.662 rounded to one decimal place?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "14.7"}
+{"question": "Round -14889 to the nearest one thousand.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-15000"}
+{"question": "Round 0.000017799 to six dps.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.000018"}
+{"question": "What is -0.39859 rounded to 2 dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.4"}
+{"question": "What is 0.166809 rounded to 3 dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.167"}
+{"question": "Round -3.1478 to 2 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-3.15"}
+{"question": "What is 20.0649 rounded to 1 decimal place?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "20.1"}
+{"question": "Round 0.04169 to three decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.042"}
+{"question": "What is -265450000 rounded to the nearest 1000000?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-265000000"}
+{"question": "What is 0.02278 rounded to 4 dps?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0228"}
+{"question": "Round -0.000083827 to five decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.00008"}
+{"question": "Round 0.01009 to 3 decimal places.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.01"}
+{"question": "What is -1607870 rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-1610000"}
+{"question": "Round 11610 to the nearest 1000.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "12000"}
+{"question": "What is -0.001247 rounded to 4 decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-0.0012"}
+{"question": "What is 27.96 rounded to 0 decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "28"}
+{"question": "Round 7.2411 to one decimal place.", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "7.2"}
+{"question": "What is 0.000008847 rounded to 7 decimal places?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "0.0000088"}
+{"question": "What is -4850000 rounded to the nearest one million?", "split": "easy_train_dmmath_numbers__round_number.txt", "answer": "-5000000"}

@@ -1,0 +1,100 @@
+{"question": "Let n = -14 + 13.96. Let o = -0.03999991 - n. Round o to 7 decimal places.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.0000001"}
+{"question": "Let l be (-6 + -5)*(-31394)/2. Let w = l - 122667. What is w rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "50000"}
+{"question": "Suppose r - g = 354, 4*r - 4*g = 8*r - 1384. Round r to the nearest 100.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "400"}
+{"question": "Suppose -2*j - 4*k + 40 = 2*j, -j - 15 = -4*k. Suppose 5*r + 14005 = 2*p - 0*p, -3*p - j*r + 20995 = 0. What is p rounded to the nearest 1000?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "7000"}
+{"question": "Let q = -0.0439851 + 0.044. Round q to six dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.000015"}
+{"question": "Let g be ((-16)/(-12))/(4/(-213000)). Round g to the nearest 10000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-70000"}
+{"question": "Let u be 2/(-6) - 10/(-3). Suppose u*f - i = -931, 2*f - 5*i + 584 = -41. What is f rounded to the nearest 100?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-300"}
+{"question": "Let a = 13 + 6. Let d = -18.99999 + a. What is d rounded to 5 dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.00001"}
+{"question": "Let b = -3.6 - -6.9. Let a = 3.2946 - b. What is a rounded to 3 decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.005"}
+{"question": "Let f = 19 - 12. Suppose -94500 = -f*y + 2*y. Suppose 4*d + y = d. What is d rounded to the nearest 1000?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-6000"}
+{"question": "Let a(d) = d**3 + 9*d**2 + 9*d - 6. Let m be a(-8). Let t be 110600004/m + 2/7. Round t to the nearest one million.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-8000000"}
+{"question": "Let a = 62 + -62.000115. Round a to 4 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.0001"}
+{"question": "Let j = -220.04180025 + 220.3418. Let u = -0.6 - -0.3. Let n = j + u. Round n to 7 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.0000003"}
+{"question": "Let v = 0.08 - 1.08. Let m = -58086.99884 + 58088. Let n = v + m. Round n to four dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.0012"}
+{"question": "Let d = 5 - 5.1. Let g = d - -0.12. Let a = g + -0.019992. Round a to 5 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.00001"}
+{"question": "Suppose -4*k - 12 = 0, -k - k - 34 = -4*v. Suppose -v*q = -4*q - 27. Let j be (1509/q + -1)*1200. Round j to the nearest 1000000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0"}
+{"question": "Suppose -o + 5376 = 2*o. Suppose 2*z = -8, -2*b - 2*z = -7*b - o. What is b rounded to the nearest 100?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-400"}
+{"question": "Let o = 71.1 + -74. Let r = -3997049.1000088 - -3997052. Let h = r + o. What is h rounded to six dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.000009"}
+{"question": "Let d = -709230 - -1224230. Round d to the nearest one hundred thousand.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "500000"}
+{"question": "Let r = -128.66 + 128. What is r rounded to one dp?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.7"}
+{"question": "Let j = 84.5349 - 84.6. Round j to 2 decimal places.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.07"}
+{"question": "Let d = 26063648581960 + -26063622340123.999961. Let p = d - 26241766. Let y = -70 + p. What is y rounded to five dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.00004"}
+{"question": "Let l = -0.251 - -5.011. Let y = -1.77 + l. Let i = 3 - y. What is i rounded to 1 decimal place?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0"}
+{"question": "Let w = 0.089 - 0.1128. Round w to three decimal places.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.024"}
+{"question": "Let l = 0.026 - 0.003. What is l rounded to two decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.02"}
+{"question": "Suppose -g + 8366 = 2*d, -g - 5*d - 33516 = -5*g. Let o = 1577 - g. Let j = -76797 - o. Round j to the nearest one hundred thousand.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-100000"}
+{"question": "Let d = -0.13 - -0.02. Let n = d + -1.03. What is n rounded to 1 dp?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-1.1"}
+{"question": "Let q = 24.2 + -195.2. Let p = q + 171.0000111. Round p to six dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.000011"}
+{"question": "Let i = -7412 + 3612. What is i rounded to the nearest one thousand?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-4000"}
+{"question": "Let x = -0.256 + 0.3. Let k = 7002001.04400029 - 7002001. Let y = k - x. Round y to seven dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.0000003"}
+{"question": "Let x be 40*(1 + (-801873 - -1)). Suppose -2*o - 39880939 + 1931259 = 0. Let r = o - x. Round r to the nearest 1000000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "13000000"}
+{"question": "Let b be (4*3)/3 - 2. Suppose 3*k = 8 - b. Suppose k*z = -3*z + 4000. Round z to the nearest 100.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "800"}
+{"question": "Let s = 372 - 370.13. What is s rounded to one decimal place?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "1.9"}
+{"question": "Let t = 0.12 + 0.06. Let m = -0.284 - -0.113. Let a = t + m. Round a to 2 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.01"}
+{"question": "Let z = -0.018 + -0.052. Let o = 791.39 + -791.319989. Let c = o + z. What is c rounded to 6 decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.000011"}
+{"question": "Suppose -5*i = -i - 16. Suppose i*a + r = 21, 4*a - 2 = 3*r - 1. Round a to the nearest 10.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0"}
+{"question": "Let g = 12 - 2. Let m = g - 15. Let f = m + 4.955. Round f to two dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.05"}
+{"question": "Let f = -5.8 - -5.79999965. What is f rounded to 7 dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.0000004"}
+{"question": "Let i(w) be the third derivative of -3*w**2 + 0*w**3 + 0*w - 125/2*w**4 + 0. Let m be i(-1). Round m to the nearest 1000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "2000"}
+{"question": "Let o = 5 + -4.56. Let k = o + -0.31. Let n = k - -5.17. What is n rounded to the nearest integer?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "5"}
+{"question": "Suppose -2*l = -3*h - 743, 2*l + 3*h = 5*h + 738. Suppose 3*m = -k + l, 3*m + 0*k - 340 = 5*k. Round m to the nearest one hundred.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "100"}
+{"question": "Let r = 0.12 + 153.88. Let n = 168.4 - r. What is n rounded to the nearest integer?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "14"}
+{"question": "Suppose -4*f + 1231 = -2129. Round f to the nearest 100.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "800"}
+{"question": "Let c = -779 - -774.984. Let y = c - -4. Round y to two decimal places.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.02"}
+{"question": "Let p = 29.948 + -30. Let v = 361779.0519954 + -361779. Let l = p + v. Round l to six decimal places.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.000005"}
+{"question": "Let g = -5 - -1. Let a(f) = f**3 + 4*f**2 + f + 4. Let w be a(g). Suppose w = -3*q - 0*q - 3060. Round q to the nearest 100.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-1000"}
+{"question": "Let x be (-80)/((1 + -2)/(-4500)). Round x to the nearest 100000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-400000"}
+{"question": "Let p = 4 + 0. Suppose -p = j - 3*j. Suppose 6400 = j*c - 4*c. Round c to the nearest 1000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-3000"}
+{"question": "Let w = 11 + -10.87. Round w to 1 dp.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.1"}
+{"question": "Let d = 14 + -13.3. Let h = -0.1 - d. Let b = h + 0.79993. Round b to five decimal places.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.00007"}
+{"question": "Let b = -13.442 + -0.158. Round b to the nearest 10.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-10"}
+{"question": "Let a = -86.889 + -4.571. Let r = a - 1.54. Let v = -93.0000063 - r. Round v to 6 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.000006"}
+{"question": "Suppose -522 = -0*z + 2*z. Let l = z - -32. Let s = -859 - l. What is s rounded to the nearest one hundred?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-600"}
+{"question": "Let n(f) = -369*f**2 + 5*f. Let m be n(6). Let a = 14438 - 6184. Let p = a + m. Round p to the nearest ten thousand.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-10000"}
+{"question": "Let d = 20.93636 + -16.708294. Let p = 4.206 - d. Let g = p - -0.022. What is g rounded to five decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.00007"}
+{"question": "Let o = 0.3 + 3.34. Let n = o - 4.3. Round n to one decimal place.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.7"}
+{"question": "Let x = 27032589.9999994 - 27032577. Let a = x + -13. Round a to six dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.000001"}
+{"question": "Let d = -2043 + 3213. Round d to the nearest one hundred.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "1200"}
+{"question": "Let n(t) = 1984*t**2 - t + 1. Let z be n(3). Suppose p - z = 25146. What is p rounded to the nearest 10000?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "40000"}
+{"question": "Suppose 2360045 = 5*t - 3389955. What is t rounded to the nearest 100000?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "1200000"}
+{"question": "Let v = 5.71 + -6.5. What is v rounded to 0 dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-1"}
+{"question": "Let f = -3.0056 + 3. What is f rounded to three dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.006"}
+{"question": "Suppose -8*h + 3*a = -3*h - 1489985, -3*h + 893995 = -a. What is h rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "300000"}
+{"question": "Let c = 41.64371 - 62.64334. Let k = c - -21. What is k rounded to four decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.0004"}
+{"question": "Suppose 3*s - 2*s = 5367. Suppose -3*q = 1179 - s. Let l be 2/7 + q/14. Round l to the nearest one thousand.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0"}
+{"question": "Let v = -10 - -3. Let s = v + 1. Let d be ((-27500)/s)/(5/480). What is d rounded to the nearest 100000?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "400000"}
+{"question": "Let k(q) = q**2 + 7*q + 3. Let s be k(-7). Suppose -5*w + 2*j + 4542 = 0, -s*w - 5*j + 1251 = -1499. What is w rounded to the nearest one hundred?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "900"}
+{"question": "Suppose 4*l = 2*l + 2. Let u(b) = 294644*b**2 - b + 1. Let n be u(l). Suppose 4*w = 4, -a = -w + n + 215357. What is a rounded to the nearest 100000?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-500000"}
+{"question": "Suppose b - 30731966 = 4*b - 4*a, -10243988 = b - 2*a. Let l = 15456010 - b. Round l to the nearest 1000000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "26000000"}
+{"question": "Let h = 54 - 54.74. Let k = -2.736 - h. Let l = k - -2. Round l to 2 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0"}
+{"question": "Let d = -50 + 49.99999725. What is d rounded to seven decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.0000028"}
+{"question": "Let m(f) = 7999*f + 5. Let c be m(5). Suppose 7*q + c = 2*q. What is q rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-10000"}
+{"question": "Suppose -4*l = 2*l + 540000. Round l to the nearest 10000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-90000"}
+{"question": "Suppose z + 883995 = 2*i, -3*i + z + z + 1325990 = 0. What is i rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "440000"}
+{"question": "Suppose 4*v - 7 - 9 = 0. Suppose 0 = d + d - v. Let k be (-91000014)/(-35) - d/5. What is k rounded to the nearest 1000000?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "3000000"}
+{"question": "Suppose -3*w = -5*w + 6, -3*u + 2*w = -28499994. Round u to the nearest one million.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "10000000"}
+{"question": "Let r = -0.15 + -1.55. Let v = -1.70026 - r. What is v rounded to four dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.0003"}
+{"question": "Suppose x - 6*x = y + 54000003, -3*x = -2*y + 32399994. Round x to the nearest 1000000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-11000000"}
+{"question": "Let o = -0.37 + 69.87. Let a = o + 36.67. Let l = 107 - a. What is l rounded to one decimal place?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.8"}
+{"question": "Let q = 37.2 - 34. Round q to the nearest integer.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "3"}
+{"question": "Let r = -11.92208473 - -9.6220849. Let t = -2.3 - r. Round t to 7 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.0000002"}
+{"question": "Let k = 112.86694854 - 0.86689754. Let y = 0.13 + 111.87. Let i = y - k. Round i to 5 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.00005"}
+{"question": "Let f = -3.4 - -3.40078. What is f rounded to four decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.0008"}
+{"question": "Let s = 3 - -0.53. Round s to one dp.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "3.5"}
+{"question": "Let t = 5655 - 5632.13. Let l = t - 21.9. What is l rounded to 1 decimal place?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "1"}
+{"question": "Let n = 11 - 7. Suppose 2*i + 4*b - 17 + 1 = 0, n*i - 16 = -4*b. Round i to 6 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0"}
+{"question": "Let x(c) = c**3 + 3*c**2 - 3*c. Let p be x(-4). Let w(u) = -913*u**2 - 2*u. Let f be w(p). Round f to the nearest 1000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-15000"}
+{"question": "Let b = -486942110.99999895 - -486942067. Let h = 0.5 + -44.5. Let u = b - h. Round u to 7 decimal places.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.0000011"}
+{"question": "Let v = 136824.4033 - 136883.4. Let j = 59 + v. Round j to 3 dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.003"}
+{"question": "Let d = -10813410157.100012 + 10813391748. Let b = d + 18410.1. Let m = b + -1. What is m rounded to five dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.00001"}
+{"question": "Let v = 2.8 + 15.2. Let n = 22.24 - v. Let a = n + -0.44. What is a rounded to 0 decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "4"}
+{"question": "Suppose r = -7*p + 3*p - 111, -5*r - 2*p = 465. Round r to the nearest ten.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-90"}
+{"question": "Let r = -1303494.92499938 - -1303495. Let m = r - 0.075. What is m rounded to seven dps?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.0000006"}
+{"question": "Let u be 134000*4/(-4)*-30. What is u rounded to the nearest one hundred thousand?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "4000000"}
+{"question": "Let y = -6 - -8. Suppose y*g - 4*n = 904, -g - 5*n = 3*g - 1795. What is g rounded to the nearest one hundred?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "500"}
+{"question": "Let z = -515889579 + 515889681.0000082. Let i = 300 + -198. Let m = z - i. Round m to six dps.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0.000008"}
+{"question": "Let v = -0.6 - -0.61. Let i = v + -0.010016. What is i rounded to six decimal places?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.000016"}
+{"question": "Suppose -5*h - 53 = t + 4, 3*t = -h - 3. Let k be 128/h*3750*5. Round k to the nearest 1000000.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "0"}
+{"question": "Let f(r) = 9882*r - 8. Let c be f(-7). Suppose 3*w - 24546 = d, 4*w = -w + 5*d + 40910. Let s = w + c. What is s rounded to the nearest ten thousand?", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-60000"}
+{"question": "Let a = 11.11 + 0.04. Let d = 11 - a. Round d to 1 decimal place.", "split": "easy_train_dmmath_numbers__round_number_composed.txt", "answer": "-0.2"}

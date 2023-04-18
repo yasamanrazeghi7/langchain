@@ -1,0 +1,100 @@
+{"question": "What is the cube root of 1275 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "11"}
+{"question": "What is the third root of 729 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "9"}
+{"question": "What is 37474 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "194"}
+{"question": "What is the square root of 10994 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "105"}
+{"question": "What is the cube root of 11110 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "22"}
+{"question": "What is 143803 to the power of 1/4, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "19"}
+{"question": "What is the tenth root of 18768 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is the third root of 151 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "5"}
+{"question": "What is 28839 to the power of 1/7, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is the square root of 29592 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "172"}
+{"question": "What is the eighth root of 917 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is 15520 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "125"}
+{"question": "What is the square root of 51314 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "227"}
+{"question": "What is the eighth root of 51657 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is the square root of 7339 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "86"}
+{"question": "What is the sixth root of 24076 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "5"}
+{"question": "What is the cube root of 5275 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "17"}
+{"question": "What is 29003 to the power of 1/5, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "8"}
+{"question": "What is 1087 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "33"}
+{"question": "What is the fifth root of 10334 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "6"}
+{"question": "What is 101630 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "319"}
+{"question": "What is the fifth root of 840 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is the eighth root of 1658 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is 61 to the power of 1/10, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is the cube root of 128 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "5"}
+{"question": "What is 3723 to the power of 1/4, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "8"}
+{"question": "What is 3871 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "62"}
+{"question": "What is 395 to the power of 1/3, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "7"}
+{"question": "What is 3053 to the power of 1/3, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "15"}
+{"question": "What is 5888 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "77"}
+{"question": "What is the cube root of 1122 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "10"}
+{"question": "What is the cube root of 33449 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "32"}
+{"question": "What is 85144 to the power of 1/3, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "44"}
+{"question": "What is the cube root of 3425 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "15"}
+{"question": "What is 2500 to the power of 1/3, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "14"}
+{"question": "What is the square root of 7520 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "87"}
+{"question": "What is the eighth root of 794 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is 590 to the power of 1/5, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is the third root of 29890 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "31"}
+{"question": "What is 1366 to the power of 1/8, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is 186 to the power of 1/9, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is 25749 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "160"}
+{"question": "What is the seventh root of 3431 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is the fifth root of 9997 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "6"}
+{"question": "What is the cube root of 1320 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "11"}
+{"question": "What is the third root of 5330 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "17"}
+{"question": "What is 4457 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "67"}
+{"question": "What is the fifth root of 1787 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is 4139 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "64"}
+{"question": "What is 304 to the power of 1/6, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is the third root of 37471 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "33"}
+{"question": "What is 874 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "30"}
+{"question": "What is 8186 to the power of 1/3, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "20"}
+{"question": "What is the square root of 5527 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "74"}
+{"question": "What is the third root of 5825 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "18"}
+{"question": "What is 2688 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "52"}
+{"question": "What is the cube root of 11214 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "22"}
+{"question": "What is the cube root of 2503 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "14"}
+{"question": "What is the tenth root of 973 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is the third root of 291 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "7"}
+{"question": "What is 2725 to the power of 1/10, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is 346 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "19"}
+{"question": "What is the square root of 31414 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "177"}
+{"question": "What is the eighth root of 62428 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is the cube root of 19860 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "27"}
+{"question": "What is the eighth root of 72807 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is 819 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "29"}
+{"question": "What is 10141 to the power of 1/9, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is the fourth root of 577 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "5"}
+{"question": "What is 1676 to the power of 1/8, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is the eighth root of 509 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is the cube root of 624 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "9"}
+{"question": "What is the cube root of 12 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is 101895 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "319"}
+{"question": "What is the fourth root of 4863 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "8"}
+{"question": "What is the square root of 49557 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "223"}
+{"question": "What is 18872 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "137"}
+{"question": "What is the fourth root of 29400 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "13"}
+{"question": "What is the eighth root of 44274 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is the third root of 2688 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "14"}
+{"question": "What is the fifth root of 1864 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "5"}
+{"question": "What is 112552 to the power of 1/10, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is 46264 to the power of 1/5, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "9"}
+{"question": "What is the third root of 321 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "7"}
+{"question": "What is the square root of 2548 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "50"}
+{"question": "What is the fifth root of 66732 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "9"}
+{"question": "What is 86804 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "295"}
+{"question": "What is the ninth root of 98822 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "4"}
+{"question": "What is 634 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "25"}
+{"question": "What is 697 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "26"}
+{"question": "What is the cube root of 128879 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "51"}
+{"question": "What is the third root of 827 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "9"}
+{"question": "What is the seventh root of 4578 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}
+{"question": "What is the square root of 161 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "13"}
+{"question": "What is 37129 to the power of 1/3, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "33"}
+{"question": "What is 652 to the power of 1/3, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "9"}
+{"question": "What is 365 to the power of 1/9, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "2"}
+{"question": "What is 34716 to the power of 1/2, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "186"}
+{"question": "What is the third root of 40253 to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "34"}
+{"question": "What is 2151 to the power of 1/7, to the nearest integer?", "split": "easy_train_dmmath_arithmetic__nearest_integer_root.txt", "answer": "3"}

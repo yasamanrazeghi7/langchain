@@ -1,0 +1,100 @@
+{"question": "Calculate -0.1 + -3908.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-3908.1"}
+{"question": "What is the distance between 68462 and 0.04?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "68461.96"}
+{"question": "What is the difference between -0.29 and -33.9?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "33.61"}
+{"question": "Work out 0 - 41.2.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-41.2"}
+{"question": "Calculate -297 + 0.34.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-296.66"}
+{"question": "119+61", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "180"}
+{"question": "Work out -0.3 - 7349.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-7349.3"}
+{"question": "Calculate -0.093 + 655.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "654.907"}
+{"question": "Calculate 0.03 + -0.11.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-0.08"}
+{"question": "What is 1241 less than -0.01?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1241.01"}
+{"question": "Work out -4.797 - 30.6.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-35.397"}
+{"question": "Work out 806.68 + -0.05.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "806.63"}
+{"question": "-2784 + 12.4", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-2771.6"}
+{"question": "Sum -3 and -10.2.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-13.2"}
+{"question": "0 - -632761", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "632761"}
+{"question": "What is the distance between 244 and 44?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "200"}
+{"question": "Put together 5.1563 and -5.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "0.1563"}
+{"question": "-1714025+3", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1714022"}
+{"question": "What is the difference between -127904 and 0?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "127904"}
+{"question": "Total of -4.724 and 0.2.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-4.524"}
+{"question": "What is the difference between -0.2 and -15.7?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "15.5"}
+{"question": "Total of 0.6 and -222.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-221.4"}
+{"question": "What is -4064 minus 150.6?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-4214.6"}
+{"question": "-0.2 - 13237", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-13237.2"}
+{"question": "What is -58 take away 17.469?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-75.469"}
+{"question": "38386+-0.09", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "38385.91"}
+{"question": "Calculate 37.73 + 0.561.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "38.291"}
+{"question": "Calculate -17 + 671423.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "671406"}
+{"question": "Calculate -42 + -73125.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-73167"}
+{"question": "What is -196 plus 3?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-193"}
+{"question": "Total of -0.317 and 999.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "998.683"}
+{"question": "Calculate -0.08 + 161.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "160.92"}
+{"question": "Add 5 and -5.33.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-0.33"}
+{"question": "0.1+0.204691", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "0.304691"}
+{"question": "What is -2.931 minus 2?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-4.931"}
+{"question": "Add 17404 and -1.9.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "17402.1"}
+{"question": "Sum 6234 and 1.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "6235"}
+{"question": "Add together 16899 and -388.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "16511"}
+{"question": "What is the difference between 16.5 and -6?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "22.5"}
+{"question": "Sum 0.2 and 70.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "70.2"}
+{"question": "Work out 2714 - -0.134.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "2714.134"}
+{"question": "Add 283.26 and -0.11.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "283.15"}
+{"question": "Add together -0.2 and 500736.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "500735.8"}
+{"question": "Put together 5.9 and 0.108.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "6.008"}
+{"question": "4383 + 62", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "4445"}
+{"question": "Add together 1743 and 3.76.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "1746.76"}
+{"question": "Work out -68.5 + 67.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1.5"}
+{"question": "Subtract 49962 from 8.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-49954"}
+{"question": "Subtract -37 from 0.037.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "37.037"}
+{"question": "What is -113 plus 0.089?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-112.911"}
+{"question": "What is -0.678 take away -0.15?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-0.528"}
+{"question": "What is -7173 minus -0.6?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-7172.4"}
+{"question": "What is -0.07 take away 9129?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-9129.07"}
+{"question": "What is the difference between 7868 and 30?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "7838"}
+{"question": "What is the difference between -0.2 and -1534?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "1533.8"}
+{"question": "-36442 - -1.8", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-36440.2"}
+{"question": "What is 1234 take away -0.2?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "1234.2"}
+{"question": "What is 0.07 take away -0.052856?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "0.122856"}
+{"question": "What is -19 minus -1.876?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-17.124"}
+{"question": "What is -2 plus -49.7?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-51.7"}
+{"question": "What is 5.694 less than 0.017?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-5.677"}
+{"question": "What is the distance between -0.4 and 10332?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "10332.4"}
+{"question": "What is the distance between 1863 and 0.085?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "1862.915"}
+{"question": "31226742 - -0.4", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "31226742.4"}
+{"question": "Work out 0.8 + -12.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-11.2"}
+{"question": "Calculate -2 + -0.82.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-2.82"}
+{"question": "4+95806", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "95810"}
+{"question": "Work out -2 + 4.003.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "2.003"}
+{"question": "What is -437 take away 1.2?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-438.2"}
+{"question": "Calculate -1489.02 - -3.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1486.02"}
+{"question": "Subtract -0.039 from 29.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "29.039"}
+{"question": "-19.77 - -1", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-18.77"}
+{"question": "Work out 0.5 + -78014.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-78013.5"}
+{"question": "Total of 0 and 19.2.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "19.2"}
+{"question": "What is the distance between 1308 and 11.6?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "1296.4"}
+{"question": "What is 0.023 take away 1.187?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1.164"}
+{"question": "What is 7808 - 0.2?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "7807.8"}
+{"question": "What is -0.5 less than -0.795307?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-0.295307"}
+{"question": "-0.4 - 2455.9", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-2456.3"}
+{"question": "What is 3212.8 take away 0.3?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "3212.5"}
+{"question": "What is 0.1 take away 34850?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-34849.9"}
+{"question": "What is 1693966 - -3?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "1693969"}
+{"question": "What is 3 less than -1698?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1701"}
+{"question": "What is -1226 minus -90?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1136"}
+{"question": "Sum -0.1 and 8835.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "8834.9"}
+{"question": "Work out -0.24 + -1648.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-1648.24"}
+{"question": "What is -0.2 minus -0.0141?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-0.1859"}
+{"question": "What is 312925 less than -6?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-312931"}
+{"question": "Work out -0.16 - 0.0235.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-0.1835"}
+{"question": "Subtract -128 from -22.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "106"}
+{"question": "Calculate -6374 + 4.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-6370"}
+{"question": "What is 0.438 plus -0.11?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "0.328"}
+{"question": "Subtract -0.1 from -99.987.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-99.887"}
+{"question": "Sum 15 and -7.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "8"}
+{"question": "-3048+-0.2", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-3048.2"}
+{"question": "What is -601 minus 96?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-697"}
+{"question": "Add 82 and 58263.", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "58345"}
+{"question": "What is the distance between 1.38 and -2515?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "2516.38"}
+{"question": "-12.37 + -0.1", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "-12.47"}
+{"question": "What is -1.34 + 1.4?", "split": "easy_train_dmmath_arithmetic__add_or_sub.txt", "answer": "0.06"}

@@ -1,0 +1,100 @@
+{"question": "What is the nearest to -1 in -0.3, 56, 2?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-0.3"}
+{"question": "What is the nearest to 1/2 in -11, -1, -2/3?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-2/3"}
+{"question": "Which is the closest to 54/5?  (a) -0.1  (b) -2/3  (c) -1  (d) -1/6", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the closest to 22.7?  (a) 2  (b) -0.4  (c) -2/13", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the closest to -1/3?  (a) 836  (b) -0.1  (c) 3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "What is the nearest to -1 in -0.2, -2/11, 1/28?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-0.2"}
+{"question": "What is the closest to 1 in -4, 1/5, -2?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "1/5"}
+{"question": "Which is the nearest to -0.1?  (a) -3/4  (b) 3  (c) 0.13  (d) 0.3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "Which is the closest to 0.3?  (a) -0.2  (b) -7  (c) -2/7", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the nearest to -7?  (a) 3  (b) -6/7  (c) 2/5  (d) 1", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "Which is the nearest to -1/3?  (a) -3  (b) 294  (c) -2/3  (d) -1", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the closest to 6 in -10, -1, 0.2, 5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "5"}
+{"question": "What is the closest to 1/4 in -0.2, -2/21, -4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-2/21"}
+{"question": "What is the nearest to 1 in 6, 3, 1.7?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "1.7"}
+{"question": "Which is the closest to -0.1?  (a) 0.5  (b) -15  (c) 0", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the nearest to 1 in -4, 2, 1/7, 4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "1/7"}
+{"question": "What is the nearest to -1/2 in -3, -69, -2/7?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-2/7"}
+{"question": "Which is the closest to -5/4?  (a) -0.4  (b) 3/4  (c) 0.368", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "What is the closest to -14 in -1/2, 5, -1, 0.5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-1"}
+{"question": "Which is the closest to 0.3?  (a) 6/11  (b) -2  (c) 5", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "What is the closest to 0.2 in -0.1, 0.3, 12?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.3"}
+{"question": "Which is the closest to -2?  (a) -1/4  (b) 0  (c) -137  (d) -6", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the closest to -0.1?  (a) 2/9  (b) -0.5  (c) -68  (d) -0.3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "d"}
+{"question": "What is the closest to 0 in -0.4, 5, 1, 62?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-0.4"}
+{"question": "What is the closest to -2 in 2, 302, -4, 1/2?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-4"}
+{"question": "Which is the nearest to 1/5?  (a) -4  (b) 2/3  (c) -5/3  (d) -8", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "Which is the nearest to 5/3?  (a) 1/7  (b) -2/7  (c) -1  (d) 3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "d"}
+{"question": "What is the nearest to 0.1 in 0.1, 4, -50, -0.3?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.1"}
+{"question": "What is the closest to -1 in -0.3, 3, 5, -30?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-0.3"}
+{"question": "Which is the nearest to -6?  (a) 3  (b) -1  (c) 2  (d) -3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "d"}
+{"question": "What is the nearest to -0.1 in -1/8, -2/3, 28.7?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-1/8"}
+{"question": "What is the closest to 0 in 53, -7, 4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "4"}
+{"question": "Which is the nearest to 1?  (a) -2/5  (b) 2/7  (c) 1", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "Which is the nearest to 1?  (a) -191  (b) -2/19  (c) -1", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "What is the nearest to -1 in 0.04, -6, 0.5, 1/3?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.04"}
+{"question": "What is the closest to -0.3 in -7, 4, -3?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-3"}
+{"question": "What is the closest to 0 in -0.5, -0.3, 4/41?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "4/41"}
+{"question": "Which is the nearest to -20?  (a) 0.4  (b) -68  (c) 4", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the closest to 0?  (a) 15  (b) 5  (c) 1/8  (d) -3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the closest to -7 in 0.1, 4, 2, -2/3?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-2/3"}
+{"question": "What is the nearest to -0.2 in 33, 2/25, 2, -4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "2/25"}
+{"question": "Which is the closest to 2?  (a) -5  (b) -4  (c) -7", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "What is the nearest to -11 in 2, 34, -1/2, 5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-1/2"}
+{"question": "Which is the closest to 40/7?  (a) 3/4  (b) 1/3  (c) 0  (d) -4", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the nearest to -4?  (a) -2/11  (b) 0.032  (c) -1", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the nearest to 0.1 in -3/2, 5, 4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-3/2"}
+{"question": "Which is the closest to -3?  (a) -1  (b) -21  (c) -0.5  (d) 5", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the closest to 1/2?  (a) 0.1  (b) 4  (c) 0", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the closest to 2/5?  (a) -1/10  (b) -4  (c) -53  (d) 2/13", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "d"}
+{"question": "Which is the closest to -4?  (a) 0.1  (b) 3  (c) 1/3  (d) -0.03", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "d"}
+{"question": "What is the closest to 4 in -11, 1, 13/3, -1/6?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "13/3"}
+{"question": "What is the closest to -1/3 in 1, 0.204, -2/5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-2/5"}
+{"question": "What is the nearest to 1/4 in 0.27, -3, -4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.27"}
+{"question": "What is the nearest to -0.1 in -5, 2/9, 0.05, 4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.05"}
+{"question": "Which is the closest to 8/3?  (a) -4/9  (b) -3/7  (c) 0.3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the closest to 0.3 in 14, 0.3, -3, -1?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.3"}
+{"question": "Which is the nearest to -2/5?  (a) -3  (b) -0.8  (c) -38", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "What is the closest to -1/25 in 5, 0.4, -5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.4"}
+{"question": "Which is the nearest to -1?  (a) 0.01  (b) -3  (c) 0.3  (d) 3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "What is the closest to -1/2 in 9, -0.2, 4, 1?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-0.2"}
+{"question": "What is the closest to 1 in 0.8, -0.5, 1/2?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.8"}
+{"question": "Which is the closest to -1/2?  (a) 1  (b) -1.2  (c) -1/25", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the nearest to 0.2 in -2/9, -0.3, 354, -5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-2/9"}
+{"question": "Which is the closest to 9?  (a) -0.5  (b) 47  (c) 19", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the closest to -1?  (a) 0.1  (b) -6  (c) -0.2", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the closest to 407 in -4, -2, 0.4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.4"}
+{"question": "Which is the nearest to -0.01?  (a) -4  (b) 5  (c) -7", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "Which is the nearest to 0.06?  (a) -1/6  (b) 0.3  (c) -3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "What is the nearest to 0.3 in 2/15, -1/2, 2/63?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "2/15"}
+{"question": "What is the closest to 0 in 0.5, 3/4, 0, -0.2?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0"}
+{"question": "Which is the closest to 1?  (a) -3  (b) -0.4  (c) -1  (d) -1/5", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "d"}
+{"question": "What is the closest to -15 in -0.2, 0.017, 0.5, -1?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-1"}
+{"question": "What is the nearest to -1 in 1/3, -0.5, -248, -0.4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-0.5"}
+{"question": "What is the closest to 1/2 in 0.3, -2/17, -3/4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.3"}
+{"question": "What is the nearest to 1/2 in -3, 0.88, 0.4?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.4"}
+{"question": "Which is the nearest to 3/14?  (a) -12  (b) 0.3  (c) 1  (d) -3/2", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "What is the nearest to 0.01 in 0, -0.8, 0.2, -85?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0"}
+{"question": "Which is the closest to -2?  (a) 0.16  (b) -1/3  (c) 3/2  (d) -0.2", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "Which is the nearest to -1?  (a) 5  (b) -48  (c) 0.5", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "Which is the closest to -0.26?  (a) -0.4  (b) -2  (c) 2", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "a"}
+{"question": "What is the closest to 2/9 in 4/3, -4/9, 0.04, 0?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.04"}
+{"question": "What is the nearest to 2 in 8, -1/4, 5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-1/4"}
+{"question": "Which is the closest to 1/4?  (a) -0.03  (b) 9/106  (c) 4", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "b"}
+{"question": "Which is the closest to -2/7?  (a) -2  (b) 897  (c) 2  (d) 0.3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "d"}
+{"question": "What is the closest to 110/151 in -2, 3, 0.1, -5?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.1"}
+{"question": "What is the closest to 0.3 in 4/9, -4, -6, 0.07?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "4/9"}
+{"question": "Which is the closest to -0.1?  (a) 55  (b) 4  (c) -4", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the nearest to -1 in 0.03, 355, 2, 3?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "0.03"}
+{"question": "What is the closest to -2/7 in -1.5, 1/3, -1, -3?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "1/3"}
+{"question": "Which is the nearest to 0.2?  (a) 4  (b) -2  (c) 0.4", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "Which is the nearest to -10?  (a) -2/7  (b) -143  (c) -1/3", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "Which is the closest to -1?  (a) 0.5  (b) 1.49  (c) -2/5", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the nearest to 5 in -2/7, -2, -21?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-2/7"}
+{"question": "Which is the nearest to 0.1?  (a) -5  (b) 6/11  (c) -1/4  (d) -15", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "What is the nearest to -73 in -2, -5/2, -1/6?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-5/2"}
+{"question": "What is the closest to -0.13 in -1/3, 1, -2, 2?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-1/3"}
+{"question": "What is the closest to 1/9 in -0.3, 4, 8?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "-0.3"}
+{"question": "What is the nearest to 7 in 3, 1, -3, 0.05?", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "3"}
+{"question": "Which is the nearest to 1?  (a) 10  (b) -10  (c) 2", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}
+{"question": "Which is the closest to 2?  (a) -621  (b) 4  (c) 0.2", "split": "easy_train_dmmath_comparison__closest.txt", "answer": "c"}

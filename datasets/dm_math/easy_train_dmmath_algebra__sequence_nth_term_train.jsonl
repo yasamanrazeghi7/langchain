@@ -1,0 +1,100 @@
+{"question": "What is the y'th term of 49, 198, 451, 808, 1269?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "52*y**2 - 7*y + 4"}
+{"question": "What is the y'th term of -44, -36, -28?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "8*y - 52"}
+{"question": "What is the q'th term of 56, 203, 440, 761, 1160?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-q**3 + 51*q**2 + q + 5"}
+{"question": "What is the l'th term of -27, -46, -61, -72?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*l**2 - 25*l - 4"}
+{"question": "What is the t'th term of 10, 14, 22, 34, 50?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*t**2 - 2*t + 10"}
+{"question": "What is the d'th term of -294, -587, -880, -1173, -1466?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-293*d - 1"}
+{"question": "What is the x'th term of 58, 56, 54?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*x + 60"}
+{"question": "What is the l'th term of 2468, 2481, 2508, 2555, 2628, 2733, 2876?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "l**3 + l**2 + 3*l + 2463"}
+{"question": "What is the v'th term of 1045, 1046, 1047, 1048, 1049, 1050?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "v + 1044"}
+{"question": "What is the y'th term of 511, 1024, 1537?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "513*y - 2"}
+{"question": "What is the s'th term of 166, 161, 152, 139, 122, 101, 76?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*s**2 + s + 167"}
+{"question": "What is the y'th term of 1139, 1143, 1147, 1151, 1155?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "4*y + 1135"}
+{"question": "What is the g'th term of -532, -1077, -1626, -2179, -2736, -3297, -3862?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*g**2 - 539*g + 9"}
+{"question": "What is the s'th term of -77, -80, -77, -68, -53, -32?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "3*s**2 - 12*s - 68"}
+{"question": "What is the q'th term of -43, -51, -85, -157, -279, -463, -721?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*q**3 - q**2 + 9*q - 49"}
+{"question": "What is the y'th term of -19, -17, -15, -13, -11, -9?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*y - 21"}
+{"question": "What is the z'th term of -4071, -4070, -4069, -4068, -4067?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "z - 4072"}
+{"question": "What is the w'th term of 2, -12, -46, -106, -198, -328, -502?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-w**3 - 4*w**2 + 5*w + 2"}
+{"question": "What is the h'th term of 176, 761, 1736, 3101, 4856?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "195*h**2 - 19"}
+{"question": "What is the j'th term of 61, 63, 53, 25, -27, -109, -227, -387?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-j**3 + 9*j + 53"}
+{"question": "What is the n'th term of -10, -13, -14, -13, -10, -5?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "n**2 - 6*n - 5"}
+{"question": "What is the p'th term of 171, 142, 81, -24, -185, -414, -723?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*p**3 - 4*p**2 - 3*p + 180"}
+{"question": "What is the a'th term of -1794, -1862, -1944, -2046, -2174, -2334, -2532?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-a**3 - a**2 - 58*a - 1734"}
+{"question": "What is the b'th term of -38, -5, 26, 55, 82?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-b**2 + 36*b - 73"}
+{"question": "What is the n'th term of -129, -122, -117, -114, -113?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-n**2 + 10*n - 138"}
+{"question": "What is the d'th term of -930, -1857, -2780, -3699?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*d**2 - 933*d + 1"}
+{"question": "What is the t'th term of -111, -255, -399, -543?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-144*t + 33"}
+{"question": "What is the b'th term of 18710, 37419, 56128?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "18709*b + 1"}
+{"question": "What is the u'th term of -28, -50, -90, -154, -248, -378?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-u**3 - 3*u**2 - 6*u - 18"}
+{"question": "What is the t'th term of 22, 53, 94, 151, 230, 337?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "t**3 - t**2 + 27*t - 5"}
+{"question": "What is the p'th term of -396, -352, -272, -150, 20?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "p**3 + 12*p**2 + p - 410"}
+{"question": "What is the w'th term of 4, 41, 132, 301, 572?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "4*w**3 + 3*w**2 - 3"}
+{"question": "What is the n'th term of -109, -249, -421, -625?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-16*n**2 - 92*n - 1"}
+{"question": "What is the q'th term of -21, 12, 47, 84, 123, 164?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "q**2 + 30*q - 52"}
+{"question": "What is the r'th term of -762, -745, -716, -675, -622, -557?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "6*r**2 - r - 767"}
+{"question": "What is the v'th term of 109, 83, 19, -101, -295, -581, -977, -1501?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-3*v**3 - v**2 - 2*v + 115"}
+{"question": "What is the s'th term of 18, 50, 116, 234, 422?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "3*s**3 - s**2 + 14*s + 2"}
+{"question": "What is the w'th term of 64, 114, 162, 208?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-w**2 + 53*w + 12"}
+{"question": "What is the r'th term of 184, 173, 148, 103, 32, -71, -212, -397?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-r**3 - r**2 - r + 187"}
+{"question": "What is the y'th term of -128, -124, -120, -116, -112?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "4*y - 132"}
+{"question": "What is the v'th term of 1682, 1685, 1690, 1697, 1706?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "v**2 + 1681"}
+{"question": "What is the p'th term of 44, 51, 58, 65, 72, 79?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "7*p + 37"}
+{"question": "What is the b'th term of -273, -284, -307, -348, -413?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-b**3 - 4*b - 268"}
+{"question": "What is the l'th term of -23, -45, -67, -89?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-22*l - 1"}
+{"question": "What is the h'th term of -27, -129, -385, -873, -1671, -2857, -4509?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-13*h**3 + h**2 - 14*h - 1"}
+{"question": "What is the q'th term of 54, 67, 104, 177, 298?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*q**3 - q + 53"}
+{"question": "What is the f'th term of -1, -68, -251, -610, -1205, -2096, -3343, -5006?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-10*f**3 + 2*f**2 - 3*f + 10"}
+{"question": "What is the t'th term of -13109, -13108, -13107, -13106, -13105?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "t - 13110"}
+{"question": "What is the d'th term of -62, -116, -168, -218, -266?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "d**2 - 57*d - 6"}
+{"question": "What is the p'th term of -103, -209, -319, -433, -551, -673, -799?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*p**2 - 100*p - 1"}
+{"question": "What is the g'th term of 3, -7, -23, -45?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-3*g**2 - g + 7"}
+{"question": "What is the u'th term of 390, 779, 1168?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "389*u + 1"}
+{"question": "What is the o'th term of -3958, -7903, -11850, -15799, -19750, -23703, -27658?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-o**2 - 3942*o - 15"}
+{"question": "What is the z'th term of -138, -271, -398, -513, -610?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "z**3 - 3*z**2 - 131*z - 5"}
+{"question": "What is the c'th term of 26, 60, 110, 176, 258, 356, 470?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "8*c**2 + 10*c + 8"}
+{"question": "What is the b'th term of 25, 21, 5, -29, -87?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-b**3 + 3*b + 23"}
+{"question": "What is the i'th term of -27, -60, -103, -156, -219, -292?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-5*i**2 - 18*i - 4"}
+{"question": "What is the b'th term of 898, 900, 912, 940, 990, 1068, 1180?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "b**3 - b**2 - 2*b + 900"}
+{"question": "What is the d'th term of 31, 2, -47, -110, -181, -254?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "d**3 - 16*d**2 + 12*d + 34"}
+{"question": "What is the u'th term of -860, -855, -850?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "5*u - 865"}
+{"question": "What is the s'th term of 5690, 11382, 17074?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "5692*s - 2"}
+{"question": "What is the p'th term of 13730, 27461, 41192, 54923?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "13731*p - 1"}
+{"question": "What is the d'th term of -1707, -1705, -1703, -1701?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*d - 1709"}
+{"question": "What is the x'th term of -585, -591, -601, -615?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*x**2 - 583"}
+{"question": "What is the f'th term of -46, -60, -76, -94, -114, -136, -160?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-f**2 - 11*f - 34"}
+{"question": "What is the v'th term of 1130, 1125, 1116, 1103?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*v**2 + v + 1131"}
+{"question": "What is the d'th term of 71, 103, 141, 173, 187, 171?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*d**3 + 15*d**2 + d + 57"}
+{"question": "What is the b'th term of -45, -40, -31, -12, 23, 80, 165?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "b**3 - 4*b**2 + 10*b - 52"}
+{"question": "What is the a'th term of 7, 14, 39, 94, 191, 342?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*a**3 - 3*a**2 + 2*a + 6"}
+{"question": "What is the x'th term of 42, 35, 14, -27, -94, -193, -330, -511?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-x**3 - x**2 + 3*x + 41"}
+{"question": "What is the z'th term of 3101, 3096, 3091?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-5*z + 3106"}
+{"question": "What is the i'th term of -6541, -6554, -6579, -6622, -6689, -6786, -6919, -7094?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-i**3 - 6*i - 6534"}
+{"question": "What is the l'th term of -32, -108, -224, -386, -600, -872, -1208?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-l**3 - 14*l**2 - 27*l + 10"}
+{"question": "What is the d'th term of -244, -217, -166, -85, 32, 191?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "d**3 + 6*d**2 + 2*d - 253"}
+{"question": "What is the p'th term of 6, 3, -4, -15, -30?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*p**2 + 3*p + 5"}
+{"question": "What is the c'th term of 2332, 4663, 6994, 9325, 11656?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2331*c + 1"}
+{"question": "What is the s'th term of -2691, -5385, -8079, -10773, -13467?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2694*s + 3"}
+{"question": "What is the w'th term of 15, 32, 49, 66, 83?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "17*w - 2"}
+{"question": "What is the n'th term of 131, 259, 383, 503, 619?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-2*n**2 + 134*n - 1"}
+{"question": "What is the f'th term of -128, -215, -312, -425, -560?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-f**3 + f**2 - 83*f - 45"}
+{"question": "What is the c'th term of -945, -944, -943, -942?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "c - 946"}
+{"question": "What is the d'th term of -1011, -1007, -1003?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "4*d - 1015"}
+{"question": "What is the l'th term of -470, -929, -1376, -1805, -2210, -2585, -2924?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "l**3 - 466*l - 5"}
+{"question": "What is the n'th term of 1236, 2508, 3782, 5058?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "n**2 + 1269*n - 34"}
+{"question": "What is the i'th term of 157, 155, 155, 157, 161, 167, 175?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "i**2 - 5*i + 161"}
+{"question": "What is the u'th term of -48, -51, -62, -87, -132, -203, -306?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-u**3 + 2*u**2 - 2*u - 47"}
+{"question": "What is the j'th term of 111, 179, 237, 279, 299, 291?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-j**3 + j**2 + 72*j + 39"}
+{"question": "What is the v'th term of -12, -90, -210, -366, -552, -762, -990, -1230?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "v**3 - 27*v**2 - 4*v + 18"}
+{"question": "What is the m'th term of 4159, 4151, 4141, 4129?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-m**2 - 5*m + 4165"}
+{"question": "What is the l'th term of -40, -161, -360, -637?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-39*l**2 - 4*l + 3"}
+{"question": "What is the b'th term of 17, 7, -15, -55, -119, -213, -343, -515?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-b**3 - 3*b + 21"}
+{"question": "What is the w'th term of 146, 148, 152, 158?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "w**2 - w + 146"}
+{"question": "What is the y'th term of -245, -518, -791, -1064, -1337?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-273*y + 28"}
+{"question": "What is the b'th term of 109, 190, 273, 358, 445?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "b**2 + 78*b + 30"}
+{"question": "What is the h'th term of -351, -365, -377, -387?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "h**2 - 17*h - 335"}
+{"question": "What is the i'th term of 229, 522, 825, 1144, 1485, 1854, 2257, 2700?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "i**3 - i**2 + 289*i - 60"}
+{"question": "What is the k'th term of -64, -225, -492, -865, -1344, -1929, -2620?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-53*k**2 - 2*k - 9"}
+{"question": "What is the f'th term of -74, -112, -150, -188, -226?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-38*f - 36"}
+{"question": "What is the s'th term of 45, 50, 45, 24, -19, -90, -195, -340?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "-s**3 + s**2 + 9*s + 36"}
+{"question": "What is the m'th term of 3, 19, 59, 135, 259, 443, 699, 1039?", "split": "easy_train_dmmath_algebra__sequence_nth_term.txt", "answer": "2*m**3 + 2*m - 1"}

@@ -1,0 +1,100 @@
+{"question": "Let z = 60 - 36. Calculate the remainder when 46 is divided by z.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "22"}
+{"question": "Suppose -3*j = -5*h - 0*j - 49, -4*h - 2*j = 48. Let m = -7 - h. What is the remainder when m is divided by 2?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "0"}
+{"question": "Suppose 3*o + 4*v = -1, -o = -4*o + v + 19. What is the remainder when o is divided by (-18)/(-4)*(-4)/(-6)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Let p(a) = 2*a**2 - a - 1. What is the remainder when p(7) is divided by 31?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "28"}
+{"question": "Suppose -7*v + 261 = -2*v - r, v + 3*r - 49 = 0. What is the remainder when v is divided by 9?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "7"}
+{"question": "Let s(w) = 6*w**2 - w. Let l be s(4). What is the remainder when (-2)/(-6) - l/(-12) is divided by 18/4 + 3/6?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "3"}
+{"question": "Suppose 0*c + 2*g = -c + 1, 2*c - 9 = 3*g. Calculate the remainder when c is divided by 2.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "1"}
+{"question": "Suppose 17*m - 10 = 16*m. Let k = m - -62. Calculate the remainder when k is divided by 25.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "22"}
+{"question": "Suppose -g + 6 = 1. Calculate the remainder when 18 is divided by g.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "3"}
+{"question": "Let v(s) = -s**3 - 8*s**2 - 3*s - 2. Calculate the remainder when 63 is divided by v(-8).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "19"}
+{"question": "Let f = -11 + 9. Calculate the remainder when 62 is divided by -6*1*7/f.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "20"}
+{"question": "Let b = 13 + 2. Calculate the remainder when 58 is divided by b.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "13"}
+{"question": "Let r(p) = p + 12. Let i = 17 + -26. Let d be r(i). Let x = 9 - d. What is the remainder when 11 is divided by x?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "5"}
+{"question": "Let d(r) = -r + 12. What is the remainder when 25 is divided by d(3)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "7"}
+{"question": "Let w(o) = -o - 8. Let p be w(-10). Suppose 20 = -0*v + 2*v. Calculate the remainder when (-58)/(p*(1 - 2)) is divided by v.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "9"}
+{"question": "Let o(t) = -t**2 + 7*t + 10. What is the remainder when o(7) is divided by 2?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "0"}
+{"question": "Suppose 0 = m + 1 - 46. Suppose -5*u + 29 = y, 0 = -3*y + 13 - 1. Suppose 0 = 2*p + u*k - m, -p = 2*p + 3*k - 63. What is the remainder when p is divided by 11?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "9"}
+{"question": "Let i = -7 + 11. What is the remainder when 20/3 + 1/3 is divided by i?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "3"}
+{"question": "Suppose 0 = 5*f - 15 - 55. Suppose k + 3*l + 4 = 0, 0*l - 36 = -5*k - l. Calculate the remainder when f is divided by k.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "6"}
+{"question": "Let u = 5 - 7. What is the remainder when 25 is divided by (-2)/u - (-6)/1?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "4"}
+{"question": "Calculate the remainder when 9/2*(-88)/(-12) is divided by 18.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "15"}
+{"question": "Suppose 4*x - z = -2*z + 32, -11 = x + 5*z. Let l = x + -7. Calculate the remainder when l is divided by 2.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "0"}
+{"question": "Suppose -s = -4*i + 3*i - 1, 3*i = -4*s + 18. Suppose -5*v = -s*v - 8. What is the remainder when 6/(-4) + 50/4 is divided by v?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "3"}
+{"question": "Let t = -12 + 25. What is the remainder when (-1 - 0)/(1/(-37)) is divided by (4/(-2))/(-2)*t?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "11"}
+{"question": "Let z(x) be the first derivative of 2 + 11/2*x**2 - 7*x + 2/3*x**3. Calculate the remainder when z(-8) is divided by 9.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "6"}
+{"question": "Calculate the remainder when (2 + 1 + 10)*(7 - 0) is divided by 16.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "11"}
+{"question": "Calculate the remainder when 44 is divided by 3/9*0 + 15.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "14"}
+{"question": "Let o(r) = 27*r - 7. What is the remainder when o(4) is divided by 13?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "10"}
+{"question": "Calculate the remainder when 1383/12 + (3/4 - 1) is divided by 39.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "37"}
+{"question": "Suppose 184 - 1051 = 3*j. Let g(o) = -o**3 - 4*o**2 + 3*o + 4. Calculate the remainder when j/(-7) + (-16)/56 is divided by g(-5).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "13"}
+{"question": "Suppose -2*d + 0*z - z = -3, -3*z = -d + 12. Calculate the remainder when 4 is divided by d.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "1"}
+{"question": "Suppose 0*c = -4*c + 244. Suppose -4*m = 4*k - 56, 6*k - 2*k - m = 66. Calculate the remainder when c is divided by k.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "13"}
+{"question": "Suppose 14 = -5*u - 1. Let n = u + 7. What is the remainder when (-25)/(-4) + (-2)/8 is divided by n?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose 3*s - 8*s + 25 = 0. Calculate the remainder when 22 is divided by s.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose -87*l + 24 = -85*l. What is the remainder when 31 is divided by l?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "7"}
+{"question": "Let v(t) = t**3 + 19*t**2 + 16*t - 24. Suppose 21 = -0*d + 3*d. What is the remainder when v(-18) is divided by d?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "5"}
+{"question": "Calculate the remainder when (-1236)/(-27) + ((-16)/(-9))/8 is divided by 8.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "6"}
+{"question": "Suppose -4*p + 104 = -2*f, 6*p - 2*p - 110 = 5*f. What is the remainder when 73 is divided by p?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "23"}
+{"question": "Let i = 46 + -39. Suppose 68 = 3*l - 2*k, -2*l - 4*k = -8*k - 56. What is the remainder when l is divided by i?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "6"}
+{"question": "Let d be (-38)/(-14) - (-4)/14. Let h be ((-62)/(-6) - 2)*d. Suppose 0*i = -5*o - 5*i + 25, -i = -4*o + h. Calculate the remainder when 10 is divided by o.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "4"}
+{"question": "Suppose 5*x - 46 = -s, 5*s - s + 36 = 2*x. Let i(p) = -p**3 + 4*p**2 + 7*p - 6. What is the remainder when x is divided by i(5)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose 5*u - 176 = 3*c, -2*u - c + 62 = -5*c. What is the remainder when u is divided by 10?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "7"}
+{"question": "Let c(a) = 7*a**2 - 1. Let x be (1 - 3) + 3 + 27. Suppose n + n = x. What is the remainder when c(-2) is divided by n?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "13"}
+{"question": "Let q(l) = -l**3 - 12*l**2 - 12*l + 6. Let h be q(-11). Calculate the remainder when 2/8 + 238/8 is divided by 2/(-2) + (h - 0).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "14"}
+{"question": "Let k be (22/(-1))/(-1 - -2). Let b = k + 62. Suppose -2*f + 2*d + 24 = 0, -d + 60 = 4*f + d. What is the remainder when b is divided by f?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "12"}
+{"question": "Let f(b) = 2*b**3 + b - 1. Calculate the remainder when f(3) is divided by 29.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "27"}
+{"question": "Suppose -6*v = -x - 3*v + 17, v - 17 = -x. Suppose 0 = -y + 5*n - 75, -2*y + 3*n + x - 132 = 0. Calculate the remainder when ((-2)/5)/(2/y) is divided by 4.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose d + 5*h = h + 1, 2*h = -2*d - 16. Let j = d - -21. Calculate the remainder when ((-80)/(-25))/4*35 is divided by j.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "8"}
+{"question": "Let h(f) = -f**2 + 9*f + 10. Let p = -1 + 2. Calculate the remainder when h(8) is divided by (-14)/p*1/(-2).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "4"}
+{"question": "Suppose -15*m = -11*m. Suppose -d - 4*d + 120 = m. Calculate the remainder when 94 is divided by d.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "22"}
+{"question": "Suppose r - 2*r + 3 = 0. Suppose 4*f - r*x - 163 = 0, f + 5*x = 4 + 8. Calculate the remainder when f is divided by 20.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "17"}
+{"question": "Let h = 3 - 15. What is the remainder when 40 is divided by 2/4 + (-162)/h?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "12"}
+{"question": "Let l(y) be the first derivative of 2*y**3/3 + 7*y**2/2 + 4*y - 3. What is the remainder when l(-4) is divided by -2 + 8 + -1 + -2?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose -4*o + 32 = 4*r, r + 5*o - o = -7. What is the remainder when 37 is divided by r?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "11"}
+{"question": "Suppose -3*c + 84 = 27. Let z(j) = -j**3 - 7*j**2 - 6*j + 7. What is the remainder when c is divided by z(-6)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "5"}
+{"question": "Let p(m) = -3*m - 4. Calculate the remainder when 76 is divided by p(-8).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "16"}
+{"question": "Let n = 1 + -14. Let z = n + 22. What is the remainder when z is divided by 3?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "0"}
+{"question": "Let k = 31 - 19. Suppose -2*z - z = -k. Calculate the remainder when -1 - (-12 + (-2 - -3)) is divided by z.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose -s = -2*p - 2, -4*s = -3*s + 3*p - 7. Suppose 24 + 4 = s*d. Calculate the remainder when 111/9 - (-2)/3 is divided by d.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "6"}
+{"question": "Let i be (8/(-6))/(2/6). Calculate the remainder when 48*1*(-3)/i is divided by 23 - ((-16)/(-6))/(30/45).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "17"}
+{"question": "Let m = 25 + 21. Let q = -65 + 77. What is the remainder when m is divided by q?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "10"}
+{"question": "Let y(o) = -2*o - 4. Let g = 2 - -1. Calculate the remainder when y(-4) is divided by g.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "1"}
+{"question": "Let m = -161 + 243. What is the remainder when m is divided by 23?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "13"}
+{"question": "Suppose 4*s - 8*s = -72. Suppose -15 = -3*z + s. Calculate the remainder when 41 is divided by z.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "8"}
+{"question": "Let q(p) = -11*p - 33. What is the remainder when q(-8) is divided by 18?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "1"}
+{"question": "Let d be (-3 + 2 - 0)*25. Let o be (-2 + 3 + d)*-1. Calculate the remainder when 1 + 2 + o + -2 is divided by 9.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "7"}
+{"question": "Let l(q) = -q**3 + 7*q**2 - 6*q - 7. Let b(k) = -k**3 + 7*k**2 - 4*k - 7. Let h be b(6). What is the remainder when l(h) is divided by 5?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "3"}
+{"question": "Let s be ((-1)/(-2))/((-1)/(-68)). Let v = s + -20. Suppose -265 = -18*y + 13*y. What is the remainder when y is divided by v?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "11"}
+{"question": "Let s = 55 + -30. Calculate the remainder when s is divided by (28/(-10))/(1/(-5)).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "11"}
+{"question": "Suppose 0 = p - 3 - 1. Let d = 9 - p. Calculate the remainder when d is divided by 3.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Let x be 2/(-12) - (-70478)/12. What is the remainder when (-4)/18 - x/(-63) is divided by 19?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "17"}
+{"question": "Let k(l) = l**2 - 9*l + 11. Let q be k(8). What is the remainder when -2 + q/(-6)*-38 is divided by 10?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "7"}
+{"question": "Let g be -1 + -1 - (6 + -10). Suppose -4*f + 4*d = d - 65, 0 = 3*f + g*d - 53. What is the remainder when 66 is divided by f?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "15"}
+{"question": "Let q(r) be the first derivative of -r**4 - r**3/3 + 3*r**2/2 + r + 3. Calculate the remainder when q(-2) is divided by 12.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "11"}
+{"question": "Let z(s) = -4*s + 51. What is the remainder when 30 is divided by z(10)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "8"}
+{"question": "Suppose 10*b - 5*b = 5*u + 930, 8 = -2*u. Suppose b + 38 = 5*l. What is the remainder when l is divided by 15?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "14"}
+{"question": "Let d(b) = 6*b**3 - b**2 - b. Let w be d(-1). Calculate the remainder when 9 is divided by w - -14 - (1 + 2).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "4"}
+{"question": "Suppose -2*n = -3*o + 193, -4*o - 2*n = -n - 272. What is the remainder when o is divided by 23?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "21"}
+{"question": "Let g(h) = 15*h. Suppose v = -5*z - 1, -z + 3 = 2*v + 4*z. Calculate the remainder when g(1) is divided by v.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "3"}
+{"question": "Suppose 76 - 16 = 4*c. Let n be (-10)/(5/(c/(-6))). Suppose -13 = -n*u - 38, 2*x = -4*u + 16. What is the remainder when 34 is divided by x?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "16"}
+{"question": "Let s = 2 + 18. Calculate the remainder when 22 is divided by s/3*12/10.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "6"}
+{"question": "Let r be (3/6)/((-2)/(-280)). Let p be 73/2 + 1/2. Let z = r - p. Calculate the remainder when z is divided by 12.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "9"}
+{"question": "Let i be (-21)/(-2)*(-12)/7. What is the remainder when 71 is divided by i/(-8)*48/6?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "17"}
+{"question": "Let c = 3 + -3. Suppose c = -2*q - 2*q - 80. Calculate the remainder when 23 is divided by (2/(-5))/(1/q).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "7"}
+{"question": "Suppose 6 + 4 = 2*w. Suppose 4*g + 2*b - 84 = 0, -g - 2*b + 0*b = -18. Calculate the remainder when g is divided by w.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose 0 = -0*k + 2*k - 4. Suppose -w + 4 = -4*h + k*h, 3 = -h. Calculate the remainder when 5 is divided by 4 - w*(-3 + 2).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "1"}
+{"question": "Suppose v + 3*v - 38 = -y, -5*v = -2*y - 41. Suppose u = 2*u - v. Calculate the remainder when 17 is divided by u.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "8"}
+{"question": "Suppose d - 20 = 5*d. What is the remainder when 3/(3/(-5))*d is divided by (-2)/(-3)*(-39)/(-2)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "12"}
+{"question": "Let g(m) = m**3 + 6*m**2 - 4*m - 4. Suppose -3*h + 0 - 18 = 0. Let w be g(h). Let k = -14 + w. What is the remainder when 9 is divided by k?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "3"}
+{"question": "Let g(j) = -3*j**3 + 2*j**2 - 1. Let m = -4 + 3. Suppose -4 = -4*d, -5*d - 7 + 0 = -2*p. What is the remainder when p is divided by g(m)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Suppose -a = -18 - 15. Calculate the remainder when 194 is divided by a.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "29"}
+{"question": "Let y(q) = 16*q. Let v(i) = i**2 - i. Let k be v(2). Suppose -4*j + j = -33. Calculate the remainder when y(k) is divided by j.", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "10"}
+{"question": "Suppose -2*z + 1 = -7. Let d = 33 + -23. Suppose d = z*h - 2. What is the remainder when h is divided by 2?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "1"}
+{"question": "Suppose -5*h - 20 = -5, 0 = 4*f - 2*h - 54. What is the remainder when 15 is divided by -3 - (-3)/(f/32)?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "0"}
+{"question": "Let p(x) = 0*x**2 - x**3 + 0*x**2 - 6 + 7*x + 3*x**2. Let w be p(4). Calculate the remainder when 4 is divided by w*(1 - 2/4).", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "1"}
+{"question": "Suppose 0 = 5*q + 5*x - 170, 2*q - 64 = -0*q - x. What is the remainder when 57 is divided by q?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "27"}
+{"question": "Let h be 0 - (0 + (2 - 6)). Let n = 57 - 25. Suppose -3*a + 2*f - f = -n, h*a - 2*f = 42. What is the remainder when 41 is divided by a?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "8"}
+{"question": "Let o = -34 - -51. Suppose 17 = 2*j + 7. What is the remainder when o is divided by j?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Let i(f) = f + 11. What is the remainder when i(0) is divided by 3?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "2"}
+{"question": "Let f = -13 - -28. Let m = f - 5. What is the remainder when 19/2*(-5 + 7) is divided by m?", "split": "easy_train_dmmath_numbers__div_remainder_composed.txt", "answer": "9"}

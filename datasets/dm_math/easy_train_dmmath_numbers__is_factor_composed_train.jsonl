@@ -1,0 +1,100 @@
+{"question": "Let p be (4/3)/((-14)/(-21)). Suppose p*g = 5 + 55. Does 14 divide g?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Does 8 divide (-4)/4 - 97/(-1)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let g(u) = u**3 - u**2. Let i be g(0). Let x(o) = 5*o - 14. Let j(w) = -6*w + 14. Let y(q) = -6*j(q) - 7*x(q). Is y(i) a multiple of 14?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose h + 3*t = 5*h - 474, -486 = -4*h - 3*t. Suppose -30 + h = 3*n. Is 10 a factor of n?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 2*p = h - 1 + 18, -3*h = 15. Is p even?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let s(l) = -l**3 - 2*l**2 + l - 4. Let k be s(-3). Suppose t - 15 = 3*j, -6*j + 37 = 5*t - k*j. Does 9 divide t?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let u be 1 + -3*(-2)/6. Let c be ((-1)/u)/((-2)/(-4)). Does 12 divide 276/9 - c/3?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let g(z) = z**3 - 7*z**2 + 7*z - 5. Let d be g(6). Let u be (2 - d)*(1 + 3). Suppose -3*x + 17 = -2*n, 0*n + u*n = -3*x + 11. Is 5 a factor of x?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -4*r = -4, -5*t + 1188 = 3*r + 145. Suppose 0*u - 3*u + j + t = 0, -3*j = 2*u - 124. Is u a multiple of 24?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Does 15 divide (-3 + -24)*(-11)/3?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let o(k) = -k**3 - 10*k**2 + 8*k - 9. Let v be o(-11). Suppose -v - 12 = -2*m. Does 18 divide m?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let m = 37 + -32. Does 3 divide m?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -4*c - 20 = 0, -2*p - c = p - 22. Let y(w) be the second derivative of -w**5/20 + 3*w**4/4 - w**3/6 + 13*w**2/2 + w. Is y(p) a multiple of 2?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let w = 2 + 3. Suppose w*x - 2 = 23. Suppose -136 - 49 = -x*c. Is c a multiple of 10?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -3*g - 8 + 68 = 0. Is g a multiple of 10?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 5*y - 2*n - 1294 = -0*y, -535 = -2*y - 5*n. Let h be (-2)/(-7) + y/(-28). Does 3 divide (-92)/h - (-4)/(-18)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let n(t) = 2*t - 1. Let z be n(2). Let f(j) = -4*j + 8*j**2 - 3 - j**3 + 0*j**z - 2. Is 7 a factor of f(7)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let c(v) = -2*v - 4*v + 4 + 5 + v**3 - 5*v**2. Is 8 a factor of c(6)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let d(z) be the second derivative of z**4/6 + z**3/6 + 3*z**2/2 + 7*z. Does 12 divide d(-4)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 3*a = s + 27, a - 8 = -a + 4*s. Is 4 a factor of (-1)/((1 + -2)/a)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let v(c) = -c**2 - 9*c - 6. Let m = -19 + 11. Let n be v(m). Is 0/(1 - n) + 5 a multiple of 3?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -z = z - 72. Does 9 divide z?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 3*c = 4*i + 4*c - 22, 5*i = -3*c + 31. Let a = i + -4. Is 7 a factor of a*(-3)/(3/(-7))?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -3*i + 5*r = -351, -2*r = 3*i - 4*r - 342. Does 14 divide i?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let u = 7 - -49. Is u a multiple of 8?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let a(p) = -39*p - 5. Let q be a(6). Let m = q + 164. Is m/(-12)*(4 + 0) a multiple of 10?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 5*t = -b + 140, -t + 2*b = 5 - 44. Does 29 divide t?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let d be (1*-2 - -8)*1. Suppose 0 = 2*k - d, -5*k + 92 = 4*t - 11. Does 11 divide t/4*(-1 + 5)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -i + 8 = 2*w - 8, 0 = -2*i - 2*w + 28. Suppose 2*r - i = -2*r. Suppose -r = -3*a, 0*a + 77 = 4*q + a. Is 18 a factor of q?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let w(h) = -h**2 + 4 - h + 3*h - 5. Let d be w(2). Let l(k) = -10*k + 1. Is 7 a factor of l(d)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let h(v) = -v**3 - 7*v**2 - v + 1. Let q be h(-7). Suppose -3*n + 12 = -p, 4*n - 8 - q = -4*p. Does 4 divide n?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 11*t = 1020 + 729. Is t a multiple of 30?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let q(m) = m**3 - m**2 - m. Let v(x) = -6*x**3 - x**2 + 3*x + 3. Let i(n) = -5*q(n) - v(n). Does 6 divide i(-5)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Is (3/4 + -3)*-4 a multiple of 2?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Is 19 a factor of (86 - 7)*(2 - 1)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let o(h) = -2*h**3 - 6*h**2 + 5*h - 3. Let c be o(-5). Is ((-2)/(-4))/(6/c) a multiple of 3?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 10*i = 5*i + 15. Let s(y) = -9*y + 3*y - 4*y - i. Is 13 a factor of s(-2)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let n(m) = m**2 + 2*m - 48. Does 16 divide n(14)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Is ((-58)/(-10) - 1)/((-5)/(-25)) a multiple of 15?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose l + 3*n + 23 = 0, 4*n = 3*l + 3*n + 39. Let z be (-10)/4 - (-1)/2. Let x = z - l. Is x a multiple of 5?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let a(b) = -6*b - 4. Let n be a(3). Let j = -6 - n. Is j a multiple of 7?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let t = 13 + -11. Suppose -4*k + 131 = 3*v, k - t*v - 94 = -2*k. Is 19 a factor of k?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 0 = m - 4*l - 113, 1 - 21 = -5*l. Is 24 a factor of m?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 4*o = 2*o + 8. Suppose -g - 5*c = g, o*g - c - 22 = 0. Suppose g*n - 2*n = 93. Does 16 divide n?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let g = -6 + 8. Does 7 divide g - (-12 - -1 - 1)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -1140 = 5*w - 9*w. Is 57 a factor of w?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let q = -37 - -67. Is 6 a factor of q?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let y(h) = 4*h. Let r be y(-3). Suppose -4*n - 5*z = 4, 3*n = 2*n - 4*z - 1. Is (r/18)/(n/12) a multiple of 8?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 328 = 9*d - 167. Is d a multiple of 13?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -5*f + 60 + 0 = 0. Suppose f = 2*l + l. Suppose -61 = -3*q - 3*i - 2*i, 0 = -2*q + l*i + 48. Is q a multiple of 22?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let r = -226 + 645. Does 61 divide r?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Is 4 a factor of (18 + -17)/(2/30)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -2*f = -4*f + 84. Suppose 2*u = f + 78. Suppose -c - 2*c = -u. Is 10 a factor of c?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let l(k) = -k**2. Let z be l(1). Is 8 a factor of -60*2*z/5?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let x be 204/2*18/27. Suppose 2*o - 8 = x. Does 19 divide o?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let t = -126 - -253. Does 16 divide t?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -k = -3*k + 4. Is 6 a factor of (2/5 - k)*-15?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -7*h + 185 = -2*h. Is 6 a factor of h?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let r be (-552)/28 - 4/14. Let i = 60 + r. Does 20 divide i?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 11*p - 12*p = -120. Is p a multiple of 15?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let m(v) = 3*v + 2. Let g(j) = j**3 - 3*j**2 + 2*j - 2. Let x = -2 + 5. Let q be g(x). Is m(q) a multiple of 14?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 3*g + 10 = 2*y, -5*y + 0*g = 2*g - 6. Suppose 0 = d - 2, -59 = -b - y*d - 15. Does 20 divide b?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -v + 5 = -0*v, -2*l + 28 = 4*v. Suppose 5*d = l*f - 3*f + 205, 0 = -3*d - 5*f + 151. Does 14 divide d?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let s = -99 - -53. Is 13 a factor of 1/(-1 + (-48)/s)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let n = -47 + 67. Is 5 a factor of n?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -5*q + 4*g + 30 = 0, -7 = -5*q + g + 8. Suppose -q*h + 120 = 2*s, -2*h - 60 = -s + 3*h. Suppose -m + 3*m - s = 0. Is 15 a factor of m?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -3*h = 2*h - 4*g - 150, -165 = -5*h + g. Is 17 a factor of h?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Is 13 a factor of 37 + 4/4 - 4?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -5*d - 32 = -d. Let a = d - -4. Is 12 a factor of 11 + -2*2/a?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -2*j + 13 = -3. Let q be j/10*10/4. Suppose 0 = 4*y - q*m - 44, -y + 0*m + m + 13 = 0. Is y a multiple of 9?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let f(i) = -i + 4. Let w be f(-4). Let q = -3 + w. Is 5 a factor of q?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 0*w = -4*w + 100. Let t = 39 - 39. Let v = w - t. Does 10 divide v?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let p(n) = -n + 17. Does 5 divide p(-3)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose n + 2*q - 13 = 0, -2 + 25 = 5*n - 4*q. Let f(i) = -5*i**2 + n*i**2 + 4*i + 3 - 11. Does 14 divide f(-6)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let d = 302 - 162. Is 10 a factor of d?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose c - 4 = 0, -40 = -3*l + l + 3*c. Is l a multiple of 11?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let m(n) = n**3 - 7*n**2 + 11*n - 10. Let k(c) = c**3 - 7*c**2 + 12*c - 10. Let l(h) = 3*k(h) - 4*m(h). Does 13 divide l(4)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let a = 66 - 27. Let z = -12 - -25. Let h = a - z. Does 13 divide h?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let i = -87 + 196. Does 20 divide i?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let i = 26 - 0. Does 5 divide i?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let u = -5 - -8. Suppose -4*i = -2*m - 102, u*i - 3*m - 73 - 8 = 0. Is 8 a factor of i?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let a be 61/9 + 4/18. Is 2 a factor of a - 3/6*4?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 2*s = s - 4*j, 0 = 2*s + 5*j - 3. Suppose 0*v + 4*v - 2*o = 216, 0 = -3*v - 3*o + 180. Suppose -v - 92 = -s*r. Does 20 divide r?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 5*f - 20 = -3*y, 5*f = -2*y + 4*f + 11. Suppose y*u - 2*j = -54, -2*u + 0*u - 33 = 3*j. Is u/10*(-30)/4 a multiple of 5?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Is 4/10 + (-2298)/(-30) a multiple of 11?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let m(t) = 17*t + 63. Is 36 a factor of m(9)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose 0 = 4*u - 0*u - 24. Suppose 4*c - 2 = u. Is 11 a factor of 15/c*(-20)/(-6)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let z = -1 - 1. Does 9 divide (-322)/(-9) - z/9?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let g be 3*2/(-2)*-33. Let f = g + -58. Let m = f - 17. Is 9 a factor of m?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -2*t + 108 = t. Let y = 50 - t. Is y a multiple of 14?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Suppose -57 = -4*i + 3*i. Let m = -37 + i. Is m a multiple of 17?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Let o(h) = -26*h + 1. Let t = -4 - -2. Is o(t) a multiple of 22?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 0 = -0*c - c + 6. Suppose -i + 2*j = 3*i + 6, i = 2*j - c. Suppose 79 = 5*g + k - i*k, 4*g - 2*k = 52. Does 7 divide g?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -y + 1 = -0. Let p(s) = 9*s. Is 5 a factor of p(y)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose -9*a + 1353 = 345. Does 15 divide a?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Does 17 divide -17*(-3 + 0 - 2)?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let d(l) = l**2 - 28*l + 49. Is d(27) a multiple of 3?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Suppose 115 = 7*a - 2*a. Is 5 a factor of a?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "False"}
+{"question": "Is 29 a factor of (-522)/4*(-4 - 40/(-12))?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}
+{"question": "Let o = -41 + 8. Let g = o + 66. Does 11 divide g?", "split": "easy_train_dmmath_numbers__is_factor_composed.txt", "answer": "True"}

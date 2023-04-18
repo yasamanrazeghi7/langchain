@@ -68,6 +68,7 @@ class PileSubset(datasets.GeneratorBasedBuilder):
         ]
 
     def _generate_examples(self, filepath):
+        print("here")
         with gzip.open(filepath) as f:
             for key, row in enumerate(f):
                 if row.strip() == b'':

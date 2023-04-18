@@ -1,0 +1,100 @@
+{"question": "What is 328 minutes before 2:23 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "8:55 AM"}
+{"question": "What is 627 minutes before 6:09 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "7:42 AM"}
+{"question": "What is 137 minutes after 12:33 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:50 PM"}
+{"question": "How many minutes are there between 1:06 PM and 5:19 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "253"}
+{"question": "What is 154 minutes before 10:34 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "8:00 AM"}
+{"question": "What is 184 minutes after 12:25 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "3:29 PM"}
+{"question": "How many minutes are there between 8:20 AM and 4:36 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "496"}
+{"question": "What is 104 minutes before 12:56 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "11:12 PM"}
+{"question": "How many minutes are there between 10:20 AM and 3:11 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "291"}
+{"question": "What is 217 minutes before 7:07 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "3:30 PM"}
+{"question": "What is 120 minutes after 12:01 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:01 PM"}
+{"question": "What is 681 minutes before 6:35 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "7:14 AM"}
+{"question": "What is 647 minutes before 11:42 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "12:55 AM"}
+{"question": "How many minutes are there between 3:47 AM and 12:45 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "538"}
+{"question": "What is 181 minutes after 6:05 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "9:06 AM"}
+{"question": "How many minutes are there between 6:15 AM and 7:52 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "97"}
+{"question": "How many minutes are there between 2:16 AM and 7:53 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "337"}
+{"question": "What is 154 minutes after 7:37 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "10:11 PM"}
+{"question": "How many minutes are there between 7:09 AM and 3:55 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "526"}
+{"question": "What is 231 minutes before 5:25 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "1:34 PM"}
+{"question": "What is 341 minutes after 9:06 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:47 AM"}
+{"question": "What is 687 minutes before 11:12 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "11:45 PM"}
+{"question": "How many minutes are there between 2:42 AM and 12:20 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "578"}
+{"question": "How many minutes are there between 3:38 PM and 11:06 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "448"}
+{"question": "What is 59 minutes after 12:31 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "1:30 PM"}
+{"question": "How many minutes are there between 3:56 PM and 7:23 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "207"}
+{"question": "How many minutes are there between 12:02 PM and 11:34 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "692"}
+{"question": "What is 103 minutes after 4:20 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "6:03 PM"}
+{"question": "What is 302 minutes before 9:37 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "4:35 PM"}
+{"question": "What is 568 minutes before 12:11 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:43 AM"}
+{"question": "What is 9 minutes after 5:52 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "6:01 AM"}
+{"question": "What is 103 minutes after 12:40 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:23 PM"}
+{"question": "What is 337 minutes before 7:45 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:08 AM"}
+{"question": "How many minutes are there between 6:09 PM and 4:36 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "627"}
+{"question": "What is 428 minutes before 4:08 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "9:00 PM"}
+{"question": "How many minutes are there between 10:59 PM and 11:10 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "11"}
+{"question": "How many minutes are there between 5:23 PM and 7:06 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "103"}
+{"question": "What is 354 minutes before 10:50 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "4:56 PM"}
+{"question": "How many minutes are there between 6:40 PM and 1:06 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "386"}
+{"question": "How many minutes are there between 4:42 PM and 6:59 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "137"}
+{"question": "What is 11 minutes after 4:10 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "4:21 AM"}
+{"question": "How many minutes are there between 4:13 PM and 1:11 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "538"}
+{"question": "What is 295 minutes before 11:08 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "6:13 PM"}
+{"question": "How many minutes are there between 12:40 PM and 8:14 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "454"}
+{"question": "How many minutes are there between 10:34 PM and 6:08 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "454"}
+{"question": "How many minutes are there between 6:46 AM and 4:41 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "595"}
+{"question": "What is 323 minutes before 6:03 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "12:40 PM"}
+{"question": "What is 394 minutes before 11:53 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "5:19 PM"}
+{"question": "What is 359 minutes before 8:41 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:42 AM"}
+{"question": "What is 453 minutes after 5:10 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "12:43 PM"}
+{"question": "What is 596 minutes before 12:04 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:08 PM"}
+{"question": "What is 661 minutes after 5:53 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "4:54 AM"}
+{"question": "What is 27 minutes before 7:39 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "7:12 AM"}
+{"question": "What is 9 minutes after 3:48 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "3:57 AM"}
+{"question": "How many minutes are there between 6:29 PM and 7:32 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "63"}
+{"question": "What is 597 minutes after 6:50 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "4:47 AM"}
+{"question": "What is 448 minutes after 6:05 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "1:33 AM"}
+{"question": "How many minutes are there between 7:26 PM and 6:09 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "643"}
+{"question": "How many minutes are there between 10:17 PM and 6:30 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "493"}
+{"question": "What is 2 minutes before 2:16 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:14 PM"}
+{"question": "How many minutes are there between 7:14 PM and 4:34 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "560"}
+{"question": "How many minutes are there between 10:53 PM and 3:04 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "251"}
+{"question": "How many minutes are there between 3:10 AM and 6:25 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "195"}
+{"question": "What is 467 minutes before 4:25 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "8:38 AM"}
+{"question": "What is 160 minutes before 11:26 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "8:46 AM"}
+{"question": "What is 283 minutes after 4:12 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "8:55 PM"}
+{"question": "What is 10 minutes before 7:50 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "7:40 AM"}
+{"question": "How many minutes are there between 3:11 AM and 3:55 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "44"}
+{"question": "How many minutes are there between 9:42 PM and 12:04 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "142"}
+{"question": "How many minutes are there between 6:42 AM and 1:20 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "398"}
+{"question": "How many minutes are there between 11:35 AM and 1:43 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "128"}
+{"question": "What is 402 minutes before 9:35 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:53 PM"}
+{"question": "How many minutes are there between 2:31 AM and 3:33 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "62"}
+{"question": "How many minutes are there between 3:33 AM and 3:32 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "719"}
+{"question": "What is 690 minutes after 9:12 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "8:42 PM"}
+{"question": "What is 120 minutes before 11:42 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "9:42 AM"}
+{"question": "How many minutes are there between 4:07 PM and 11:30 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "443"}
+{"question": "What is 647 minutes after 5:17 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "4:04 AM"}
+{"question": "What is 152 minutes after 12:51 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "3:23 PM"}
+{"question": "What is 323 minutes before 7:52 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:29 PM"}
+{"question": "What is 372 minutes before 1:15 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "7:03 PM"}
+{"question": "What is 186 minutes after 3:25 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "6:31 AM"}
+{"question": "How many minutes are there between 2:03 PM and 6:07 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "244"}
+{"question": "How many minutes are there between 6:28 PM and 1:07 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "399"}
+{"question": "How many minutes are there between 3:22 AM and 1:47 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "625"}
+{"question": "What is 704 minutes before 2:42 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "2:58 AM"}
+{"question": "How many minutes are there between 1:40 AM and 9:33 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "473"}
+{"question": "How many minutes are there between 2:02 PM and 10:02 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "480"}
+{"question": "How many minutes are there between 8:45 PM and 6:04 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "559"}
+{"question": "How many minutes are there between 7:24 PM and 5:10 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "586"}
+{"question": "How many minutes are there between 2:55 AM and 9:07 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "372"}
+{"question": "How many minutes are there between 3:47 PM and 10:27 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "400"}
+{"question": "What is 296 minutes after 2:33 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "7:29 PM"}
+{"question": "How many minutes are there between 5:33 AM and 9:00 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "207"}
+{"question": "What is 587 minutes before 8:21 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "10:34 PM"}
+{"question": "How many minutes are there between 3:46 PM and 3:32 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "706"}
+{"question": "How many minutes are there between 2:13 AM and 4:45 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "152"}
+{"question": "How many minutes are there between 6:43 AM and 11:26 AM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "283"}
+{"question": "How many minutes are there between 1:41 PM and 2:32 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "51"}
+{"question": "What is 254 minutes after 9:42 PM?", "split": "easy_train_dmmath_measurement__time.txt", "answer": "1:56 AM"}

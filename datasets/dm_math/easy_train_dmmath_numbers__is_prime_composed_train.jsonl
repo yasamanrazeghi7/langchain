@@ -1,0 +1,100 @@
+{"question": "Let t be (508/(-6))/(3/9). Let z = -37 - t. Is z a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is 2 + (-2)/2 + 5 + 105 prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let d(g) = 284*g + 13. Is d(9) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is (-12)/(-8)*220/6 prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose 0 = 4*l - 0*l. Let n = l - -2. Suppose -146 = -n*u + 24. Is u prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let f = 661 + -354. Is f composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let j = -280 + 731. Is j a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 111 + 176 = 5*v + 4*z, 0 = -3*z + 9. Is v a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose p + 2*p = 3207. Is p composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose 1 = -2*l + 5. Suppose 5*d = 459 - 39. Suppose -l*y + 106 = -d. Is y prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose 7*o = 2*o + 5. Let p(w) be the third derivative of 2*w**6/15 - w**4/24 - w**2. Is p(o) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let r(k) = -k + 10. Suppose 0*q = -q. Is r(q) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let v = 1278 + -859. Is v a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let y(d) = -2*d - 6. Suppose 6*s = 3*s + 9. Let l be (s - (3 - -10))/1. Is y(l) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Is ((-2)/2 - 1)*57294/(-108) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 5*n + 5*u = -0*u + 3140, 0 = 3*n + u - 1874. Is n prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let k(d) = 1. Let r(p) = -26*p + 8. Let w(o) = k(o) - r(o). Is w(6) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose 0 = -0*r - 5*r + 3205. Is r composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let r be -25 + 0 - (4 + -7). Is r/3*3/(-2) prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 2*n + 3 = 9. Is (1 - -2) + 13 + n prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let w = 334 + -169. Suppose -r - 28 = y, 4*y + w = -3*r + 51. Let s = y + 53. Is s a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is (-92590)/(-30) + (-8)/6 prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Is (-2)/(4/(-722)) + 0 composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 2*g - 22 = 10. Suppose 0 = -s - 3*s + g. Suppose -s*t + 173 = -5*u, t - 4*t + 2*u = -135. Is t prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose d + 240 = 2*d. Let a = d + -127. Is a prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose -u - m = -5*u - 75, -3*u = 2*m + 59. Let r = 18 - u. Is r prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose -1283 + 303 = -5*u. Suppose -g + 13 = 5*q - 44, 0 = 4*g + 4*q - u. Is g a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is 1881/12 + (-2)/(-8) prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is -3*(376/(-6) - 1) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let r = -6 + -2. Is r/24 - 524/(-6) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 0 = -4*x + 2*s + 1205 + 4933, -2*s - 4601 = -3*x. Is x prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let n(y) = 2*y - 10. Let g be n(7). Suppose -g*a + 550 + 78 = 0. Suppose 0 = -4*x + 3*x + 4*i + a, 2*x + 5*i - 262 = 0. Is x composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let z = 12 - 18. Let k(a) = -a**3 - 6*a**2 - 2*a + 1. Is k(z) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let q(y) = y**3 - 10*y**2 - 2*y - 2. Let z be q(13). Suppose -4*s - 67 = -z. Is s a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let u(v) be the second derivative of -v**5/10 - v**4/2 - 2*v**3/3 - 5*v**2/2 + 4*v. Is u(-4) prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let z = 21 + 7. Suppose 4*g = -0*g + z. Is g a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let s = 10 - 19. Let q be (-71)/(-3) - (-6)/s. Suppose 5*p - q = 152. Is p prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let v(l) be the third derivative of -19*l**4/12 + l**3/2 + 5*l**2. Is v(-4) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 0 = -p - 20 - 0. Let d be p*(0 - (-6)/4). Let w = 51 + d. Is w a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 3069 = y + 920. Is y a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is -97*2*-46*(-2)/(-8) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let c(v) = -10*v + 6. Is c(-8) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let a(r) = 41*r**2 - 4*r + 11. Let z(t) = -20*t**2 + 2*t - 6. Let k(c) = 3*a(c) + 5*z(c). Is k(2) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 3 = -2*r + 1. Let a be 0 + r/((-1)/(-2)). Is (3/a)/((-1)/4) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let a(c) = c**2 - 7*c + 6. Let m be a(6). Is m - -1 - (-356 - -4) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is 6/15 - 3*(-8193)/15 a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose -5*y + 1219 = -2126. Is y composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let a(w) = w**3 + 6*w**2 + 2*w. Let d = -23 + 7. Let i = d - -11. Is a(i) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 2*o - 534 = 2*t - 3344, -3*o - 5616 = -4*t. Is t composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let p(r) = 3 - 3 + 27*r - 1. Suppose -3*i = h - 6, 0 = 7*h - 3*h. Is p(i) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 3*a - 2*f = a + 62, -a - 5*f + 55 = 0. Is a prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose o = -5*n + 3, 5*n - 3*o + 2 + 7 = 0. Is n + 301 - 6/3 a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let c be 0 - (-1 + 0)*0. Is (-1)/(2/(-94) + c) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let t be (10/25)/((-1)/5). Is 1599/27 - t/(-9) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let j = -5 - -10. Suppose 5*b + 0*b = -j*p + 30, 4*p - 24 = b. Is -93*(0 - p/9) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let i(y) = 19*y**3 - 2*y**2 - 3*y - 3. Is i(4) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose 0 = d + 4*i + 10, -d + 6*d - 2*i = 16. Is 120 - (d - 2) - 1 a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is ((-1)/(-2))/((-1)/(-586)) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let w(p) = -p. Let y(i) = -22*i + 2. Let z(v) = 2*w(v) + y(v). Is z(-3) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose -a - 492 = -5*a. Let c = a - -86. Is c a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose 4*i = 2*i - 4. Is i*(3 + 647/(-2)) prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let x be (7 - 0) + -4 + 1. Suppose 2*m + 5*t = 4*m - 13, x*t = 12. Is m a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let x = 20 - -46. Is 6/(-4) + x/4 prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let x(p) be the second derivative of -53*p**3/2 - 9*p. Is x(-1) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let f = 465 + -304. Is f a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let d be (15/(-10))/((-2)/4). Suppose d*o = -5*b + 7*o + 70, -15 = b + 5*o. Is b a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let b = 2 + 3. Suppose 5*s + b*z = 620, 2*z = -s + 40 + 81. Is s a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let q(g) be the second derivative of -53*g**3/6 - g**2 - 4*g. Is q(-3) a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let f = 257 - 108. Is f a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let a(s) = 22*s**2 + 7*s + 7. Is a(8) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let l be 11/(4*3/732). Suppose 2*n = n + l. Is n a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let c be 1*(1 - 1/1). Suppose 3*r + c*r + 6 = 0. Is (r - -4)/2 + 24 prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose -2*x + 5*x = -42. Is x/28 + 1230/4 a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose -437 = 2*i + 599. Let q = i + 731. Suppose 0 = -3*u - 2*a + 209, -4*a + a = 3*u - q. Is u prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let a be (3906/4 + -2)*2. Suppose -4*q - 625 = -a. Is q composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let m be -3 + 5 - (-2 + 4). Suppose -4*z + 9 + 3 = m. Is ((-46)/z)/((-4)/6) a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose -3*d = -0*d + 36. Let l = -10 - d. Is l composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose -5*c - 48 = -8. Let z = c + 13. Suppose -z*w + 2*a = -55 - 77, -29 = -w + 3*a. Is w prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Is (-12)/(-8) - 3308/(-8) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let z = -4 - -19. Suppose z = -4*q - 17. Let u = q - -41. Is u prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let w(j) = -j + 4. Let v be w(6). Let u = v - -8. Suppose f = u*f - 265. Is f a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Is (-2)/14*-2 + 46310/154 composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let f(j) = 55*j**3 - j - 1. Let b be f(-1). Let d = 148 + b. Suppose t - 1 = -3*y + d, 5 = y. Is t prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let o(w) = -w**3 - 2*w**2 - w. Let z be o(-1). Suppose z = -0*d - 3*d + 261. Is d a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let w = -27 + 76. Is w prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Suppose 5*o - 5 - 5 = 0. Suppose 0 = -2*j - 3*t - t + 50, 4*j = -3*t + 95. Suppose j = o*b - 23. Is b a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let p be (0 - -2 - 1) + 1. Is 0 + 79 + p + -4 a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let a be (3/(-2) - -1)*18. Let o = 38 - a. Is o composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let t = -15 - -15. Suppose -5*u - 163 = -2*l, l + t = -2*u + 77. Is l prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let q(v) = 21*v**2 + 9*v - 11. Is q(-8) prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let s = -2256 - -4309. Is s composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let g be 1*4/((-12)/(-9)). Suppose 2*b - 20 = -g*b. Suppose n + b*n = 815. Is n prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let s be 2 + -448 - (5 + -1). Let j = -289 - s. Is j a composite number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let l = 316 + -195. Is l composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Suppose -635 = -2*o + 447. Is o prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let r(p) = 2*p**2 + 4*p + 2. Let j be r(-3). Let g be (-20)/j*(-1 - 141). Let u = 782 - g. Is u a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let s(v) = 12*v**2 + 2*v + 9. Is s(-7) prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Is 13 - (-1 - 1/1) composite?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}
+{"question": "Let v(z) = -2*z**3 - 2*z**2 - 7*z + 5. Is v(-6) prime?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "False"}
+{"question": "Let w(g) = 247*g**3 + 1. Let s be w(-1). Let r = -97 - s. Is r a prime number?", "split": "easy_train_dmmath_numbers__is_prime_composed.txt", "answer": "True"}

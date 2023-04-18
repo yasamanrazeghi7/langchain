@@ -1,0 +1,100 @@
+{"question": "Find the third derivative of -717*b*f*h**3*x - b*f*h**2*x - b*f*h**2 - 37*b*f*h*x + 2*b*h**3*x + 2*f*h**3*x - f*h**2 wrt h.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-4302*b*f*x + 12*b*x + 12*f*x"}
+{"question": "What is the second derivative of -130*i**2 - 76*i?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-260"}
+{"question": "What is the first derivative of 1179*z**2 - 1025 wrt z?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "2358*z"}
+{"question": "What is the third derivative of c*i*o**3 - 18*c*o**3 - 7*c*o**2 - 2*c*o + i*o**3 - i*o**2 wrt o?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "6*c*i - 108*c + 6*i"}
+{"question": "Differentiate 47*b*d**2*q + 5*b*d*q - 4*b*d + 14*d**2 + 3*d*q - 16*q wrt b.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "47*d**2*q + 5*d*q - 4*d"}
+{"question": "Differentiate c**3*s**2 - 2531*c**3*s*w + 7*c**3 + 159*c**2*s - s**2*w wrt w.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-2531*c**3*s - s**2"}
+{"question": "What is the derivative of 85*s**3*z**3 - 107*z**3 wrt s?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "255*s**2*z**3"}
+{"question": "What is the derivative of -57*m*n**2*p + 49*m*n**2 + 3*m*n + 6*m*p + 2*n**2 + 2*n*p**2 + 2*n wrt p?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-57*m*n**2 + 6*m + 4*n*p"}
+{"question": "Find the third derivative of r**6 + 277*r**3 + 93*r**2 + 3*r.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "120*r**3 + 1662"}
+{"question": "Differentiate 146*g*k*n - 5*g*n + 7*g - 3*k*n wrt k.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "146*g*n - 3*n"}
+{"question": "Find the first derivative of -9753*u*z - 11340*u wrt z.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-9753*u"}
+{"question": "What is the third derivative of 4*q**2*t*z**3 + 2*q**2*t - 34*q*t*z**3 + q - 2*t*z**2 - 7*t wrt z?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "24*q**2*t - 204*q*t"}
+{"question": "Find the second derivative of -12458*f**3 + f - 364.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-74748*f"}
+{"question": "What is the third derivative of 2164*f**3 + 1807*f**2 wrt f?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "12984"}
+{"question": "Find the first derivative of -33*n*o*s*t + 3*n*o*t + 24*n*o - 86*n*s + 3*o*s*t - 1 wrt t.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-33*n*o*s + 3*n*o + 3*o*s"}
+{"question": "What is the second derivative of -27*c*g**2*i**2 - 2*c*g**2*i - 2*c*g*i + 2*g**2*i + i**2 + 2*i wrt i?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-54*c*g**2 + 2"}
+{"question": "What is the second derivative of -4240*o*p**3 + 5*o*p - 3*o + 38 wrt p?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-25440*o*p"}
+{"question": "Find the second derivative of a**2*o*u + 5*a**2*o - 488*a**2*u - 5*a*o - a*u - 2*o*u - 3*o - 21*u wrt a.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "2*o*u + 10*o - 976*u"}
+{"question": "Find the third derivative of 5*h**3*r**3 - h**3*r**2 - 115*h*r**3 - 727*h wrt r.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "30*h**3 - 690*h"}
+{"question": "What is the second derivative of 3*r**4 - 193*r**2 - 29280*r wrt r?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "36*r**2 - 386"}
+{"question": "Differentiate 5*c**3*f**3 - 6*c**3*f - 648*c**3 - c + f with respect to f.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "15*c**3*f**2 - 6*c**3 + 1"}
+{"question": "Find the third derivative of -268*l**2*o**4 + 24*l**2*o**2 - 4*l**2*o - 8*l*o**4 + 8*o**2 + 2*o wrt o.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-6432*l**2*o - 192*l*o"}
+{"question": "Differentiate -624*a**3 + a*l**3 - 2*a*l + a + 3*l**3 - 579*l - 2 wrt a.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-1872*a**2 + l**3 - 2*l + 1"}
+{"question": "Find the third derivative of 2152*y**4 + 3*y**3 + 10350*y**2.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "51648*y + 18"}
+{"question": "Find the first derivative of 1224*a**2*g**2 + 10*a*g**2 + 19100*g**2 wrt a.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "2448*a*g**2 + 10*g**2"}
+{"question": "Find the second derivative of 2*a**4*c - 42*a**2*c**2 - 6*a**2 + 15*a - 3*c**2 wrt a.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "24*a**2*c - 84*c**2 - 12"}
+{"question": "What is the first derivative of -189*y**2 + 111 wrt y?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-378*y"}
+{"question": "Find the first derivative of 4*c*i**3*n**2*w + 57*c*i**3*n**2 + 2*c*n**2 + 45*c*w + 2*i**3*n - 2*n**2 wrt w.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "4*c*i**3*n**2 + 45*c"}
+{"question": "Differentiate 106*n**2 - 4*n + 219 wrt n.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "212*n - 4"}
+{"question": "Find the third derivative of -4*d**3*s**2*t**2 - 8836*d**3*s*t**3 - 8*d**3*s*t + 2*d**3*s + 2*d*s**2*t**3 - 6*d*s**2*t**2 - 4*d wrt t.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-53016*d**3*s + 12*d*s**2"}
+{"question": "Find the first derivative of -3*m**2 - 558.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-6*m"}
+{"question": "Find the second derivative of 423*j**2*w - 772*j + w wrt j.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "846*w"}
+{"question": "Find the first derivative of -95*b**4 - b**3 - b*h - 1150*h wrt b.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-380*b**3 - 3*b**2 - h"}
+{"question": "What is the second derivative of -7*f*g**4 - 34*f*g**2 - 318*f + 2*g**4 + 4*g wrt g?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-84*f*g**2 - 68*f + 24*g**2"}
+{"question": "What is the second derivative of 431*o**2 + o + 31 wrt o?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "862"}
+{"question": "What is the third derivative of -43*l**3*q**3*v**2 - 25*l**3*q**3*v + l**3*q**2 - 11*l**3*v**2 + l**2*q**2 - 19*l**2 - 2*l*q**2*v**2 wrt q?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-258*l**3*v**2 - 150*l**3*v"}
+{"question": "What is the derivative of -5982*h**3 + 2*h - 10543?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-17946*h**2 + 2"}
+{"question": "Find the second derivative of -7*d**5 + 16*d**2 + 1662*d.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-140*d**3 + 32"}
+{"question": "What is the derivative of 3*f*p**3 - 3*f - 3*p**3 - 38*p wrt f?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "3*p**3 - 3"}
+{"question": "What is the third derivative of 7*a*d*m**3*p - 8*a*d*m**3 - 2*a*d*m - d*m**3 - d*m**2*p - 4*m**2 - m*p wrt m?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "42*a*d*p - 48*a*d - 6*d"}
+{"question": "Find the second derivative of -a**3*v**2 - 108*a**3*v + 4*a*v**4 wrt v.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-2*a**3 + 48*a*v**2"}
+{"question": "Find the second derivative of -8*p**2*w**2*y + 7*p**2*w*y + 2*p**2 - 47*p*y + 2*p - 2*w**2 + 2*w*y wrt p.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-16*w**2*y + 14*w*y + 4"}
+{"question": "Find the first derivative of -7*d*q**2 - 51*d*q + d - q**2 + 2*q + 6896 wrt q.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-14*d*q - 51*d - 2*q + 2"}
+{"question": "What is the third derivative of -o**5*z - 5*o**4*z + 11*o**3*z - o**2*z + 14*o**2 - 74*z wrt o?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-60*o**2*z - 120*o*z + 66*z"}
+{"question": "What is the third derivative of -i**5 - 22*i**3 + 6*i**2 - 7*i?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-60*i**2 - 132"}
+{"question": "Find the third derivative of -20*i*r**3 - 5*i*r**2 + 10*i*r - 4*r**6 wrt r.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-120*i - 480*r**3"}
+{"question": "What is the first derivative of 519*p - 268 wrt p?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "519"}
+{"question": "Find the third derivative of 159*y**6 + y**2 - 6.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "19080*y**3"}
+{"question": "Find the second derivative of 2*w**3 + 8254*w**2 - 11095*w.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "12*w + 16508"}
+{"question": "Find the third derivative of -241*t**6 - t**3 + 3*t**2 + 17*t wrt t.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-28920*t**3 - 6"}
+{"question": "What is the second derivative of 4*o**3*r**3 + 92*o**3*r - 3*o*r**3 + 7*o*r wrt o?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "24*o*r**3 + 552*o*r"}
+{"question": "What is the third derivative of 479*c**3 + 432*c**2 + 1?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "2874"}
+{"question": "Find the first derivative of 12*a*f**2*g - 3*a*g - 2*f**2 - 28*f*g wrt a.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "12*f**2*g - 3*g"}
+{"question": "Find the second derivative of 4112*s**3 - 2*s**2 - 1824*s wrt s.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "24672*s - 4"}
+{"question": "What is the third derivative of -473*w**5 + 3*w**2 + 54*w?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-28380*w**2"}
+{"question": "Find the second derivative of 13830*r**3*u**2 - r**3 - r**2*u + 4*r**2 - 194*r wrt u.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "27660*r**3"}
+{"question": "Find the first derivative of -2359*x - 640.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-2359"}
+{"question": "Find the second derivative of -4*c**2*t**3 + 2*c**2 + 27*t**5 + 2*t**3 + 143*t + 3 wrt t.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-24*c**2*t + 540*t**3 + 12*t"}
+{"question": "What is the second derivative of 5*j**2*v**2*y**3 + 47*j**2*y**3 + j*v*y**3 + j*v*y**2 - 2*j*v + 11*v**2*y wrt j?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "10*v**2*y**3 + 94*y**3"}
+{"question": "Find the second derivative of -7*b*d**2 - b*d - 13*b - d**2 - 2*d wrt d.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-14*b - 2"}
+{"question": "What is the second derivative of -18*n**3*q**3 - 4*n**3 + n**2*q**3 + q wrt q?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-108*n**3*q + 6*n**2*q"}
+{"question": "Find the second derivative of -347*c**2 + 4*c - 17.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-694"}
+{"question": "Differentiate 2*q*u**3 + 4574*q*u - 3931*q + 3*u**3 + 2 with respect to u.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "6*q*u**2 + 4574*q + 9*u**2"}
+{"question": "Differentiate -92*c**2*t**2 + 23*c**2*t*u + 2*c*t*u - 505*t**2*u + 2*t**2 - 2 wrt c.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-184*c*t**2 + 46*c*t*u + 2*t*u"}
+{"question": "What is the third derivative of 5878*d**3 - 5296*d**2 wrt d?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "35268"}
+{"question": "What is the third derivative of -89*s**4 + 3*s**3 - 80*s**2?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-2136*s + 18"}
+{"question": "Find the third derivative of -2945*h**5 + 1351*h**2 wrt h.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-176700*h**2"}
+{"question": "Find the first derivative of -374*a**2 - 445 wrt a.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-748*a"}
+{"question": "What is the second derivative of w**3*z**3 - 759*w**3*z**2 - w**3*z - 2*w*z**2 - 548*w - z**2 + 3*z wrt z?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "6*w**3*z - 1518*w**3 - 4*w - 2"}
+{"question": "What is the third derivative of 510*s**6 - s**5 + 1136*s**2?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "61200*s**3 - 60*s**2"}
+{"question": "What is the derivative of -2*g**2*m**3 - g**2*t + 10*g*t + 8*m**3*t - 3*m*t + t wrt m?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-6*g**2*m**2 + 24*m**2*t - 3*t"}
+{"question": "Find the third derivative of 2*d**4*l - 4*d**4 - 26*d**3*l - 23*d**2*l - 9*d**2 + l - 1 wrt d.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "48*d*l - 96*d - 156*l"}
+{"question": "Differentiate 535*c**4*s**2 + 2*c**2*s**2 + 514*s**2 with respect to c.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "2140*c**3*s**2 + 4*c*s**2"}
+{"question": "What is the derivative of -15*o**2*x**2 - 16*o*x**2 - 2*o + 2*x**2 + 657*x - 2 wrt o?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-30*o*x**2 - 16*x**2 - 2"}
+{"question": "What is the third derivative of -12438*i**3*r**3 + 2*i**3 + 26*i**2*r**2 - 38*i + 2*r**2 wrt r?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-74628*i**3"}
+{"question": "What is the third derivative of -109*o**2*z**3 + 9*o**2*z + 8*o*z**3 - 6*o*z**2 + z**3 - 37*z**2 wrt z?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-654*o**2 + 48*o + 6"}
+{"question": "Find the third derivative of -b**5 + 25*b**4 - 9*b**2 + 41*b.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-60*b**2 + 600*b"}
+{"question": "What is the derivative of 2*g**3*p - 6*g**3 + 11006*g**2*p**3 - 371*g**2 - 1 wrt p?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "2*g**3 + 33018*g**2*p**2"}
+{"question": "Find the first derivative of -11*g*h**3 + 7*g + 2*h**3 + 1 wrt h.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-33*g*h**2 + 6*h**2"}
+{"question": "Find the third derivative of 1046*i**3 - 1011*i**2 wrt i.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "6276"}
+{"question": "Find the second derivative of 3113*n**3 - 4036*n - 1.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "18678*n"}
+{"question": "Find the first derivative of -806*j**2*x**3 + x**3 + 278 wrt j.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-1612*j*x**3"}
+{"question": "What is the third derivative of 15*v**5 - 140*v**3 - 249*v**2 - v + 1 wrt v?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "900*v**2 - 840"}
+{"question": "Find the third derivative of -39*r**5*x**2 - 13*r**3*x**2 + r**2*x + 52*r*x**2 + 17*x wrt r.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-2340*r**2*x**2 - 78*x**2"}
+{"question": "What is the second derivative of 1413*s**2 + 106*s + 10?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "2826"}
+{"question": "What is the third derivative of 14*b**3*t**3 - 12*b**3*t**2 - 57*b**2*t**3 + 7*t**2 wrt t?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "84*b**3 - 342*b**2"}
+{"question": "What is the second derivative of q**3 - 256*q**2*u + q**2 + 14613*q*u wrt q?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "6*q - 512*u + 2"}
+{"question": "What is the derivative of 92*c*i - 516*c*y - 3*c + 3*i*y + 4*i - 2 wrt y?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-516*c + 3*i"}
+{"question": "What is the third derivative of 512*n**4 - 19*n**3*v**2 + 5*n**2*v**2 - 3*n**2 + 6*n - 7 wrt n?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "12288*n - 114*v**2"}
+{"question": "Find the third derivative of -4*g**5 - 42*g**4 - 7*g**3 - 226*g**2 - g - 15 wrt g.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-240*g**2 - 1008*g - 42"}
+{"question": "Find the second derivative of 155*b*z**2 + 5*b*z - 3*b - 4*z wrt z.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "310*b"}
+{"question": "What is the first derivative of 308*n**4 + 21 wrt n?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "1232*n**3"}
+{"question": "What is the third derivative of -2*b**4 + 180*b**3 - 7*b**2 - b - 19 wrt b?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-48*b + 1080"}
+{"question": "What is the third derivative of 2*l**6 + 84*l**4 + 314*l**2 wrt l?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "240*l**3 + 2016*l"}
+{"question": "What is the third derivative of j*o**3 + 2*j*x - 384*o**5*x + o**4*x**2 + o**2*x**2 + o**2*x - 21*o*x**2 wrt o?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "6*j - 23040*o**2*x + 24*o*x**2"}
+{"question": "What is the third derivative of -8*d*u**4 - 2*d*u**3 - 5*d*u**2 + 10*d + 46*u**4 + u**3 + 28*u**2 wrt u?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-192*d*u - 12*d + 1104*u + 6"}
+{"question": "Find the third derivative of -44*g**4 - 2*g**3 - 188*g**2.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-1056*g - 12"}
+{"question": "What is the second derivative of -6*z**4 + 5*z**3 + 3*z**2 + 1094*z - 1?", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-72*z**2 + 30*z + 6"}
+{"question": "Find the second derivative of 1153*n**5 + 68*n.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "23060*n**3"}
+{"question": "Find the second derivative of -195*t**5 - 2*t + 28 wrt t.", "split": "easy_train_dmmath_calculus__differentiate.txt", "answer": "-3900*t**3"}

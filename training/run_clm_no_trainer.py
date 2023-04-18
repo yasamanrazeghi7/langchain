@@ -311,7 +311,7 @@ def main():
     # download the dataset.
     if args.dataset_name is not None:
         # Downloading and loading a dataset from the hub.
-        raw_datasets = load_dataset(args.dataset_name, args.dataset_config_name, filename=args.dataset_file_name)
+        raw_datasets = load_dataset(args.dataset_name, args.dataset_config_name, filename=args.dataset_file_name, cache_dir='/net/nfs.cirrascale/allennlp/yasamanr/hf_cache/')
     else:
         data_files = {}
         dataset_args = {}
@@ -349,7 +349,7 @@ def main():
     if args.config_name:
         config = AutoConfig.from_pretrained(args.config_name)
     elif args.model_name_or_path:
-        config = AutoConfig.from_pretrained(args.model_name_or_path)
+        config = AutoConfig.from_pretrained(args.model_name_or_path, cache_dir='/net/nfs.cirrascale/allennlp/yasamanr/hf_cache/')
     else:
         config = CONFIG_MAPPING[args.model_type]()
         logger.warning("You are instantiating a new config instance from scratch.")
@@ -488,8 +488,11 @@ def main():
     )
 
     # Prepare everything with our `accelerator`.
-    model, optimizer, train_dataloader, lr_scheduler = accelerator.prepare(
-        model, optimizer, train_dataloader, lr_scheduler
+    # When using FSDP, it is efficient and recommended to call prepare for the model before creating the optimizer
+    model = accelerator.prepare(model)
+
+    optimizer, train_dataloader, lr_scheduler = accelerator.prepare(
+        optimizer, train_dataloader, lr_scheduler
     )
 
     # On TPU, the tie weights in our model have been disconnected, so we need to restore the ties.
@@ -574,6 +577,7 @@ def main():
             total_loss = 0
         for step, batch in enumerate(train_dataloader):
             # We need to skip steps until we reach the resumed step
+            step_loss_val = 0
             if args.resume_from_checkpoint and epoch == starting_epoch:
                 if resume_step is not None and step < resume_step:
                     if step % args.gradient_accumulation_steps == 0:
@@ -585,7 +589,7 @@ def main():
                 outputs = model(**batch)
                 loss = outputs.loss
                 #keeping track of the loss at each step, this is for plotting the loss
-                step_loss.append(loss.item())
+                step_loss_val += loss.detach().float()
                 # We keep track of the loss at each epoch
                 if args.with_tracking:
                     total_loss += loss.detach().float()
@@ -599,6 +603,8 @@ def main():
             if accelerator.sync_gradients:
                 progress_bar.update(1)
                 completed_steps += 1
+                step_loss.append(step_loss_val.item())
+                progress_bar.write(f"Loss at step {completed_steps}: {step_loss_val.item()}")
 
             if isinstance(checkpointing_steps, int):
                 if completed_steps % checkpointing_steps == 0 and completed_steps > 0:
@@ -612,7 +618,9 @@ def main():
 
             if completed_steps >= args.max_train_steps:
                 break
-        epoch_loss.append(total_loss.item())
+        if args.with_tracking:
+            print(f"********Loss at epoch {epoch}: {total_loss.item()}")
+            epoch_loss.append(total_loss.item())
 
         if args.push_to_hub and epoch < args.num_train_epochs - 1:
             accelerator.wait_for_everyone()

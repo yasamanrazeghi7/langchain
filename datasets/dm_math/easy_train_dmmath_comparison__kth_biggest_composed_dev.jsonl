@@ -1,0 +1,100 @@
+{"question": "Let t = -0.8 + 0.9. Which is the second biggest value?  (a) 2/9  (b) 0.06  (c) t", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let i = -12.3 - -12.6. Which is the smallest value?  (a) -1/3  (b) 18  (c) i", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let o be (-15)/(-6)*1/5*6. Let k = 0.46 + -0.06. Which is the third smallest value?  (a) k  (b) o  (c) 2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let z = -25 + 25.4. Suppose -4*c + 5*d - 13 = -0*c, d = 4*c - 7. What is the biggest value in -1, c, z?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let a = 0.26 + -2.26. What is the biggest value in a, -0.4, 2?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "2"}
+{"question": "Let u = -953 + 78143/82. Let c = -211/164 - u. What is the third biggest value in -0.3, 4, c?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Suppose 4 = -m + 9. Let c be m/(-2)*8/4. What is the second smallest value in 0.4, c, 5?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "0.4"}
+{"question": "Suppose t = l - 12, 2*t - 40 = -4*l + 4*t. Let r be (2/(-4))/(2/l). Suppose 3*y = 1 + 5. Which is the second smallest value?  (a) r  (b) y  (c) 4", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let a = 0.1 - 0. Let g be (-3 - -2)/(12/4). What is the third biggest value in a, g, -2?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-2"}
+{"question": "Let z = -21.264 + -0.136. Let g = 21 + z. Which is the biggest value?  (a) -4  (b) g  (c) 1/4", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let x = 93 - 7720/83. Let j be 2 - (1001/415 + 0). Let p = j - x. Which is the third smallest value?  (a) p  (b) -3  (c) 4/7", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let r = -0.35 - 0.05. Let p = r - -0.4. What is the second biggest value in p, 5, 2/13?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "2/13"}
+{"question": "Let f = 0.5 + 0.5. Which is the biggest value?  (a) 0.3  (b) 3  (c) 2  (d) f", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Suppose 3*i = 5*b + 14, -5*b = -i - 4*i + 10. What is the second biggest value in 1/4, b, 0.4?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "1/4"}
+{"question": "Let t = -96/5 + 18. Let x = t - -1/30. Let u = 4/3 + x. Which is the third biggest value?  (a) u  (b) -0.2  (c) -3", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let i = -70 - -74. What is the second smallest value in i, -1/3, -0.5?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-1/3"}
+{"question": "Let y = 1.72 - -0.28. Let v = 4/123 + 313/1722. Let p = v + 1/28. What is the second smallest value in -5, p, y?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "p"}
+{"question": "Let d(r) = r**3 + 4*r**2 + 4*r + 2. Suppose -2*j + 4*j + 6 = 0. Let f be d(j). What is the third biggest value in 0.3, f, -0.2?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "f"}
+{"question": "Let u = 71 - 68. What is the smallest value in u, -18, -1, -4/9?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-18"}
+{"question": "Suppose k + 5*r + 29 - 3 = 0, -3*r = -4*k + 11. What is the third smallest value in 0, 2, k?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "2"}
+{"question": "Let r be (-2)/(-56) - (-2)/(-7). Let t = -0.8 + 1.4. Let s = t + -1. What is the third biggest value in s, r, -5?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-5"}
+{"question": "Let u = 0.012 - -3.988. Let b = 0.14 + 8.86. What is the biggest value in u, 2, b?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let k = 0.41 + -0.21. Let m be 2/20*(1 + 3). What is the third smallest value in m, 2, k?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "2"}
+{"question": "Let g be (6 - (-1 + 3)) + 0. Suppose 2*v - 1 = v + 2*r, -3*v + 13 = g*r. Suppose 0 = -a + v*a - 10. What is the third biggest value in 0, a, 0.4?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "0"}
+{"question": "Let w be (3/4)/3*-3. Which is the second smallest value?  (a) w  (b) -2/7  (c) -0.3", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let x = -305/8 - -38. What is the third smallest value in x, -0.5, -0.2?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "x"}
+{"question": "Let f = -4.4 - -0.4. Let t = f + 2. What is the second biggest value in 0.1, t, 1/7?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "0.1"}
+{"question": "Let v be 4/(-12) + 19/3. Let u be 1/(-4) - v/40. Let o be -1*2 + 0/3. What is the third smallest value in o, -1/6, u?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-1/6"}
+{"question": "Let y(j) = j**3 + 3*j**2 + j. Let m be y(-3). Let o be (2/3)/(1 + m). Let r = 223.4 + -223. Which is the third biggest value?  (a) r  (b) o  (c) 0", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let j be 2/1 + (-16)/7. Let g(o) = o + 10. Let u be g(-7). Suppose 4*s + 3*i + u = 14, 14 = 4*s + 2*i. Which is the biggest value?  (a) s  (b) 1/4  (c) j", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let y be (18/15)/(6/140). Let x be 118/119 - 8/y. Let t = x - 74/153. What is the biggest value in 0.5, -3, t?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "0.5"}
+{"question": "Let c = 0.3 - -0.7. Let w = 1 - 1. Let l = c - w. What is the smallest value in 2/7, -2/9, l?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-2/9"}
+{"question": "Let w = -0.02 + -0.18. Which is the third smallest value?  (a) 5  (b) 0.01  (c) w", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let j = 2.2 - 2. Let o = -29 + 25. What is the smallest value in -2, j, o?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "o"}
+{"question": "Let w(z) be the first derivative of 3 - 2*z**2 + 0 - 5 - 3*z. Let u be w(-2). Which is the third biggest value?  (a) u  (b) 4  (c) 3", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let t = 2.7 - 3. Let g = -0.3 - t. Suppose x - h + 13 = -4*x, 2*h - 11 = 5*x. Which is the smallest value?  (a) 3/7  (b) x  (c) g", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let v = -317893/8 + 39613. Let q = -124 - v. Let p = -0.31 + 0.31. Which is the second smallest value?  (a) 0.2  (b) p  (c) q", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let z be ((-7)/7)/(-4*1). Which is the third biggest value?  (a) -9  (b) z  (c) 2/3", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let t = 2.5 - 2. Let l = 2.5 - t. Let p = l - 2.2. What is the third biggest value in 0.2, -0.3, p?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-0.3"}
+{"question": "Suppose 0 = -5*p - n - 79, -83 = 4*p + p - 3*n. Let i be p/70 - (-2)/(-10). Let f = 0.011 - 0.411. What is the third smallest value in -2, i, f?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "f"}
+{"question": "Let v be (-9*12/(-99))/2. Let s = -4 - -5. What is the smallest value in v, 4, s?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "v"}
+{"question": "Let h = 2 - 0. Let m = -5 - h. Let p = m + 6.5. What is the third biggest value in p, 0.3, 1?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "p"}
+{"question": "Let z be 322/(-90) + 50/(-225). What is the third biggest value in z, -0.1, 0.4, -2/7?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-2/7"}
+{"question": "Let x = -0.3 + 0.2. Suppose 0 = -a - 3*a + 12. Suppose m = 3*d + 6, 3*m - 3*d = m + a. What is the second biggest value in m, 2/9, x?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "x"}
+{"question": "Suppose 2 + 14 = 4*s. Let i be (2 - 8)/((-6)/s). Which is the third smallest value?  (a) -5  (b) i  (c) -0.2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let n = -7/3 - -38/15. Let q = 0.04 + 1.96. What is the biggest value in -1, n, q?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "q"}
+{"question": "Let p = 6.01 - 6. Let n = -1.01 + p. Let t = -0.04 + 1.04. Which is the biggest value?  (a) t  (b) n  (c) 0.3", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let x = -4.9 + 4.9. What is the second biggest value in x, 0.3, -1/8, -0.5?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "x"}
+{"question": "Let a = -0.06 + -0.14. Let d = 1 + -1. Let i = a + d. What is the third smallest value in 5, 0, i?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "5"}
+{"question": "Let h = -8 - -10. Let q = h + -7. What is the second smallest value in 0.4, -3/8, q?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-3/8"}
+{"question": "Let d = -35 + 37. Which is the second biggest value?  (a) 1/6  (b) -2/25  (c) d", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let s = -6.652 + 0.052. Let l = -7 - s. What is the third biggest value in 2, 5, l?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "l"}
+{"question": "Let r = -4/45 - 1/9. Let c = 15 - 11. What is the third smallest value in c, r, 0?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let g = 0.2 - -0.8. Let m = 0.6 - g. Let j = -0.4 - m. Which is the biggest value?  (a) -0.1  (b) -3  (c) j", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let s = -164 - -161. Which is the second smallest value?  (a) s  (b) -1/4  (c) -1", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let g = 0.2 + -0.2. Let m = -0.17 - -4.17. Which is the smallest value?  (a) m  (b) -0.1  (c) g", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let r = -15/26 - -1/13. Let p = -0.3 - -0.3. Let q = 0.5 - p. What is the smallest value in r, q, -3?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-3"}
+{"question": "Let n = 29 + -33. What is the third biggest value in n, 2, -1/7, -2?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-2"}
+{"question": "Let l = -21 - -20.95. What is the smallest value in 5, -4/7, l?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-4/7"}
+{"question": "Let m = -2 + 4. Let p = -5 - -12. Let a = p - 29/4. What is the third biggest value in m, a, 4?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let q = 21.1 - 22. Let j = -0.6 - q. Let p be (-2 - 0) + 18/15. Which is the third smallest value?  (a) -4  (b) j  (c) p", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let y be 24/(-35) + (-2)/(-5). Which is the third biggest value?  (a) y  (b) -0.2  (c) 1/5", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let m = -4.89 + -0.11. Which is the smallest value?  (a) -1/6  (b) m  (c) 0.2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let f = -0.19 + -11.81. Let h = 15 + f. What is the second biggest value in h, 1, 4?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "h"}
+{"question": "Let w = -1 - -1.4. Let q be -1*(-3)/(204/(-8)). Which is the second biggest value?  (a) w  (b) q  (c) -1/2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let h = -62 + 62.03. Which is the biggest value?  (a) -3/5  (b) h  (c) 1/2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Suppose 0 = 4*x - 4*i + 24, -4*x + 2*i + 3*i = 27. What is the second smallest value in x, 0, 0.5?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "0"}
+{"question": "Let m = -5.01 + 5. Let r = m - -2.01. Let v = 0 - 0. Which is the smallest value?  (a) 1  (b) v  (c) r", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let a = 0.22 - 4.22. What is the second biggest value in a, 2/31, 1/4?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "2/31"}
+{"question": "Let s(y) = -y**2 - 11*y + 2. Let l be s(-11). What is the third smallest value in l, 0.2, -0.1?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "l"}
+{"question": "Let h = 2954758019/1411 + -2094088. Let d = h - 1/83. Let q = -3.8 - -3.6. What is the third biggest value in q, d, -0.5?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-0.5"}
+{"question": "Let r = 1.03 - 0.03. Let t = 0.91 - r. Which is the third smallest value?  (a) 0  (b) 0.1  (c) t", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let h be 10/(-25) + 16/90. Which is the second smallest value?  (a) -2  (b) h  (c) 1/2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Suppose 5*p = f + 16 + 2, -f + 10 = 2*p. Let j = 23 - 21.9. Let s = -6.1 + j. What is the second biggest value in p, 1, s?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "1"}
+{"question": "Let q = -145/3 + 49. Let y = -0.26 + -0.04. Let j = y - 0. Which is the third smallest value?  (a) q  (b) 3  (c) j", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let n(w) be the second derivative of -w**5/20 + 3*w**4/4 - w**2/2 + 3*w. Let z be n(9). Let q = -0.2 - -1.2. What is the smallest value in q, z, 2/7?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "z"}
+{"question": "Let h be 351/(-52)*(-4)/(-30). Let o = h + 11/15. What is the second biggest value in 0, o, -0.1?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-0.1"}
+{"question": "Suppose 149 = -2*z + 151. Which is the third biggest value?  (a) 0  (b) z  (c) -3/4  (d) -0.2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "d"}
+{"question": "Let c be (-2 - 28/(-12))/(4/2). What is the second biggest value in 3/11, -5, c?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let k = -104.8 + 97. Let r = -1.8 - k. What is the second biggest value in r, -2, 3?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "3"}
+{"question": "Let q = 86 - 169/2. Let d = q + -3. Which is the smallest value?  (a) d  (b) -2/17  (c) 0.1", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let s = -0.119 - 2.831. Let x = 0.3 + -0.35. Let o = s + x. Which is the third smallest value?  (a) 1/6  (b) 2/5  (c) o", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Suppose 2 + 106 = 3*r. Let o be (-32)/r*1/4. What is the biggest value in -5, -1/5, o?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-1/5"}
+{"question": "Let t = 0.48 - 0.08. Let b = 7.6 + -7. Let l = b + -0.4. What is the smallest value in l, 0.5, t?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "l"}
+{"question": "Let n = 10.16 + -0.16. Let q = -10 + n. Let s = 143/5 - 29. What is the third smallest value in 0.5, q, s?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "0.5"}
+{"question": "Suppose 0 = f - 5*f - 4. Let n(i) = 3*i + 1. Let s be n(f). Which is the smallest value?  (a) 2/11  (b) -4  (c) s", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Suppose -i = -0*i + 1. Let m be (-24)/(-56) + 1/i. Which is the third biggest value?  (a) m  (b) 1/4  (c) -2", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Let a = 1.26 - 1.16. What is the second smallest value in a, -2, 3, 0.3?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let t = -2 + 2.1. Let z = -11 + 14. Let q = -8 + z. What is the third smallest value in t, 1/3, q?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "1/3"}
+{"question": "Let m = 0.05 - 2.05. Let q = m - -3. Let v = -0.7 + -0.3. What is the second biggest value in v, -0.2, q?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-0.2"}
+{"question": "Let j = -7.2 + 0.2. Let w = j + 11. What is the second biggest value in -0.5, w, -2/9?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "-2/9"}
+{"question": "Let h = 169/895 + 2/179. Let y = -6.8 + 4.1. Let u = y + 3. Which is the third smallest value?  (a) h  (b) u  (c) 1", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}
+{"question": "Suppose -3*i - 12 = -0*i. Let u be 2*(-2 + 3) - 1. Which is the third biggest value?  (a) i  (b) u  (c) 0.1", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "a"}
+{"question": "Let o = -87 + 85. What is the third smallest value in 3/7, o, -2.1?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "3/7"}
+{"question": "Let d = -0.6 + 2.6. Let y = -1 + d. What is the third smallest value in -3/2, -4, y?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "y"}
+{"question": "Let s = -0.12 - 9.18. Let p = s - -9. What is the third smallest value in p, 4, 2?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "4"}
+{"question": "Let z = -2.4 - -3. Let h = -0.8 + z. What is the biggest value in h, -4, 5?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "5"}
+{"question": "Let w = -2 - -1.5. Let f = 1823/7 - 261. What is the second smallest value in -3/4, w, f?", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "f"}
+{"question": "Let d = 1 - -1. Let n = -0.3 + -0.7. Which is the second biggest value?  (a) n  (b) d  (c) 4", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "b"}
+{"question": "Let q = 0 - 1. Let t be 38/(-170) - 0/(-2). Let f = t - 3/17. Which is the third biggest value?  (a) f  (b) 1/7  (c) q", "split": "easy_train_dmmath_comparison__kth_biggest_composed.txt", "answer": "c"}

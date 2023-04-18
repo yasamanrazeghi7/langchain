@@ -1,0 +1,100 @@
+{"question": "Is 7061 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 5455 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 50833 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 201103 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 61261 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 980861 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 7789 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 131171 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 9337 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 20287 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 6499 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 344509 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 213869 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 40007 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 12433 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 15683 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 10223 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 586949 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 4391 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 3917995 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 351077 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 3877 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 1406479 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 4713 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 19661 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 555553 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 138679 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 215599 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 5833723 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 16355 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 11603 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 497 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 701 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 108183 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 18155 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 1481 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 218623 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 6053 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 4253 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 31451 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 18973 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 2897 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 116731 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 394293 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 73121 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 907 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 50033 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 19207 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 68537 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 624487 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 3802 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 6247 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 48883 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 11201 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 2501 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 25367 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 44467 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 28429 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 14419 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 10121 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 52313 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 252897 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 33298 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 1187681 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 910705 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 118 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 13381 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 318247 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 484927 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 144617 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 28901 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 35413 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 10405 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 244581 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 44053 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 1069663 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 48779 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 9983 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 34793 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 89219 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 10645 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 479555 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 133949 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 2552893 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 105109 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 49963 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 18861 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 801419 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 76303 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 127807 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 348703 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 12853 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 155293 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 30679 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 4737 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 54523 a composite number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 111079 prime?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 11651 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}
+{"question": "Is 51307 a prime number?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "True"}
+{"question": "Is 21557 composite?", "split": "easy_train_dmmath_numbers__is_prime.txt", "answer": "False"}

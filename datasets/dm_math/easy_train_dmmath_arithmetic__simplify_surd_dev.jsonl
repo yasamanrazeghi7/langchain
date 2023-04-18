@@ -1,0 +1,100 @@
+{"question": "Simplify sqrt(114)/(sqrt(36)/(sqrt(6) + sqrt(24)/sqrt(4) + sqrt(6))).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "3*sqrt(19)"}
+{"question": "Simplify -5*(3*sqrt(75) - sqrt(75))**2*2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-3000"}
+{"question": "Simplify (-3 + sqrt(20) + sqrt(5) - sqrt(5)) + -2*(sqrt(10)/sqrt(2))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-13 + 2*sqrt(5)"}
+{"question": "Simplify (3*(sqrt(209) + 5*sqrt(209)))/sqrt(11) + 2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "2 + 18*sqrt(19)"}
+{"question": "Simplify (sqrt(170) + (6*(sqrt(170) - -1*sqrt(170)) - sqrt(170)))/((-3*sqrt(50))/sqrt(5) - sqrt(10)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-3*sqrt(17)"}
+{"question": "Simplify (4 + (2 + sqrt(243))**2)*-5.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-1255 - 180*sqrt(3)"}
+{"question": "Simplify -6*-6*(sqrt(13) + sqrt(260)/sqrt(5)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "108*sqrt(13)"}
+{"question": "Simplify (sqrt(77)/(sqrt(11)*-1) + (sqrt(847) - (1 + sqrt(847))) + sqrt(847))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-20*sqrt(7) + 701"}
+{"question": "Simplify 3 + (sqrt(12) + -2)*5.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-7 + 10*sqrt(3)"}
+{"question": "Simplify (sqrt(19) - (sqrt(1539) + 0 - sqrt(1539))**2) + (1 + sqrt(76))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "5*sqrt(19) + 77"}
+{"question": "Simplify sqrt(80)*-2 + 2 + sqrt(5) + 3.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-7*sqrt(5) + 5"}
+{"question": "Simplify sqrt(12)*-1*2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-4*sqrt(3)"}
+{"question": "Simplify (sqrt(24)/sqrt(4))/sqrt(3) - (-1 + sqrt(72)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-5*sqrt(2) + 1"}
+{"question": "Simplify sqrt(57)/(sqrt(18)/(sqrt(18)/sqrt(3) + sqrt(6))).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "2*sqrt(19)"}
+{"question": "Simplify (sqrt(5) + -1)**2 + 5 + -1.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-2*sqrt(5) + 10"}
+{"question": "Simplify (sqrt(130) - -2*sqrt(130)*6)/(sqrt(640) - (sqrt(640) - 2*sqrt(640))).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "13*sqrt(13)/16"}
+{"question": "Simplify ((2*sqrt(76) - sqrt(38)/sqrt(2)*-2)*-1)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "684"}
+{"question": "Simplify sqrt(70)/(sqrt(20)/sqrt(2) + sqrt(10)) + sqrt(21)/(sqrt(3) - sqrt(12)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-sqrt(7)/2"}
+{"question": "Simplify (-2*sqrt(171))/sqrt(9) - (sqrt(19) - 6*(sqrt(19) + sqrt(114)/sqrt(6))).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "9*sqrt(19)"}
+{"question": "Simplify (sqrt(187) + (sqrt(187) - ((1*sqrt(187) - sqrt(187)) + sqrt(187)))*-5)/sqrt(11).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "sqrt(17)"}
+{"question": "Simplify ((1 + sqrt(500))*2)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "80*sqrt(5) + 2004"}
+{"question": "Simplify 4*(((sqrt(2) - (sqrt(200) + 1)) + sqrt(2))**2 + 2).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "64*sqrt(2) + 524"}
+{"question": "Simplify (2 + sqrt(1088))*4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "8 + 32*sqrt(17)"}
+{"question": "Simplify (sqrt(8208)*-2)/sqrt(3).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-24*sqrt(19)"}
+{"question": "Simplify (sqrt(432) + -1)**2 - (((sqrt(30)/sqrt(2))/sqrt(5))**2 + sqrt(3) + sqrt(3) - sqrt(3)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-25*sqrt(3) + 430"}
+{"question": "Simplify (-3*(sqrt(75) + 0 - sqrt(75)) - ((sqrt(432) - (0 + sqrt(432) - sqrt(432))) + -1))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-24*sqrt(3) + 433"}
+{"question": "Simplify ((-6*sqrt(1225))/(sqrt(7) - 6*-1*sqrt(7)))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "900/7"}
+{"question": "Simplify 0 + sqrt(20) + 0.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "2*sqrt(5)"}
+{"question": "Simplify 2*3*sqrt(128).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "48*sqrt(2)"}
+{"question": "Simplify (3*sqrt(468))/sqrt(9)*4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "24*sqrt(13)"}
+{"question": "Simplify -2*3*1*sqrt(432).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-72*sqrt(3)"}
+{"question": "Simplify sqrt(84)/sqrt(48) - (0 + sqrt(1008) - sqrt(7)) - (sqrt(21) + sqrt(189))/sqrt(3)*-6.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "27*sqrt(7)/2"}
+{"question": "Simplify (-4 + 1*(sqrt(70)/sqrt(5))/sqrt(2))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-8*sqrt(7) + 23"}
+{"question": "Simplify (-3 + 0 + sqrt(153) + sqrt(153) - (-1*sqrt(17) + 2 - (sqrt(2057) + -1)))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-216*sqrt(17) + 5544"}
+{"question": "Simplify (sqrt(704)*-1)/((-1*sqrt(12))/sqrt(3)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "4*sqrt(11)"}
+{"question": "Simplify 6*(5 + (3*sqrt(19))**2 + sqrt(19))*4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "24*sqrt(19) + 4224"}
+{"question": "Simplify (-1*sqrt(208) + sqrt(208))*5.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "0"}
+{"question": "Simplify -1*4*(sqrt(11) - sqrt(44) - sqrt(11))*-1.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-8*sqrt(11)"}
+{"question": "Simplify 1 + sqrt(2057) + (1*sqrt(2057)*1)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "11*sqrt(17) + 2058"}
+{"question": "Simplify 1 + 5*(sqrt(704)*-2)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "14081"}
+{"question": "Simplify (-2*(sqrt(45) - 5*(sqrt(45) + sqrt(45) + sqrt(45) + sqrt(180)/sqrt(4))))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "64980"}
+{"question": "Simplify (sqrt(252) + -1 + (sqrt(7) - (sqrt(112) + 4)))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-30*sqrt(7) + 88"}
+{"question": "Simplify ((1*sqrt(475) - sqrt(475))*-6)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "0"}
+{"question": "Simplify (((sqrt(132) + -1*sqrt(132) - sqrt(132)) + sqrt(132) + sqrt(132) - sqrt(132))*1)/(sqrt(12)*-1*-3).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "0"}
+{"question": "Simplify -5 + sqrt(3)*-2 + 0 + sqrt(3) + 1 + (sqrt(15)/((sqrt(720) + 2*sqrt(720) - sqrt(5)) + sqrt(5)))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-1727/432 - sqrt(3)"}
+{"question": "Simplify (-3*-5*(-1 + sqrt(3))*4)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-7200*sqrt(3) + 14400"}
+{"question": "Simplify -1*(-3 + 2*(1 + sqrt(11))).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-2*sqrt(11) + 1"}
+{"question": "Simplify (-1*sqrt(204)*5)/(6*sqrt(48)/sqrt(4)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-5*sqrt(17)/6"}
+{"question": "Simplify -5*(sqrt(1900) + -5*sqrt(1900)) - sqrt(1900).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "190*sqrt(19)"}
+{"question": "Simplify (-4*(sqrt(1872) - 1*sqrt(1872)) - sqrt(1872))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "1872"}
+{"question": "Simplify (-4 + (sqrt(17) - ((-4*sqrt(68))/sqrt(4) - sqrt(17) - sqrt(17))))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-56*sqrt(17) + 849"}
+{"question": "Simplify -6*-4*(-5 + (-4 + -2*sqrt(7) + sqrt(7))**2).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "432 + 192*sqrt(7)"}
+{"question": "Simplify sqrt(52)/(sqrt(28)/sqrt(7)) + (-1 + sqrt(325))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-9*sqrt(13) + 326"}
+{"question": "Simplify 2*(sqrt(2736) + 0)*1 + 5.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "5 + 24*sqrt(19)"}
+{"question": "Simplify -3*-1*(2 + sqrt(80))**2 + 3.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "48*sqrt(5) + 255"}
+{"question": "Simplify 1 + sqrt(7) + -2 + 2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "1 + sqrt(7)"}
+{"question": "Simplify (-1 + sqrt(13) + -1)**2 + (sqrt(13) - sqrt(26)/sqrt(2)*-5) - (-5*1*sqrt(65) + sqrt(65))/sqrt(5).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "17 + 6*sqrt(13)"}
+{"question": "Simplify ((1*sqrt(336))/sqrt(8))/(sqrt(36)/(sqrt(24) - sqrt(6))) + -5.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-5 + sqrt(7)"}
+{"question": "Simplify 0 + sqrt(700) + 4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "4 + 10*sqrt(7)"}
+{"question": "Simplify -6*(-1 + sqrt(63)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-18*sqrt(7) + 6"}
+{"question": "Simplify (sqrt(13) + 2)*1 - (sqrt(325) + -3).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-4*sqrt(13) + 5"}
+{"question": "Simplify (5 + -3 + sqrt(2057) + 4)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "132*sqrt(17) + 2093"}
+{"question": "Simplify 0 + -2 + sqrt(252) + 5.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "3 + 6*sqrt(7)"}
+{"question": "Simplify -2 + -1 + sqrt(5) + 1.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-2 + sqrt(5)"}
+{"question": "Simplify sqrt(72) + 1 + (-4*(-2*sqrt(2))**2 - sqrt(2)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-31 + 5*sqrt(2)"}
+{"question": "Simplify ((-1*sqrt(480))/(3*(sqrt(6) + sqrt(18)/sqrt(3))))**2*4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "80/9"}
+{"question": "Simplify 2 + sqrt(18)/((sqrt(225) - sqrt(9))*-4).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-sqrt(2)/16 + 2"}
+{"question": "Simplify 5*(sqrt(2057) + -1).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-5 + 55*sqrt(17)"}
+{"question": "Simplify (sqrt(24) + sqrt(600) + (sqrt(600) - (sqrt(600) + sqrt(600) + sqrt(600)*-1)))/(sqrt(12) - sqrt(72)/(-2*sqrt(6)) - sqrt(12)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "12*sqrt(2)"}
+{"question": "Simplify (sqrt(66)*2)/sqrt(6)*4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "8*sqrt(11)"}
+{"question": "Simplify -1*sqrt(15)/sqrt(5) - (sqrt(75) + 5).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-6*sqrt(3) - 5"}
+{"question": "Simplify -1*(-2 + ((sqrt(7) - sqrt(14)/sqrt(2))*2)**2).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "2"}
+{"question": "Simplify (-2*sqrt(68))**2*-1.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-272"}
+{"question": "Simplify 2*(0 + sqrt(13))*1.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "2*sqrt(13)"}
+{"question": "Simplify (-3*sqrt(8))/sqrt(4) + sqrt(2) - sqrt(10)/(sqrt(5) - ((sqrt(5) - (sqrt(15)/sqrt(3) + sqrt(5))) + sqrt(5))).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-3*sqrt(2)"}
+{"question": "Simplify (sqrt(396)/(1*sqrt(9)))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "44"}
+{"question": "Simplify (sqrt(76) - -4*(4 + sqrt(76) - sqrt(76)))**2*-2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-664 - 128*sqrt(19)"}
+{"question": "Simplify (3*2*sqrt(104) - sqrt(104))/(sqrt(24)/sqrt(3)*-6).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-5*sqrt(13)/6"}
+{"question": "Simplify (sqrt(900)*1)/(sqrt(5) - sqrt(25)/sqrt(5)*5).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-3*sqrt(5)/2"}
+{"question": "Simplify (-1 + (sqrt(6000) - (sqrt(6000) - sqrt(6000)*5))/sqrt(12))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-100*sqrt(5) + 12501"}
+{"question": "Simplify (sqrt(30)/((sqrt(6) - (sqrt(6) - sqrt(726))*6) + sqrt(6)))**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "5/3844"}
+{"question": "Simplify ((-3 + sqrt(7) + 0 - sqrt(7)) + sqrt(7) - sqrt(7))**2 + (sqrt(7) + -3)**2*-4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-55 + 24*sqrt(7)"}
+{"question": "Simplify (sqrt(1377)*1*-2 + -5)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "180*sqrt(17) + 5533"}
+{"question": "Simplify (-1 + sqrt(125) - sqrt(5)) + sqrt(5) + 4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "3 + 5*sqrt(5)"}
+{"question": "Simplify (5*(sqrt(84)*-2 + sqrt(84)))/(sqrt(132)/sqrt(44)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-10*sqrt(7)"}
+{"question": "Simplify ((sqrt(171) - -4*sqrt(171))/sqrt(9))**2 + 2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "477"}
+{"question": "Simplify 2 + -2 + (-2*sqrt(11))**2 + sqrt(11) + (sqrt(77)*-2)/sqrt(7).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-sqrt(11) + 44"}
+{"question": "Simplify sqrt(49)/((sqrt(28) - -2*sqrt(28))/sqrt(4)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "sqrt(7)/3"}
+{"question": "Simplify 5*1*sqrt(2736) + sqrt(2736) + ((1*3*sqrt(2736) - sqrt(2736))**2 - sqrt(2736)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "60*sqrt(19) + 10944"}
+{"question": "Simplify 3 + (0 + sqrt(3))*4.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "3 + 4*sqrt(3)"}
+{"question": "Simplify sqrt(35)/(-4*(sqrt(7) + sqrt(112) + sqrt(7))).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-sqrt(5)/24"}
+{"question": "Simplify ((sqrt(98) + 0 + sqrt(98))*6)**2*-1.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-14112"}
+{"question": "Simplify 6*(2 + (sqrt(11) - sqrt(11)*2)).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-6*sqrt(11) + 12"}
+{"question": "Simplify (-3 + (sqrt(176) - 2*sqrt(176)) + 3)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "176"}
+{"question": "Simplify (2*sqrt(208) + -4 + -3)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-112*sqrt(13) + 881"}
+{"question": "Simplify -2*(1*sqrt(304)*6 + -3).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-48*sqrt(19) + 6"}
+{"question": "Simplify (((sqrt(132) - (sqrt(132) + sqrt(132) + 2*sqrt(132) + sqrt(132) + sqrt(132) + sqrt(132)))/sqrt(12) + sqrt(11))*4)**2.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "4400"}
+{"question": "Simplify 3*(sqrt(425) - (sqrt(425) + 1*sqrt(425) + sqrt(425))) + -1.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-30*sqrt(17) - 1"}
+{"question": "Simplify (3*sqrt(143)*6)/sqrt(11).", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "18*sqrt(13)"}
+{"question": "Simplify ((-3 + sqrt(833))*1)**2 + 0.", "split": "easy_train_dmmath_arithmetic__simplify_surd.txt", "answer": "-42*sqrt(17) + 842"}

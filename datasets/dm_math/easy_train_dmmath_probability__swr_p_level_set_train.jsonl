@@ -1,0 +1,100 @@
+{"question": "Three letters picked without replacement from exexjxxjjoxjjjxzzx. What is prob of picking 1 x, 1 z, and 1 j?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/68"}
+{"question": "What is prob of picking 1 x and 1 p when two letters picked without replacement from xpee?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/6"}
+{"question": "Three letters picked without replacement from vvvvjvjvvv. What is prob of picking 3 v?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/15"}
+{"question": "Two letters picked without replacement from bqlbqbllbl. Give prob of picking 1 l and 1 b.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "16/45"}
+{"question": "Three letters picked without replacement from ppppdddppppdd. What is prob of picking 1 d and 2 p?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "70/143"}
+{"question": "Two letters picked without replacement from wowjooaaoaoaj. Give prob of picking 1 w and 1 j.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/39"}
+{"question": "Calculate prob of picking 2 u when two letters picked without replacement from muccqquqcquuauqc.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/12"}
+{"question": "Calculate prob of picking 1 o and 1 k when two letters picked without replacement from {m: 3, o: 1, y: 2, v: 5, k: 1}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/66"}
+{"question": "Three letters picked without replacement from {n: 4, p: 3}. What is prob of picking 1 p and 2 n?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "18/35"}
+{"question": "Two letters picked without replacement from {o: 5, v: 8}. What is prob of picking 2 v?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "14/39"}
+{"question": "Three letters picked without replacement from {c: 5, t: 2, z: 3}. Give prob of picking 1 t and 2 z.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/20"}
+{"question": "What is prob of picking 1 d and 1 m when two letters picked without replacement from {p: 2, m: 4, y: 1, d: 1, q: 1}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/9"}
+{"question": "Calculate prob of picking 3 i when three letters picked without replacement from {c: 1, d: 1, w: 4, i: 7}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "35/286"}
+{"question": "Calculate prob of picking 1 u, 2 q, and 1 w when four letters picked without replacement from wwquqwwuwuwuqw.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "12/143"}
+{"question": "What is prob of picking 1 k and 1 m when two letters picked without replacement from yrkwm?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/10"}
+{"question": "Calculate prob of picking 1 d, 2 w, and 1 o when four letters picked without replacement from {o: 4, t: 2, d: 5, m: 2, w: 4}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "6/119"}
+{"question": "Three letters picked without replacement from {l: 6, q: 4}. What is prob of picking 1 q and 2 l?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/2"}
+{"question": "Three letters picked without replacement from jbbjjjjbbjjjbj. What is prob of picking 3 j?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/13"}
+{"question": "Calculate prob of picking 3 i and 1 x when four letters picked without replacement from ibbbixbibxiibbbib.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/119"}
+{"question": "Three letters picked without replacement from {z: 1, b: 2, a: 1, i: 1, w: 5}. What is prob of picking 1 z and 2 w?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/12"}
+{"question": "Three letters picked without replacement from ittiitititiit. Give prob of picking 3 t.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "10/143"}
+{"question": "What is prob of picking 1 q and 1 w when two letters picked without replacement from wqqwwqwqqwww?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "35/66"}
+{"question": "Three letters picked without replacement from lall. Give prob of picking 1 a and 2 l.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/4"}
+{"question": "Two letters picked without replacement from sdassdsdssgjsusgsgu. What is prob of picking 1 j and 1 a?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/171"}
+{"question": "Four letters picked without replacement from {f: 8, j: 2, p: 2, i: 1}. What is prob of picking 2 j, 1 p, and 1 f?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "16/715"}
+{"question": "Three letters picked without replacement from oeooeooeooe. Give prob of picking 3 o.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/33"}
+{"question": "Four letters picked without replacement from {p: 3, m: 3, u: 7, a: 1, y: 2, n: 3}. Give prob of picking 1 y, 1 a, and 2 u.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/646"}
+{"question": "Four letters picked without replacement from {k: 5, t: 5}. What is prob of picking 3 k and 1 t?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "5/21"}
+{"question": "Three letters picked without replacement from {y: 1, u: 3, s: 1, i: 10, q: 2, l: 2}. What is prob of picking 1 l, 1 s, and 1 u?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/323"}
+{"question": "What is prob of picking 3 u when three letters picked without replacement from muuua?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/10"}
+{"question": "Two letters picked without replacement from {x: 6, q: 4, p: 1}. Give prob of picking 2 x.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/11"}
+{"question": "Two letters picked without replacement from {e: 1, g: 1, y: 1, k: 2, f: 1, n: 1}. What is prob of picking 1 y and 1 g?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/21"}
+{"question": "Two letters picked without replacement from {z: 2, w: 2}. Give prob of picking 1 z and 1 w.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/3"}
+{"question": "What is prob of picking 1 r and 1 q when two letters picked without replacement from {v: 3, r: 8, u: 2, k: 2, q: 4}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "32/171"}
+{"question": "What is prob of picking 3 j when three letters picked without replacement from cjjfjjjfjffjnjcccfcj?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/95"}
+{"question": "Three letters picked without replacement from {g: 1, v: 1, w: 2, b: 3}. What is prob of picking 2 b and 1 v?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/35"}
+{"question": "Two letters picked without replacement from fqqfqffqffqq. Give prob of picking 2 f.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "5/22"}
+{"question": "Calculate prob of picking 2 o when two letters picked without replacement from pepppoflpeopppppfppo.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/190"}
+{"question": "Calculate prob of picking 3 z and 1 x when four letters picked without replacement from xeezxzzexxztte.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "16/1001"}
+{"question": "Three letters picked without replacement from ldldassldsd. What is prob of picking 1 l and 2 s?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/55"}
+{"question": "Four letters picked without replacement from {y: 7, a: 12}. What is prob of picking 4 a?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "165/1292"}
+{"question": "Two letters picked without replacement from ddddsgddzddddgkggggg. Give prob of picking 1 d and 1 k.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/19"}
+{"question": "Calculate prob of picking 1 b and 1 e when two letters picked without replacement from bbbgegebbbjeeb.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "4/13"}
+{"question": "Four letters picked without replacement from iirriiii. Give prob of picking 3 i and 1 r.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "4/7"}
+{"question": "Three letters picked without replacement from {f: 1, q: 6, x: 2, b: 2, w: 1}. Give prob of picking 1 b, 1 q, and 1 w.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/55"}
+{"question": "Four letters picked without replacement from {a: 1, z: 1, r: 1, m: 1, o: 1, y: 2}. What is prob of picking 2 y, 1 z, and 1 o?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/35"}
+{"question": "Two letters picked without replacement from fkkee. What is prob of picking 2 k?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/10"}
+{"question": "Three letters picked without replacement from iiipipklikpipifpi. What is prob of picking 1 l and 2 i?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/170"}
+{"question": "Two letters picked without replacement from vvpcogvppckp. Give prob of picking 1 g and 1 c.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/33"}
+{"question": "Three letters picked without replacement from vpgpvvbgbbppbgpv. What is prob of picking 2 g and 1 v?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/140"}
+{"question": "What is prob of picking 2 l when two letters picked without replacement from flfffflfffffffffff?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/153"}
+{"question": "Calculate prob of picking 2 j and 2 s when four letters picked without replacement from jsjjojskkujokjkoo.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/476"}
+{"question": "Calculate prob of picking 1 d and 1 a when two letters picked without replacement from {a: 1, h: 3, d: 3}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/7"}
+{"question": "Calculate prob of picking 1 j, 1 l, and 1 y when three letters picked without replacement from {y: 1, j: 1, f: 1, a: 1, l: 1}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/10"}
+{"question": "Calculate prob of picking 1 c and 1 z when two letters picked without replacement from {c: 5, t: 1, m: 3, j: 1, z: 1}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/11"}
+{"question": "Three letters picked without replacement from kfzvfwo. Give prob of picking 1 w, 1 o, and 1 z.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/35"}
+{"question": "Calculate prob of picking 1 a and 1 i when two letters picked without replacement from izzza.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/10"}
+{"question": "Three letters picked without replacement from {p: 7, m: 5}. What is prob of picking 2 m and 1 p?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/22"}
+{"question": "Three letters picked without replacement from {c: 3, q: 11, u: 2, w: 1, v: 1}. What is prob of picking 1 u, 1 q, and 1 c?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "11/136"}
+{"question": "Two letters picked without replacement from {i: 8, b: 3, h: 3, v: 2}. Give prob of picking 1 i and 1 v.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/15"}
+{"question": "Three letters picked without replacement from {y: 8, m: 4, x: 1, e: 3, n: 2, w: 2}. What is prob of picking 1 n, 1 w, and 1 m?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "4/285"}
+{"question": "Calculate prob of picking 3 e when three letters picked without replacement from {w: 1, z: 4, e: 6}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "4/33"}
+{"question": "Two letters picked without replacement from kckaakccvnaccvack. What is prob of picking 1 v and 1 k?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/17"}
+{"question": "What is prob of picking 2 b, 1 l, and 1 g when four letters picked without replacement from {z: 1, b: 8, r: 3, l: 1, g: 2, x: 2}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/85"}
+{"question": "Calculate prob of picking 2 e when two letters picked without replacement from {t: 3, e: 3, z: 1}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/7"}
+{"question": "Calculate prob of picking 1 d and 1 g when two letters picked without replacement from {g: 18, d: 1}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/19"}
+{"question": "Calculate prob of picking 3 o when three letters picked without replacement from ooo.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1"}
+{"question": "What is prob of picking 2 a and 1 q when three letters picked without replacement from qqayyyqqyaya?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/55"}
+{"question": "What is prob of picking 1 i and 2 d when three letters picked without replacement from djdjjjjii?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/42"}
+{"question": "Calculate prob of picking 2 w and 1 r when three letters picked without replacement from rwsrtpwpsssssstrwrs.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "4/323"}
+{"question": "What is prob of picking 3 h when three letters picked without replacement from ohoohozozh?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/120"}
+{"question": "What is prob of picking 3 y when three letters picked without replacement from peyyegy?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/35"}
+{"question": "Calculate prob of picking 1 r and 1 t when two letters picked without replacement from zqrtnjtj.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/14"}
+{"question": "What is prob of picking 1 q and 3 s when four letters picked without replacement from sssqsassqsssqaqs?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "24/91"}
+{"question": "Calculate prob of picking 1 n and 1 b when two letters picked without replacement from {b: 7, o: 3, j: 1, n: 5}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/24"}
+{"question": "What is prob of picking 1 u and 1 y when two letters picked without replacement from {u: 4, x: 2, y: 5}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "4/11"}
+{"question": "What is prob of picking 2 u and 1 m when three letters picked without replacement from {u: 2, j: 4, y: 4, x: 7, m: 1, a: 2}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/1140"}
+{"question": "Two letters picked without replacement from ceece. Give prob of picking 2 c.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/10"}
+{"question": "Calculate prob of picking 1 x and 1 s when two letters picked without replacement from silkxks.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/21"}
+{"question": "Two letters picked without replacement from {g: 1, r: 2, l: 1, w: 1, s: 1, y: 1}. What is prob of picking 1 w and 1 s?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/21"}
+{"question": "What is prob of picking 2 q, 1 l, and 1 x when four letters picked without replacement from {x: 3, q: 5, l: 9, m: 3}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "18/323"}
+{"question": "Two letters picked without replacement from {y: 1, r: 1, s: 5, f: 1, k: 2}. Give prob of picking 1 y and 1 s.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/9"}
+{"question": "What is prob of picking 3 i when three letters picked without replacement from {o: 15, i: 3}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/816"}
+{"question": "Four letters picked without replacement from {b: 2, w: 6, u: 1, d: 3, o: 6}. Give prob of picking 1 w and 3 o.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/51"}
+{"question": "What is prob of picking 1 x, 1 b, 1 k, and 1 t when four letters picked without replacement from {x: 1, k: 1, i: 1, b: 3, t: 1}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/35"}
+{"question": "Two letters picked without replacement from {i: 2, s: 2, x: 1}. What is prob of picking 1 i and 1 s?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/5"}
+{"question": "What is prob of picking 1 q and 3 v when four letters picked without replacement from vvvvqvqvvqvvqqqvvvv?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "143/323"}
+{"question": "Two letters picked without replacement from {t: 7, c: 2, a: 2}. Give prob of picking 2 c.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/55"}
+{"question": "Three letters picked without replacement from {i: 3, k: 2, n: 5}. Give prob of picking 1 n and 2 i.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/8"}
+{"question": "Two letters picked without replacement from {e: 1, p: 1, m: 2, r: 1, y: 1, k: 1}. Give prob of picking 1 r and 1 e.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/21"}
+{"question": "Calculate prob of picking 1 o and 1 z when two letters picked without replacement from {o: 1, z: 2, j: 1, k: 2}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/15"}
+{"question": "Calculate prob of picking 1 b and 1 h when two letters picked without replacement from oeeabdehdheeedh.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/35"}
+{"question": "What is prob of picking 1 w, 1 z, and 1 p when three letters picked without replacement from wzwppwwwwzw?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "28/165"}
+{"question": "Four letters picked without replacement from jewppwwpjppq. What is prob of picking 1 e, 2 p, and 1 w?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/33"}
+{"question": "What is prob of picking 1 u, 1 d, and 1 v when three letters picked without replacement from xgduxxv?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "1/35"}
+{"question": "Calculate prob of picking 3 k when three letters picked without replacement from kkkyykkkkk.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "7/15"}
+{"question": "What is prob of picking 2 b when two letters picked without replacement from {d: 2, b: 3}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "3/10"}
+{"question": "Calculate prob of picking 1 l and 1 t when two letters picked without replacement from lyhylqqllllllyytyqlq.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "9/190"}
+{"question": "Calculate prob of picking 1 w and 1 c when two letters picked without replacement from {w: 10, c: 2}.", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "10/33"}
+{"question": "What is prob of picking 1 t, 1 c, and 1 n when three letters picked without replacement from {m: 1, c: 1, q: 1, a: 1, t: 1, n: 2}?", "split": "easy_train_dmmath_probability__swr_p_level_set.txt", "answer": "2/35"}

@@ -1,0 +1,100 @@
+{"question": "What is next in 7, 20, 47, 94, 167, 272, 415?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "602"}
+{"question": "What is next in 5, 50, 95?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "140"}
+{"question": "What is the next term in -26, -36, -46, -56, -66?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-76"}
+{"question": "What is next in 305, 309, 313?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "317"}
+{"question": "What is the next term in 35, 13, -11, -37, -65, -95?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-127"}
+{"question": "What comes next: -10, 2, 16, 32, 50, 70, 92?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "116"}
+{"question": "What comes next: -8, -27, -52, -83, -120, -163, -212?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-267"}
+{"question": "What is the next term in 95, 76, 31, -52, -185?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-380"}
+{"question": "What is next in -131, -157, -193, -233, -271, -301, -317?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-313"}
+{"question": "What is next in 7, 25, 55, 97, 151, 217?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "295"}
+{"question": "What is next in -57, -155, -317, -543, -833, -1187?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-1605"}
+{"question": "What comes next: -18, -51, -90, -135, -186, -243, -306?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-375"}
+{"question": "What comes next: -1237, -1247, -1257, -1267, -1277, -1287?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-1297"}
+{"question": "What is the next term in 45, 85, 125, 165, 205, 245?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "285"}
+{"question": "What is next in 11, 19, 31, 47, 67?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "91"}
+{"question": "What is next in 1993, 1997, 1995, 1981, 1949, 1893, 1807, 1685?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1521"}
+{"question": "What comes next: -16, -17, -2, 35, 100, 199, 338, 523?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "760"}
+{"question": "What is next in -66, -367, -1174, -2739, -5314?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-9151"}
+{"question": "What is next in 1, 28, 75, 142, 229, 336, 463?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "610"}
+{"question": "What is the next term in -126, -210, -258, -276, -270, -246?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-210"}
+{"question": "What is the next term in 902, 1801, 2708, 3629, 4570?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "5537"}
+{"question": "What is next in -387, -386, -385, -384, -383, -382?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-381"}
+{"question": "What comes next: 199, 188, 183, 190, 215, 264, 343, 458?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "615"}
+{"question": "What comes next: -3597, -3603, -3619, -3651, -3705, -3787, -3903?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-4059"}
+{"question": "What is next in -75, -73, -71, -69, -67?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-65"}
+{"question": "What is the next term in -1, -11, -33, -73, -137?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-231"}
+{"question": "What comes next: -14868, -14869, -14870, -14871?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-14872"}
+{"question": "What is next in -30067, -30068, -30069, -30070?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-30071"}
+{"question": "What is the next term in -115, -96, -51, 32, 165?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "360"}
+{"question": "What is the next term in 69, 80, 91, 102, 113?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "124"}
+{"question": "What comes next: 1716, 1712, 1706, 1698, 1688, 1676?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1662"}
+{"question": "What is next in 139, 377, 767, 1303, 1979?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "2789"}
+{"question": "What comes next: 62, 127, 192, 257, 322?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "387"}
+{"question": "What comes next: -1459, -5836, -13137, -23368, -36535, -52644, -71701, -93712?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-118683"}
+{"question": "What is the next term in -13, -16, -13, -4, 11, 32?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "59"}
+{"question": "What is the next term in 30, 58, 86, 114?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "142"}
+{"question": "What is the next term in -22, -45, -92, -175, -306, -497, -760, -1107?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-1550"}
+{"question": "What comes next: -10, -45, -104, -187, -294?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-425"}
+{"question": "What is next in 441, 428, 391, 318, 197, 16?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-237"}
+{"question": "What comes next: 42, 82, 122, 162?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "202"}
+{"question": "What comes next: 1582, 3165, 4748, 6331?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "7914"}
+{"question": "What comes next: 913, 1832, 2751, 3670?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "4589"}
+{"question": "What is the next term in 126, 241, 356?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "471"}
+{"question": "What is the next term in -59, -58, -59, -62, -67, -74?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-83"}
+{"question": "What is the next term in 1739, 1747, 1761, 1781, 1807?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1839"}
+{"question": "What is next in 92, 180, 266, 350, 432, 512, 590?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "666"}
+{"question": "What is the next term in -64, -67, -70, -73, -76, -79?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-82"}
+{"question": "What is next in 77, 156, 239, 326, 417?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "512"}
+{"question": "What comes next: 261, 275, 311, 381, 497, 671, 915, 1241?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1661"}
+{"question": "What comes next: -191, -179, -153, -107, -35, 69?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "211"}
+{"question": "What is the next term in -217, -220, -223, -226, -229?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-232"}
+{"question": "What is the next term in 14, 26, 38, 50?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "62"}
+{"question": "What comes next: 22, 73, 110, 127, 118, 77, -2, -125?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-298"}
+{"question": "What is the next term in -4, -17, -36, -61?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-92"}
+{"question": "What comes next: -14183, -28366, -42551, -56738, -70927?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-85118"}
+{"question": "What is the next term in 703, 697, 691?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "685"}
+{"question": "What is next in 101, 268, 435?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "602"}
+{"question": "What comes next: -98, -90, -60, 4, 114, 282, 520?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "840"}
+{"question": "What comes next: 3240, 3239, 3238, 3237, 3236?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "3235"}
+{"question": "What is next in 10, 17, 28, 43?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "62"}
+{"question": "What is the next term in -30, -52, -84, -120, -154, -180?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-192"}
+{"question": "What is the next term in 300, 304, 310, 318, 328?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "340"}
+{"question": "What is next in 171, 348, 529, 714, 903, 1096?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1293"}
+{"question": "What is the next term in -967, -967, -969, -973?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-979"}
+{"question": "What is the next term in 46, 98, 180, 292?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "434"}
+{"question": "What is next in 1077, 1119, 1163, 1209?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1257"}
+{"question": "What is next in -1, 10, 21, 32, 43?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "54"}
+{"question": "What is next in -154, -309, -468, -631, -798?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-969"}
+{"question": "What is next in -17, -15, -17, -23, -33, -47?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-65"}
+{"question": "What is next in -113, -112, -111, -110?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-109"}
+{"question": "What is next in 5, 6, 5, 2?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-3"}
+{"question": "What comes next: -255, -256, -257, -258, -259, -260?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-261"}
+{"question": "What comes next: 10, 15, 22, 31, 42?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "55"}
+{"question": "What is the next term in 376, 738, 1098, 1456, 1812?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "2166"}
+{"question": "What is next in 337, 1366, 3087, 5506, 8629, 12462, 17011, 22282?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "28281"}
+{"question": "What comes next: -142, -287, -432, -577, -722?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-867"}
+{"question": "What is next in 24, 20, 12, 0, -16, -36, -60?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-88"}
+{"question": "What is the next term in 48, 50, 52?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "54"}
+{"question": "What comes next: -4, -27, -50, -73, -96?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-119"}
+{"question": "What comes next: 1254, 1256, 1258, 1260, 1262?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1264"}
+{"question": "What is the next term in 16, 30, 44, 58, 72, 86?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "100"}
+{"question": "What is next in -61, -154, -285, -454, -661, -906, -1189?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-1510"}
+{"question": "What is next in -512, -1024, -1536, -2048, -2560, -3072?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-3584"}
+{"question": "What is the next term in -371, -379, -389, -401, -415?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-431"}
+{"question": "What is the next term in 90, 92, 94, 96, 98?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "100"}
+{"question": "What is next in 73, 54, 25, -20, -87, -182?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-311"}
+{"question": "What is the next term in 437, 437, 435, 431, 425, 417?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "407"}
+{"question": "What comes next: -58, -223, -498, -883, -1378, -1983?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-2698"}
+{"question": "What is next in -1, -6, -13, -22?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-33"}
+{"question": "What is the next term in -547, -544, -541?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-538"}
+{"question": "What comes next: -2, 13, 40, 79, 130, 193, 268?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "355"}
+{"question": "What comes next: 13, 33, 67, 115?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "177"}
+{"question": "What comes next: -129, -260, -379, -480, -557, -604, -615, -584?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-505"}
+{"question": "What is the next term in 57, 63, 63, 51, 21?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-33"}
+{"question": "What is next in 8, 17, 26?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "35"}
+{"question": "What comes next: 50, 88, 112, 116, 94?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "40"}
+{"question": "What comes next: 12579, 12580, 12581, 12582, 12583, 12584?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "12585"}
+{"question": "What comes next: 10, -11, -46, -95, -158?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-235"}
+{"question": "What is the next term in 380, 764, 1154, 1550?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "1952"}
+{"question": "What is next in 0, -8, -30, -72, -140?", "split": "easy_train_dmmath_algebra__sequence_next_term.txt", "answer": "-240"}

@@ -1,0 +1,100 @@
+{"question": "Let t(v) = -v + 24. Let n(i) = -i. What is 3*n(p) - t(p)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*p - 24"}
+{"question": "Let v(z) be the second derivative of -z**2 - z + 2/3*z**3 + 0 + 3/10*z**5 - 5/12*z**4. Let a(h) = -h**3 + h**2 - h + 1. Give 4*a(k) + v(k).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*k**3 - k**2 + 2"}
+{"question": "Let j(m) = -2*m**2 - 3*m + 1. Suppose -2 = 3*z + 5*n - 0, -1 = 2*z + 3*n. Let c = z - 1. Let s = -4 - c. Let y(q) = -3*q**2 - 4*q + 2. What is s*j(a) + 3*y(a)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-a**2 + 2"}
+{"question": "Let b(q) = -2*q**2 + 8*q. Let x(g) = -2*g**2 + 7*g. What is 5*b(r) - 6*x(r)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*r**2 - 2*r"}
+{"question": "Let j(b) = -3*b**3 - 2*b**2 + 5*b + 5. Let k(y) = -2*y**3 - y**2 + 3*y + 3. Let v be (-64)/20 - 3/(-15). What is v*j(s) + 5*k(s)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-s**3 + s**2"}
+{"question": "Let g(n) = n**3 - n**2 - 2*n**3 + 6*n - 2*n + 7*n. Let z(b) = -2*b. Give -2*g(k) - 11*z(k).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*k**3 + 2*k**2"}
+{"question": "Let v(a) = -8*a - 4. Let s(u) = -1. What is -2*s(c) + v(c)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-8*c - 2"}
+{"question": "Let h(a) = 2*a - 3. Suppose -5*v + v + 8 = 0. Let g(u) = -3*u + 2*u + 3*u - v. Let c be (-1)/(-3) + (-20)/6. Determine c*g(f) + 2*h(f).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*f"}
+{"question": "Let t(v) = 2*v**2 - 3*v + 1. Let f = -40 - -41. Let b(y) = -y**2 + y + 1. What is f*t(d) + b(d)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "d**2 - 2*d + 2"}
+{"question": "Let w(z) = -1. Let p = 31 + -29. Let y(j) = -5*j. Let o(b) = b. Let r(l) = -4*o(l) - y(l). Calculate p*w(q) + r(q).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "q - 2"}
+{"question": "Let w be (-1 - -5)/(1/6). Let k(y) = 3. Let a(c) = -c - 24. Give w*k(r) + 3*a(r).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-3*r"}
+{"question": "Let u(p) = 15*p**2 + 2*p. Let y(q) = 1905*q**2 + 255*q. Give 765*u(m) - 6*y(m).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "45*m**2"}
+{"question": "Let j(k) = k**3 + 5*k**2 + 4*k - 3. Let b be j(-4). Let x(c) = -3*c + 1. Let m(z) = -3*z. What is b*m(u) + 2*x(u)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "3*u + 2"}
+{"question": "Suppose 4*s + 5*w - 3 = -11, 5*s = -2*w - 27. Let j(g) = g**2 - 6*g. Let z(r) = -r - 8*r + 0*r**2 + r**2 + 2*r. Give s*j(l) + 6*z(l).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-l**2"}
+{"question": "Let r(d) = d - 1. Let x(s) = 14*s**2 + 3*s - 3. Determine -3*r(z) + x(z).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "14*z**2"}
+{"question": "Let v(b) = -21*b**3 + 2*b**2 - 8*b + 8. Let k(u) = 14*u**3 - u**2 + 5*u - 5. What is -8*k(q) - 5*v(q)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-7*q**3 - 2*q**2"}
+{"question": "Let y(s) = 76*s**2 - 3*s + 2. Let o(x) = -38*x**2 + 2*x - 1. Give -7*o(w) - 4*y(w).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-38*w**2 - 2*w - 1"}
+{"question": "Let y(x) = 6*x**2 - 1. Let q = -6 + -11. Let l = -12 - q. Let p(g) = 5*g**2 - 1. Give l*p(k) - 4*y(k).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "k**2 - 1"}
+{"question": "Let w(d) = d**2 + d - 1. Let v(z) = -z**2 - 4*z - 1. What is v(m) + 3*w(m)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*m**2 - m - 4"}
+{"question": "Let m(z) = z**2 - 4*z + 2. Let n(c) = -1. Let k(d) = m(d) + 3*n(d). Let y(x) = -5*x - 1. Determine -5*k(a) + 4*y(a).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-5*a**2 + 1"}
+{"question": "Let l = -10 - -12. Let c(p) = -9*p - l - 4*p - 1. Let f(h) = -9*h - 2. Determine 5*c(r) - 7*f(r).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*r - 1"}
+{"question": "Let u(b) = 5*b**3 + 3*b**2 - 5*b - 2. Suppose 3*l - 4 - 5 = 0. Let a(c) = c**3 + c**2 - c - 1. Determine l*a(g) - u(g).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*g**3 + 2*g - 1"}
+{"question": "Let q(j) = j**2 - 8*j + 14. Let l be q(6). Let t(b) = b**2 - 2*b - 2. Let w(v) = -2*v**2 + 3*v + 3. Determine l*w(d) + 3*t(d).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-d**2"}
+{"question": "Let t be -12*(27/(-6))/(-9). Let m(h) = 7*h + 8. Let b(f) = 6*f + 7. Calculate t*b(k) + 5*m(k).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-k - 2"}
+{"question": "Let b(n) = 2*n**3 + 4*n**2 + 8*n + 5. Let m(k) = -k**2 - k - 1. Determine -b(u) - 4*m(u).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*u**3 - 4*u - 1"}
+{"question": "Let b(r) = -598*r - 52. Let u(c) = -57*c - 5. Determine -5*b(x) + 52*u(x).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "26*x"}
+{"question": "Suppose 3 + 1 = -2*h. Let a(j) = -5*j + 3. Let s(b) be the first derivative of -19 + 14 - 2*b + 0*b + 2*b**2. What is h*a(q) - 3*s(q)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*q"}
+{"question": "Let o = -3 + 2. Let m be 2 + o + (-4)/(-2). Let g(a) = 6*a**2 - 4*a + 5. Let f(y) = -5*y**2 + 3*y - 4. Determine m*g(c) + 4*f(c).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*c**2 - 1"}
+{"question": "Let v(s) = -s**2 + 1. Let r(t) = -3*t**2 - 3*t. Suppose 2*d + 2 = 3*d. What is d*v(h) - r(h)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "h**2 + 3*h + 2"}
+{"question": "Let p(g) = g. Let s = 26 + -27. Let w(j) = -j - 2. Give s*w(t) + 2*p(t).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "3*t + 2"}
+{"question": "Let g be 9*(0 - (-2)/(-3)) + -1. Let x(w) = 15*w + 5. Let a(i) = 7*i + 2. Determine g*a(h) + 3*x(h).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-4*h + 1"}
+{"question": "Let y(x) = -7*x - 16. Let w(r) = -13*r - 31. Determine 6*w(l) - 11*y(l).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-l - 10"}
+{"question": "Let b(m) = 2*m**2 + 2*m - 1. Let s = 21 - 18. Let o(p) = -p + 1. Let y be o(-2). Let u(x) = 2 - y*x + x - 4*x**2 + 2*x**2. Calculate s*b(g) + 2*u(g).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*g**2 + 2*g + 1"}
+{"question": "Let d(c) = 4*c**3 - c**3 + 7 + 5*c**3 + 5*c**2 - 4*c**3 + 5*c. Let z be (-12)/(-8)*24/(-9). Let p(k) = 3*k**3 + 4*k**2 + 4*k + 6. What is z*d(a) + 5*p(a)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-a**3 + 2"}
+{"question": "Let d(t) = -15*t**2. Let x(q) = 5*q**2. What is -3*d(i) - 8*x(i)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "5*i**2"}
+{"question": "Let u(h) = -h**3 + 7*h**2 + 5*h + 15. Let j(f) = 3*f**2 + 2*f + 7. Determine -5*j(c) + 2*u(c).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*c**3 - c**2 - 5"}
+{"question": "Let f(p) = -p - 1. Let m(u) = -15*u + u**2 - 18*u + 37*u. Determine -2*f(l) - m(l).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-l**2 - 2*l + 2"}
+{"question": "Let y be (-1 - -17)/((-2)/(-2)). Let o(l) = 3*l - 5*l - 4*l - y. Let g(b) = 6 + 2 - 1 + b - 4. What is -11*g(a) - 2*o(a)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "a - 1"}
+{"question": "Let p(u) = u - 1. Let r(c) = 12*c - 9. Calculate 9*p(a) - r(a).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-3*a"}
+{"question": "Let q(w) = 2*w + 11. Let l(g) = 6*g + 32. Determine 6*l(s) - 17*q(s).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*s + 5"}
+{"question": "Let v(c) = 4*c + 1. Suppose 76*i - 71*i = -70. Let n(s) = -9*s - 2. Give i*v(q) - 6*n(q).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*q - 2"}
+{"question": "Let x(i) = 53*i - 6. Let m(q) = -18*q + 2. What is -8*m(h) - 3*x(h)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-15*h + 2"}
+{"question": "Let z(n) = 2*n. Let w(j) = 4*j**2 - 3*j**2 + 3*j**2 - 3*j**2 - 3*j. Determine 2*w(f) + 3*z(f).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*f**2"}
+{"question": "Let t(a) = -5*a + 8. Let d(w) = 5*w - 7. Let x(f) = -7*d(f) - 6*t(f). Let o(h) = 14*h - 2. Give -3*o(s) - 8*x(s).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*s - 2"}
+{"question": "Let f(x) = -x**3 + 4*x**2 + 4*x + 3. Let c be f(5). Let p = 3 + c. Let g(j) = -2*j**3 - 2*j + 4*j + 4*j**3 + 2. Let l(y) = -y - 1. Determine p*g(z) + 2*l(z).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*z**3"}
+{"question": "Let a(c) = -c + 7. Let s(i) = 2*i - 14. Calculate 10*a(x) + 6*s(x).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*x - 14"}
+{"question": "Let x(a) = -2*a + 7. Let w(c) = -c**3 - 11*c**2 - 10*c - 13. Let k be w(-10). Let p(i) = 4*i - 15. Calculate k*x(r) - 6*p(r).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*r - 1"}
+{"question": "Let t(p) = 10*p - 5. Let r(h) = -h - 1. Calculate -4*r(x) + t(x).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "14*x - 1"}
+{"question": "Let y(v) = -v**3 - 6*v**2 - 2*v - 5. Suppose -2*k = -k - b + 17, 33 = -k + 5*b. Let a(d) = 2*d**3 + 13*d**2 + 4*d + 11. Determine k*y(s) - 6*a(s).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "s**3 + 2*s - 1"}
+{"question": "Let b(k) = -2*k + 3. Let d(j) = j**2 + j + 1. Calculate -b(m) + d(m).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "m**2 + 3*m - 2"}
+{"question": "Let m = -76 - -79. Let x(p) = p**3 + 3*p**2 + p + 3. Let b(d) = 2*d**2 + 2. Calculate m*b(o) - 2*x(o).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*o**3 - 2*o"}
+{"question": "Let t(o) = -160*o. Let x(c) = -29*c. Determine 5*t(z) - 28*x(z).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "12*z"}
+{"question": "Let z(c) = 2*c - 9. Let p(w) be the first derivative of -w**2/2 + 4*w + 6. Calculate -9*p(f) - 4*z(f).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "f"}
+{"question": "Let j = -88 + 84. Let x(f) = -6*f**2 - 6*f - 1. Let q(s) = -5*s**2 - 5*s - 1. Determine j*x(b) + 5*q(b).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-b**2 - b - 1"}
+{"question": "Let o(l) = 2*l**2 + 6*l + 5. Let z(i) = 3*i**2 + 7*i + 6. What is -6*o(c) + 5*z(c)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "3*c**2 - c"}
+{"question": "Let y(j) = -23*j**2 + 13. Let s(m) = 6*m**2 - 3. Give -9*s(f) - 2*y(f).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-8*f**2 + 1"}
+{"question": "Let r(x) = 2*x**2 - 3*x + 3. Let b(j) = -j + 1. Suppose -g + 2 = -0. Suppose g*n - 17 = 3*v, 2*n + 13 = -2*v - v. Determine n*r(h) - 3*b(h).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*h**2"}
+{"question": "Let g(i) = 16*i**3 + 8*i**2 + i + 6. Let y(p) = -33*p**3 - 15*p**2 - 2*p - 11. Calculate 11*g(h) + 6*y(h).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-22*h**3 - 2*h**2 - h"}
+{"question": "Suppose -2*l + 23 = 3*p, 3*p - 4*l + 2 = 1. Let b(i) be the third derivative of i**4/8 - 7*i**3/6 - 6*i**2. Let c(n) = 2*n - 4. Give p*c(k) - 3*b(k).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "k + 1"}
+{"question": "Suppose -7*y - 35 = -21. Let t(g) = -2*g + 4. Let c(s) = 1. Determine y*c(d) + t(d).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*d + 2"}
+{"question": "Let b(q) be the first derivative of -9*q**4/4 - 17*q**3/3 + 17*q**2/2 + 17*q - 6. Let u(x) = -3*x**3 - 6*x**2 + 6*x + 6. Give 6*b(p) - 17*u(p).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-3*p**3"}
+{"question": "Let b(k) = k - 4. Let c(h) = h - 7. Suppose 2 = 3*o - j - 13, 2*j = -3*o + 15. Give o*b(s) - 3*c(s).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*s + 1"}
+{"question": "Let t(k) = -2*k**3 + 12*k**2 + 6*k + 6. Let x(q) = -5*q**3 + 25*q**2 + 13*q + 13. What is -13*t(b) + 6*x(b)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-4*b**3 - 6*b**2"}
+{"question": "Let r(x) = -121*x. Let y(v) = 123*v. Calculate 5*r(a) + 4*y(a).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-113*a"}
+{"question": "Let v(y) = -1 + 2*y + 3 + 0*y**2 + y**2. Suppose 1 = 2*s - 7. Let b(j) = -2*j**2 - 4*j - 3. Give s*b(d) + 7*v(d).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-d**2 - 2*d + 2"}
+{"question": "Suppose 2*d = p + 7*d + 8, -d = -p + 4. Let r(h) = p*h - 3*h - 2*h. Let q(g) = -3*g. What is -2*q(m) + 3*r(m)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-3*m"}
+{"question": "Let r(b) = b**3 - 4*b**2. Let m(n) = n**3 - 3*n**2. What is -5*m(j) + 4*r(j)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-j**3 - j**2"}
+{"question": "Let z(o) = 5*o**3 + 4*o**2 - 3*o - 9. Let q(c) = -c**3 + 9*c + 5. Let x(p) = -p**3 - p**2 - p + 1. Let h(t) = -q(t) - 5*x(t). Determine 4*h(f) - 5*z(f).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-f**3 - f + 5"}
+{"question": "Let f(c) = -4*c**3 + 3*c**2 + c + 2. Let v(h) = -21*h**3 + 15*h**2 + 5*h + 11. Calculate -11*f(j) + 2*v(j).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*j**3 - 3*j**2 - j"}
+{"question": "Let z(w) = -4*w**3 + 5*w**2 + 5*w + 5. Let k(c) = -c - 5*c**2 - 1 + 0 + c**3 + 7*c**2 - 3*c**2. Give -15*k(h) - 3*z(h).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-3*h**3"}
+{"question": "Let f(i) = -5*i**2 - 6*i + 1. Let v(y) = -y**2 - y. Let w(o) = -o**3 + 10*o**2 - 9*o - 11. Let k be w(9). Calculate k*v(q) + 2*f(q).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "q**2 - q + 2"}
+{"question": "Let f(v) = 2*v + 2. Let a(o) = -7*o - 9. Calculate -6*a(x) - 22*f(x).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*x + 10"}
+{"question": "Let n(q) = -21*q**2 - 41*q + 6. Let g(y) = -4*y**2 - 8*y + 1. Determine 11*g(c) - 2*n(c).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*c**2 - 6*c - 1"}
+{"question": "Let i(j) = 3*j**2 - 6*j + 6. Let v be (-270)/(-42) + (-3)/7. Let f(g) = 3*g**2 - 5*g + 5. Give v*f(c) - 5*i(c).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "3*c**2"}
+{"question": "Let t(m) = -43*m**3 - 7*m**2 + 7*m - 7. Let h(w) = -22*w**3 - 4*w**2 + 4*w - 4. Determine 7*h(v) - 4*t(v).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "18*v**3"}
+{"question": "Suppose 5*l - 5 = -4*i, -5*i - 3 + 5 = 2*l. Let j(s) = 7*s + 1. Let w be -3 + (4 - 4) + -2. Let m(t) = t. Give l*j(a) + w*m(a).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*a + 1"}
+{"question": "Let o(d) = d**2 - 2*d + 2. Let c(u) = u**2 - u + 1. Suppose -3 + 1 = 2*a. Let s = 1 + 1. Determine a*o(y) + s*c(y).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "y**2"}
+{"question": "Let r(k) = -5*k + 9. Let q(g) be the third derivative of -g**4/8 + 5*g**3/6 - 8*g**2. What is 7*q(o) - 4*r(o)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-o - 1"}
+{"question": "Let z(q) = q**3 + q**2 - q - 1. Let l(k) = 4*k + 5. Determine -l(h) - 5*z(h).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-5*h**3 - 5*h**2 + h"}
+{"question": "Let j(r) = -2*r**2 - 9 + 6*r**2 - 12 + 5*r**2. Let i(n) = n**2 - 2. What is 21*i(h) - 2*j(h)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "3*h**2"}
+{"question": "Let g(a) = -26*a - 11. Let z(t) = 5*t + 2. Give -2*g(c) - 11*z(c).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-3*c"}
+{"question": "Let g(a) = -a**2 - a. Let q(u) = 8*u**2 + 8*u - 4. What is 6*g(h) + q(h)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*h**2 + 2*h - 4"}
+{"question": "Let z(g) = g. Suppose 4*u - 8*u = 32. Let w(b) be the first derivative of 3*b**2 - 2*b - 5. Suppose -o = o - 2. What is o*w(v) + u*z(v)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*v - 2"}
+{"question": "Let b(o) = o + 7. Let z = -15 - -20. Let u(h) = h + 5. What is z*b(n) - 7*u(n)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*n"}
+{"question": "Let n(f) = -2*f**2 - 4*f - 5. Let a(h) = 2*h**2 + 5*h + 5. Give -4*a(t) - 5*n(t).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*t**2 + 5"}
+{"question": "Let y(q) = -2*q - 2. Let i(k) = k + 1. Let u be (-1)/((-5)/(-4) + -1). Calculate u*i(d) - y(d).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*d - 2"}
+{"question": "Let y = -6 + 8. Let w(h) = 2 - 5*h + h - h**2 - y*h. Let m(b) = -3*b**2 - 17*b + 5. Give 4*m(x) - 11*w(x).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-x**2 - 2*x - 2"}
+{"question": "Let f(q) = 3*q**2 + 17*q + 11. Let c(j) = -j**3 + j**2 + 6*j + 4. Let g be c(-2). Let v(i) = -i**2 - 6*i - 4. Determine g*f(s) + 11*v(s).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "s**2 + 2*s"}
+{"question": "Let a(f) be the second derivative of f**3/3 - 5*f**2/2 + 8*f. Let h(n) = 2*n - 4. What is -4*a(i) + 5*h(i)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*i"}
+{"question": "Let i(f) = 5*f**2 + 5*f + 3. Let v = 10 - 3. Let k = -4 - -6. Let r(w) = -k*w + 5 + 9*w**2 + v*w + 4*w. Calculate -5*i(j) + 3*r(j).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*j**2 + 2*j"}
+{"question": "Let k(z) = 12*z**3 - 10*z**2 + 10*z + 2. Let x(m) = -3 + m - m**2 + 0*m**2 + 3 + m**3. Let w(p) = p**3 - 5*p**2 + p. Let s be w(2). Give s*x(j) + k(j).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*j**3 + 2"}
+{"question": "Let s(k) = -2*k - 6. Suppose -6 = 2*v + 10. Let x(u) = -u - 4. Give v*x(j) + 5*s(j).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*j + 2"}
+{"question": "Let d(h) = -2*h**2 + 3*h. Suppose 3 = -0*w + w. Suppose -5*g + 4*g - w = 0. Let t(n) = -6*n**2 + 8*n. Give g*t(i) + 8*d(i).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "2*i**2"}
+{"question": "Let u(y) be the second derivative of 1/6*y**4 + 0 + 2*y + y**2 + 1/2*y**3 + 1/20*y**5. Let h be u(-2). Let b(t) = t. Let l(m) = 6*m. Calculate h*l(j) + 22*b(j).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-2*j"}
+{"question": "Let k(v) = 8*v**3 + 15*v**2 + 3*v + 13. Let b(o) = -4*o**3 - 7*o**2 - 2*o - 6. Let j(n) = 5*b(n) + 2*k(n). Let i(y) = y**2 + y + 1. Calculate -4*i(m) - j(m).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "4*m**3 + m**2"}
+{"question": "Let z(l) = -19*l**2 - 3*l + 4. Let x(i) = -10*i**2 - i + 2. Determine -5*x(p) + 2*z(p).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "12*p**2 - p - 2"}
+{"question": "Let k(v) = v + 15 + 13*v**3 + 11*v**2 + v + 5*v. Let z(h) = -7*h**3 - 6*h**2 - 4*h - 8. Suppose 47 = -4*d + 3*s, 0*s = -d + 5*s - 16. Calculate d*z(p) - 6*k(p).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-p**3 + 2*p - 2"}
+{"question": "Suppose -3*z = -9, -2*z + 5 = 2*a + 3*z. Let b(l) = -3*l**3 - 5*l**2 + 5*l - 5. Let p(h) = -h**2 + h - 1. What is a*p(v) + b(v)?", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-3*v**3"}
+{"question": "Let s(d) = -4*d + 1. Let f = 20 - -2. Suppose 0 = 5*l + 4*c + 3 + 14, c - f = 4*l. Let w(g) = -3*g + 1. Give l*s(v) + 7*w(v).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-v + 2"}
+{"question": "Let m(i) = 3*i**3 + 4*i**2 - 5. Let u(s) = -7*s**3 - 9*s**2 + 10. Give 9*m(v) + 4*u(v).", "split": "easy_train_dmmath_polynomials__add.txt", "answer": "-v**3 - 5"}

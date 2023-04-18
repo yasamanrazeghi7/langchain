@@ -1,0 +1,100 @@
+{"question": "Let h(d) = -d**3 + 4*d**2 + d + 2. Let t be h(5). Let k = 71/4 + t. Which is the closest to k?  (a) 1  (b) -1  (c) 2/9", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let u = 0 - 0. Let s(h) = -h**2 + 3*h - 4. Let r be s(0). Which is the nearest to -1?  (a) u  (b) 1/3  (c) r", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let m = 1 + -3/2. What is the nearest to -1/3 in 4, m, -1/10?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "m"}
+{"question": "Let h = 0.08 - 0.18. What is the nearest to 0.2 in -4, 0.1, h?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0.1"}
+{"question": "Let r be -2*-2*4/(-72). Let k = 2 + -5/3. Which is the nearest to -2?  (a) r  (b) k  (c) -3/4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let m be (5/(-4))/((-2)/8). Let s = -1.1 + 8.1. Let j = s - 7.5. What is the nearest to -0.1 in m, j, -2?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "j"}
+{"question": "Let v be (-5)/15 + (-2)/3. Which is the closest to v?  (a) -0.2  (b) -0.6  (c) -4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let a = -673/4 + 168. What is the nearest to a in 0, -1, 2.2?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0"}
+{"question": "Let b(f) = f**3 - 6*f**2 + 5*f + 2. Let c = 18 + -13. Let s be b(c). Let p = -1.3 + 5.3. What is the closest to 1 in -1, p, s?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "s"}
+{"question": "Let i = 6 + -6.8. Let z = 4.2 - i. Let m = -0.6 - -0.1. Which is the nearest to 1?  (a) z  (b) m  (c) 0.3", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let p be ((-130)/104)/(1/(-4)). Which is the closest to -1/4?  (a) 0.4  (b) -1/5  (c) p", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Suppose -o + 3*o = 2. Let w = 0.3 + -6.3. Which is the nearest to -1/4?  (a) o  (b) 2/3  (c) w", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let f = -6.2 + -1.8. Let h = -6 - f. Let d = -0.2 - -0.3. Which is the closest to 0.1?  (a) 3/5  (b) h  (c) d", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let u = -2 + 4. Let i be u/20*5/(-4). Let d = 1.03 + -0.03. Which is the closest to d?  (a) 5  (b) i  (c) -3/2", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let l = -150 - -3448/23. Let x be -1*1/24*2. Let r = -1.6 - 0.4. What is the nearest to r in x, l, -1?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-1"}
+{"question": "Let s = 83 + -83. What is the nearest to s in -1/3, 0, -34?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0"}
+{"question": "Let z be 1*-2 - (-14)/6. Let j = 169/15 - 35/3. What is the closest to -0.1 in 3, z, j?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "j"}
+{"question": "Let w be 240/(-56) - 2/(-7). What is the closest to 0.7 in 5, -1, w?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-1"}
+{"question": "Let p(v) = -30*v**3 - v**2 - 2*v - 1. Let m be p(-2). Let i = 2149/9 - m. Which is the closest to 1?  (a) 3  (b) 0.5  (c) i", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let m be 2/(-8)*(-11 + 12). What is the closest to m in -2, 2/11, 0.4?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "2/11"}
+{"question": "Suppose -4*d - 12 = 2*r, -14 = -2*d + 6*r - 2*r. Let z = 14.5 + 3.5. Let l = z - 18.1. Which is the nearest to l?  (a) d  (b) -3  (c) -0.1", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let m = 0.1 + 0.9. Let s = -20.6 - -20.5. Which is the closest to 3?  (a) -0.3  (b) m  (c) s", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let m be -2 + (8 - (-3 - -5 - -1)). Which is the closest to 1?  (a) m  (b) 0.04  (c) -2", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let j = -3 + 4. Let o(r) = r - 8. Let n be o(7). Let m be n - (21/(-6) + 2). Which is the closest to j?  (a) 4/5  (b) m  (c) -2/11", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let y = 8 - 8.2. Let n = 5 - 10. Let v = 5.3 + n. Which is the nearest to -1?  (a) v  (b) -4  (c) y", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Suppose 5*q = -2*z - 9, -5*q = -z - 2*z - 1. Suppose 9*x + 2*s = 4*x - 30, 4*x + 3*s + 31 = 0. Which is the closest to 1?  (a) 0.3  (b) z  (c) x", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let j = 5/3 + -7/3. Which is the nearest to 0?  (a) 0.1  (b) 2/9  (c) j", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let i = -32 + 33. What is the closest to i in -0.5, -0.4, -1/5?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-1/5"}
+{"question": "Let l(q) = -q**3 + 6*q**2 + 6*q. Let x be l(7). Let c = x - -5. Let p = 0.4 - 0.5. What is the nearest to p in -3, -0.1, c?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-0.1"}
+{"question": "Suppose -12 = -4*y, -3*n - 5 = 2*n - 5*y. Suppose 3*o + 2*g = -3, -2 + 3 = -5*o - n*g. Which is the closest to o?  (a) 2/9  (b) -2  (c) -3", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let j = 2.2 - 0.2. Let v = -1.6 - -5.6. Which is the nearest to -0.1?  (a) v  (b) 0.3  (c) j", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let m = -117.9 + 118. Let s = -0.2 - 0.2. Which is the closest to 0.1?  (a) -1/7  (b) s  (c) m", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let s = -0.2 - -0.3. Let k = -1091/6 - -181. Which is the closest to s?  (a) 5  (b) k  (c) -0.3", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let x = -0.44 - -0.14. Let t = x + 0.4. Which is the closest to 0?  (a) 1  (b) t  (c) -3", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let q = -0.76 + -0.04. Let p = q + 0.7. Let y = 0.5 - -2.5. What is the closest to p in 0.3, -3, y?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0.3"}
+{"question": "Let n = -86 - -253/3. Let k = 112 - 895/8. What is the nearest to -1 in n, k, -1/4?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "n"}
+{"question": "Let l = 7/5 - 9/10. Let r be (3 + (-11)/3)/(-4). Let f be ((-4)/(-6))/(1/(-3)). Which is the nearest to f?  (a) 4  (b) l  (c) r", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let j(w) = 4 + 6 - 2*w - 3. Let k be j(5). Which is the nearest to 1/3?  (a) k  (b) 4  (c) 0.2", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let m(t) = -t**3 + 10*t**2 - 8*t - 10. Let x be m(9). Which is the nearest to 0.2?  (a) -1/4  (b) x  (c) 1", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let r be 0*(-2 - 25/(-10)). Suppose 3*w - 5*w + 4 = r. Let s = 0 - -0.1. Which is the closest to -1/8?  (a) 1/3  (b) w  (c) s", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let v = -299/5 - -60. What is the closest to 0.1 in v, 2, 0.4?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "v"}
+{"question": "Let t = -16 - -17. Let f = 0.06 + 4.94. Which is the nearest to -0.1?  (a) 0  (b) t  (c) f", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let p be 5 + -2 - (-8)/(-4). Suppose -4*n + 6 = -2, v + 4*n - 8 = 0. Suppose 0 = -v*b + b. What is the nearest to b in -2/5, 3, p?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-2/5"}
+{"question": "Let l = -311/5 - -62. Let p = -1.1 - -1. Which is the nearest to p?  (a) l  (b) 5  (c) 4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let p be ((-3)/9)/(1/(-15)). Let k = -2.9 - -3.1. Which is the closest to k?  (a) 3  (b) 0.3  (c) p", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let o(m) = 3*m**2 - 4*m**2 - 4*m - 4*m. Let g be o(-8). Suppose -n = -g*n. What is the closest to 0.2 in -2/9, n, 3/7?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "n"}
+{"question": "Let d = 16 - 16.5. Which is the nearest to -1?  (a) 1  (b) 1/2  (c) d", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let z be (-10)/(-3)*((-231)/56)/(-11). Which is the closest to -1/2?  (a) 0.2  (b) z  (c) -4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let r be 3/(-2)*(0 + 2). Let j = -2.52 - -2.12. What is the closest to 0 in -2/13, j, r?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-2/13"}
+{"question": "Let y = -10 - -12. Let q = 2.5 - y. Let o = -4 + 7. What is the nearest to 0.1 in o, q, 1/3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "1/3"}
+{"question": "Let r = 17 + -14. Which is the nearest to 1?  (a) r  (b) 0  (c) -3", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Suppose 18 = -0*j - 6*j. Which is the nearest to 0.1?  (a) 0  (b) -9  (c) j", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let h = 788 + -793. Let k = 0.23 - -0.07. Which is the nearest to -2/9?  (a) k  (b) h  (c) 4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let a be (38/14 - 2) + -1. Let p = 14.451 + 0.249. Let f = -15 + p. What is the closest to -1/2 in a, f, -5?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "f"}
+{"question": "Let p be (-4)/10 + 6/(-135). Let d = 2/9 + p. Let x = 157 + -1101/7. Which is the nearest to x?  (a) d  (b) -1  (c) -0.4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let i = -1.9 - -2. What is the nearest to i in 5, 4, -15?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "4"}
+{"question": "Let s(d) = -d**2 + 7*d - 7. Suppose -2*z + v - 2*v = -3, -5*z - 5*v - 5 = 0. Let y be s(z). Let w = 168 - 844/5. What is the nearest to -3 in 3, w, y?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "w"}
+{"question": "Let l = 29 - 31. Which is the closest to -5?  (a) -0.2  (b) l  (c) -3/7", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let x = -2/63 + 136/315. Let l be (-2)/(-8) - 9/(-12). Let h = 3.1 - 3. Which is the nearest to h?  (a) -1  (b) x  (c) l", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let i = -1.9 - -2. What is the closest to i in 3/4, 1/5, -5?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "1/5"}
+{"question": "Let z = 0.7 + -1.2. What is the closest to 0 in -1/5, z, 4/7?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-1/5"}
+{"question": "Suppose c + 2 - 3 = 0. What is the closest to -2 in 2, c, 0.3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0.3"}
+{"question": "Let q = 2.7 + -3. Let t = q + 0.1. Let d = 0.6 - 0.5. What is the closest to t in 4, d, 4/3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "d"}
+{"question": "Let u = -0.07 + 0.67. Let w = -0.9 + u. Which is the closest to 1/2?  (a) -2/7  (b) w  (c) 0.1", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let h be (-18)/8 - 9/(-18). Let j = -19/39 + 2/13. What is the nearest to j in h, -1/5, -2/15?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-1/5"}
+{"question": "Let u = -17.2 - -17. Let h = 0 + 0. Let x = h - 0.5. Which is the closest to 2?  (a) -4  (b) u  (c) x", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Suppose 5*x = 4*p - 25, 5*p - 7 = -x + 17. Suppose -3 - 2 = p*z. What is the closest to -2/5 in z, -1/5, 4/5?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-1/5"}
+{"question": "Let w = 5 + -2. Let s = -1 - w. Let r = -3 - -4. Which is the closest to 0?  (a) r  (b) -2  (c) s", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let w(j) = -3*j**3 + j**2 - j + 1. Let r be w(1). Let t = 0.24 - 0.4. Let k = t + 0.06. What is the closest to k in -3/2, r, -0.3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-0.3"}
+{"question": "Let g = -3.5 - 0.5. What is the nearest to 0 in 4/5, g, 1/5?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "1/5"}
+{"question": "Let z = -0.075 + -0.025. What is the closest to -1/3 in z, -10, -0.5?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-0.5"}
+{"question": "Let x = -0.289 + 1.289. Suppose 0 = 4*z + 3*d - 6*d + 10, -3*d = -6. Let f be 1/(11*z/2). What is the closest to x in 0.1, 2, f?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0.1"}
+{"question": "Let g = 2.91 + 0.09. Let r = -0.7 + 0.3. Which is the nearest to -1?  (a) r  (b) 5  (c) g", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let p = 3/43 - 101/215. Let n = -0.98 + 1. Let i = n + 0.98. What is the nearest to i in 1, p, 0.3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "1"}
+{"question": "Let n be 3/(-7) - 115/(-105). Which is the nearest to 0?  (a) 0.4  (b) 0.5  (c) n", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let g = -37.5 - -35. Let b = -0.8 + 0.3. Let i = b + g. What is the nearest to 0.1 in 1, i, 2/3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "2/3"}
+{"question": "Let d = -57 + 231/4. Let i = -11 - -12. Let s = i - 4. Which is the nearest to 0.1?  (a) s  (b) 0.3  (c) d", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let j = -2.154 - -0.054. Let s = j + 2.3. What is the nearest to -2/5 in -4/7, s, -3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-4/7"}
+{"question": "Let l be 2 - (3 - (1 - -2)). What is the nearest to -2/7 in -2, l, -0.3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-0.3"}
+{"question": "Let j = 5 - 3. Suppose -j*c = -0*c + 24. Let u be -2 + 0 + (-26)/c. What is the closest to -1 in u, 5, 0.5?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "u"}
+{"question": "Let y = -66 - -68. What is the closest to 0.2 in -1/7, -0.4, y?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-1/7"}
+{"question": "Let p = 32 + -32. Which is the closest to p?  (a) 4  (b) -0.4  (c) 3/2", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let l = 0 - 0. Let z = 1.8 - 6.8. Which is the closest to 0?  (a) 2/9  (b) l  (c) z", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Suppose 3*p - 20 = -2*q, q + p = -p + 12. What is the closest to 1/5 in q, -0.1, 2/7?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "2/7"}
+{"question": "Let p = -0.17 - 0. Let c = -0.67 - p. Let m = 4.01 - 0.01. What is the closest to 1 in m, c, 3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let b = 0.026 - 0.226. What is the nearest to -2/5 in -4, b, -1?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let h be (-4)/10*25/(-70)*-2. What is the closest to 0.06 in 5, h, 0?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0"}
+{"question": "Let g be (-38)/(-88) + (-1)/4. Let b = 5.15 + -0.15. What is the nearest to b in g, -4, -1/3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "g"}
+{"question": "Let l = -1 + -3. Which is the nearest to 0?  (a) l  (b) -0.1  (c) 2", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let j = 0.467 + -0.067. What is the closest to 1 in 5, -1, j?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "j"}
+{"question": "Suppose 2*o = 5*c - 0*o - 6, -4*o = -8. Let k = 0 + 0.2. What is the closest to -0.2 in 4, k, c?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "k"}
+{"question": "Let q = -1.8 + 2.6. Which is the nearest to q?  (a) 0.1  (b) 0.3  (c) 0.4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "c"}
+{"question": "Let v = -2 + 5. Let n be 2/(-6)*6/(-4). What is the closest to n in v, 1/3, 0.4?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "0.4"}
+{"question": "Let q = -13/115 + -2/23. Which is the nearest to -1?  (a) -0.3  (b) q  (c) -4", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "a"}
+{"question": "Let p = -120 + 120.4. Which is the closest to 0.1?  (a) -2/5  (b) 0.07  (c) p", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "b"}
+{"question": "Let g = -7 - -10. Let u = g - 3. What is the closest to u in -0.4, 5, -3?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-0.4"}
+{"question": "Let x be (-8)/(-36) - 4/(-36). What is the nearest to 2/5 in 0, 3, x?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "x"}
+{"question": "Let t = -4.021 + 0.021. What is the nearest to t in -2, -3, 3/7?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-3"}
+{"question": "Let y be 1*(0 - 2/7). Let v be 1/(-3) + (-28)/(-36). Let w = v - -19/18. What is the nearest to y in -2, 2, w?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-2"}
+{"question": "Let c = 23.3 + -25. Let f = c - -2. What is the nearest to -1/4 in 2/5, -2/5, f?", "split": "easy_train_dmmath_comparison__closest_composed.txt", "answer": "-2/5"}

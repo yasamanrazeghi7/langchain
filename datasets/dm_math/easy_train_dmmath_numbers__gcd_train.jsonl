@@ -1,0 +1,100 @@
+{"question": "What is the highest common divisor of 2 and 62?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "2"}
+{"question": "Calculate the greatest common factor of 12469 and 1348.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "337"}
+{"question": "Calculate the highest common divisor of 10 and 3545.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "5"}
+{"question": "What is the highest common factor of 736 and 46?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "46"}
+{"question": "What is the greatest common divisor of 2587 and 13?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "13"}
+{"question": "What is the greatest common factor of 7 and 10934?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "7"}
+{"question": "Calculate the greatest common factor of 32 and 3472.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "16"}
+{"question": "What is the greatest common divisor of 459 and 27?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "27"}
+{"question": "Calculate the highest common divisor of 135 and 30.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "15"}
+{"question": "What is the greatest common divisor of 91 and 104?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "13"}
+{"question": "What is the greatest common factor of 437 and 19?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "19"}
+{"question": "Calculate the greatest common factor of 70 and 770.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "70"}
+{"question": "Calculate the highest common factor of 1385 and 5.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "5"}
+{"question": "What is the greatest common divisor of 1568 and 64?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "32"}
+{"question": "What is the greatest common divisor of 5 and 2?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "1"}
+{"question": "What is the greatest common divisor of 92 and 48?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "4"}
+{"question": "Calculate the highest common divisor of 1125 and 30.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "15"}
+{"question": "Calculate the highest common divisor of 18090 and 536.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "134"}
+{"question": "What is the highest common factor of 2430 and 18?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "18"}
+{"question": "What is the highest common factor of 75 and 30?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "15"}
+{"question": "Calculate the greatest common factor of 2249 and 865.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "173"}
+{"question": "What is the greatest common factor of 13 and 91?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "13"}
+{"question": "Calculate the highest common factor of 18 and 549.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "9"}
+{"question": "Calculate the greatest common divisor of 2187 and 9.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "9"}
+{"question": "Calculate the greatest common divisor of 19325 and 25.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "25"}
+{"question": "Calculate the greatest common factor of 275 and 11.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "11"}
+{"question": "What is the highest common factor of 34 and 340?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "34"}
+{"question": "Calculate the greatest common factor of 17 and 9.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "1"}
+{"question": "Calculate the greatest common factor of 42204 and 12.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "12"}
+{"question": "Calculate the highest common factor of 20 and 15500.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "20"}
+{"question": "Calculate the highest common factor of 44 and 187.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "11"}
+{"question": "Calculate the highest common factor of 121 and 121.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "121"}
+{"question": "Calculate the highest common factor of 69 and 138.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "69"}
+{"question": "What is the highest common divisor of 16 and 1532?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "4"}
+{"question": "Calculate the highest common divisor of 2975 and 238.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "119"}
+{"question": "Calculate the greatest common divisor of 11 and 209.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "11"}
+{"question": "Calculate the highest common factor of 93 and 713.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "31"}
+{"question": "What is the greatest common divisor of 32 and 256?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "32"}
+{"question": "Calculate the highest common divisor of 1330 and 6840.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "190"}
+{"question": "What is the greatest common factor of 112 and 200?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "8"}
+{"question": "What is the highest common divisor of 153 and 119?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "17"}
+{"question": "What is the greatest common factor of 27 and 48717?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "9"}
+{"question": "Calculate the greatest common factor of 28 and 1484.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "28"}
+{"question": "What is the highest common factor of 342 and 570?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "114"}
+{"question": "Calculate the greatest common factor of 8788 and 208.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "52"}
+{"question": "Calculate the greatest common factor of 20 and 180.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "20"}
+{"question": "Calculate the greatest common factor of 6 and 4.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "2"}
+{"question": "What is the highest common factor of 55 and 165?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "55"}
+{"question": "What is the greatest common divisor of 3422 and 1062?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "118"}
+{"question": "What is the highest common divisor of 1742 and 26?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "26"}
+{"question": "What is the greatest common factor of 69 and 7590?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "69"}
+{"question": "Calculate the greatest common divisor of 303 and 9.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "3"}
+{"question": "What is the greatest common divisor of 119 and 306?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "17"}
+{"question": "What is the greatest common factor of 564 and 23406?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "282"}
+{"question": "Calculate the highest common factor of 48 and 528.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "48"}
+{"question": "Calculate the greatest common factor of 377 and 1276.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "29"}
+{"question": "What is the highest common divisor of 400 and 7900?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "100"}
+{"question": "What is the greatest common divisor of 414 and 11385?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "207"}
+{"question": "What is the highest common factor of 162 and 3078?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "162"}
+{"question": "What is the greatest common divisor of 231 and 42?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "21"}
+{"question": "What is the greatest common factor of 350 and 21?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "7"}
+{"question": "What is the greatest common factor of 30 and 75?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "15"}
+{"question": "Calculate the highest common factor of 33 and 4.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "1"}
+{"question": "What is the greatest common divisor of 228 and 1197?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "57"}
+{"question": "What is the greatest common factor of 848 and 16?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "16"}
+{"question": "What is the highest common factor of 9 and 603?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "9"}
+{"question": "Calculate the greatest common divisor of 2584 and 3128.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "136"}
+{"question": "What is the highest common divisor of 182 and 130?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "26"}
+{"question": "What is the highest common divisor of 42 and 3444?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "42"}
+{"question": "Calculate the highest common divisor of 21676 and 4.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "4"}
+{"question": "What is the highest common factor of 50 and 20?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "10"}
+{"question": "Calculate the greatest common divisor of 163 and 2.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "1"}
+{"question": "Calculate the greatest common divisor of 9 and 9.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "9"}
+{"question": "What is the highest common factor of 972 and 252?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "36"}
+{"question": "What is the highest common factor of 22 and 2486?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "22"}
+{"question": "What is the greatest common factor of 6 and 37356?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "6"}
+{"question": "What is the greatest common divisor of 17682 and 18?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "6"}
+{"question": "Calculate the greatest common factor of 2 and 7.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "1"}
+{"question": "Calculate the highest common divisor of 330 and 120.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "30"}
+{"question": "Calculate the highest common divisor of 231 and 33.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "33"}
+{"question": "Calculate the highest common divisor of 65 and 429.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "13"}
+{"question": "What is the greatest common factor of 150 and 780?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "30"}
+{"question": "Calculate the greatest common divisor of 1312 and 104.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "8"}
+{"question": "Calculate the highest common factor of 9 and 24.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "3"}
+{"question": "Calculate the highest common divisor of 3799 and 58.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "29"}
+{"question": "What is the greatest common factor of 308 and 132?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "44"}
+{"question": "Calculate the greatest common divisor of 48 and 69.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "3"}
+{"question": "Calculate the highest common factor of 23 and 69.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "23"}
+{"question": "Calculate the highest common divisor of 1007 and 53.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "53"}
+{"question": "Calculate the greatest common factor of 15 and 425.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "5"}
+{"question": "Calculate the greatest common factor of 1634 and 646.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "38"}
+{"question": "What is the greatest common divisor of 2898 and 12834?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "414"}
+{"question": "Calculate the highest common factor of 10823 and 137.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "137"}
+{"question": "Calculate the highest common divisor of 6258 and 210.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "42"}
+{"question": "Calculate the greatest common divisor of 58 and 522.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "58"}
+{"question": "Calculate the highest common factor of 816 and 96.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "48"}
+{"question": "Calculate the highest common factor of 1374 and 6.", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "6"}
+{"question": "What is the greatest common divisor of 60 and 150?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "30"}
+{"question": "What is the greatest common factor of 35 and 365?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "5"}
+{"question": "What is the greatest common factor of 56 and 328?", "split": "easy_train_dmmath_numbers__gcd.txt", "answer": "8"}

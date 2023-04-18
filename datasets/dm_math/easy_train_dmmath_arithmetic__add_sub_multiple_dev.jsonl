@@ -1,0 +1,100 @@
+{"question": "-5 + 2 + -1 + 7", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "What is 0 - (-3 - (0 + (-1 - 0)))?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "2"}
+{"question": "Calculate (-3 - -11) + -7 - (-1 - 2).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "4"}
+{"question": "What is (-1 - 7) + 4 + 3?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-1"}
+{"question": "Evaluate -7 + 2 - -1 - (3 - 1).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-6"}
+{"question": "-2 + (5 - 6 - 0)", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-3"}
+{"question": "0 + 1 - 4 - (30 + -27)", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-6"}
+{"question": "5 + -3 + (-2 - -8) + -3", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "5"}
+{"question": "Calculate (-1 - 1) + -6 - -4.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "What is the value of 5 + -5 + 2 - 3 - 2?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-3"}
+{"question": "Calculate (6 - 5) + 0 + -1 - 1.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-1"}
+{"question": "What is the value of 7 - (13 + -4 + 7)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-9"}
+{"question": "What is the value of -5 + 22 + 0 + -13?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "4"}
+{"question": "What is the value of -2 + (5 - 3) - (0 + -3)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "What is 1 + -2 + 1 - (-278 - -285)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-7"}
+{"question": "Evaluate (6 - (6 - 1 - 6)) + -5.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "2"}
+{"question": "Calculate (-3 - -1) + 6 + -9.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "Calculate -1 - (-2 + 1) - -5.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "5"}
+{"question": "What is the value of -4 - (2 - 5 - 2)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "Calculate 4 + 1 - 8 - -4.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "What is 1 + 8 + 51 + -61?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-1"}
+{"question": "What is the value of (-24 - -13) + 7 + 1?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-3"}
+{"question": "What is -1 + (-2 - -2) + -4?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "Evaluate (-3 - -11) + (-14 - -6).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "0"}
+{"question": "Calculate -9 + (-6 - -7) - -11.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "Evaluate 9 - 19 - -10 - -6.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "6"}
+{"question": "Calculate 4 - ((-11 - -3) + -1 - -7).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "6"}
+{"question": "What is -6 + -3 + (19 - 12)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "Evaluate -4 + (6 - (-8 + 16)).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-6"}
+{"question": "What is -69 + 66 + 4 + 0?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "What is the value of 0 + 1 + (-13 - 19) + 26?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "What is the value of 3 - 1 - 4 - -4?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "2"}
+{"question": "Evaluate 1 + 2 - (-3 + 0).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "6"}
+{"question": "What is 2 + (1 - 0) + 6 + -7?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "2"}
+{"question": "(4 - 1 - (3 + 0)) + -4", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "0 - (5 - (-6 - (4 + -20)))", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "5"}
+{"question": "What is -1 + -7 - (0 - 3) - -2?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-3"}
+{"question": "What is -10 - ((0 + 2 - 5) + 1)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-8"}
+{"question": "What is the value of 12 - ((9 - 2) + 1)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "4"}
+{"question": "Evaluate (21 - 24) + (-2 - -4).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-1"}
+{"question": "-46 + 39 - (-4 + (1 - -1))", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "Evaluate 5 - (5 - 4) - (-1 - -7).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "Calculate -10 - -7 - (-1 + -1 - -1).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "Evaluate -1 - (0 - ((0 - 1) + 2)).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "0"}
+{"question": "Evaluate -4 + -3 + (9 - 1).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "Calculate -1 + 2 + -1 + (20 - 21).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-1"}
+{"question": "What is (-9 - -2) + -2 + 2 + 2?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "Calculate 0 - (-4 - (-3 + 0) - 0).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "Calculate 0 + (0 - -5 - (9 - 1)).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-3"}
+{"question": "Calculate 0 - ((-1 - 1) + (-33 - -39)).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "Evaluate -7 - (6 + -10 - 1) - -6.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "4"}
+{"question": "What is the value of 3 + 10 + -7 + -2?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "4"}
+{"question": "-7 + 3 - (-1 + -2)", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-1"}
+{"question": "What is the value of (1 - 10) + (93 - 92)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-8"}
+{"question": "Evaluate 2 + (-5 + 1 - -7 - 7).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "Evaluate -5 - ((-3 - -1) + -26 + 22).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "What is 2 + -7 + 13 + -7 + -7?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-6"}
+{"question": "What is 58 + -51 + -7 + 1?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "-7 + 4 + 5 + 5", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "7"}
+{"question": "Evaluate 4 - (1 + (3 + -1 - 2)).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "Evaluate (5 + (-25 - -4) - -3) + 5.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-8"}
+{"question": "0 - (1 + 3) - (1 + -2)", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-3"}
+{"question": "Evaluate 1 + -1 + (12 - (11 + -5)).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "6"}
+{"question": "What is the value of 2 + (-5 + 3 - -3)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "-2 + (4 - 6) + 5 + -2", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-1"}
+{"question": "Calculate -2 - -6 - (14 + 3 + -9).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "What is -3 - -1 - 1 - (2 - 6)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "(0 - -12) + -6 + -11", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "(2 - -2 - 6) + -2", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "Evaluate 4 - 12 - ((12 - 6) + -9).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "Evaluate -2 - (8 + -7 - 6).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "Evaluate 16 + -21 - (1 + -4).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "Evaluate -37 + 12 + 11 + 10.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "(-2 - 7 - -13) + -2", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "2"}
+{"question": "What is -1 + (5 + -4 - 2) - -5?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "5 + (1 - 7) + 1 + -2", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "What is the value of -12 - -2 - (-12 + 6)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "What is (7 - (2 + -4 - 0)) + -4?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "5"}
+{"question": "What is -24 - -27 - (1 + (2 - 2))?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "2"}
+{"question": "Calculate 0 + 1 - (-264 - -262).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "Evaluate 4 + (8 - 10) + -11.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-9"}
+{"question": "What is 31 + -24 + -9 + 2?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "0"}
+{"question": "Evaluate -2 + (-2 - (-4 - -1)) + 1.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "0"}
+{"question": "Evaluate -5 + 1 + (-3 - -5).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "2 - (1 + 7 + -1)", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}
+{"question": "5 + 0 - 15 - 0 - -4", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-6"}
+{"question": "Calculate (3 - -1) + -1 + -5.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "What is (-2 - (10 + -6)) + 2?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "Evaluate 5 - (-7 - -3 - -6).", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "3"}
+{"question": "(-21 - -18) + (1 - -3)", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "What is the value of 1 + (-5 - (1 - (-2 - -4)))?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-3"}
+{"question": "6 + 8 + -3 - -2 - 6", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "7"}
+{"question": "What is 7 - (12 - 13 - (-8 - -1))?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "1"}
+{"question": "-2 + (-1 - (-9 + 4 + 2))", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "0"}
+{"question": "Evaluate (-1 - (3 - 4) - 3) + 1.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "What is the value of (-4 - -2) + (1 + 2 - 1)?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "0"}
+{"question": "-4 + (-3 - -11) + 1 + 0", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "5"}
+{"question": "What is -6 + 7 + 3 + -8?", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-4"}
+{"question": "Calculate -10 + (-8 - -6) - -10.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-2"}
+{"question": "Calculate (-2 - -7) + -4 - 6.", "split": "easy_train_dmmath_arithmetic__add_sub_multiple.txt", "answer": "-5"}

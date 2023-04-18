@@ -1,0 +1,100 @@
+{"question": "Suppose -z = -0*z - 12. Suppose -3*n = -x - 40 - z, 2*n + 2*x = 40. What is the tens digit of n?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let n = -8 - -3. Let v = n - -22. Let s = v + -9. What is the units digit of s?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Let x be (0 - 3)*(3 + 0). Let a be (-30)/x - (-1)/(-3). Suppose 0 = -3*h - a*t + 12, h - 12 = -0*h + t. What is the units digit of h?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Let o be 32/3 - (-15)/45. Suppose 6*c - o*c + 135 = 0. What is the units digit of c?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "7"}
+{"question": "Suppose 2*k - 2 = 4*g + 6, 0 = 5*k - 3*g - 41. Suppose -q + k = -11. What is the tens digit of q?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Let n(g) = 5*g - 1. Let f be n(4). Let r = 3 - 0. Suppose h - f = r*q, 28 = h - 5*q - 1. What is the units digit of h?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "Let b = 3 + -10. Let k = b + 7. Let u = 6 + k. What is the units digit of u?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "6"}
+{"question": "Let i(p) = -p**3 - 12*p**2 - 11*p + 10. Let w be (-3)/2 + 95/(-10). What is the units digit of i(w)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "0"}
+{"question": "What is the tens digit of ((-128)/(-20) - 4)/(2/10)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Suppose -4*g - 4*n + 85 = -219, -4 = -n. Suppose 2*r - g = -2*r. Let f = r + -10. What is the units digit of f?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Let h(o) = -37*o**3 - o**2 + o + 1. What is the units digit of h(-1)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "6"}
+{"question": "Suppose 0*t = 3*t - 6. Suppose 0*c = t*c + 16. Let z = c + 21. What is the units digit of z?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let j(t) = -4*t**3 + 6*t**2 - 8*t + 2. Let o(f) = -f**3 + f**2 - f. Let a(m) = -j(m) + 8*o(m). What is the tens digit of a(-2)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let a(h) = h**3 + 10*h**2 + 6*h + 1. What is the units digit of a(-9)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Suppose 3*v + 289 = 6*v + 2*u, -5*u - 465 = -5*v. What is the units digit of v?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let z = 3 + -4. Let j be -4 - z - -5 - -3. Suppose -4*r + 43 = -f, 2*r + j*f - 37 = r. What is the units digit of r?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Let f = 11 + -8. Suppose -f*g + 24 = -0*g. Suppose 0 = -5*x + 3*x + g. What is the units digit of x?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "What is the tens digit of 1048/56 + (-4)/(-14)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let z(h) = -2*h - 21. What is the units digit of z(-19)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "7"}
+{"question": "Let m be (1 - 1) + -2 - -4. Suppose m + 4 = -3*d - z, 0 = 4*d - z + 8. Let g = d + 6. What is the units digit of g?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "What is the tens digit of ((-14)/8)/(7/(-112))?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Let f be 4/(-5)*75/(-3). Suppose f + 20 = 4*u. What is the units digit of u?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "0"}
+{"question": "Let l(u) = -12*u**3 - 2*u**2 - u. What is the tens digit of l(-2)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "9"}
+{"question": "Suppose 4*z = 5*h - 225, 4*h + z + z - 180 = 0. What is the tens digit of h?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "Suppose 0 = 3*x + 1 - 16. What is the units digit of x/(-10) - (-54)/4?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "What is the hundreds digit of 65/(((-24)/18)/(-4))?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let j(a) = 2*a**2 - 13*a - 6. What is the units digit of j(7)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Suppose -3*v + 3 = -3. Suppose 0 = -2*g - v - 18. What is the tens digit of (8/(-10))/(g/175)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let m(h) = -h**3 + h**2 - h + 1. Let p(l) = -2*l + 3*l**3 - l**2 - 1 + 0*l + 3*l. Let o(t) = -5*m(t) - 2*p(t). What is the units digit of o(-4)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "What is the units digit of 6*(-4)/(-12) + 101?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Suppose 5*r + 5*s - 94 = 2*r, 8 = -2*s. What is the tens digit of r?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let q be 2 + -5 + 1 + 1. Let a be q + 1 + (1 - 1). What is the units digit of 4 + (a + -2 - -3)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Suppose z + 4*z = -5*s + 45, -3 = -s + z. Let t = s - 0. What is the units digit of t?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "6"}
+{"question": "Let m(j) be the second derivative of -3*j + 0 - 2/3*j**3 + 3*j**2 - 1/12*j**4. What is the units digit of m(-5)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let a(u) = -2*u**2 + 10*u - 2. Let p be a(5). Let d be -2 + (4 - 2) + 16. What is the units digit of (d/(-40))/(p/20)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "Let p = 36 - 40. Suppose 2*o = 0, 0 = d + 5*o + 1 - 3. What is the units digit of (d - -2)*(-14)/p?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "What is the hundreds digit of (0 - 0 - -3)*776/12?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let l(f) = -20*f + 21. What is the hundreds digit of l(-7)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let t(q) = 3*q - 7. Let z be t(7). Suppose -5*v = -31 - z. Let j = 1 + v. What is the tens digit of j?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Suppose -4*p + 155 = a, -4*a = 2*p - 7*p - 662. What is the tens digit of a?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "6"}
+{"question": "Suppose 4*t = -p - 44 - 0, 0 = -5*t - p - 56. Let r = t + -6. What is the units digit of 3/r*2*-15?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let z = -4 - -6. What is the units digit of (20 - 6)/(z - 0)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "7"}
+{"question": "Let m(q) be the second derivative of q**6/90 - q**5/60 + q**4/24 + q**3/3 - q. Let i(b) be the second derivative of m(b). What is the tens digit of i(2)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Suppose -2*y - y = 0, -5*s - 4*y = -80. Let l be s/(-24) + (-38)/6. Let x(w) = w**2 + 6*w - 2. What is the units digit of x(l)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let m = -10 - 7. Suppose -50 = 2*d - 4*d. Let x = d + m. What is the units digit of x?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Suppose -7 = -2*w + 3*w. Let c = -5 - w. Let v = 12 - c. What is the tens digit of v?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let v(z) = z**3 + 8*z**2 + 8*z - 1. Let k be v(-7). Let o(y) = 4*y - 4. Let u(t) = -9*t + 8. Let j(c) = -7*o(c) - 3*u(c). What is the tens digit of j(k)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let a(t) = t**2 + 6*t + 7. Let d be a(-9). Let z = d + -21. What is the tens digit of z?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let q(m) = 12*m**2 + 2*m + 4. What is the tens digit of q(-4)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Let c be (-4)/((-8)/10) + 3. Suppose h + 4*o - c = -22, 52 = -3*h - 2*o. Let g = h - -31. What is the units digit of g?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let s = -4 - -5. Let o(f) = 6*f**2 - f. Let z be o(s). Suppose -1 = -z*m + 39. What is the units digit of m?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Suppose 5*j - 36 = -6. Let d be (-2)/18*-3*9. Suppose u + d*z - 22 = 0, -z - j = -5*u + 24. What is the units digit of u?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "7"}
+{"question": "Let u = 310 - 72. What is the tens digit of u?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let z(h) = -h + 8. Let j be (-7)/3*(-4 - -1). Let n be z(j). Let r(f) = 8*f**2 + 2*f - 1. What is the units digit of r(n)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "9"}
+{"question": "Let x be 3/2*44/(-6). Let y(k) = k**2 + 10*k - 12. Let s be y(x). What is the tens digit of s/(-4) + 153/12?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let f(r) = r**3 - r**2 - r. Let l = -4 + 6. Let j be f(l). What is the units digit of 38/6 - j/(-3)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "7"}
+{"question": "Suppose 0 = -3*s + 6*s + 42. What is the units digit of 46/4 - 7/s?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Suppose -2*j = -2*r - j - 9, 0 = 5*r + 3*j + 6. Let h = -4 - r. Let n = 6 + h. What is the units digit of n?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let k = -1 - 2. Let x(n) = -5*n - 2. What is the tens digit of x(k)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let y be -8*2*(-2)/(-8). Let r(f) = -f**2 - 3*f + 5. Let i be r(y). What is the units digit of 18 + i + 1/(-1)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Let y(w) = -w**3 - 7*w**2 + 3*w + 2. What is the tens digit of y(-8)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "Let v = -23 + 8. Let j be v/2*2/(-3). Let x = j - 0. What is the units digit of x?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Suppose 3*b = 2*d + 6, 0*d + 4*b - 8 = -d. Suppose -q + d*u + 5*u = 14, 2*q = -3*u + 11. Suppose 2*k = -x + 5, -4 = x + 4*k - q. What is the tens digit of x?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let g(a) = a**3 - a**2 - a - 24. Let x be g(0). What is the units digit of -2*2/2 - x?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Suppose 0 = -5*f + 154 + 11. What is the tens digit of f?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Suppose 3*x - x - 8 = 0. Let l = x + -3. Suppose -l - 1 = -2*a. What is the units digit of a?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Suppose -3*v + 307 = -r + 2*r, 2*r - 206 = -2*v. What is the tens digit of v?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "0"}
+{"question": "Let h(m) = m + 1. Let o be h(-3). Let i(n) = 2*n + 6. Let j be i(-7). Let u = o - j. What is the units digit of u?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "6"}
+{"question": "What is the tens digit of (-54)/7*252/(-54)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let o(a) = -a**2 - 11*a + 10. Let v be o(-10). Suppose -4*x + v + 20 = 0. What is the tens digit of x?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let q(i) = i**2 + 5*i - 1. Let v be q(-5). What is the units digit of (3 - 2/v)*1?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let u(b) = 3*b**2 + b + 1. Let g be u(-1). Suppose -1 = -2*t + g. Suppose 0 = 6*d - t*d - 12. What is the units digit of d?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Suppose 0 = -5*u - p - 2*p + 738, -2*u + 284 = 4*p. Suppose 7*b = 5*a + 2*b - 190, 0 = -5*a - 3*b + u. What is the tens digit of a?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let l = 155 + -90. What is the units digit of l?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let h(x) = 2*x - 2. Let t = -6 - -11. What is the units digit of h(t)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Let h(i) = 10*i + 4. Let l(t) be the first derivative of 9*t**2/2 + 3*t + 2. Let n(f) = -5*h(f) + 6*l(f). What is the units digit of n(2)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "6"}
+{"question": "Suppose -14 = 4*h - 2*h. Let w be ((-4)/3)/(h/(-21)). What is the tens digit of 1/(12/(-39))*w?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let u(c) = -c**3 + 6*c**2 + 6*c + 7. Let g be u(7). Suppose 2*b + 3 - 9 = g. What is the units digit of b?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Suppose -2*h + 13 = 3*w, -w = 3*h + 2*h + 13. What is the units digit of w?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "7"}
+{"question": "Suppose f - 24 = g, -4*g + 96 = 4*f - 5*g. What is the units digit of f?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "Let s = 4 - 4. Suppose -w + 7*w - 252 = s. What is the units digit of w?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Suppose 4*n - c - 410 = 2*c, 0 = 5*n + 4*c - 528. What is the units digit of n?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "Let y = -27 + 42. Suppose -10 = 3*j - 5*x, -j = 4*j - 3*x + 6. Suppose 4*a - 46 = -3*u - 11, j = -2*u - a + y. What is the units digit of u?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let f(c) = c**3 + 8*c**2 + 4*c + 5. What is the units digit of f(-6)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Suppose 0 = 2*w - 10 + 4. Suppose -2*v - 2*k = -0*v - 74, -225 = -5*v + w*k. What is the tens digit of v?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "4"}
+{"question": "Let u = 118 - 77. What is the units digit of u?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let r(h) = -h + 3. Let x be r(3). Let g be 6/(-4)*30/(-9). Suppose 10 = -x*t + g*t. What is the units digit of t?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Let x be (5 - 6)/(2/(-32)). Suppose 0 = 3*t + 2*t - q - 19, -4*q = x. What is the units digit of t?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let z = 6 + -2. Let x(l) = l**2 + 4*l + 3. Let n be x(-4). Suppose n = -4*y + 5*u + 11, 0 = z*u. What is the units digit of y?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Let n = 11 - 8. Suppose -2*q = 10, 2*b + q - n*q - 30 = 0. What is the units digit of b?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "0"}
+{"question": "Let p be 0/7*(-1)/1. Let b be 4/(-18) - (-2)/9. What is the units digit of b - (p + (-5)/1)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "5"}
+{"question": "Let l(k) be the first derivative of -7*k**4/2 + k**2/2 + k + 6. What is the tens digit of l(-1)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "Let v(w) = -w**2 - 6*w. Let r be v(-5). Suppose 3*o = t + 5*o - 30, r*o - 10 = 0. What is the tens digit of (t/3)/((-2)/(-3))?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}
+{"question": "What is the units digit of 166/8*(1 - -3 - 0)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "3"}
+{"question": "Let g = 31 + -18. Let r = g - 30. Let i = r - -24. What is the units digit of i?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "7"}
+{"question": "Let i(p) = p**3 + 9*p**2 + 8*p + 3. Let n be i(-8). Suppose -21 = n*q - 81. What is the tens digit of q?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "2"}
+{"question": "Let x(g) = -3*g + 4. Let w be x(3). Let m(s) = -s**3 - 4*s**2 - 3*s - 2. What is the units digit of m(w)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "8"}
+{"question": "Let t(k) = k**3 - 7*k**2 + 2*k - 2. Let q be t(7). Suppose 20 = 2*z - q. What is the units digit of z?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "6"}
+{"question": "Let l(d) = 2*d**3 - 4*d**2 + 9*d - 2. What is the tens digit of l(5)?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "9"}
+{"question": "Suppose 5*q + 1 = 21. Suppose 4*z - 3*m = 49, q*z - 5*z + 1 = -3*m. What is the tens digit of z?", "split": "easy_train_dmmath_numbers__place_value_composed.txt", "answer": "1"}

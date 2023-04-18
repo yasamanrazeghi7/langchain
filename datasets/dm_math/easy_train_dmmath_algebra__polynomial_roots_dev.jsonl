@@ -1,0 +1,100 @@
+{"question": "Factor -4*d**2 - 2352*d - 345744.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-4*(d + 294)**2"}
+{"question": "Factor 40*p**2/3 - 235*p.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "5*p*(8*p - 141)/3"}
+{"question": "What is y in -3*y**5 + 36*y**4 - 162*y**3 + 336*y**2 - 315*y + 108 = 0?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 3, 4"}
+{"question": "Find c such that 6*c**4 - 31*c**3 + 47*c**2 - 25*c + 3 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1/6, 1, 3"}
+{"question": "Let -2*q**5/11 - 4*q**4/11 + 6*q**3/11 + 8*q**2/11 - 8*q/11 = 0. Calculate q.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, 0, 1"}
+{"question": "Factor -u**5 - 10*u**4 - 24*u**3 + 10*u**2 + 25*u.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-u*(u - 1)*(u + 1)*(u + 5)**2"}
+{"question": "Find k such that 4*k**5 + 464*k**4 + 12496*k**3 - 55680*k**2 + 57600*k = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-60, 0, 2"}
+{"question": "Find q such that -5*q**3 + 25*q**2 - 40*q + 20 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 2"}
+{"question": "Let g**3 + 5*g**2 + 6*g = 0. Calculate g.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3, -2, 0"}
+{"question": "Factor -g**4 - 6*g**3 + 63*g**2 - 104*g + 48.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-(g - 4)*(g - 1)**2*(g + 12)"}
+{"question": "Find z, given that 4*z**5/5 - 22*z**4/5 + 22*z**3/5 + 6*z**2 - 18*z/5 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 0, 1/2, 3"}
+{"question": "Find f such that f**2/2 + 19*f/2 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-19, 0"}
+{"question": "Solve -j**3 + 142*j**2 - 281*j + 140 = 0 for j.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 140"}
+{"question": "Factor 2*u**2/7 - 2932*u/7 - 2934/7.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "2*(u - 1467)*(u + 1)/7"}
+{"question": "Let -6*p**4 + 249*p**3/2 + 903*p**2/2 + 393*p + 72 = 0. What is p?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, -1, -1/4, 24"}
+{"question": "Find y, given that -2*y**4/7 - 60*y**3/7 + 2*y**2/7 + 60*y/7 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-30, -1, 0, 1"}
+{"question": "Solve -4*f**3/3 + 580*f**2 - 65056*f + 1282288/3 = 0 for f.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "7, 214"}
+{"question": "Suppose 4*t**4 + 12*t**3 - 16*t = 0. Calculate t.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, 0, 1"}
+{"question": "Determine t so that 3*t**3/5 + 546*t**2/5 + 4743*t - 103788/5 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-93, 4"}
+{"question": "Factor -6*r**3/5 + 4317*r**2/5 - 155088*r - 77760.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3*(r - 360)**2*(2*r + 1)/5"}
+{"question": "Factor h**4 + 12*h**3 + 10*h**2 - 12*h - 11.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "(h - 1)*(h + 1)**2*(h + 11)"}
+{"question": "Factor -4*o**4 + 4*o**3 + 4*o**2 - 4*o.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-4*o*(o - 1)**2*(o + 1)"}
+{"question": "Factor -3*w**5 - 30*w**4 - 111*w**3 - 180*w**2 - 108*w.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3*w*(w + 2)**2*(w + 3)**2"}
+{"question": "Let 5*s**2 + 1340*s + 89780 = 0. Calculate s.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-134"}
+{"question": "Factor -r**4/3 + 144*r**3 - 430*r**2 + 1288*r/3 - 143.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-(r - 429)*(r - 1)**3/3"}
+{"question": "Factor -3*n**4/4 - 87*n**3/2 - 243*n**2 - 474*n - 312.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3*(n + 2)**3*(n + 52)/4"}
+{"question": "Factor a**4/4 + 13*a**3/2 + 193*a**2/4 + 78*a + 36.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "(a + 1)**2*(a + 12)**2/4"}
+{"question": "Factor d**3/4 + 439*d**2/4 + 866*d + 1724.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "(d + 4)**2*(d + 431)/4"}
+{"question": "Factor -3*h**3/4 - 6*h**2 - 57*h/4 - 9.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3*(h + 1)*(h + 3)*(h + 4)/4"}
+{"question": "Suppose 4*r**2 + 236*r + 232 = 0. What is r?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-58, -1"}
+{"question": "What is w in 267*w**4 + 276*w**3 + 9*w**2 = 0?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, -3/89, 0"}
+{"question": "Factor 2*d**4/9 - 4*d**2/9 + 2/9.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "2*(d - 1)**2*(d + 1)**2/9"}
+{"question": "Let -j**3 - 6*j**2 - 9*j = 0. Calculate j.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3, 0"}
+{"question": "Factor -4*u**5/5 + 8*u**4/5 + 72*u**3/5 + 128*u**2/5 + 92*u/5 + 24/5.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-4*(u - 6)*(u + 1)**4/5"}
+{"question": "Factor 3*d**2/7 - 330*d/7 + 9075/7.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "3*(d - 55)**2/7"}
+{"question": "Suppose 3*a**3/4 - 3*a**2 - 3*a + 12 = 0. What is a?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, 2, 4"}
+{"question": "Find s, given that 4*s**3/3 - 18*s**2/5 - 126*s/5 - 36/5 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3, -3/10, 6"}
+{"question": "Find x, given that -452*x**2 + 24*x = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "0, 6/113"}
+{"question": "Suppose 3*o**2/8 - 3*o/4 = 0. What is o?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "0, 2"}
+{"question": "Let -u**3 + 77*u**2 + u - 77 = 0. What is u?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 1, 77"}
+{"question": "Factor -l**3 - 19*l**2 - 35*l - 17.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-(l + 1)**2*(l + 17)"}
+{"question": "Suppose -28*l**5 + 4*l**4 + 84*l**3 + 44*l**2 - 8*l = 0. Calculate l.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 0, 1/7, 2"}
+{"question": "Solve 2*z**5/11 + 2*z**4 - 272*z**3/11 + 608*z**2/11 = 0 for z.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-19, 0, 4"}
+{"question": "Solve 4*l**4 + 20*l**3 - 68*l**2 - 84*l = 0 for l.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-7, -1, 0, 3"}
+{"question": "Factor 3*k**2 - 24*k + 36.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "3*(k - 6)*(k - 2)"}
+{"question": "Solve 2*y**2/9 - 638*y/9 + 212/3 = 0 for y.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 318"}
+{"question": "Let 3*q**4/2 - 49*q**3 - 18*q**2 + 49*q + 33/2 = 0. What is q?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, -1/3, 1, 33"}
+{"question": "Factor -3*h**4 + 15*h**3 + 18*h**2 - 96*h - 96.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3*(h - 4)**2*(h + 1)*(h + 2)"}
+{"question": "Factor 2*p**3 + 6*p**2 - 90*p + 162.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "2*(p - 3)**2*(p + 9)"}
+{"question": "Let -21*u**4 - 111*u**3 - 198*u**2 - 132*u - 24 = 0. Calculate u.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, -1, -2/7"}
+{"question": "What is k in 3*k**2 - 456*k + 453 = 0?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 151"}
+{"question": "Solve -48*u**4/11 - 648*u**3/11 - 900*u**2/11 - 438*u/11 - 72/11 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-12, -1/2"}
+{"question": "Find h such that -3*h**5 - 6*h**4 + 3*h**3 + 6*h**2 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, -1, 0, 1"}
+{"question": "Factor -k**2/2 + 709*k + 1419/2.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-(k - 1419)*(k + 1)/2"}
+{"question": "Suppose 5*h**5 - 365*h**4 - 2305*h**3 - 5075*h**2 - 4720*h - 1580 = 0. What is h?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, -1, 79"}
+{"question": "Let 6*a**4 + 70*a**3 + 184*a**2 - 168*a - 288 = 0. Calculate a.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-6, -1, 4/3"}
+{"question": "Find m such that -2*m**3 - 62*m**2 + 2*m + 62 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-31, -1, 1"}
+{"question": "Solve x**4/5 + 4*x**3/5 - 15*x**2 - 158*x/5 - 16 = 0 for x.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-10, -1, 8"}
+{"question": "Find k such that k**2/3 - 15*k + 416/3 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "13, 32"}
+{"question": "Factor -2*v**2/19 - 2826*v/19 - 2824/19.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2*(v + 1)*(v + 1412)/19"}
+{"question": "Solve n**4/5 + 2*n**3 + 28*n**2/5 + 6*n/5 - 9 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-5, -3, 1"}
+{"question": "Determine t, given that -t**3/3 + 35*t**2/3 - 67*t/3 + 11 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 33"}
+{"question": "Determine u, given that -3*u**3 + 1419*u**2 - 167085*u - 168507 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 237"}
+{"question": "Suppose -5*x**5/4 + 11*x**4/4 + 3*x**3/4 - 11*x**2/4 + x/2 = 0. Calculate x.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 0, 1/5, 1, 2"}
+{"question": "Factor 4*l**4 + 24*l**3 + 4*l**2 - 96*l + 64.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "4*(l - 1)**2*(l + 4)**2"}
+{"question": "Find p, given that -50*p**3/7 + 520*p**2 - 2888*p/7 + 576/7 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "2/5, 72"}
+{"question": "Solve -4*b**4 - 16*b**3 + 112*b**2 - 128*b = 0 for b.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-8, 0, 2"}
+{"question": "Factor 1534580*v**2 + 5540*v + 5.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "5*(554*v + 1)**2"}
+{"question": "Solve 2*v**5 - 40*v**4/7 - 34*v**3/7 + 164*v**2/7 - 88*v/7 - 16/7 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2, -1/7, 1, 2"}
+{"question": "Find x, given that x**5/5 + 48*x**4/5 - 49*x**3/5 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-49, 0, 1"}
+{"question": "Find i such that -2*i**3/3 - 35*i**2/3 - 49*i/3 - 16/3 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-16, -1, -1/2"}
+{"question": "What is b in -4*b**4/3 + 80*b**3/3 - 72*b**2 + 208*b/3 - 68/3 = 0?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 17"}
+{"question": "What is r in -4*r**2 + 156*r = 0?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "0, 39"}
+{"question": "Suppose 2*v**5 + 6*v**4 - 6*v**3 - 22*v**2 - 12*v = 0. What is v?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-3, -1, 0, 2"}
+{"question": "Determine m so that 2*m**3/5 + 6*m**2/5 + 6*m/5 + 2/5 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1"}
+{"question": "Factor -y**4/8 - y**3/2 - y**2/4 + y/2 + 3/8.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-(y - 1)*(y + 1)**2*(y + 3)/8"}
+{"question": "Solve -3*q**5/7 + 9*q**4/7 + 3*q**3/7 - 3*q**2 + 12/7 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 1, 2"}
+{"question": "Solve 4*a**3 - 20*a**2 - 52*a - 28 = 0 for a.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 7"}
+{"question": "Find s, given that -5*s**3 - 50*s**2 - 15*s + 270 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-9, -3, 2"}
+{"question": "Factor h**2 + 1138*h + 323761.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "(h + 569)**2"}
+{"question": "Solve 3*w**5/2 - 33*w**4/2 + 75*w**3/2 - 15*w**2/2 - 39*w + 24 = 0 for w.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 1, 2, 8"}
+{"question": "Factor -4*z**3 + 36*z**2 - 32*z.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-4*z*(z - 8)*(z - 1)"}
+{"question": "Factor 125*c**4 + 50*c**3 - 320*c**2 + 160*c.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "5*c*(c + 2)*(5*c - 4)**2"}
+{"question": "Find g such that -4*g**3 - 48*g**2 - 68*g + 120 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-10, -3, 1"}
+{"question": "Determine y so that 3*y**3 - 21*y**2 + 42*y - 24 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "1, 2, 4"}
+{"question": "Suppose -p**3/4 + 13*p**2/4 - 25*p/2 + 14 = 0. Calculate p.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "2, 4, 7"}
+{"question": "Determine v so that -3*v**2 + 618*v - 31827 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "103"}
+{"question": "Determine m, given that 86*m**3/7 - 1028*m**2/7 + 3048*m/7 + 144/7 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2/43, 6"}
+{"question": "Solve 2*f**2 + 564*f + 39762 = 0 for f.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-141"}
+{"question": "Factor -i**2/11 + 526*i/11 - 69169/11.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-(i - 263)**2/11"}
+{"question": "Factor 16*y**2 + 8348*y - 2088.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "4*(y + 522)*(4*y - 1)"}
+{"question": "Factor -66*f**3 - 202*f**2 - 144*f - 8.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-2*(f + 1)*(f + 2)*(33*f + 2)"}
+{"question": "Determine n so that -4*n**3/5 + 24*n**2/5 + 12*n + 32/5 = 0.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 8"}
+{"question": "Factor 2*p**2/13 - 2*p.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "2*p*(p - 13)/13"}
+{"question": "Factor -4*z**2 + 176*z - 1936.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-4*(z - 22)**2"}
+{"question": "What is k in -k**2/3 + 47*k/3 + 16 = 0?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-1, 48"}
+{"question": "Factor 4*r**3 + 4*r**2 - 132*r + 252.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "4*(r - 3)**2*(r + 7)"}
+{"question": "Factor m**3/3 - 8*m**2/3 + 3*m + 6.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "(m - 6)*(m - 3)*(m + 1)/3"}
+{"question": "Suppose 2*j**4 + 198*j**3 + 5188*j**2 + 14208*j + 9216 = 0. What is j?", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-48, -2, -1"}
+{"question": "Factor -v**3 + 7*v**2 + 5*v - 75.", "split": "easy_train_dmmath_algebra__polynomial_roots.txt", "answer": "-(v - 5)**2*(v + 3)"}

@@ -1,0 +1,100 @@
+{"question": "What is the remainder when 502 is divided by 103?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "90"}
+{"question": "What is the remainder when 245 is divided by 26?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "11"}
+{"question": "What is the remainder when 3777 is divided by 63?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "60"}
+{"question": "What is the remainder when 427 is divided by 32?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "11"}
+{"question": "What is the remainder when 58 is divided by 26?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "6"}
+{"question": "Calculate the remainder when 199 is divided by 46.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "15"}
+{"question": "What is the remainder when 1789 is divided by 2?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "1"}
+{"question": "Calculate the remainder when 1338 is divided by 21.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "15"}
+{"question": "Calculate the remainder when 1894 is divided by 620.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "34"}
+{"question": "What is the remainder when 1151 is divided by 306?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "233"}
+{"question": "What is the remainder when 9095 is divided by 41?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "34"}
+{"question": "What is the remainder when 266 is divided by 93?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "80"}
+{"question": "What is the remainder when 1276 is divided by 18?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "16"}
+{"question": "What is the remainder when 191 is divided by 21?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "2"}
+{"question": "Calculate the remainder when 105 is divided by 10.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "5"}
+{"question": "What is the remainder when 1130 is divided by 39?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "38"}
+{"question": "What is the remainder when 244 is divided by 42?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "34"}
+{"question": "Calculate the remainder when 559 is divided by 70.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "69"}
+{"question": "Calculate the remainder when 97 is divided by 18.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "7"}
+{"question": "Calculate the remainder when 151 is divided by 69.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "13"}
+{"question": "What is the remainder when 832 is divided by 92?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "4"}
+{"question": "What is the remainder when 139 is divided by 97?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "42"}
+{"question": "What is the remainder when 2245 is divided by 21?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "19"}
+{"question": "What is the remainder when 254 is divided by 67?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "53"}
+{"question": "Calculate the remainder when 141 is divided by 29.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "25"}
+{"question": "Calculate the remainder when 220 is divided by 56.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "52"}
+{"question": "What is the remainder when 248 is divided by 19?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "1"}
+{"question": "Calculate the remainder when 1297 is divided by 135.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "82"}
+{"question": "Calculate the remainder when 3958 is divided by 180.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "178"}
+{"question": "What is the remainder when 3106 is divided by 84?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "82"}
+{"question": "What is the remainder when 994 is divided by 10?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "4"}
+{"question": "Calculate the remainder when 10595 is divided by 12.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "11"}
+{"question": "Calculate the remainder when 609 is divided by 36.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "33"}
+{"question": "Calculate the remainder when 199 is divided by 10.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "9"}
+{"question": "Calculate the remainder when 1594 is divided by 226.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "12"}
+{"question": "What is the remainder when 209 is divided by 4?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "1"}
+{"question": "What is the remainder when 46 is divided by 36?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "10"}
+{"question": "Calculate the remainder when 20992 is divided by 17.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "14"}
+{"question": "Calculate the remainder when 210 is divided by 50.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "10"}
+{"question": "Calculate the remainder when 217 is divided by 20.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "17"}
+{"question": "What is the remainder when 500 is divided by 22?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "16"}
+{"question": "Calculate the remainder when 18483 is divided by 237.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "234"}
+{"question": "Calculate the remainder when 143 is divided by 98.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "45"}
+{"question": "What is the remainder when 3418 is divided by 15?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "13"}
+{"question": "What is the remainder when 997 is divided by 33?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "7"}
+{"question": "What is the remainder when 278 is divided by 57?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "50"}
+{"question": "What is the remainder when 5358 is divided by 80?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "78"}
+{"question": "Calculate the remainder when 1079 is divided by 57.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "53"}
+{"question": "What is the remainder when 1070 is divided by 216?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "206"}
+{"question": "Calculate the remainder when 440 is divided by 73.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "2"}
+{"question": "Calculate the remainder when 194 is divided by 49.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "47"}
+{"question": "Calculate the remainder when 896 is divided by 75.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "71"}
+{"question": "What is the remainder when 43 is divided by 23?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "20"}
+{"question": "What is the remainder when 360 is divided by 42?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "24"}
+{"question": "Calculate the remainder when 331 is divided by 35.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "16"}
+{"question": "Calculate the remainder when 97 is divided by 34.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "29"}
+{"question": "What is the remainder when 52 is divided by 7?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "3"}
+{"question": "What is the remainder when 889 is divided by 17?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "5"}
+{"question": "Calculate the remainder when 97 is divided by 33.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "31"}
+{"question": "Calculate the remainder when 271 is divided by 70.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "61"}
+{"question": "Calculate the remainder when 94 is divided by 33.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "28"}
+{"question": "Calculate the remainder when 796 is divided by 7.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "5"}
+{"question": "Calculate the remainder when 187 is divided by 82.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "23"}
+{"question": "Calculate the remainder when 127 is divided by 88.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "39"}
+{"question": "What is the remainder when 6655 is divided by 32?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "31"}
+{"question": "Calculate the remainder when 358 is divided by 8.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "6"}
+{"question": "Calculate the remainder when 314 is divided by 51.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "8"}
+{"question": "Calculate the remainder when 6725 is divided by 38.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "37"}
+{"question": "Calculate the remainder when 1711 is divided by 68.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "11"}
+{"question": "Calculate the remainder when 1320 is divided by 267.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "252"}
+{"question": "What is the remainder when 217 is divided by 64?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "25"}
+{"question": "What is the remainder when 114 is divided by 50?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "14"}
+{"question": "What is the remainder when 732 is divided by 182?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "4"}
+{"question": "Calculate the remainder when 353 is divided by 21.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "17"}
+{"question": "Calculate the remainder when 35 is divided by 10.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "5"}
+{"question": "Calculate the remainder when 131 is divided by 117.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "14"}
+{"question": "What is the remainder when 369 is divided by 31?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "28"}
+{"question": "What is the remainder when 554 is divided by 28?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "22"}
+{"question": "What is the remainder when 98 is divided by 91?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "7"}
+{"question": "What is the remainder when 2047 is divided by 64?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "63"}
+{"question": "What is the remainder when 757 is divided by 76?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "73"}
+{"question": "Calculate the remainder when 1545 is divided by 62.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "57"}
+{"question": "Calculate the remainder when 396 is divided by 91.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "32"}
+{"question": "Calculate the remainder when 166 is divided by 12.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "10"}
+{"question": "Calculate the remainder when 467 is divided by 130.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "77"}
+{"question": "What is the remainder when 2818 is divided by 47?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "45"}
+{"question": "What is the remainder when 269 is divided by 8?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "5"}
+{"question": "What is the remainder when 565 is divided by 82?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "73"}
+{"question": "What is the remainder when 2781 is divided by 1386?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "9"}
+{"question": "What is the remainder when 130 is divided by 28?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "18"}
+{"question": "What is the remainder when 3211 is divided by 267?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "7"}
+{"question": "Calculate the remainder when 51 is divided by 13.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "12"}
+{"question": "What is the remainder when 61053 is divided by 18?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "15"}
+{"question": "Calculate the remainder when 205 is divided by 58.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "31"}
+{"question": "Calculate the remainder when 57 is divided by 3.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "0"}
+{"question": "What is the remainder when 63 is divided by 54?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "9"}
+{"question": "What is the remainder when 405 is divided by 51?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "48"}
+{"question": "Calculate the remainder when 674 is divided by 671.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "3"}
+{"question": "What is the remainder when 660 is divided by 109?", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "6"}
+{"question": "Calculate the remainder when 461 is divided by 118.", "split": "easy_train_dmmath_numbers__div_remainder.txt", "answer": "107"}

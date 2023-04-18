@@ -1,0 +1,100 @@
+{"question": "Let w be (-42)/(-8) - 1/4. Suppose 2*n = -3*n + w. What is the lowest common multiple of n and 9?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "9"}
+{"question": "Let i = 2313 - 1185. Let c = -2327/2 + i. Find the common denominator of -12/7 and c.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "14"}
+{"question": "Suppose 2*z - 3816 = -z. Let p = -2447/2 + z. Let l = -21313/9 - -2373. Calculate the common denominator of p and l.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "18"}
+{"question": "Let q = 56317/144 + -3562/9. Find the common denominator of q and -103/20.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "80"}
+{"question": "Calculate the common denominator of 4/3 + (-231)/18 and (0 - 1) + 204/(-84).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "14"}
+{"question": "Let m = -2/2177 - 211137/34832. What is the common denominator of m and -39/10?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "80"}
+{"question": "Suppose -o - 6*o = -28. What is the lowest common multiple of o and 30?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "60"}
+{"question": "Let v(o) = -o**2 - 9*o + 13. Let q be v(-10). Let d be (-1 + (-10)/(-3))*q. What is the smallest common multiple of (d - (1 + -1)) + 0 and 1?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "7"}
+{"question": "Let f(r) = -34*r**2 - 2*r - 1. Let z be f(3). Let y = -2154/7 - z. What is the common denominator of y and (236/(-18))/(2/3)?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "21"}
+{"question": "Calculate the common denominator of ((-285)/(-36))/((-2)/(-3)) and -46/7.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "56"}
+{"question": "Suppose -2*x + 3*a = -8 - 0, -a = 0. Suppose -l - 3*p = 2, -1 = l + 2*p - 0. What is the lowest common multiple of l and x?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "4"}
+{"question": "Suppose 4*l + 14 = -3*q + q, -q = -3*l - 18. Suppose -q*y + 14 = -13. Calculate the smallest common multiple of 1/1 - (1 - 1) and y.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "9"}
+{"question": "Let t be ((-2)/6)/((-8)/4440). Let z = -1843/10 + t. Find the common denominator of 31/10 and z.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "10"}
+{"question": "Let v = -197571/64330 + -1/4595. Find the common denominator of 51/20 and v.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "140"}
+{"question": "Suppose -4*b - 3*g + 5*g = 0, -g = 3*b + 10. Let k be -2 + (-1)/1*b. Suppose -3*s + 19 + 8 = k. Calculate the lowest common multiple of 1 and s.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "9"}
+{"question": "Suppose 4*z - 20 - 4 = 0. Let j be (1 + 0)*2 + 0. Calculate the least common multiple of z and (-5 - j)/((-1)/2).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "42"}
+{"question": "Let a = 5427 - 86793/16. What is the common denominator of 97/62 and a?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "496"}
+{"question": "Let q(y) = -y**2 + y - 1. Let l(p) = 5*p**2 + 2*p + 2. Let k(i) = -l(i) - 4*q(i). What is the least common multiple of 9 and k(-5)?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "63"}
+{"question": "Let c = 532 - 246. Let n = c + -535/2. Find the common denominator of -23/2 and n.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "2"}
+{"question": "Let w be (1/(-67946))/(2/4). Let o = 8799020/441649 + w. Let h = -3507/208 + o. Calculate the common denominator of 11/2 and h.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "16"}
+{"question": "Calculate the common denominator of -71/15 and ((-4)/16)/(1/65*-6).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "120"}
+{"question": "Let s be (1/(3/39))/(-1). Let q = 21 + s. What is the lowest common multiple of 10 and q?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "40"}
+{"question": "Suppose 23 = 3*z + o + 4*o, 5*o - 19 = z. Let x be z + 5*3 - 1. Suppose -5 = -4*c + x. Calculate the smallest common multiple of 6 and c.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "30"}
+{"question": "Let g = -2639 - -147807/56. Calculate the common denominator of 51/16 and g.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "112"}
+{"question": "Suppose 17 = 2*i - 3*k, 2*k + 2*k - 14 = -i. Calculate the smallest common multiple of 3 and i.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "30"}
+{"question": "Let q be 40462/(-16) - (0 + 0). Let o = -2525 - q. What is the common denominator of (-2759)/1085 - 2/20 and o?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "56"}
+{"question": "Let j be 22498/44988 - (-1)/(-2). Let p be 2*862258/269928 - -2. Let h = j + p. What is the common denominator of -41/20 and h?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "180"}
+{"question": "Let r = -31 + 117. Calculate the least common multiple of 14 and r.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "602"}
+{"question": "Let s(m) = 13*m**2 - 4*m - 4. Let y be s(-3). Suppose -3*w + y = 2*w. What is the common denominator of w and 7/15?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "15"}
+{"question": "Let n be 12/35731*1/17. Let c = n - 25210043501/36445620. Let x = 3434/5 + c. Calculate the common denominator of -77/4 and x.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "12"}
+{"question": "Let d(w) = -w**3 + 2*w**2 + 5*w - 3. Let a = 3 + -3. Suppose a*q + 5*q = 15. Calculate the least common multiple of d(q) and 5.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "15"}
+{"question": "Let c(o) = -28*o - 1. Let v be c(-2). Suppose -3*n + 295 - v = 0. Suppose -30 = -5*l + n. What is the smallest common multiple of 6 and l?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "66"}
+{"question": "Let s be (1 + -2)/5 - -578. Let u = s + -576. Calculate the common denominator of 11/3 and u.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "15"}
+{"question": "Let c = -54 - -60. Calculate the lowest common multiple of c and 34.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "102"}
+{"question": "Let m(v) = v**3 + 10*v**2 + 4*v + 1. Let h be m(-8). Let o = -1 + 0. Calculate the common denominator of -9/8 and (o/(-3))/((-2)/h).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "24"}
+{"question": "Let c = 28 - 12. Suppose 3*u + 2*g = -2*g, -3*u = g + 9. Calculate the smallest common multiple of 62/8 + (-1)/u and c.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "16"}
+{"question": "Suppose 2*y - 4*y = -4. What is the smallest common multiple of 18 and y/4 - (-315)/18?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "18"}
+{"question": "Let q = 12 - -2. What is the least common multiple of 4 and q?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "28"}
+{"question": "Calculate the common denominator of ((-3)/6)/((-24)/(-568)) and -79/4.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "12"}
+{"question": "Suppose -2*k = -6*k + 12, 3*l = -2*k + 69. What is the smallest common multiple of l and 12?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "84"}
+{"question": "Suppose q - 2*q = 56. Suppose -c = 4*p - 48, -2*p - c = -3*p + 12. What is the common denominator of -27/20 and (166/6)/(q/p)?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "140"}
+{"question": "Let f be 3 - (-14)/(2/1). Let g = 8 - f. Calculate the lowest common multiple of 3 and (g + (1 - 2))/(-1).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "3"}
+{"question": "Suppose -3*l - 2*d = l - 46, -l - 5*d + 25 = 0. Let y = 1 - l. Let b = 13 + y. Calculate the least common multiple of 22 and b.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "44"}
+{"question": "Let s = -3 - -12. Let f be s - 6 - (1 - 541). What is the common denominator of 41/20 and f/126 + (-1)/(-3)?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "140"}
+{"question": "Let f(b) = -b + 12. Calculate the lowest common multiple of 4 and f(0).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "12"}
+{"question": "Suppose n - 7 - 7 = 0. Let h(q) = q**2 + 6*q - 8. Calculate the lowest common multiple of h(-8) and n.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "56"}
+{"question": "Suppose -4*d + 87 + 33 = 0. Let r = d - 6. Suppose -r = -5*o + o. What is the least common multiple of o and 18?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "18"}
+{"question": "Let q(l) = l - 7. Let i be q(-7). Let s = i - -22. Calculate the lowest common multiple of s and 20.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "40"}
+{"question": "Suppose 2*o + l - 4 - 4 = 0, -3*l - 16 = -4*o. Calculate the smallest common multiple of 0/2 - o/(-2) and 20.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "20"}
+{"question": "Let u = 122660/49609 + 3/2611. Let c = 1059/190 - u. Calculate the common denominator of 8/44 - 942/220 and c.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "10"}
+{"question": "Let y = 18 + -32. Find the common denominator of (82/4)/(-3 - y) and -45/14.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "154"}
+{"question": "Let q(h) = h**3 - 6*h**2 + h. Suppose -4*i = -17 - 7. Let u be q(i). Find the common denominator of 1 - -43*2/u and -8/11.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "33"}
+{"question": "Let p = 287 - -121. Suppose -y + p = 3*y. Find the common denominator of -13 and (5 + -3)/((-28)/y).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "7"}
+{"question": "Suppose 5*x - 93 - 17 = 0. Let j(w) = w**2 - 2*w - 9. Let a be j(7). Suppose -5*f + 10 = 0, 3*f = -z - f + a. Calculate the smallest common multiple of x and z.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "198"}
+{"question": "Suppose -3 = -d - 0. Suppose 0*m + d = m. Suppose t + m*t = 0, -3*a = t - 54. What is the smallest common multiple of 4 and a?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "36"}
+{"question": "Let c(k) = 10*k + 112. What is the lowest common multiple of c(-9) and 4?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "44"}
+{"question": "Calculate the least common multiple of 4 and (-26)/(-117) + (0 - 68/(-18)).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "4"}
+{"question": "Suppose r + 10 = 16. Calculate the least common multiple of 7 and r.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "42"}
+{"question": "Suppose r + 0*r = -1914. Let j = -17170/9 - r. Let m = -3890 + 31159/8. Find the common denominator of j and m.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "72"}
+{"question": "Let u = -65 - -75. What is the least common multiple of 20 and u?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "20"}
+{"question": "Find the common denominator of (9/11)/(2/(-4)) and -33/5.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "55"}
+{"question": "Let g = -323706/11 - -2804839/99. Let v = g - -1100. Calculate the common denominator of -2 and v.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "9"}
+{"question": "Let q be 3/(-6) + 741/1962. Let t = q - -29903/6540. Let s = -2514 - -30205/12. What is the common denominator of s and t?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "60"}
+{"question": "Suppose 2*s - 4 = 4. Suppose a - 7 = -4*k, -s*a = -3*k + 33 - 4. What is the least common multiple of 11 and k?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "33"}
+{"question": "Let j(q) = -q + 2. Suppose 0 = -4*n + 2 + 6. Let z be j(n). Suppose 2*v + 6 - 50 = z. Calculate the lowest common multiple of v and 22.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "22"}
+{"question": "What is the common denominator of 67/12 and (-1)/16*13516/155?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "60"}
+{"question": "Let d be ((-1)/4*-1)/((-790)/68). Let j = -636424227 - -2765263279059/4345. Let l = j - d. Find the common denominator of l and 55/14.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "154"}
+{"question": "Let w(r) = r**3 + 13*r**2 + 5. What is the least common multiple of 10 and w(-13)?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "10"}
+{"question": "Let j be 6*(-1 + 2)*1. Let h = -1/2391 + 141073/9564. What is the common denominator of h and (-106)/8*(-8)/j?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "12"}
+{"question": "Let i be (-42)/(-5)*10/1. Suppose -z = z - 10. What is the smallest common multiple of z and (-2)/(-3) - i/(-9)?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "10"}
+{"question": "Calculate the common denominator of 20/(-120)*23*(-1)/(-2) and 61/20.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "60"}
+{"question": "Let d = 18120 - 362501/20. Find the common denominator of d and -37/10.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "20"}
+{"question": "Let r = 32644 - 75113846/2301. Let i = r - -48341/23010. Find the common denominator of i and 61/4.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "20"}
+{"question": "Let n(z) = z**2 - 5*z - 7. Let t = -17 - -24. What is the smallest common multiple of n(t) and -2 - (-9 + 1) - -1?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "7"}
+{"question": "Suppose -2*f + 29 = k, -4*f + 8 = -5*k - 15. Let d = f - 5. Suppose 5 = 2*v - 5*l - 7, 2*l + 3 = -v. Calculate the lowest common multiple of d and v.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "7"}
+{"question": "Let y = 5 + -2. Suppose 3*u = -2*l - 19, -y*l - u - 18 = -7. Let d = l - -4. Calculate the least common multiple of d and 1.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "2"}
+{"question": "Let r be (-41288)/7 - (-20)/70. Let u = 35515/6 + r. Find the common denominator of u and 0/1 - 106/10.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "30"}
+{"question": "Suppose 9*z = 4*z. Suppose -2*q + z*q + 2 = 0. Suppose -5*x = 10, 2*v - 9 = 5*x + 17. Calculate the lowest common multiple of q and v.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "8"}
+{"question": "Let o = 1 + 19. Calculate the lowest common multiple of o and 12.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "60"}
+{"question": "Let w be 1386/1267 - (-2 - -3). Let y = 6969/2896 - w. Calculate the common denominator of y and 65/8.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "16"}
+{"question": "What is the common denominator of 38/10 + -4 - (-34)/40 and -5/34?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "340"}
+{"question": "Suppose -l - 3*a - 7 = -0*a, 3 = 3*l + a. Suppose 0 - 4 = -l*h. What is the common denominator of 117/14 and -4 + h - (-71)/22?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "154"}
+{"question": "Suppose -5*y - 5*q = -6*y + 15, y - 11 = q. Let n(f) = f**3 + 4*f**2 + 2. What is the smallest common multiple of y and n(-3)?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "110"}
+{"question": "Let s = 7/87 - 133/9222. Let f = 1878/53 + s. What is the common denominator of -51/8 and f?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "8"}
+{"question": "Let a(n) be the first derivative of n**4/4 + 10*n**3/3 + 3*n**2 - 11*n + 4. Calculate the lowest common multiple of 8 and a(-9).", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "16"}
+{"question": "Let p = -3713/585 - 93/65. Calculate the common denominator of 5/4 and p.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "36"}
+{"question": "Suppose 4*j - 5*q = 1227, -3*q = j - 168 - 143. Let o = j - 2491/8. What is the common denominator of o and -55/18?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "72"}
+{"question": "Let i be (4/5)/(14/175). Let u = i - 6. Calculate the smallest common multiple of u and 22.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "44"}
+{"question": "Let a = 72 - 36. What is the common denominator of 70/(-12) + (-2)/(-1) and 85/4 + (-9)/a?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "6"}
+{"question": "Find the common denominator of -107/22 and (-57)/244 - 17/68.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "1342"}
+{"question": "Let h = -5 - -7. Let m be (1/h)/(1/48). What is the common denominator of -27/10 and 363/m*1 + -3?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "40"}
+{"question": "Let h(d) = 1 - 2*d - d**3 - 2*d - 8*d**2 - 7*d + d. What is the smallest common multiple of h(-7) and 10?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "110"}
+{"question": "Suppose 3*b - b + 44 = 2*o, 22 = o + 2*b. Suppose 23 = 4*x + 2*r + 5, 0 = 5*x - 3*r - 17. Calculate the least common multiple of o and x.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "44"}
+{"question": "Let h(a) = -a**3 + 9*a**2 - 12*a + 6. Let i be h(9). Let u = -65 - i. Calculate the common denominator of 149/6 and u.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "6"}
+{"question": "Let l = 3 - 0. Let i be (-6 - 4/2)/1. Let q = i + 13. Calculate the lowest common multiple of q and l.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "15"}
+{"question": "Calculate the least common multiple of (-8*5/14)/((-2)/14) and 8.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "40"}
+{"question": "Let u(v) = -36*v - 20. Calculate the lowest common multiple of u(-5) and 18.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "1440"}
+{"question": "Suppose 2*o - 8 = 0, -s + 0*o - 2*o + 14 = 0. What is the least common multiple of 30 and s?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "30"}
+{"question": "Suppose 5*p = 3*r - 22, 5*r + 3*p = -0*p + 82. Let t = 18 - r. Calculate the lowest common multiple of t and 22.", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "44"}
+{"question": "Let h(p) = -2*p + 2*p + p. Let y be h(-2). What is the common denominator of -6*y/((-54)/(-31)) and -55/7?", "split": "easy_train_dmmath_numbers__lcm_composed.txt", "answer": "63"}

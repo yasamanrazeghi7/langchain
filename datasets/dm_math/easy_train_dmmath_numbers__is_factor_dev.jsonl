@@ -1,0 +1,100 @@
+{"question": "Does 30 divide 16920?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 5916 a multiple of 21?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 5 a factor of 164?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 15 a factor of 510?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 2043 a multiple of 14?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 10 divide 34260?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 35 divide 57890?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 49 divide 539?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 29 divide 327?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 3 divide 342?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 16 a factor of 32?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 12 a factor of 3456?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 21 a factor of 31668?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 3 a factor of 19692?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 2 divide 92?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 44 a factor of 2992?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 48 a factor of 5136?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 21 a factor of 1050?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 6661 a multiple of 7?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 99 a factor of 1215?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 9033 a multiple of 32?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 17 a factor of 15487?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 8 divide 1834?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 2224 a multiple of 16?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 304 a factor of 49856?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 2709 a multiple of 7?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 8 divide 320?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 113 a factor of 1017?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 56 a factor of 3560?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 23 a factor of 1564?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 3 divide 1374?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 12474 a multiple of 7?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 54 divide 14418?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 38 divide 304?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 603 a multiple of 67?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 13 a factor of 365?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 17 divide 573?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 6 divide 2454?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 39 a factor of 39?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 9 a factor of 8253?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 87 divide 1133?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 5 a factor of 1460?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 99 a factor of 12672?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 112212 a multiple of 226?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 57 a factor of 106?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 40 divide 28800?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 7 divide 1700?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 47937 a multiple of 10?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 17 divide 1731?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 7 divide 785?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 34 a factor of 26317?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 14 a factor of 2472?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 142 divide 4544?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 19220 a multiple of 7?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 13 a factor of 10752?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 32 a factor of 357?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 7 a factor of 1244?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 9773 a multiple of 29?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 13 a factor of 15002?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 14 divide 16758?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 112 divide 7387?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 78 a multiple of 5?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 4 a factor of 3208?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 16 a factor of 7747?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 14196 a multiple of 14?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 88 divide 2112?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 52 divide 188?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 5360 a multiple of 134?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 30 divide 15331?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 40 divide 733?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 43 a factor of 17501?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 27 divide 1933?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 284 a multiple of 4?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 12 a factor of 256?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 45 a factor of 79415?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 37440 a multiple of 60?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 4 a factor of 11264?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 93 a multiple of 30?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 17 a factor of 901?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 3472 a multiple of 14?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 8 divide 13442?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Does 110 divide 990?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 547 a multiple of 33?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 2320 a multiple of 10?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 10 divide 1027?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 22 a factor of 352?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 55 a factor of 55?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 12 divide 310?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 270 a multiple of 9?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 80 divide 1712?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 107 a factor of 14021?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 17 a factor of 323?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 30 a factor of 9300?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 37 a factor of 2775?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 12 a factor of 3132?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 12936 a multiple of 154?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Does 12 divide 17304?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 8 a factor of 4367?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "False"}
+{"question": "Is 51357 a multiple of 159?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}
+{"question": "Is 39 a factor of 2301?", "split": "easy_train_dmmath_numbers__is_factor.txt", "answer": "True"}

@@ -1,0 +1,100 @@
+{"question": "What is the product of -2 and 391?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-782"}
+{"question": "-814 * -4", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "3256"}
+{"question": "4 times 1.301", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "5.204"}
+{"question": "What is the product of 4642 and -0.3?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-1392.6"}
+{"question": "What is -88.8 times 0.14?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-12.432"}
+{"question": "-3*0.704", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-2.112"}
+{"question": "Calculate 0.034*0.01.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.00034"}
+{"question": "3.78 * -0.3", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-1.134"}
+{"question": "What is 0.045 times -0.6?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.027"}
+{"question": "Calculate 0.0016*-5.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.008"}
+{"question": "Calculate -0.47*0.03.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.0141"}
+{"question": "What is the product of 1 and 865?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "865"}
+{"question": "Calculate -9.6*0.04.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.384"}
+{"question": "-50 * 3", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-150"}
+{"question": "Calculate -0.34*-12.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "4.08"}
+{"question": "-1561 * -2", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "3122"}
+{"question": "-1529*0.03", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-45.87"}
+{"question": "What is the product of -3 and -0.1?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.3"}
+{"question": "Multiply 121 and 0.4.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "48.4"}
+{"question": "What is 5 times -0.384?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-1.92"}
+{"question": "Multiply -0.14 and 166.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-23.24"}
+{"question": "Multiply -0.19 and 69.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-13.11"}
+{"question": "0.585*-0.4", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.234"}
+{"question": "Calculate 0.1*-1.535.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.1535"}
+{"question": "Work out -0.2894 * 0.3.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.08682"}
+{"question": "-142 * 0.5", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-71"}
+{"question": "Calculate 0.173*-2.2.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.3806"}
+{"question": "What is -1335 times 0.2?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-267"}
+{"question": "What is 189 times 5?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "945"}
+{"question": "0.051*-0.5", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.0255"}
+{"question": "0.003 * 4", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.012"}
+{"question": "Product of -0.7 and 1.16.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.812"}
+{"question": "What is 17.14 times 5?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "85.7"}
+{"question": "What is 291.1 times 1?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "291.1"}
+{"question": "Calculate 2181*-0.5.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-1090.5"}
+{"question": "-101 * -0.1", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "10.1"}
+{"question": "25 times 0", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0"}
+{"question": "-84 * 4", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-336"}
+{"question": "350 * -1", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-350"}
+{"question": "Multiply 439 and 0.3.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "131.7"}
+{"question": "Work out 0.48 * 0.5.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.24"}
+{"question": "-0.0465 times 3", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.1395"}
+{"question": "What is the product of 0.5 and -1.85?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.925"}
+{"question": "0.1*0.52", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.052"}
+{"question": "0.2 * -36.9", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-7.38"}
+{"question": "What is -0.13 times 0.648?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.08424"}
+{"question": "0.04*-0.03", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.0012"}
+{"question": "-0.391 times -0.3", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.1173"}
+{"question": "Multiply 48 and 1.91.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "91.68"}
+{"question": "-41.7 * -0.3", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "12.51"}
+{"question": "-31*-9", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "279"}
+{"question": "Product of 947 and -0.5.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-473.5"}
+{"question": "What is the product of -0.13 and -0.068?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.00884"}
+{"question": "Product of 0.2 and -770.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-154"}
+{"question": "Calculate 15*-0.9.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-13.5"}
+{"question": "What is the product of -2 and 1054?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-2108"}
+{"question": "Calculate -4*-182.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "728"}
+{"question": "Calculate -40*-2.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "80"}
+{"question": "1.96 times 0.11", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.2156"}
+{"question": "Multiply -714 and -5.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "3570"}
+{"question": "Calculate -336*14.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-4704"}
+{"question": "Product of 0 and 541.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0"}
+{"question": "Multiply 1.88 and 38.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "71.44"}
+{"question": "What is the product of 0.093 and 0.4?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.0372"}
+{"question": "Product of -0.3226 and -3.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.9678"}
+{"question": "Work out -0.28 * 0.1.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.028"}
+{"question": "Multiply 20 and -0.35.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-7"}
+{"question": "Multiply -6.7 and 51.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-341.7"}
+{"question": "What is 0.4 times -35?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-14"}
+{"question": "Multiply -3332 and 1.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-3332"}
+{"question": "Calculate 2.82*-6.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-16.92"}
+{"question": "What is the product of 0.4 and -247?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-98.8"}
+{"question": "Product of -23.8 and 33.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-785.4"}
+{"question": "Calculate -0.1*-5.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.5"}
+{"question": "Work out 0.391 * 0.3.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.1173"}
+{"question": "Work out 11071 * -0.2.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-2214.2"}
+{"question": "What is 0.1 times 249.2?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "24.92"}
+{"question": "What is -68 times -1?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "68"}
+{"question": "Multiply -9 and 2132.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-19188"}
+{"question": "0.1 times -8", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-0.8"}
+{"question": "Product of 18120 and 2.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "36240"}
+{"question": "What is 3.28 times -2.3?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-7.544"}
+{"question": "What is the product of -0.02 and -296?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "5.92"}
+{"question": "Work out 0.727 * 1.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.727"}
+{"question": "What is the product of -0.07 and 149?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-10.43"}
+{"question": "Multiply -3 and -8.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "24"}
+{"question": "-12 times -1307", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "15684"}
+{"question": "Calculate 0.012*0.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0"}
+{"question": "-5 times -104", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "520"}
+{"question": "What is -32 times -117?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "3744"}
+{"question": "What is -0.279 times -5?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "1.395"}
+{"question": "Multiply 3156 and 2.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "6312"}
+{"question": "2.3*0.02", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.046"}
+{"question": "-0.03*-0.088", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.00264"}
+{"question": "Product of 0.4 and 3.", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "1.2"}
+{"question": "What is -4 times -299?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "1196"}
+{"question": "What is -5 times 1.3?", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "-6.5"}
+{"question": "-0.4*-1952", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "780.8"}
+{"question": "2.5 * 0.452", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "1.13"}
+{"question": "-0.3 * -0.404", "split": "easy_train_dmmath_arithmetic__mul.txt", "answer": "0.1212"}

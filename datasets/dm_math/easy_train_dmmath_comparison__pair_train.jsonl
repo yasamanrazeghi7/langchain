@@ -1,0 +1,100 @@
+{"question": "Which is smaller: 384 or 5?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "5"}
+{"question": "Is -2/8317 < 0?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is 23 greater than or equal to 55?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -39 greater than 0.08?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is greater: 1119/2 or 559?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "1119/2"}
+{"question": "Is 152/11 at least as big as 13?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is bigger: -24 or -13?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-13"}
+{"question": "Which is bigger: 141 or 147?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "147"}
+{"question": "Is -354/7 bigger than -50?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is 123 at most as big as 122?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is 2/39 equal to -12/13?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: -1 or 37/83?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-1"}
+{"question": "Is -12 less than or equal to -183/14?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: 0 or 1/143?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "0"}
+{"question": "Are 1 and 1/137 unequal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is 1/85 < 0?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -113/197 <= -1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Are -1 and -1221 non-equal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is greater: 112/15 or 8?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "8"}
+{"question": "Are 1035/136 and 9 unequal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is -213 less than or equal to -213?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is bigger: 0 or -7/74?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "0"}
+{"question": "Which is bigger: 65 or -5/4?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "65"}
+{"question": "Which is greater: -2169 or -2170?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-2169"}
+{"question": "Are -191 and -175 equal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: -68 or -69?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-69"}
+{"question": "Which is smaller: 2/71 or -1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-1"}
+{"question": "Which is bigger: 351 or 350?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "351"}
+{"question": "Is 0.3 >= -1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is bigger: 642 or 2?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "642"}
+{"question": "Are -212 and -213 nonequal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Do -33 and -33 have different values?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: 8/57 or 0?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "0"}
+{"question": "Is -291/10 less than -28?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: 2/135 or -5?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-5"}
+{"question": "Is 2/3 >= 12/5813?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is greater: 6/701 or -1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "6/701"}
+{"question": "Is -1899/5 at most as big as -379?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Do -2/5 and -2/1609 have the same value?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -728 > -718?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: 57.85 or -2/3?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-2/3"}
+{"question": "Which is greater: -657 or -1/2?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-1/2"}
+{"question": "Is 1077 at most 1076?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -1 < -1/41?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is 84 > 84?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -4 not equal to 131?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Do -0.2 and -247 have different values?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is bigger: 55 or 27?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "55"}
+{"question": "Is 10417 >= 10417?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is -1/106 less than -1/2?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: 0.2 or -559?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-559"}
+{"question": "Which is bigger: 0.2 or -2532?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "0.2"}
+{"question": "Is 46 greater than 58?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is bigger: -114 or -118?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-114"}
+{"question": "Do 287 and 284 have different values?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is -68 greater than or equal to -8?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: 14746 or 14745?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "14745"}
+{"question": "Is -28 smaller than -4?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: -5 or 57?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-5"}
+{"question": "Is -451 at most -27?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Does -188 = -1/10?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is greater: 394 or 1/3?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "394"}
+{"question": "Is -3 smaller than 1539?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: 69 or 70?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "69"}
+{"question": "Are 2.2 and -30/97 unequal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is -36/1735 less than -1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: -851 or -834?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-851"}
+{"question": "Is -31 at least -19?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Does 5 = 43?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: -108 or -118?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-118"}
+{"question": "Is 4760 >= 4761?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -381 at least -379?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is 2/5 greater than -3/2?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Are 30/17 and -1 equal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -1 != 3/1220?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Are -22 and -20 unequal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is greater: -79/15 or -5?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-5"}
+{"question": "Is -270 greater than or equal to -1885/7?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -1/400 != 1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: -1 or -145?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-145"}
+{"question": "Are 5/47 and 0 equal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -1/4557 at least as big as 0.9?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: 1082 or -2?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-2"}
+{"question": "Is -693/4 <= -172?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Is 0.72 smaller than 5?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: 4 or 0.1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "0.1"}
+{"question": "Which is smaller: -1 or 423?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-1"}
+{"question": "Which is smaller: -1/15049 or -1?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-1"}
+{"question": "Is -437 less than -437?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Do 35 and 4 have different values?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: 2/69 or 0?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "0"}
+{"question": "Does 12517 = 12518?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Which is smaller: 144 or -23?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "-23"}
+{"question": "Are 5/6 and -0.3 nonequal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: 3.4 or 0.15?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "0.15"}
+{"question": "Is -18/5 at least 0.058?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Is -1066/5 less than -212?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}
+{"question": "Which is smaller: 85 or 585/7?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "585/7"}
+{"question": "Is -1114 equal to -1109?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "False"}
+{"question": "Are 3/14 and -2 unequal?", "split": "easy_train_dmmath_comparison__pair.txt", "answer": "True"}

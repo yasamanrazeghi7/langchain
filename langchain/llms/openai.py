@@ -370,7 +370,6 @@ class AzureOpenAI(BaseOpenAI):
         return {**{"engine": self.deployment_name}, **super()._invocation_params}
 
 class OpenAIPooled(OpenAIModel):
-
     endpoints: list[OpenAI] = None #: :meta private:
     openai_api_keys: Optional[list[str]] = None
     usage: list[int] = []

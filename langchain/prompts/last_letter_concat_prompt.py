@@ -25,6 +25,23 @@ class LastLetterConcat(BasePromptTemplate):
             example = f'Q: {question}\nA: {answer}'
         return example
 
+class NoPrefix(BasePromptTemplate):
+    prompt_format: str = ''
+
+    input_variables: list[str] = ['question', 'answer']
+    """A list of the names of the variables the prompt template expects."""
+
+    def format(self, prompt_format=None, test=False, append_output=True,  **kwargs):
+        question = kwargs.pop('question')
+        answer = kwargs.pop('answer')
+        prompt_format = prompt_format or self.prompt_format
+        # solution = kwargs.pop('answer') 
+        if test:
+            example = f'{question}\n'
+        else:
+            example = f'{question}\n{answer}'
+        return example
+
 class LastLetterConcatCoT(BasePromptTemplate): #todo ask Navid about cleaning this up #rename this to LetterConcat
     prompt_format: str = ''
 
@@ -49,11 +66,23 @@ class LastLetterOutputParserCoT(BaseOutputParser, BaseModel):
         predictions = text.split('\n')
         if len(predictions) > 1:
             if "The answer is" in predictions[0]:
-                prediction = predictions[0].split("The answer is")[-1][:-1].strip().lower()
+                prediction = predictions[0].split("The answer is")[-1]
+                if prediction[-1] == '.':
+                    prediction = prediction[:-1].strip().lower()
+                else:
+                    prediction = prediction.strip().lower()
                 return prediction    
         return ""
 
 class LastLetterOutputParser(BaseOutputParser, BaseModel):
+    def parse(self, text, **kwargs):
+        predictions = text.split('\n')
+        if len(predictions) > 1:
+            return predictions[0].strip()
+        else:
+            return ""
+
+class NoPrefixOutputParser(BaseOutputParser, BaseModel):
     def parse(self, text, **kwargs):
         predictions = text.split('\n')
         if len(predictions) > 1:

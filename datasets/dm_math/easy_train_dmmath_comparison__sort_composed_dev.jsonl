@@ -1,0 +1,100 @@
+{"question": "Suppose -3*t - 24 = 18. Let u = -17 - t. Sort u, 4, 2 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "4, 2, u"}
+{"question": "Let j = 78 + -75. Sort -2, -5, -7, j.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-7, -5, -2, j"}
+{"question": "Let z = -3 - -8. Suppose -3*w - 25 = -10. Sort z, w, -1.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "w, -1, z"}
+{"question": "Suppose -5*q + 3*q + 10 = 0. Suppose -5*r + 3 = -4*u - q, u + 4*r = -2. Sort -4, u, -5 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "u, -4, -5"}
+{"question": "Let u = 11 + -6. Let o = u - 3. Suppose -2 + 6 = -o*l. Put -5, 0, l in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "0, l, -5"}
+{"question": "Let f(u) = -6*u**2 + 2*u + 1. Let k be f(-1). Let b = k - -10. Suppose -j - 20 = b*j. Put 4, -3, j in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "j, -3, 4"}
+{"question": "Let c be (-2)/(-8) - (1 - 1). Let b = 43 - 41. Sort c, -0.07, b in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "b, c, -0.07"}
+{"question": "Let b = 2.79 - -0.21. Let q(g) = -g + 4. Let j be q(3). Sort b, j, -0.3 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "b, j, -0.3"}
+{"question": "Let w be -3 + (3 - 3) - -1. Sort 3/7, 0, -0.3, w in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "3/7, 0, -0.3, w"}
+{"question": "Let p = -1/29 - -92/145. Put p, 3/2, 5 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "5, 3/2, p"}
+{"question": "Let j(z) = 2*z - 10. Let p be j(-9). Let f be -4*(p/(-8) - 4). Sort 3, f, 5 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "5, 3, f"}
+{"question": "Let j be (-8)/3*3/(-2). Let o(w) = w**2 - 6*w + 5. Let v be o(j). Sort v, -2, -1 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-1, -2, v"}
+{"question": "Suppose 0 = u + 4*s - 0*s - 264, 4*u - 2*s = 1020. Let d = -3838/15 + u. Put -0.1, -3, d in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "d, -0.1, -3"}
+{"question": "Let x(w) = -4*w**2 + 1. Let j be x(-1). Let f be 1 + j + 0/4. Let k(s) = 3*s**2 - 2*s + 1. Let r be k(1). Sort -1, r, f in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "r, -1, f"}
+{"question": "Suppose 3*o + 0 = 24. Let m = 3 - o. Suppose -3*d - 1 = 5*p, -2*d - 5 = 4*p - d. Sort p, -1, m.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "m, p, -1"}
+{"question": "Let y = 2.1 - 2.4. Put 0.2, -3, y in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "0.2, y, -3"}
+{"question": "Let n = 1 - 1.1. Let a = n - -4.1. Sort -2, 1/5, a.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-2, 1/5, a"}
+{"question": "Let z(x) = x**2 + 11*x + 8. Let d be z(-9). Let v(y) = y + 4. Let i be v(d). Sort 2, i, -1/7.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "i, -1/7, 2"}
+{"question": "Suppose -3*p - 3*o - 44 = p, 3*o + 20 = -p. Put 4, p, 5 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "5, 4, p"}
+{"question": "Suppose -4*q + 3*q = -10. Suppose 5*w - q = -0*w. Put 0.1, 1/4, w in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "0.1, 1/4, w"}
+{"question": "Suppose 0 = -h - 0*w + 5*w - 20, -2*h - 4*w + 2 = 0. Let r = 0.043 - -0.347. Let g = 0.01 + r. Sort g, 0.5, h.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "h, g, 0.5"}
+{"question": "Suppose 4*b = o + 21, 3*b - 22 = 3*o - 4. Sort o, -1/3, -5.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-5, o, -1/3"}
+{"question": "Let m = 6 + -5.7. Sort -5, m, -0.5 in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-5, -0.5, m"}
+{"question": "Let n = 0.92 + -0.52. Sort -2/3, n, -13/9 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "n, -2/3, -13/9"}
+{"question": "Suppose s - 9 = -4*y + 4, 16 = 3*y + 2*s. Let p be y*-5*(-1)/(-2). Put p, -2, 4 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "p, -2, 4"}
+{"question": "Let c = -10.7 + 103.7. Put 1, c, 2/9 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "c, 1, 2/9"}
+{"question": "Suppose 5*o = 6 + 4. Suppose 5 = -o*h + h. Sort 1, h, -4 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "1, -4, h"}
+{"question": "Let l be 210/(-18) + 8 - (0 + -3). Put l, 4, -0.3, -4 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "4, -0.3, l, -4"}
+{"question": "Suppose -4*v + 2 = -3*v. Suppose 2 = -w - 0*w. Let o = 10 + -14. Sort w, o, v in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "v, w, o"}
+{"question": "Suppose -2*t + 8 = 3*o, 2*t - 4*o = -0*o + 8. Suppose 0 = 3*f + 4*m + 3, -1 = 5*f - 2*m + t. Let x = 1 - f. Sort 4, 1, x in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "4, x, 1"}
+{"question": "Let b(k) = -7*k - 28. Let g be b(-4). Let l be 1 + -1 + (-2)/(-6). Sort g, l, -4.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-4, g, l"}
+{"question": "Let i = 6 - 6.3. Sort 3, 1/7, i in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "3, 1/7, i"}
+{"question": "Let w be 18/4 - 4/8. Sort w, 0.3, 2/3 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "w, 2/3, 0.3"}
+{"question": "Let m be 6/9*15/(-2). Let y be 4 - (5 + (m - -3)). Sort -2, -4, y in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "y, -2, -4"}
+{"question": "Suppose 3*u = 2*u - u. Put -0.1, u, 6, -2 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "6, u, -0.1, -2"}
+{"question": "Let w = 335 + -5027/15. Put 1/2, 0.4, w in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "1/2, 0.4, w"}
+{"question": "Let s = 0 + 4. Let p(t) = t**2 - 4*t + 4. Let l be p(s). Put 3, l, -4 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "l, 3, -4"}
+{"question": "Suppose 2*w - 4 = 2*c, 4*c + 6 = w - 8. Let r = 4 - c. Let i = r - 13. Put 0, -1, i in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "0, -1, i"}
+{"question": "Let j = -9 + 6. Let n be (-18)/(-4) - (-9)/(-6). Put j, n, 5 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "5, n, j"}
+{"question": "Let t be (1 + 1)*127/(-2). Let c = 1145/9 + t. Put -1/2, c, 0 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "c, 0, -1/2"}
+{"question": "Suppose 0 = 2*h + 5 + 1. Let o(l) = 2*l**2 - 6*l + 3. Suppose 3*y - 6 + 0 = 0. Let k be o(y). Put 1, k, h in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "1, k, h"}
+{"question": "Let y = -4.998 - 0.002. Sort 0, -0.5, y in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "y, -0.5, 0"}
+{"question": "Let y be (-5)/2 - 1/(-2). Let j(g) = -g**3 - 5*g**2 + 8*g + 9. Let q be j(-6). Sort q, 3, y in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "3, y, q"}
+{"question": "Let c = 106.6 - 107. Put -0.5, c, 4 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "4, c, -0.5"}
+{"question": "Let s = 142 - 138. Put -0.5, s, -17 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "s, -0.5, -17"}
+{"question": "Let j(i) be the third derivative of -i**6/120 - i**5/60 + i**4/24 - i**3/6 + i**2. Let m be j(-2). Let k = -42 - -38. Sort 0, m, k in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "k, 0, m"}
+{"question": "Let g be (-4)/(-3)*-1*-3. Suppose 0 = -5*m - 16 + 56. Suppose -g*p + m*p - 3*d = 14, 0 = 2*p + 3*d + 2. Sort 4, p, -5 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-5, p, 4"}
+{"question": "Suppose -4*f + 44 - 8 = 0. Let p = -37/4 + f. Sort -0.4, 1, p in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "1, p, -0.4"}
+{"question": "Suppose 0 = h - 2, -11 = -s + 3*h - 6*h. Let f be s*-1*2/85. Let l = 0.7 + 0.3. Sort f, 4, l.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "f, l, 4"}
+{"question": "Suppose 4*p = 2 + 14. Sort -3, -1, p in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-3, -1, p"}
+{"question": "Let k(x) = -x**3 + 11*x**2 + 11*x + 13. Let g be k(12). Suppose 2*v + 3 = v. Let h = 2 + v. Sort g, h, 2.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "h, g, 2"}
+{"question": "Let q(d) = -d - 4. Let k be q(-5). Let a = -5 + k. Suppose -y = 5*z + 22, 0*z - 3*z = 12. Sort y, a, -3 in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "a, -3, y"}
+{"question": "Let f be (42/(-35))/(6/(-10)). Put f, -1, -2 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "f, -1, -2"}
+{"question": "Suppose j - 4 = -j. Let f be (-3)/(-6) - (-5)/2. Suppose l = f - 4. Put l, j, 4 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "4, j, l"}
+{"question": "Let r = 10 - 10.4. Let b = r - 2.6. Sort -4/3, b, 0.4 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "0.4, -4/3, b"}
+{"question": "Let x = 0.364 + 0.136. Put -5, 0, x, -0.7 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-5, -0.7, 0, x"}
+{"question": "Let j = -7 + 6.9. Let a = 16 + -17.9. Let z = j + a. Put z, -3, -4/7 in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-3, z, -4/7"}
+{"question": "Let l be -1*1/1 - (-125)/150. Put 7, l, 5, -2 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "7, 5, l, -2"}
+{"question": "Let x = -3/34 - 4/51. Put -0.02, -4, x in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-4, x, -0.02"}
+{"question": "Suppose 0*f - 3*f + 153 = 0. Let n be ((-1)/(-4))/(f/24). Let w be 2/(1 + (-6)/4). Sort w, n, -2/13 in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "w, -2/13, n"}
+{"question": "Let g = -41 + 38. Put -1, g, -4 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-1, g, -4"}
+{"question": "Let k = 19/6 + -3. Sort -2, k, -0.3, -3 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-3, -2, -0.3, k"}
+{"question": "Let q = -3.3 + 3. Let h(p) = p**3 + 6*p**2 + 6*p + 5. Let d be h(-5). Put d, 0.4, q in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "q, d, 0.4"}
+{"question": "Let a(z) = -z - 1. Let w = -1 + 0. Let l be a(w). Suppose l = -2*f - 1 - 3. Put f, 2, 5 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "f, 2, 5"}
+{"question": "Let r = 0.6 + 0.2. Let z = r - 0.5. Put -0.02, z, -0.4 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-0.4, -0.02, z"}
+{"question": "Let x(w) be the second derivative of -w**4/12 - 5*w**3/6 + w**2/2 - 3*w. Let o be x(-4). Sort o, 4, 2.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "2, 4, o"}
+{"question": "Let a = 1 - 3. Let d = 101 + -104. Put d, a, 0 in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "d, a, 0"}
+{"question": "Let f = 24 + -71/3. Sort f, 0.03, 1 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "1, f, 0.03"}
+{"question": "Suppose -5*a = p - 18, 0 = 4*p + a - 12 - 3. Let w = -2 - p. Put -4, 1, w in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "w, -4, 1"}
+{"question": "Suppose 4*j = -5*m - 32, m - j - 11 = 4*j. Let w be 1/((2 + 1)/(-9)). Let n = 7 + w. Sort n, 5, m in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "5, n, m"}
+{"question": "Suppose 0 = 2*c + 5*n + 14, -c - 3 = 2*n + 3. Let d = 1 + c. Let q(o) = o**3 - 5*o**2 + 2*o - 5. Let u be q(5). Put d, 2, u in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "u, 2, d"}
+{"question": "Let v = -0.03 - -5.03. Let s be 2*(-3)/6 - (-5 - -2). Sort v, -4, s.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-4, s, v"}
+{"question": "Suppose r + r - 2 = 0. Let x(m) = -6*m**2 + m. Let f be x(r). Let k = 9 - 5. Put 3, k, f in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "k, 3, f"}
+{"question": "Suppose 0 = 10*k - 8*k + 6. Sort 3, -4, 5, k in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-4, k, 3, 5"}
+{"question": "Suppose 12*t = 7*t + 5. Put t, 2, 4, 5 in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "t, 2, 4, 5"}
+{"question": "Let n be ((-2)/7)/(3/(-21)). Suppose -x = -3 - n. Put 2, -3, x in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "x, 2, -3"}
+{"question": "Let z be (-1)/(-3) + (-98)/(-30). Let n = 61/10 - z. Let r = -0.8 - -1. Sort 1, n, r.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "r, 1, n"}
+{"question": "Suppose -2*q - 7 = 3*l, 6*q - 3*l = 2*q + 13. Sort q, 0, -2 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "q, 0, -2"}
+{"question": "Suppose 10 = 4*r - 5*f - 0, -4*r + 30 = 5*f. Suppose r*p + 0*p = 0. Suppose -w = -3*w + 6. Put p, 4, w in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "p, w, 4"}
+{"question": "Let p be ((-12)/(-8))/(27/(-18)). Let q = 7 + -5. Sort -4, p, q.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-4, p, q"}
+{"question": "Let s be (-6)/(-27) + 1/9*16. Sort -0.1, s, 13 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "13, s, -0.1"}
+{"question": "Let r be -1 - -4 - (-6 + 7). Suppose -r = -2*s + 2. Put 3, -0.3, s in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "3, s, -0.3"}
+{"question": "Let j = -0.07 - 0.23. Let w(x) = 2*x**2 - 2*x - 2. Let p be w(2). Suppose 0 = -2*k - 2*l + 8, p*l - 16 = -4*k + 6*l. Sort k, j, 1.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "j, 1, k"}
+{"question": "Let k be 24/96 + (-7)/(-4). Sort -3, k, 4 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-3, k, 4"}
+{"question": "Suppose 3 = -2*z + 7. Let i be 0*((-5)/z - -3). Sort -2, -3, i in ascending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-3, -2, i"}
+{"question": "Let d = -29 + 27. Suppose -5*i - 30 = -0*i. Put i, 1, d in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "1, d, i"}
+{"question": "Suppose 11 + 4 = -5*t. Suppose -r + 0 = -1. Let u = r - -1. Put 4, t, u in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "4, u, t"}
+{"question": "Let b = 0.05 - -0.35. Let p = -14.6 - -1.6. Let n = p - -18. Put b, -2, n in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "n, b, -2"}
+{"question": "Let w(j) = j**2 + 5*j - 4. Let x be w(-6). Let f be 5 - 3 - -1*4. Suppose -i + f = i. Sort i, x, -2 in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "i, x, -2"}
+{"question": "Let c be (8 - 4)*-2 + 3. Sort c, 5, -2.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "c, -2, 5"}
+{"question": "Let j be 18/112 + (-12)/42. Put -3/2, -2/7, j in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "j, -2/7, -3/2"}
+{"question": "Let g be (3/4)/((-4)/(-48)). Let r(f) = -6 + 2*f - f + 0*f. Let x be r(g). Put x, 5, -0.3 in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "5, x, -0.3"}
+{"question": "Let y be (-159)/15 - (-4)/(-10). Let b = 7 + y. Let z(u) = u + 1. Let i be z(-3). Sort b, i, -3.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "b, -3, i"}
+{"question": "Let p be -1 + 6/(-2) + 27. Suppose c + 3*c + 5*y = -p, y = -3. Suppose 4*a + m - 32 = 5*m, -a + 4*m + 23 = 0. Sort a, 2, c in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "a, 2, c"}
+{"question": "Let n(l) = 59*l**2 - 2*l - 1. Let m be n(-1). Let g be 5/m + 1/6. Sort 0.3, g, 3/4 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "g, 0.3, 3/4"}
+{"question": "Suppose -4*p = 4*k - 8, 4*p + 2*k = 4 + 4. Sort -1/2, p, -2/7 in increasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-1/2, -2/7, p"}
+{"question": "Let w(d) = d**2 - 6*d + 3. Let j be w(6). Let m be (j/(-9))/(2/18). Sort -2, 1, m in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "1, -2, m"}
+{"question": "Suppose -d = 2*d. Let w(j) = j**3 + 4*j**2 + 2*j. Let q be w(-2). Put d, -1, q in decreasing order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "q, d, -1"}
+{"question": "Let o(k) = -k + 6. Let y be o(5). Let x be 7 + (-4 - 0) + 2. Suppose -2*q + 2*c = -x*q, -3*q = 5*c. Sort -2, q, y.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-2, q, y"}
+{"question": "Let w = 11 - 11.02. Let z = -0.38 + w. Put -0.2, -2/9, z in descending order.", "split": "easy_train_dmmath_comparison__sort_composed.txt", "answer": "-0.2, -2/9, z"}

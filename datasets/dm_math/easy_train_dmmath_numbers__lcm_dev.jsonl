@@ -1,0 +1,100 @@
+{"question": "What is the least common multiple of 280 and 140?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "280"}
+{"question": "Calculate the least common multiple of 324 and 324.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "324"}
+{"question": "Calculate the lowest common multiple of 30 and 42.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "210"}
+{"question": "Calculate the common denominator of -58/545 and 61/4360.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "4360"}
+{"question": "What is the least common multiple of 12 and 30?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "60"}
+{"question": "What is the common denominator of -43/9 and -67/9?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "9"}
+{"question": "What is the common denominator of 73/1296 and 149/240?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "6480"}
+{"question": "What is the smallest common multiple of 225 and 1935?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "9675"}
+{"question": "Find the common denominator of -83/10 and -41/345.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "690"}
+{"question": "Calculate the least common multiple of 44 and 52.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "572"}
+{"question": "Calculate the least common multiple of 115 and 5.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "115"}
+{"question": "Find the common denominator of -35/136 and -52/119.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "952"}
+{"question": "Calculate the smallest common multiple of 24 and 3.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "24"}
+{"question": "What is the smallest common multiple of 36 and 3692?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "33228"}
+{"question": "Calculate the common denominator of -45/8 and 19/240.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "240"}
+{"question": "Find the common denominator of -48/3569 and 17/664.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "28552"}
+{"question": "What is the lowest common multiple of 11 and 330?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "330"}
+{"question": "What is the smallest common multiple of 595 and 50?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "5950"}
+{"question": "Calculate the lowest common multiple of 237 and 632.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1896"}
+{"question": "Find the common denominator of -81/28 and -37/158.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2212"}
+{"question": "Find the common denominator of 35/59 and 89/4.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "236"}
+{"question": "What is the lowest common multiple of 14 and 1600?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "11200"}
+{"question": "What is the least common multiple of 13782 and 27?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "124038"}
+{"question": "Calculate the least common multiple of 56 and 22.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "616"}
+{"question": "Calculate the common denominator of -85/6 and -31/625.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "3750"}
+{"question": "Calculate the lowest common multiple of 231 and 7.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "231"}
+{"question": "What is the smallest common multiple of 17060 and 6?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "51180"}
+{"question": "Calculate the smallest common multiple of 15 and 57.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "285"}
+{"question": "What is the smallest common multiple of 1800 and 1200?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "3600"}
+{"question": "What is the common denominator of -57/20 and 89/176?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "880"}
+{"question": "Calculate the common denominator of -5/357 and 41/14.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "714"}
+{"question": "Calculate the least common multiple of 5964 and 18.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "17892"}
+{"question": "Calculate the lowest common multiple of 3488 and 16.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "3488"}
+{"question": "Calculate the common denominator of -123/10 and 123/700.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "700"}
+{"question": "Calculate the common denominator of -113/1150 and -63/115.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1150"}
+{"question": "Calculate the lowest common multiple of 40 and 40.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "40"}
+{"question": "Find the common denominator of 71/44 and -61/326.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "7172"}
+{"question": "What is the common denominator of 59/15 and -76/81?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "405"}
+{"question": "Calculate the smallest common multiple of 18 and 7596.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "7596"}
+{"question": "What is the least common multiple of 6 and 6258?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "6258"}
+{"question": "What is the common denominator of 26/1337 and -9/955?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "6685"}
+{"question": "What is the smallest common multiple of 60 and 60?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "60"}
+{"question": "What is the common denominator of -35/16 and 73/368?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "368"}
+{"question": "Calculate the smallest common multiple of 312 and 24.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "312"}
+{"question": "What is the common denominator of 81/40 and -19/15?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "120"}
+{"question": "Calculate the common denominator of -69/2 and -25/812.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "812"}
+{"question": "Calculate the least common multiple of 948 and 24.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1896"}
+{"question": "What is the common denominator of 125/264 and 29/44?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "264"}
+{"question": "What is the common denominator of -93/1448 and -51/10?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "7240"}
+{"question": "Find the common denominator of 53/20 and -11/188.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "940"}
+{"question": "What is the common denominator of -29/12 and 77/4?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "12"}
+{"question": "Calculate the smallest common multiple of 406 and 98.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2842"}
+{"question": "Calculate the common denominator of 69/44 and 23/44.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "44"}
+{"question": "What is the common denominator of 1/380 and 131/380?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "380"}
+{"question": "Calculate the common denominator of 31/2004 and -5/4.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2004"}
+{"question": "Find the common denominator of 143/90 and 17/14.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "630"}
+{"question": "What is the common denominator of -131/130 and 131/48?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "3120"}
+{"question": "Find the common denominator of 93/1226 and 41/6743.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "13486"}
+{"question": "What is the common denominator of 125/12 and 57/4288?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "12864"}
+{"question": "Calculate the lowest common multiple of 126 and 114.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2394"}
+{"question": "Calculate the common denominator of 37/232 and -107/20.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1160"}
+{"question": "What is the smallest common multiple of 15 and 50?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "150"}
+{"question": "Find the common denominator of -35/44 and -115/912.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "10032"}
+{"question": "What is the lowest common multiple of 1168 and 730?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "5840"}
+{"question": "Find the common denominator of 113/66 and 101/418.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1254"}
+{"question": "Calculate the smallest common multiple of 30 and 6834.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "34170"}
+{"question": "Calculate the smallest common multiple of 205 and 5.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "205"}
+{"question": "Calculate the lowest common multiple of 12 and 800.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2400"}
+{"question": "What is the lowest common multiple of 2 and 18?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "18"}
+{"question": "Calculate the common denominator of -151/150 and -41/135.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1350"}
+{"question": "What is the lowest common multiple of 132 and 1791?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "78804"}
+{"question": "Calculate the smallest common multiple of 17 and 320.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "5440"}
+{"question": "Find the common denominator of 37/323 and -10/51.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "969"}
+{"question": "Find the common denominator of -59/1474 and 47/132.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "8844"}
+{"question": "What is the common denominator of 107/24 and 71/432?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "432"}
+{"question": "What is the common denominator of 101/6 and 31/564?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "564"}
+{"question": "What is the smallest common multiple of 1092 and 36?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "3276"}
+{"question": "Find the common denominator of -51/44 and 1/28.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "308"}
+{"question": "Find the common denominator of 101/4870 and -61/6.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "14610"}
+{"question": "What is the smallest common multiple of 497 and 4473?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "4473"}
+{"question": "What is the lowest common multiple of 834 and 2502?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2502"}
+{"question": "Find the common denominator of 83/99 and 32/171.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1881"}
+{"question": "What is the lowest common multiple of 77 and 22?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "154"}
+{"question": "Find the common denominator of 69/40 and 1/36.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "360"}
+{"question": "Calculate the least common multiple of 56 and 35.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "280"}
+{"question": "Calculate the least common multiple of 16 and 25602.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "204816"}
+{"question": "What is the least common multiple of 430 and 60?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2580"}
+{"question": "Calculate the common denominator of -59/2 and -55/376.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "376"}
+{"question": "Calculate the common denominator of -35 and 107/5092.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "5092"}
+{"question": "Calculate the common denominator of 39/20 and 47/4406.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "44060"}
+{"question": "What is the least common multiple of 703 and 8?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "5624"}
+{"question": "What is the common denominator of 33/2 and 97/482?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "482"}
+{"question": "What is the common denominator of 1/236 and 63/32?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1888"}
+{"question": "Calculate the least common multiple of 42 and 168.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "168"}
+{"question": "Calculate the common denominator of 75/2024 and -103/276.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "6072"}
+{"question": "Calculate the lowest common multiple of 288 and 16.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "288"}
+{"question": "Find the common denominator of -60/119 and 81/2.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "238"}
+{"question": "What is the least common multiple of 100 and 156?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "3900"}
+{"question": "What is the lowest common multiple of 81 and 117?", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "1053"}
+{"question": "Calculate the common denominator of -37/615 and 167/2460.", "split": "easy_train_dmmath_numbers__lcm.txt", "answer": "2460"}

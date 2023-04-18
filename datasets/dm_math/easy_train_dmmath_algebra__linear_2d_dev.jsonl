@@ -1,0 +1,100 @@
+{"question": "Solve -3*r - 2*s + 23 = 0, 0 = -5*s - 13 + 33 for r.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve -b - 1 = v, 2*v - 5*b - 11 = 5*v for v.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "3"}
+{"question": "Solve -g - 479 = d - 481, 5*g + 2*d + 5 = 0 for g.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve -3*c = 4*u - 2, -33*c + 8 = 2*u - 28*c for u.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-1"}
+{"question": "Solve 3*i + 3 = -0*i, -2*i = -a + 4 for a.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 6 = -2*x - 36*r + 34*r, 4*x + 22 = 6*r for x.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve 4*c + r = 10 - 7, 0 = c - 4*r - 22 for c.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 4*u - 2 - 18 = -5*s, s = 4*u - 20 for s.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve 5*x + 21 = 3*x - 3*v, -5*v - 40 = 5*x for x.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve 5*p = g - 13, 5*p + 3*g = -8 + 7 for p.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve -361*z = s - 360*z - 4, 0 = 3*s + 5*z - 20 for s.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve 0*q = q + 2*w - 6, 4*w - 16 = -q for q.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve c - 4*v = 6, -c - 4*v - 10 = -0*c for c.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve -5*b = 5*a + 10, 0 - 4 = 2*a + 3*b for a.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve -3*p - 19 = 12*s - 13*s, 17 = -5*p - 2*s for p.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve 4*n + 5*m - 1 = 0, -2*n + 2*m = 4*m - 2 for n.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "4"}
+{"question": "Solve 5*h + 26 = 3*j, 10 = -4*j - 4*h + 2 for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve -6 = -5*w - s - 1, -w - 23 = 5*s for w.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 5*a = -p - 3, 4*p - 5*a + 10 - 23 = 0 for p.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve -3*m = 2*c + 11, -9*c + 4*m + 8 = -10*c for c.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve -11*m + 8*m + 3*o = -9, 3*m = 4*o + 12 for m.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve -42 = -3*q + 6*k, 0 = -4*q + 3*k + 35 - 9 for q.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 0 = 2*y + 3*j - 11, 0*y - j + 15 = -5*y for y.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve -20 = 5*i, 4*o + o - 2*i = 33 for o.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve -2*a + 20 = -m + 3*a, -m = -3*a + 10 for m.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve 5*h + 9*k = 14*k + 15, -3*h - 23 = 5*k for h.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-1"}
+{"question": "Solve 5*f + 0*v = 2*v - 10, 3*v = -3*f - 6 for f.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve -5*s + 9 = -3*p, 4*s + 9 = s - 3*p for s.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve 0 = -4*o - 4*r + 8*r - 40, 3*o - 4*r = -35 for o.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve -9 - 4 = -c - 5*y, y - 18 = 2*c for c.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-7"}
+{"question": "Solve 4*y = -3*p, 0 = 4*y - 16 + 28 for p.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "4"}
+{"question": "Solve -z + n = 2*n + 3, 13 = -z - 3*n for z.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve -n + 3 = 0, 6*l - 4*l = -5*n + 9 for l.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve 0 = 2*h + m - 9, 5*h + m - 4 = 11 for h.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve -y - 10 = 2*i, 11*i - 6*i + 3*y = -25 for i.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve 2*i = y - 11, -2*i = 3*y - y + 8 for i.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve 10*r - 5*r + 30 = 5*f, 2*r + 6 = -f for r.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve 0 = -0*q - q + 4, 0 = -4*z + 4*q - 24 for z.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve -3 - 9 = -2*u - 3*g, -2*g = -12 for u.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve -5*t + 7*t - 2*d = 0, 2*t = -5*d - 14 for t.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve 4*t = -5*g, -27 = -4*t + 4*g + 9 for t.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve 0 = -3*y + 4*t - 17 - 14, -t = 2*y + 6 for y.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve 0 = 4*g + 5*v + 6, 29*v = -g + 28*v - 2 for g.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve p + f = -5, -13*f - 20 = -5*p - 9*f for p.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve -6*t - 21 = 5*q, -51*q - 5*t = -53*q - 1 for q.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve 4*s + 4 = 2*m, 2*s + 7 + 15 = -4*m for m.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve -g + 4*g + 3*u = -18, -u + 3 = -2*g for g.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve 5*h + f - 11 = 0, 2*h + 13 = 6*h + 5*f for h.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve j - 4*j + 3*r = -12, -3*j + 12 = -r for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "4"}
+{"question": "Solve -20 = 5*s, -1 - 10 = 5*t - s for t.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve 5*k + 4*q = -19, -4*q + 1 = 5 for k.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve -12 = -5*j - 4*i, 584*j + 15 = 583*j + 5*i for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve -s - 1 = 0, 4*b + 8*s + 9 = 3*s for b.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-1"}
+{"question": "Solve -3*b + 6 = 4*i - 5, i = 3*b + 14 for b.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve f = -2*x - 5, 4*f = -5*x + 8*f - 19 for x.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve -3*n = q - 10, 5*q - 20 = -5*n - 0*n for q.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "1"}
+{"question": "Solve -26*d + 25*d = -5*n - 21, -3*d = n + 17 for n.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve 74 - 62 = -4*h, j - 14 = 4*h for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 29 = t + 8*l, t - 3*l - 17 = -7*l for t.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve 18*b = -3*j + 22*b + 5, 2*j - 2 = 4*b for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "3"}
+{"question": "Solve 0 = -5*u - 4*p + 10, u = 4*p + 3 - 1 for u.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve -f + 5*g = -4*f + 17, f - 4*g = -17 for f.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-1"}
+{"question": "Solve 5*a + 10 = -5*i - 0, 0 = -2*i + 3*a - 4 for i.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve 4*c - 12 - 1 = -j, c = -5*j + 27 for c.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 10*z - 16*z + 5*c - 19 = 0, 0 = 5*z + c - 10 for z.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "1"}
+{"question": "Solve 9*q - 4*t + 20 = 8*q, 4*t = 2*q + 24 for q.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve 5*p + 2 = -4*s, 2*s = 2*p - 31 + 21 for p.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve -2*w - 3*p - 1 = 0, 0 = 5*w + p + 2*p + 16 for w.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve 2*n - 4*j = 12, 31 = -4*n - j - 2*j for n.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve 15 = -5*l + 3*p, -3*l - 7*p + 12*p = 25 for l.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve 5*b - 13 = -y, b + 4*y - 2 = 6*b for b.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 25 = m - 6*q + 10*q, -5*m - 3*q + 40 = 0 for m.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve 2*b = 22*c - 19*c + 19, 23 = 4*b - 3*c for b.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 0 = -2*w, w + 2 = 2*z + 10 for z.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve 2*w - 1 = 2*y - 3, -5*y = -2*w + 1 for w.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve 0 = -q - 5*a + 30, -5*q - 8*a = -3*a - 50 for q.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve 2*q + 2 = 8, -h = -q + 8 for h.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve 4*m = 5*h - 4*h, 0 = h - 2*m for h.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve 13*a = 3*g + 8*a - 28, -3*a - 20 = -5*g for g.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "1"}
+{"question": "Solve 5*j + 2*y + 10 = 0, 5*j + y + 10 = 3*y for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-2"}
+{"question": "Solve 3*m = d - 17, -5*m + 31 = 3*d - 10*m for d.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve -3*q = -5*u - 10, 2*u - 7 = 3*q - 2 for u.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-5"}
+{"question": "Solve -3*j - 4*g = 8, 15*g = j + 11*g - 24 for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "4"}
+{"question": "Solve 5*n = -5*l + 35, 11*l - 19 = -2*n + 8*l for n.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve a = 3*d - 10, 2*a = 5*d - 3 - 12 for d.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "5"}
+{"question": "Solve -5*d + 4*k = -19, 6*d + 2*k + 8 = 8*d for d.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "3"}
+{"question": "Solve 15*b - 10*b - 5 = 5*r, 2 = 2*b - r for b.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "1"}
+{"question": "Solve s = -5*c - 0*c + 27, -3*s = 4*c - 26 for s.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}
+{"question": "Solve 7*b - 4*a - 36 = 3*b, 5*b + 2*a = 10 for b.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "4"}
+{"question": "Solve -9 = -r - 2*r, -4*r = 5*q + 8 for q.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve -n - h + 8 = 0, 10*n = 7*n + 3*h - 6 for n.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "3"}
+{"question": "Solve 3*r = -4*w + 8 - 6, 4*w + 8 = 2*r for w.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-1"}
+{"question": "Solve 4*z = 5*i + 36, 7*z - 40 = 5*i + 2*z for i.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-4"}
+{"question": "Solve -4*m - i - 4 = 0, -755*m - 2*i = -752*m + 8 for m.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve m = -5*v - 2, 2*v - 5*v = -4*m - 8 for v.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "0"}
+{"question": "Solve 16 = -4*y - 142*k + 141*k, 3*k + 18 = -2*y for y.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-3"}
+{"question": "Solve 7 = 2*w - q, 2*w + 37 - 46 = 3*q for w.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "3"}
+{"question": "Solve -2*l + 3*g - 6 = 0, -88*g - 14 = 3*l - 90*g for l.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "-6"}
+{"question": "Solve -4*c - j + 6 = 2, 1 = c + 5*j for c.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "1"}
+{"question": "Solve o = -2*j + 8, -16*o + 6 = -j - 14*o for j.", "split": "easy_train_dmmath_algebra__linear_2d.txt", "answer": "2"}

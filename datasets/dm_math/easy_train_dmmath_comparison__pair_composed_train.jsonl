@@ -1,0 +1,100 @@
+{"question": "Let d(y) = y - 4. Let n be d(4). Let k(x) = x + 11. Let o be k(-10). Which is bigger: o or n?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "o"}
+{"question": "Let l(m) = -m**3 + 2*m**2 + 2*m - 1. Let p be l(2). Suppose -14 = -p*w - 2. Suppose -4*v = 5*t - 21, -4*t = -w*v + 9 + 3. Is t <= 2?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let u(o) be the second derivative of -o**4/12 + o**3/2 - o**2/2 - 2*o. Let j be u(3). Is 0 at most as big as j?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let j = 4 + -7. Let q = j + 8. Suppose -3 - 2 = q*d. Is 3/2 greater than d?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let x = 75 - 75. Let a be (-1)/(-3)*(-6)/10. Is a greater than or equal to x?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let z be -2 - 1/2 - 0. Which is greater: z or -3?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "z"}
+{"question": "Let u = 0.8 + -1. Let l = -4.6 - -4.5. Let o = l - u. Which is smaller: o or -2/3?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-2/3"}
+{"question": "Let a = 24 + -36. Let b be ((-3)/(-8))/((-3)/a). Which is smaller: b or 0?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "0"}
+{"question": "Let c be ((-2)/2)/((-3)/(-3)). Let g be 1 - ((-4)/c + -1). Is 1 at least as big as g?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let d(l) = l + 28. Let j be d(0). Let x = j + -27. Which is smaller: x or 1/4?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "1/4"}
+{"question": "Let j be 3/(-1) + (-330)/(-121). Are -1 and j equal?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let u be 1 + 99/(-5) + 1/(-5). Are u and -20 non-equal?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let x be 4/(-14) + 303/(-91). Let d = x + 4. Let w = d + -12/65. Which is greater: 0 or w?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "w"}
+{"question": "Let r = 6 + -9. Let p be (-3)/(-2)*2/r. Let d be (-4)/(-6) - p/(-2). Which is smaller: 0 or d?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "0"}
+{"question": "Suppose -14*k + 4 = 4. Which is greater: -5 or k?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "k"}
+{"question": "Suppose 0 = 2*g + 2, -g - 11 = -2*h - 4*g. Let s(r) = 3*r - 5. Let x be s(4). Is h smaller than x?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let i be (-2485)/(-568) + 1 + (-11)/8. Suppose n + 1 = 5. Is n <= i?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let p = 3 - 2. Let o = 1 - p. Let s be (6/5)/(6/4). Which is smaller: s or o?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "o"}
+{"question": "Let z(s) = 4*s**2 - 1. Let p be z(-1). Suppose p*o - 3*y - 3 = 2*o, 4*o = 4*y - 4. Which is smaller: -7/3 or o?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "o"}
+{"question": "Let y be (-3)/((-18)/15)*6/9. Let x(n) = n + 7. Let z be x(-6). Do y and z have the same value?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let n be ((-16)/(-10))/(-4)*(-10)/12. Which is smaller: n or -1?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-1"}
+{"question": "Let u be 3/2*40/12. Suppose -z + u*s = -4, 5*z - 4*s = 2 - 3. Let n be 0/z - (5 + -2). Does n = -3?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let w be (1/16)/((-3)/42). Let p = w + 3/8. Let y be (-3)/9 - 1/(-3). Which is smaller: p or y?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "p"}
+{"question": "Suppose 47 + 31 = -6*a. Which is smaller: -15 or a?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-15"}
+{"question": "Suppose 0*v = -2*v + 6. Suppose -2*p - 8 = 2*i - i, 4*p + 24 = 2*i. Suppose i*y - 6 = d, 3*y + 0*d - 15 = v*d. Is 2 smaller than y?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let q = -0.14 + -9.16. Let u = q + 8. Let n = u + 0.3. Is n greater than -1/2?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let h(k) be the third derivative of -k**6/120 - k**5/60 + k**2. Let n be h(0). Is 0 smaller than n?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let u be ((-2)/(-4))/((-21)/(-2478)). Is u > 57?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Suppose -4*o + 2*o = z - 74, -o + 5*z = -59. Let i be 2/(-6) - o/(-63). Which is greater: 1 or i?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "1"}
+{"question": "Suppose 18 = -s - 4*c, 10 = -s + 3*c + 27. Let a be -1 + (-2)/(-4)*s. Is 1/3 equal to a?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let h = 14 + -13. Let d be 56/42*h/(-2). Are d and -3 equal?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Suppose 26 = -5*p - 4*s, -p - s + 2 = -2*s. Let c(z) = -7*z**3 - 2*z**2 + 2*z. Let i be c(p). Let b = -398/9 + i. Which is smaller: -1 or b?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-1"}
+{"question": "Let s = 6.4 - 6.28. Which is bigger: -2 or s?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "s"}
+{"question": "Let k(n) = -n - 1. Let c be k(-4). Suppose -2*x = -2*u + 6, -2 = 3*u + c*x + 13. Which is greater: u or -3/7?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-3/7"}
+{"question": "Suppose s + 5*x = -15, 3*s - 3 = -s + x. Suppose l = 5*v + 32 - 5, s = l - 2*v - 12. Is -2 not equal to l?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let h be 4/6 + 13/3. Let k = 65 - 62. Is h at most k?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let y be 2 + -1 + (-3 - -2). Suppose y*t = 2*t + 6. Which is smaller: 1 or t?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "t"}
+{"question": "Suppose b - 4 = -0. Suppose 59 = -b*z - 1. Let s be 3/z*15/12. Does -1 = s?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Suppose 0*z = -5*z - z. Is z greater than 2?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let q = 25 + -13. Let u(x) = x**2 - x - 1. Let t be u(0). Let h be (t - -5)/(q/(-6)). Is h < -1/2?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let p = 227/7924 - -2/283. Is 1 < p?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let v = 1.98 + 0.02. Are v and -6 unequal?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let s = 2 - 2. Let r = -3 + 4. Is r bigger than s?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let w = 7.6 - 8. Is 0 <= w?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Suppose 0*c + 7 = 2*c + 5*k, 5*c - 3*k + 29 = 0. Let w(s) = s**2 + 5*s + 6. Let h be w(c). Let b = -13 + 14. Is h greater than b?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Suppose 0*m - 5*m = 0. Suppose 3 - 1 = 2*l. Let w = m + l. Which is bigger: 2 or w?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "2"}
+{"question": "Let g(n) be the third derivative of -5/6*n**3 + 0 - n**2 + 1/24*n**4 + 0*n. Let k be g(4). Is k at least as big as -1?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let h = -673492 + 660695843/981. Let x = h + 3/109. Which is bigger: x or 0?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "x"}
+{"question": "Let u(q) = -q**2 - 15. Let g be u(-7). Let z be (g/24)/((-2)/3). Which is bigger: z or 2?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "z"}
+{"question": "Let w(l) = l + 1. Let j be w(-9). Is j greater than or equal to -9?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Suppose 2*y + 7 = 3*y. Suppose -5 + y = q. Which is bigger: 0 or q?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "q"}
+{"question": "Let n = 2.3 + 1.7. Are n and -3/7 unequal?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Suppose 0 = 3*x + 2*x - 20. Let m be (-4)/2 + -1 + x. Is m greater than 6/7?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let l be (0 + -1)*(-4 - -1). Suppose l*j + 5 - 20 = 2*i, -4*j + 16 = -4*i. Which is greater: 6 or j?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "j"}
+{"question": "Let g be (-216)/(-60) - 6/10. Suppose z + 4 = -g*z. Is z equal to -3/2?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let j = 23 + -22.8. Is -0.1 less than j?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let a(v) = 2*v - 13. Let u be a(7). Let x be (-2)/15 - 658/(-3360). Which is greater: u or x?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "u"}
+{"question": "Let p = 0.179 + -1.179. Let x be (-16)/15 - 4/(-6). Which is smaller: x or p?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "p"}
+{"question": "Suppose 0*k = -4*k + 16. Suppose a - 15 = -k*a. Let u be 3*(1/1)/a. Which is bigger: 1/2 or u?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "u"}
+{"question": "Let f be 20/(-8) - (-1707)/678. Is -1 bigger than f?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let i(f) = 11*f - 14. Let k(t) = -4*t + 5. Let u(a) = 3*i(a) + 8*k(a). Let n be u(1). Let j = 538/5 + -108. Is n >= j?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let a = -1 + 0. Suppose 0 = -0*d - d - h + 17, 0 = 2*d - h - 31. Let m be d/(-28)*(-1)/(-2). Is a != m?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let f be (-2)/(-3) - 16779/99. Let o = f - -169. Let l = 3.1 + -3. Is l > o?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let h = -0.19 - 0.01. Let x = -3 - -3. Is x at most h?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let n(h) be the first derivative of -h**4/4 + 4*h**3/3 - h**2/2 + 4*h - 2. Let t be n(4). Suppose t = 4*d - 3 + 7. Is d less than -1?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Suppose -5*g - 3 = -h - 0, -5*h = -4*g + 6. Let w be (4/(-9))/(10/15). Which is smaller: g or w?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "g"}
+{"question": "Let j = -1 - -1. Suppose -3*r + 6*r = 0. Is j <= r?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Suppose -3*a - 2 = x + 5, 0 = -x + 2*a + 3. Which is smaller: x or -1/151?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "x"}
+{"question": "Let l be -2 + -1 + (-5 - -23). Let v be ((-1)/6)/((-25)/l). Which is greater: -1 or v?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "v"}
+{"question": "Suppose d - 5 = -4*d. Which is smaller: d or -5/22?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-5/22"}
+{"question": "Let s = -1 - -4. Let b = 1 + s. Is 3 greater than b?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Suppose -3*v - 2 = -4*q - 0, 2*v + 4*q = 12. Which is smaller: v or 6/11?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "6/11"}
+{"question": "Suppose -4*d = -0*d - 24. Suppose 16 = 2*w - p, 5*p - p = w + d. Is 10 equal to w?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let t(q) = -q - 2. Let r be t(-6). Suppose -4*j = -14 + 2. Suppose -r*p + j = -1. Which is greater: p or -1/5?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "p"}
+{"question": "Let o = -0.5 - -2.5. Suppose -3*x = -6*x + 6. Is o != x?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let x be (-2)/(-4)*24/12. Which is greater: x or -2/7?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "x"}
+{"question": "Let c be (1 + (-1)/2)*64/488. Is -1 at least as big as c?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let y(z) = -z**2 + 4. Let b = -20 - -22. Let r be y(b). Suppose -2*o = 3*o. Is r greater than o?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let o(d) = -d**3 + 5*d**2 - 3*d. Let s be o(4). Are 5 and s non-equal?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Suppose 5*k - 4 = l, 2*l - 2*k - k = -8. Let n = 11 + -15. Is l at least as big as n?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let s be 46/14 + 6/(-21). Suppose -2*h = -2*p - 2, h = p - 2*h + s. Let d be (-5)/(-8)*6/(-10). Is p greater than d?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let x = 4 + 1. Suppose 3 = 4*m - x. Which is bigger: 4 or m?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "4"}
+{"question": "Let p(y) = 3 + y**2 + 3*y - 3*y - 7*y - 5. Let o be p(8). Which is smaller: 5 or o?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "5"}
+{"question": "Let g = -22 - -25. Is 0 less than g?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let n be (-84)/(-33)*2/4. Which is smaller: n or 1?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "1"}
+{"question": "Let p = -19 - -18. Which is smaller: p or -9?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-9"}
+{"question": "Suppose -6*w + 2*w - 72 = 0. Let n = w - -37/2. Which is smaller: 1 or n?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "n"}
+{"question": "Suppose -3*l = -5*z + 9, -9 = -2*z + 5*z + 3*l. Let o(a) = a + 4. Suppose -15 = 4*p + 5. Let q be o(p). Which is smaller: q or z?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "q"}
+{"question": "Let l = -101 - -112. Is 9 less than l?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let y = 20 - 4. Let m be (-28)/y + 0/1. Which is smaller: m or -1?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "m"}
+{"question": "Suppose -14 = 5*c + 1, q = -3*c - 9. Let d = 8 - 6. Let z be -2*1*1 + d. Do z and q have different values?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let m = 37 + -41.9. Let r = m - -5. Let o = -0.9 - r. Is o <= -1?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let v be 5/(75/(-81)) - -3 - -2. Which is smaller: v or -6/5?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-6/5"}
+{"question": "Let u = -6 - -9. Suppose u*y + 546 = -399. Let t = -1569/5 - y. Which is bigger: t or 0?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "t"}
+{"question": "Let u = -1 - -7. Is u at least as big as 6?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "True"}
+{"question": "Let r = 4 - 4.4. Let z = r - -0.3. Let q = -1 - 2. Is z at most as big as q?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let p = -9 - -6. Which is smaller: p or 1/4?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "p"}
+{"question": "Let r = 138602/7 + -19855. Let c = 55 + r. Does -4 = c?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "False"}
+{"question": "Let f = -80 - -82. Which is smaller: -35 or f?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "-35"}
+{"question": "Let o be 2/(-7) + 36/28. Let i = -56 + 223/4. Which is greater: i or o?", "split": "easy_train_dmmath_comparison__pair_composed.txt", "answer": "o"}
